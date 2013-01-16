@@ -14,7 +14,8 @@
    </mods:titleInfo>
    <mods:originInfo>
       <mods:dateCreated>1949.</mods:dateCreated>
-      <mods:dateCreated encoding="w3cdtf" keyDate="yes">1949</mods:dateCreated>
+      <mods:dateCreated encoding="w3cdtf" keyDate="yes" point="start">1949</mods:dateCreated>
+      <mods:dateCreated encoding="w3cdtf" point="end">    </mods:dateCreated>
    </mods:originInfo>
    <mods:physicalDescription>
       <mods:extent>1 sheet</mods:extent>

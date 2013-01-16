@@ -14,7 +14,6 @@
    </mods:titleInfo>
    <mods:originInfo>
       <mods:dateCreated>[Between 1894 and 19]05</mods:dateCreated>
-      <mods:dateCreated encoding="w3cdtf" keyDate="yes">1894</mods:dateCreated>
       <mods:dateCreated encoding="w3cdtf" keyDate="yes" point="start">1894</mods:dateCreated>
       <mods:dateCreated encoding="w3cdtf" point="end">1905</mods:dateCreated>
    </mods:originInfo>

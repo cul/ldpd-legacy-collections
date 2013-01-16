@@ -14,7 +14,6 @@
    </mods:titleInfo>
    <mods:originInfo>
       <mods:dateCreated>[19]09, 1922-1923</mods:dateCreated>
-      <mods:dateCreated encoding="w3cdtf" keyDate="yes">1909</mods:dateCreated>
       <mods:dateCreated encoding="w3cdtf" keyDate="yes" point="start">1909</mods:dateCreated>
       <mods:dateCreated encoding="w3cdtf" point="end">1923</mods:dateCreated>
    </mods:originInfo>

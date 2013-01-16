@@ -14,7 +14,8 @@
    </mods:titleInfo>
    <mods:originInfo>
       <mods:dateCreated>Sept. 3-Oct. 1, [19]55.</mods:dateCreated>
-      <mods:dateCreated encoding="w3cdtf" keyDate="yes">1955</mods:dateCreated>
+      <mods:dateCreated encoding="w3cdtf" keyDate="yes" point="start">1955</mods:dateCreated>
+      <mods:dateCreated encoding="w3cdtf" point="end">    </mods:dateCreated>
    </mods:originInfo>
    <mods:physicalDescription>
       <mods:extent>1 sheet</mods:extent>
