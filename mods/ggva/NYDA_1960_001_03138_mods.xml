@@ -41,9 +41,6 @@
          <mods:title>AVIADOR</mods:title>
       </mods:titleInfo>
    </mods:relatedItem>
-   <mods:relatedItem type="original">
-      <mods:identifier type="CLIO">3462535</mods:identifier>
-   </mods:relatedItem>
    <mods:location>
       <mods:physicalLocation authority="marcorg">NNC-A</mods:physicalLocation>
       <mods:physicalLocation>Avery Architectural &amp; Fine Arts Library, Columbia
@@ -56,6 +53,7 @@
       </mods:holdingSimple>
    </mods:location>
    <mods:identifier type="local">NYDA.1960.001.03138.</mods:identifier>
+   <mods:identifier type="CLIO">3462535</mods:identifier>
    <mods:recordInfo>
       <mods:recordContentSource>NNC</mods:recordContentSource>
       <mods:recordOrigin>Cataloging by project AVIADOR staff, edited to conform to MODS,
