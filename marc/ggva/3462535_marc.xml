@@ -1,0 +1,496 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<collection
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xsi:schemaLocation="http://www.loc.gov/MARC21/slim http://www.loc.gov/standards/marcxml/schema/MARC21slim.xsd"
+  xmlns="http://www.loc.gov/MARC21/slim">
+
+<record>
+  <leader>09366ckdaa2201249 a 4500</leader>
+  <controlfield tag="001">3462535</controlfield>
+  <controlfield tag="005">20100226103509.0</controlfield>
+  <controlfield tag="008">890710s1919    cau||| ||||||     k|eng d</controlfield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="a">(OCoLC)84463371</subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="a">(OCoLC)ocm84463371</subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="a">(CStRLIN)NYDA89-F777</subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="9">AAA3006AD</subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="a">(NNC)3462535</subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">NNC</subfield>
+    <subfield code="c">NNC</subfield>
+    <subfield code="e">gihc</subfield>
+  </datafield>
+  <datafield tag="043" ind1=" " ind2=" ">
+    <subfield code="a">n-us-ca</subfield>
+  </datafield>
+  <datafield tag="110" ind1="2" ind2=" ">
+    <subfield code="a">Greene &amp; Greene.</subfield>
+  </datafield>
+  <datafield tag="240" ind1="1" ind2="0">
+    <subfield code="a">John H. Poole house (Pasadena, Calif.).</subfield>
+    <subfield code="p">Scheme no. 2</subfield>
+  </datafield>
+  <datafield tag="245" ind1="1" ind2="0">
+    <subfield code="a">Residence for Col. J.H. Poole, Pasadena, Calif.</subfield>
+    <subfield code="h">[graphic] /</subfield>
+    <subfield code="c">Greene &amp; Greene, Architects.</subfield>
+  </datafield>
+  <datafield tag="260" ind1=" " ind2=" ">
+    <subfield code="c">[circa 1919]</subfield>
+  </datafield>
+  <datafield tag="300" ind1=" " ind2=" ">
+    <subfield code="a">56 sheets :</subfield>
+    <subfield code="b">various media ;</subfield>
+    <subfield code="c">119.9 x 90.8 cm. (47 1/4 x 35 3/4 in.) or smaller.</subfield>
+  </datafield>
+  <datafield tag="500" ind1=" " ind2=" ">
+    <subfield code="a">Scale varies.</subfield>
+  </datafield>
+  <datafield tag="500" ind1=" " ind2=" ">
+    <subfield code="a">Bracketed title elements supplied by cataloger or taken from inventory.</subfield>
+  </datafield>
+  <datafield tag="500" ind1=" " ind2=" ">
+    <subfield code="a">Forms part of the Greene &amp; Greene collection of architectural drawings ; job no. 390. Dept. of Drawings &amp; Archives, Avery Architectural and Fine Arts Library.</subfield>
+  </datafield>
+  <datafield tag="500" ind1=" " ind2=" ">
+    <subfield code="a">Date from inventory.</subfield>
+  </datafield>
+  <datafield tag="500" ind1=" " ind2=" ">
+    <subfield code="a">This set consists of 46 graphite on tracing paper, 7 graphite and ink on tracing paper, 2 graphite with crayon markings on tracing paper, 1 blueprint with crayon markings on paper, 1 graphite drawing on paper, 1 blueprint on paper, and 1 graphite and ink drawing with crayon markings on tracing paper.</subfield>
+  </datafield>
+  <datafield tag="561" ind1=" " ind2=" ">
+    <subfield code="a">Gift of Jean Murray Bangs (Mrs. Harwell Hamilton Harris), 1960; formerly the collection of Charles Sumner Greene.</subfield>
+  </datafield>
+  <datafield tag="650" ind1=" " ind2="7">
+    <subfield code="a">Houses.</subfield>
+    <subfield code="2">aat</subfield>
+  </datafield>
+  <datafield tag="650" ind1=" " ind2="7">
+    <subfield code="a">Pergolas.</subfield>
+    <subfield code="2">aat</subfield>
+  </datafield>
+  <datafield tag="655" ind1=" " ind2="7">
+    <subfield code="a">Detail drawings.</subfield>
+    <subfield code="2">aat</subfield>
+  </datafield>
+  <datafield tag="655" ind1=" " ind2="7">
+    <subfield code="a">Site plans.</subfield>
+    <subfield code="2">aat</subfield>
+  </datafield>
+  <datafield tag="655" ind1=" " ind2="7">
+    <subfield code="a">Topographic maps.</subfield>
+    <subfield code="2">aat</subfield>
+  </datafield>
+  <datafield tag="655" ind1=" " ind2="7">
+    <subfield code="a">Sketches.</subfield>
+    <subfield code="2">aat</subfield>
+  </datafield>
+  <datafield tag="655" ind1=" " ind2="7">
+    <subfield code="a">Architectural drawings</subfield>
+    <subfield code="x">American.</subfield>
+    <subfield code="2">aat</subfield>
+  </datafield>
+  <datafield tag="655" ind1=" " ind2="7">
+    <subfield code="a">Perspective drawings.</subfield>
+    <subfield code="2">aat</subfield>
+  </datafield>
+  <datafield tag="655" ind1=" " ind2="7">
+    <subfield code="a">Orthographic drawings.</subfield>
+    <subfield code="2">aat</subfield>
+  </datafield>
+  <datafield tag="691" ind1=" " ind2="0">
+    <subfield code="a">Pasadena (Calif.)</subfield>
+  </datafield>
+  <datafield tag="650" ind1=" " ind2="0">
+    <subfield code="a">Architecture</subfield>
+    <subfield code="z">United States</subfield>
+    <subfield code="v">Designs and plans.</subfield>
+  </datafield>
+  <datafield tag="697" ind1="2" ind2="4">
+    <subfield code="a">John H. Poole house (Pasadena, Calif.).</subfield>
+  </datafield>
+  <datafield tag="700" ind1="1" ind2=" ">
+    <subfield code="a">Greene, Charles Sumner,</subfield>
+    <subfield code="d">1868-1957.</subfield>
+  </datafield>
+  <datafield tag="700" ind1="1" ind2=" ">
+    <subfield code="a">Greene, Henry Mather,</subfield>
+    <subfield code="d">1870-1954.</subfield>
+  </datafield>
+  <datafield tag="700" ind1="1" ind2=" ">
+    <subfield code="a">Poole, John H.</subfield>
+  </datafield>
+  <datafield tag="755" ind1=" " ind2=" ">
+    <subfield code="a">Pencil drawings.</subfield>
+    <subfield code="2">aat</subfield>
+  </datafield>
+  <datafield tag="755" ind1=" " ind2=" ">
+    <subfield code="a">Ink drawings.</subfield>
+    <subfield code="2">aat</subfield>
+  </datafield>
+  <datafield tag="755" ind1=" " ind2=" ">
+    <subfield code="a">Crayon drawings.</subfield>
+    <subfield code="2">aat</subfield>
+  </datafield>
+  <datafield tag="755" ind1=" " ind2=" ">
+    <subfield code="a">Blueprints.</subfield>
+    <subfield code="2">aat</subfield>
+  </datafield>
+  <datafield tag="799" ind1="4" ind2="3">
+    <subfield code="a">The Greene &amp; Greene collection of architectural drawings.</subfield>
+  </datafield>
+  <datafield tag="789" ind1="0" ind2=" ">
+    <subfield code="1">[1]</subfield>
+    <subfield code="i">NYDA.1960.001.03115.</subfield>
+    <subfield code="t">[Topographic map of area]</subfield>
+  </datafield>
+  <datafield tag="789" ind1="0" ind2=" ">
+    <subfield code="1">[2]</subfield>
+    <subfield code="i">NYDA.1960.001.03116.</subfield>
+    <subfield code="t">Foundation plan ; [details in] section[s] ; elevation of opening in cellar wall :</subfield>
+    <subfield code="n">Sheet no. 1.</subfield>
+    <subfield code="o">"Revised".</subfield>
+    <subfield code="o">"Note -- all walls are to be 8" thick".</subfield>
+  </datafield>
+  <datafield tag="789" ind1="0" ind2=" ">
+    <subfield code="1">[3]</subfield>
+    <subfield code="i">NYDA.1960.001.03117R.</subfield>
+    <subfield code="t">Foundation plan ; [details in] section[s] ; elevation of opening in cellar wall :</subfield>
+    <subfield code="n">Sheet no. 1.</subfield>
+    <subfield code="o">"Revised".</subfield>
+    <subfield code="o">"Note -- all walls are to be 8" thick".</subfield>
+  </datafield>
+  <datafield tag="789" ind1="0" ind2=" ">
+    <subfield code="1">[4]</subfield>
+    <subfield code="i">NYDA.1960.001.03117V.</subfield>
+    <subfield code="t">[Unidentified sketch of section]</subfield>
+  </datafield>
+  <datafield tag="789" ind1="0" ind2=" ">
+    <subfield code="1">[5]</subfield>
+    <subfield code="i">NYDA.1960.001.03118.</subfield>
+    <subfield code="t">[Partial] foundation plan ; elevation of opening in cellar wall :</subfield>
+    <subfield code="n">Sheet no. 1.</subfield>
+    <subfield code="o">"Revised".</subfield>
+    <subfield code="o">"All walls to be 8" thick".</subfield>
+    <subfield code="o">Similar to preceding print except that top 3/4 has been cut away.</subfield>
+  </datafield>
+  <datafield tag="789" ind1="0" ind2=" ">
+    <subfield code="1">[6]</subfield>
+    <subfield code="i">NYDA.1960.001.03119.</subfield>
+    <subfield code="t">First floor plan :</subfield>
+    <subfield code="n">Sheet no. 2.</subfield>
+    <subfield code="o">"Revised".</subfield>
+  </datafield>
+  <datafield tag="789" ind1="0" ind2=" ">
+    <subfield code="1">[7]</subfield>
+    <subfield code="i">NYDA.1960.001.03120.</subfield>
+    <subfield code="t">[Site plan of] lot 2 [showing main floor plan].</subfield>
+    <subfield code="o">"#1 [illegible]".</subfield>
+  </datafield>
+  <datafield tag="789" ind1="0" ind2=" ">
+    <subfield code="1">[8]</subfield>
+    <subfield code="i">NYDA.1960.001.03121.</subfield>
+    <subfield code="t">[Sketch of floor plan] :</subfield>
+    <subfield code="n">#2.</subfield>
+  </datafield>
+  <datafield tag="789" ind1="0" ind2=" ">
+    <subfield code="1">[9]</subfield>
+    <subfield code="i">NYDA.1960.001.03122.</subfield>
+    <subfield code="t">[Sketch of floor plan] :</subfield>
+    <subfield code="n">#3, revised.</subfield>
+  </datafield>
+  <datafield tag="789" ind1="0" ind2=" ">
+    <subfield code="1">[10]</subfield>
+    <subfield code="i">NYDA.1960.001.03123.</subfield>
+    <subfield code="t">[Sketch of floor plan] :</subfield>
+    <subfield code="n">#3, 2d revision.</subfield>
+  </datafield>
+  <datafield tag="789" ind1="0" ind2=" ">
+    <subfield code="1">[11]</subfield>
+    <subfield code="i">NYDA.1960.001.03124.</subfield>
+    <subfield code="t">[Floor plan, front elevation] :</subfield>
+    <subfield code="n">#4, second revision.</subfield>
+  </datafield>
+  <datafield tag="789" ind1="0" ind2=" ">
+    <subfield code="1">[12]</subfield>
+    <subfield code="i">NYDA.1960.001.03125.</subfield>
+    <subfield code="t">[Floor plan] :</subfield>
+    <subfield code="n">#4, revised.</subfield>
+  </datafield>
+  <datafield tag="789" ind1="0" ind2=" ">
+    <subfield code="1">[13]</subfield>
+    <subfield code="i">NYDA.1960.001.03126.</subfield>
+    <subfield code="t">[Floor plan] :</subfield>
+    <subfield code="n">#4.</subfield>
+  </datafield>
+  <datafield tag="789" ind1="0" ind2=" ">
+    <subfield code="1">[14]</subfield>
+    <subfield code="i">NYDA.1960.001.03127.</subfield>
+    <subfield code="t">[Sketch of floor plan] :</subfield>
+    <subfield code="n">#4.</subfield>
+  </datafield>
+  <datafield tag="789" ind1="0" ind2=" ">
+    <subfield code="1">[15]</subfield>
+    <subfield code="i">NYDA.1960.001.03128.</subfield>
+    <subfield code="t">[Floor plan, unidentified sketch]</subfield>
+  </datafield>
+  <datafield tag="789" ind1="0" ind2=" ">
+    <subfield code="1">[16]</subfield>
+    <subfield code="i">NYDA.1960.001.03129.</subfield>
+    <subfield code="t">[Floor plan, section through wall, unidentified perspective sketch]</subfield>
+  </datafield>
+  <datafield tag="789" ind1="0" ind2=" ">
+    <subfield code="1">[17]</subfield>
+    <subfield code="i">NYDA.1960.001.03130.</subfield>
+    <subfield code="t">[Floor plan]</subfield>
+  </datafield>
+  <datafield tag="789" ind1="0" ind2=" ">
+    <subfield code="1">[18]</subfield>
+    <subfield code="i">NYDA.1960.001.03131.</subfield>
+    <subfield code="t">[Sketch of partial floor plan, unidentified sketches]</subfield>
+  </datafield>
+  <datafield tag="789" ind1="0" ind2=" ">
+    <subfield code="1">[19]</subfield>
+    <subfield code="i">NYDA.1960.001.03132.</subfield>
+    <subfield code="t">Roof plan showing second floor :</subfield>
+    <subfield code="n">Sheet no. 3.</subfield>
+    <subfield code="o">"Revised".</subfield>
+  </datafield>
+  <datafield tag="789" ind1="0" ind2=" ">
+    <subfield code="1">[20]</subfield>
+    <subfield code="i">NYDA.1960.001.03133.</subfield>
+    <subfield code="t">[Floor plan, exterior elevations].</subfield>
+    <subfield code="o">Questions written on drawing in crayon.</subfield>
+  </datafield>
+  <datafield tag="789" ind1="0" ind2=" ">
+    <subfield code="1">[21]</subfield>
+    <subfield code="i">NYDA.1960.001.03134.</subfield>
+    <subfield code="t">[Floor plan, front elevation, unidentified sections]</subfield>
+  </datafield>
+  <datafield tag="789" ind1="0" ind2=" ">
+    <subfield code="1">[22]</subfield>
+    <subfield code="i">NYDA.1960.001.03135.</subfield>
+    <subfield code="t">Plan [of wall and pergola, elevation of wall, elevation of pergola]</subfield>
+  </datafield>
+  <datafield tag="789" ind1="0" ind2=" ">
+    <subfield code="1">[23]</subfield>
+    <subfield code="i">NYDA.1960.001.03136.</subfield>
+    <subfield code="t">Front elevation, section D-D, section A-A, section B-B, east elevation of pergola, section C-C, :</subfield>
+    <subfield code="n">Sheet no. 4.</subfield>
+    <subfield code="o">"Revised".</subfield>
+  </datafield>
+  <datafield tag="789" ind1="0" ind2=" ">
+    <subfield code="1">[24]</subfield>
+    <subfield code="i">NYDA.1960.001.03137.</subfield>
+    <subfield code="t">[Exterior elevation, section through gutter, unidentified details in sections, sketch of elevation, sketch of partial plan]</subfield>
+  </datafield>
+  <datafield tag="789" ind1="0" ind2=" ">
+    <subfield code="1">[25]</subfield>
+    <subfield code="i">NYDA.1960.001.03138.</subfield>
+    <subfield code="t">North elevation [with east] end elevation ; south elevation [with east] end elevation [showing] section [through] east hall ; south elevation of east hall ; east, north [and] west [elevations of] living room ; north elevation of east hall :</subfield>
+    <subfield code="n">Sheet no. 5.</subfield>
+    <subfield code="o">"Revised".</subfield>
+  </datafield>
+  <datafield tag="789" ind1="0" ind2=" ">
+    <subfield code="1">[26]</subfield>
+    <subfield code="i">NYDA.1960.001.03139R.</subfield>
+    <subfield code="t">[Unidentified elevation and plan]</subfield>
+  </datafield>
+  <datafield tag="789" ind1="0" ind2=" ">
+    <subfield code="1">[27]</subfield>
+    <subfield code="i">NYDA.1960.001.03139V.</subfield>
+    <subfield code="t">[Perspective sketch of cabinet]</subfield>
+  </datafield>
+  <datafield tag="789" ind1="0" ind2=" ">
+    <subfield code="1">[28]</subfield>
+    <subfield code="i">NYDA.1960.001.03140R.</subfield>
+    <subfield code="t">[Sketches of] north elevation, south elevation, end elevation, S. Elev. of passage to living room, S.E. elevation of living room, N.W. Elev. of living room, N. Elev. of passage to Liv. room.</subfield>
+    <subfield code="o">"Void".</subfield>
+  </datafield>
+  <datafield tag="789" ind1="0" ind2=" ">
+    <subfield code="1">[29]</subfield>
+    <subfield code="i">NYDA.1960.001.03140V.</subfield>
+    <subfield code="t">[Unidentified full size section].</subfield>
+    <subfield code="o">Drawing crossed out.</subfield>
+  </datafield>
+  <datafield tag="789" ind1="0" ind2=" ">
+    <subfield code="1">[30]</subfield>
+    <subfield code="i">NYDA.1960.001.03141.</subfield>
+    <subfield code="t">[Sketch of exterior elevation]</subfield>
+  </datafield>
+  <datafield tag="789" ind1="0" ind2=" ">
+    <subfield code="1">[31]</subfield>
+    <subfield code="i">NYDA.1960.001.03142.</subfield>
+    <subfield code="t">[Sketch of partial elevation, unidentified sketch]</subfield>
+  </datafield>
+  <datafield tag="789" ind1="0" ind2=" ">
+    <subfield code="1">[32]</subfield>
+    <subfield code="i">NYDA.1960.001.03143.</subfield>
+    <subfield code="t">[Elevation with section]</subfield>
+  </datafield>
+  <datafield tag="789" ind1="0" ind2=" ">
+    <subfield code="1">[33]</subfield>
+    <subfield code="i">NYDA.1960.001.03144.</subfield>
+    <subfield code="t">[Unidentified section]</subfield>
+  </datafield>
+  <datafield tag="789" ind1="0" ind2=" ">
+    <subfield code="1">[34]</subfield>
+    <subfield code="i">NYDA.1960.001.03145.</subfield>
+    <subfield code="t">[Elevations of] cases in sewing room -- east side, south side, west side, north side.</subfield>
+  </datafield>
+  <datafield tag="789" ind1="0" ind2=" ">
+    <subfield code="1">[35]</subfield>
+    <subfield code="i">NYDA.1960.001.03146.</subfield>
+    <subfield code="t">[Details in elevations and sections] -- case in Col. Poole's room, case in bathroom no. 1, case in bathroom no. 2, linen case, case in laundry.</subfield>
+  </datafield>
+  <datafield tag="789" ind1="0" ind2=" ">
+    <subfield code="1">[36]</subfield>
+    <subfield code="i">NYDA.1960.001.03147.</subfield>
+    <subfield code="t">East elevation [and] section [of] Mrs. Poole's room.</subfield>
+    <subfield code="o">Drawing unfinished.</subfield>
+  </datafield>
+  <datafield tag="789" ind1="0" ind2=" ">
+    <subfield code="1">[37]</subfield>
+    <subfield code="i">NYDA.1960.001.03148.</subfield>
+    <subfield code="t">Living room -- west, north, east [and] south [elevations ; plan of south end]</subfield>
+  </datafield>
+  <datafield tag="789" ind1="0" ind2=" ">
+    <subfield code="1">[38]</subfield>
+    <subfield code="i">NYDA.1960.001.03149.</subfield>
+    <subfield code="t">[Elevations of] cases in service pantry -- east side, south side, west side, north side ; [detail of] platter rack.</subfield>
+  </datafield>
+  <datafield tag="789" ind1="0" ind2=" ">
+    <subfield code="1">[39]</subfield>
+    <subfield code="i">NYDA.1960.001.03150.</subfield>
+    <subfield code="t">[Details of] cases in kitchen -- east side, south side, west side, north side.</subfield>
+  </datafield>
+  <datafield tag="789" ind1="0" ind2=" ">
+    <subfield code="1">[40]</subfield>
+    <subfield code="i">NYDA.1960.001.03151.</subfield>
+    <subfield code="t">[Details of] cases in kithenette -- north side, west side, south side ; [details of cases in] pantry -- west side, north side, east side.</subfield>
+  </datafield>
+  <datafield tag="789" ind1="0" ind2=" ">
+    <subfield code="1">[41]</subfield>
+    <subfield code="i">NYDA.1960.001.03152.</subfield>
+    <subfield code="t">Stair details -- section[s], plan :</subfield>
+    <subfield code="n">Sheet no. 6.</subfield>
+    <subfield code="o">"Revised".</subfield>
+  </datafield>
+  <datafield tag="789" ind1="0" ind2=" ">
+    <subfield code="1">[42]</subfield>
+    <subfield code="i">NYDA.1960.001.03153.</subfield>
+    <subfield code="t">Stairs -- [elevation, plan]</subfield>
+  </datafield>
+  <datafield tag="789" ind1="0" ind2=" ">
+    <subfield code="1">[43]</subfield>
+    <subfield code="i">NYDA.1960.001.03154.</subfield>
+    <subfield code="t">Framing details in south passage -- section I-I, section J-J, plan, transverse section thru bathroom floor :</subfield>
+    <subfield code="n">Sheet no. 7.</subfield>
+  </datafield>
+  <datafield tag="789" ind1="0" ind2=" ">
+    <subfield code="1">[44]</subfield>
+    <subfield code="i">NYDA.1960.001.03155.</subfield>
+    <subfield code="t">Detail of chimney in Mrs. Poole's room -- interior elevation, section, exterior elevation :</subfield>
+    <subfield code="n">Sheet no. 8.</subfield>
+  </datafield>
+  <datafield tag="789" ind1="0" ind2=" ">
+    <subfield code="1">[45]</subfield>
+    <subfield code="i">NYDA.1960.001.03156.</subfield>
+    <subfield code="t">Detail of chimney in living room -- interior elevation, section, [exterior elevation, plans] :</subfield>
+    <subfield code="n">Sheet no. 9.</subfield>
+  </datafield>
+  <datafield tag="789" ind1="0" ind2=" ">
+    <subfield code="1">[46]</subfield>
+    <subfield code="i">NYDA.1960.001.03157.</subfield>
+    <subfield code="t">F.S. detail of cornice and gutter :</subfield>
+    <subfield code="n">Sheet no. 16.</subfield>
+  </datafield>
+  <datafield tag="789" ind1="0" ind2=" ">
+    <subfield code="1">[47]</subfield>
+    <subfield code="i">NYDA.1960.001.04765.</subfield>
+    <subfield code="t">Casement window details :</subfield>
+    <subfield code="n">Sheet #17.</subfield>
+    <subfield code="o">Encapsulated in mylar.</subfield>
+  </datafield>
+  <datafield tag="789" ind1="0" ind2=" ">
+    <subfield code="1">[48]</subfield>
+    <subfield code="i">NYDA.1960.001.03158.</subfield>
+    <subfield code="t">F.S. details of double hung window frames -- head, jamb, sill, elevation of mullion, mullion in laundry :</subfield>
+    <subfield code="n">Sheet no. 18.</subfield>
+  </datafield>
+  <datafield tag="789" ind1="0" ind2=" ">
+    <subfield code="1">[49]</subfield>
+    <subfield code="i">NYDA.1960.001.03159.</subfield>
+    <subfield code="t">Details of leaders -- plan looking down, section at B-B, elevation, section at A-A, plan looking up, elevation [and] plan at foundation wall :</subfield>
+    <subfield code="n">Sheet no. 19.</subfield>
+  </datafield>
+  <datafield tag="789" ind1="0" ind2=" ">
+    <subfield code="1">[50]</subfield>
+    <subfield code="i">NYDA.1960.001.03160.</subfield>
+    <subfield code="t">[Unidentified full size section]</subfield>
+  </datafield>
+  <datafield tag="789" ind1="0" ind2=" ">
+    <subfield code="1">[51]</subfield>
+    <subfield code="i">NYDA.1960.001.03161.</subfield>
+    <subfield code="t">[Full size section through cornice]</subfield>
+  </datafield>
+  <datafield tag="789" ind1="0" ind2=" ">
+    <subfield code="1">[52]</subfield>
+    <subfield code="i">NYDA.1960.001.03162.</subfield>
+    <subfield code="t">F.S. detail of inside door frames.</subfield>
+  </datafield>
+  <datafield tag="789" ind1="0" ind2=" ">
+    <subfield code="1">[53]</subfield>
+    <subfield code="i">NYDA.1960.001.03163.</subfield>
+    <subfield code="t">Details -- section thru wall of bedroom wing, section thru wall of two storey wing, section thru wall showing concrete floor and flat roof.</subfield>
+  </datafield>
+  <datafield tag="789" ind1="0" ind2=" ">
+    <subfield code="1">[54]</subfield>
+    <subfield code="i">NYDA.1960.001.03164.</subfield>
+    <subfield code="t">[Section through cornice and roof, elevation of roof, unidentified rough sketches]</subfield>
+  </datafield>
+  <datafield tag="789" ind1="0" ind2=" ">
+    <subfield code="1">[55]</subfield>
+    <subfield code="i">NYDA.1960.001.03165.</subfield>
+    <subfield code="t">[Details of] maid's rm. stoop.</subfield>
+  </datafield>
+  <datafield tag="789" ind1="0" ind2=" ">
+    <subfield code="1">[56]</subfield>
+    <subfield code="i">NYDA.1960.001.03166.</subfield>
+    <subfield code="t">[Site plan of] lot 2, Mira Vista, [showing positions of trees]</subfield>
+  </datafield>
+  <datafield tag="789" ind1="0" ind2=" ">
+    <subfield code="1">[57]</subfield>
+    <subfield code="i">NYDA.1960.001.03167.</subfield>
+    <subfield code="t">[Unidentified plan]</subfield>
+  </datafield>
+  <datafield tag="789" ind1="0" ind2=" ">
+    <subfield code="1">[58]</subfield>
+    <subfield code="i">NYDA.1960.001.03168.</subfield>
+    <subfield code="t">[Unidentified sketch of plan]</subfield>
+  </datafield>
+  <datafield tag="789" ind1="0" ind2=" ">
+    <subfield code="1">[59]</subfield>
+    <subfield code="i">NYDA.1960.001.03169.</subfield>
+    <subfield code="t">[Sketch of plan of] terrace [area, plan of surrounding land?]</subfield>
+  </datafield>
+  <datafield tag="789" ind1="0" ind2=" ">
+    <subfield code="1">[60]</subfield>
+    <subfield code="i">NYDA.1960.001.03170.</subfield>
+    <subfield code="t">[Unidentified plan, unidentified details]</subfield>
+  </datafield>
+  <datafield tag="900" ind1=" " ind2=" ">
+    <subfield code="a">AUTH</subfield>
+  </datafield>
+</record>
+
+</collection>

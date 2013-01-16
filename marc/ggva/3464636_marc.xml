@@ -1,0 +1,268 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<collection
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xsi:schemaLocation="http://www.loc.gov/MARC21/slim http://www.loc.gov/standards/marcxml/schema/MARC21slim.xsd"
+  xmlns="http://www.loc.gov/MARC21/slim">
+
+<record>
+  <leader>05844ckdaa2200709 a 4500</leader>
+  <controlfield tag="001">3464636</controlfield>
+  <controlfield tag="005">20100226104521.0</controlfield>
+  <controlfield tag="008">010530s1915    xx |||  ||||||    k eng d</controlfield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="a">(OCoLC)80787096</subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="a">(OCoLC)ocm80787096</subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="a">(CStRLIN)NYDA01-F111</subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="a">(NNC-A)49</subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="9">AAB2736AD</subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="a">(NNC)3464636</subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">NNC-A</subfield>
+    <subfield code="c">NNC-A</subfield>
+    <subfield code="e">gihc</subfield>
+  </datafield>
+  <datafield tag="043" ind1=" " ind2=" ">
+    <subfield code="a">n-us-ca</subfield>
+  </datafield>
+  <datafield tag="090" ind1=" " ind2=" ">
+    <subfield code="h">12/31/99 N</subfield>
+  </datafield>
+  <datafield tag="100" ind1="1" ind2=" ">
+    <subfield code="a">Hulbert, Leroy.</subfield>
+  </datafield>
+  <datafield tag="240" ind1="1" ind2="0">
+    <subfield code="a">Cordelia A. Culbertson house (Pasadena, Calif.)</subfield>
+  </datafield>
+  <datafield tag="245" ind1="1" ind2="0">
+    <subfield code="a">[Cordelia A. Culbertson house, Pasadena, Calif.]</subfield>
+    <subfield code="h">[graphic] /</subfield>
+    <subfield code="c">Leroy Hulbert [photographer] ; [Greene &amp; Greene, architects]</subfield>
+  </datafield>
+  <datafield tag="260" ind1=" " ind2=" ">
+    <subfield code="c">[ca. 1915]</subfield>
+  </datafield>
+  <datafield tag="300" ind1=" " ind2=" ">
+    <subfield code="a">20 photographic prints mounted on board ;</subfield>
+    <subfield code="c">24.7 x 24.9 cm. (9 5/8 x 9 3/4 in.) or smaller, on mount 34.9 x 42.5 cm. (13 3/4 x 16 3/4 in.)</subfield>
+  </datafield>
+  <datafield tag="500" ind1=" " ind2=" ">
+    <subfield code="a">Date and some image titles from: Greene &amp; Greene / Edward R. Bosley. London : Phaidon, 2000.</subfield>
+  </datafield>
+  <datafield tag="500" ind1=" " ind2=" ">
+    <subfield code="a">Additional image titles from: Greene &amp; Greene / Randell L. Makinson. Salt Lake City : Peregrine Smith, c1977-79; and Pacific Coast Architect plates dated Mar. 1914 from Avery's Greene &amp; Greene collection.</subfield>
+  </datafield>
+  <datafield tag="545" ind1=" " ind2=" ">
+    <subfield code="a">Bosley dates the house to 1911-13.</subfield>
+  </datafield>
+  <datafield tag="545" ind1=" " ind2=" ">
+    <subfield code="a">By 1917 "the Culbertson sisters...could no longer afford...the property.  It was purchased by Mrs. Dudley P. (Elisabeth S.) Allen...who shortly remarried and became Mrs. Francis Fleury Prentiss."-- Bosley, p.160.</subfield>
+  </datafield>
+  <datafield tag="500" ind1=" " ind2=" ">
+    <subfield code="a">19 photos are brown in tone, possibly platinum/palladium prints. One  gelatin silver print, untoned.</subfield>
+  </datafield>
+  <datafield tag="500" ind1=" " ind2=" ">
+    <subfield code="a">Photos are mounted horizontally and vertically. Gelatin silver print is not mounted.</subfield>
+  </datafield>
+  <datafield tag="500" ind1=" " ind2=" ">
+    <subfield code="a">Signed on intermediary mounts, lower right, in the following forms: Leroy Hulber/L.A. ; Leroy Hulbert./L.A.  Gelatin silver print is unsigned.</subfield>
+  </datafield>
+  <datafield tag="561" ind1=" " ind2=" ">
+    <subfield code="a">Gift made possible by Harwell Hamilton Harris. Accession number 1987.003.</subfield>
+  </datafield>
+  <datafield tag="580" ind1=" " ind2=" ">
+    <subfield code="a">Forms part of the Greene &amp; Greene architectural drawings and photographs, Dept. of Drawings &amp; Archives, Avery Architectural and Fine Arts Library.</subfield>
+  </datafield>
+  <datafield tag="650" ind1=" " ind2="7">
+    <subfield code="a">Houses.</subfield>
+    <subfield code="2">aat</subfield>
+  </datafield>
+  <datafield tag="655" ind1=" " ind2="7">
+    <subfield code="a">Photographic prints.</subfield>
+    <subfield code="2">aat</subfield>
+  </datafield>
+  <datafield tag="651" ind1=" " ind2="0">
+    <subfield code="a">Pasadena (Calif.)</subfield>
+  </datafield>
+  <datafield tag="610" ind1="2" ind2="0">
+    <subfield code="a">Cordelia A. Culbertson house (Pasadena, Calif.)</subfield>
+  </datafield>
+  <datafield tag="610" ind1="2" ind2="0">
+    <subfield code="a">Francis F. Prentiss house (Pasadena, Calif.)</subfield>
+  </datafield>
+  <datafield tag="700" ind1="1" ind2=" ">
+    <subfield code="a">Culbertson, Cordelia A.</subfield>
+  </datafield>
+  <datafield tag="700" ind1="1" ind2=" ">
+    <subfield code="a">Prentiss, Francis F.</subfield>
+  </datafield>
+  <datafield tag="710" ind1="2" ind2=" ">
+    <subfield code="a">Greene &amp; Greene.</subfield>
+  </datafield>
+  <datafield tag="773" ind1="0" ind2=" ">
+    <subfield code="7">c2bc</subfield>
+    <subfield code="a">Greene &amp; Greene.</subfield>
+    <subfield code="t">Architectural drawings and photographs.</subfield>
+    <subfield code="w">(CStRLIN)NYDA88-A56.</subfield>
+  </datafield>
+  <datafield tag="789" ind1="0" ind2=" ">
+    <subfield code="l">[1]</subfield>
+    <subfield code="i">NYDA.1987.003.00028.</subfield>
+    <subfield code="t">[Street (front) facade].</subfield>
+    <subfield code="p">16 x 24.8 cm. (6 3/8 x 9 5/8 in.).</subfield>
+    <subfield code="o">Signed on intermediary mount, lower right.</subfield>
+  </datafield>
+  <datafield tag="789" ind1="0" ind2=" ">
+    <subfield code="l">[2]</subfield>
+    <subfield code="i">NYDA.1987.003.00029.</subfield>
+    <subfield code="t">[Front entranceway].</subfield>
+    <subfield code="p">19.3 x 24.5 cm. (7 5/8 x 9 5/8 in.).</subfield>
+    <subfield code="o">Signed on intermediary mount, lower right.</subfield>
+  </datafield>
+  <datafield tag="789" ind1="0" ind2=" ">
+    <subfield code="l">[3]</subfield>
+    <subfield code="i">NYDA.1987.003.00030.</subfield>
+    <subfield code="t">[South side of court, looking west].</subfield>
+    <subfield code="p">17.7 x 24.6 cm. (7 x 9 5/8 in.).</subfield>
+    <subfield code="o">Signed on intermediary mount, lower right.</subfield>
+  </datafield>
+  <datafield tag="789" ind1="0" ind2=" ">
+    <subfield code="l">[4]</subfield>
+    <subfield code="i">NYDA.1987.003.00031.</subfield>
+    <subfield code="t">[Rear facade, view from the canyon behind the house].</subfield>
+    <subfield code="p">19.7 x 24.9 cm. (7 3/4 x 9 3/4 in.).</subfield>
+    <subfield code="o">Signed on intermediary mount, lower right.</subfield>
+  </datafield>
+  <datafield tag="789" ind1="0" ind2=" ">
+    <subfield code="l">[5]</subfield>
+    <subfield code="i">NYDA.1987.003.00032.</subfield>
+    <subfield code="t">[View from north wing, looking east].</subfield>
+    <subfield code="p">16 x 24.9 cm. (6 3/8 x 9 3/4 in.).</subfield>
+    <subfield code="o">Signed on intermediary mount, lower right.</subfield>
+  </datafield>
+  <datafield tag="789" ind1="0" ind2=" ">
+    <subfield code="l">[6]</subfield>
+    <subfield code="i">NYDA.1987.003.00033.</subfield>
+    <subfield code="t">[Upper terrace and loggia].</subfield>
+    <subfield code="p">24.3 x 18.5 cm. (9 5/8 x 7 3/8 in.).</subfield>
+    <subfield code="o">Signed on intermediary mount, lower right.</subfield>
+  </datafield>
+  <datafield tag="789" ind1="0" ind2=" ">
+    <subfield code="l">[7]</subfield>
+    <subfield code="i">NYDA.1987.003.00034.</subfield>
+    <subfield code="t">[Loggia].</subfield>
+    <subfield code="p">19.6 x 24.7 cm. (7 3/4 x 9 5/8 in.).</subfield>
+    <subfield code="o">Signed on intermediary mount, lower right.</subfield>
+  </datafield>
+  <datafield tag="789" ind1="0" ind2=" ">
+    <subfield code="l">[8]</subfield>
+    <subfield code="i">NYDA.1987.003.00035.</subfield>
+    <subfield code="t">[Detail of doorway in loggia].</subfield>
+    <subfield code="p">24 x 19.4 cm. (9 1/2 x 7 5/8 in.).</subfield>
+    <subfield code="o">Signed on intermediary mount, lower right.</subfield>
+  </datafield>
+  <datafield tag="789" ind1="0" ind2=" ">
+    <subfield code="l">[9]</subfield>
+    <subfield code="i">NYDA.1987.003.00036.</subfield>
+    <subfield code="t">[Hillside water garden at rear of house].</subfield>
+    <subfield code="p">19.9 x 24.7 cm. (7 7/8 x 9 5/8 in.).</subfield>
+    <subfield code="o">Signed on intermediary mount, lower right.</subfield>
+  </datafield>
+  <datafield tag="789" ind1="0" ind2=" ">
+    <subfield code="l">[10]</subfield>
+    <subfield code="i">NYDA.1987.003.00037.</subfield>
+    <subfield code="t">[Steps, viewed from lower garden, leading to upper terrace].</subfield>
+    <subfield code="p">24.5 x 14.3 cm. (9 5/8 x 5 5/8 in.).</subfield>
+    <subfield code="o">Signed on intermediary mount, lower right.</subfield>
+  </datafield>
+  <datafield tag="789" ind1="0" ind2=" ">
+    <subfield code="l">[11]</subfield>
+    <subfield code="i">NYDA.1987.003.00038.</subfield>
+    <subfield code="t">[Steps leading to lower garden].</subfield>
+    <subfield code="p">24.7 x 19.6 cm. (9 5/8 x 7 3/4 in.).</subfield>
+    <subfield code="o">Signed on intermediary mount, lower right.</subfield>
+  </datafield>
+  <datafield tag="789" ind1="0" ind2=" ">
+    <subfield code="l">[12]</subfield>
+    <subfield code="i">NYDA.1987.003.00039.</subfield>
+    <subfield code="t">[Lower garden, pool and steps].</subfield>
+    <subfield code="p">19.5 x 24.8 cm. (7 5/8 x 9 3/4 in.).</subfield>
+    <subfield code="o">Signed on intermediary mount, lower right.</subfield>
+  </datafield>
+  <datafield tag="789" ind1="0" ind2=" ">
+    <subfield code="l">[13]</subfield>
+    <subfield code="i">NYDA.1987.003.00040.</subfield>
+    <subfield code="t">[Pergola walkway].</subfield>
+    <subfield code="p">24.5 x 17.8 cm. (9 5/8 x 7 in.).</subfield>
+    <subfield code="o">Signed on intermediary mount, lower right.</subfield>
+  </datafield>
+  <datafield tag="789" ind1="0" ind2=" ">
+    <subfield code="l">[14]</subfield>
+    <subfield code="i">NYDA.1987.003.00041.</subfield>
+    <subfield code="t">[Living room].</subfield>
+    <subfield code="p">19.3 x 24.2 cm. (7 5/8 x 9 1/2 in.).</subfield>
+    <subfield code="o">Signed on intermediary mount, lower right.</subfield>
+  </datafield>
+  <datafield tag="789" ind1="0" ind2=" ">
+    <subfield code="l">[15]</subfield>
+    <subfield code="i">NYDA.1987.003.00042.</subfield>
+    <subfield code="t">[Dining room].</subfield>
+    <subfield code="p">18.8 x 24.9 cm. (7 1/2 x 9 3/4 in.).</subfield>
+    <subfield code="o">Signed on intermediary mount, lower right.</subfield>
+  </datafield>
+  <datafield tag="789" ind1="0" ind2=" ">
+    <subfield code="l">[16]</subfield>
+    <subfield code="i">NYDA.1987.003.00156.</subfield>
+    <subfield code="t">[Dining room].</subfield>
+    <subfield code="p">17.5 x 25.5 cm. (7 x 10 1/8 in.).</subfield>
+    <subfield code="o">Not mounted. Stamp on verso: Leroy Hulbert photo art shop, 1411 Valencia St., Los Angeles.</subfield>
+  </datafield>
+  <datafield tag="789" ind1="0" ind2=" ">
+    <subfield code="l">[17]</subfield>
+    <subfield code="i">NYDA.1987.003.00043.</subfield>
+    <subfield code="t">[View of garden room of an arm of the gallery].</subfield>
+    <subfield code="p">18.5 x 24.1 cm. (7 3/8 x 9 1/2 in.).</subfield>
+    <subfield code="o">Signed on intermediary mount, lower right.</subfield>
+  </datafield>
+  <datafield tag="789" ind1="0" ind2=" ">
+    <subfield code="l">[18]</subfield>
+    <subfield code="i">NYDA.1987.003.00044.</subfield>
+    <subfield code="t">[Long view of an arm of the gallery].</subfield>
+    <subfield code="p">24.1 x 19.2 cm. (9 1/2 x 7 5/8 in.).</subfield>
+    <subfield code="o">Signed on intermediary mount, lower right.</subfield>
+  </datafield>
+  <datafield tag="789" ind1="0" ind2=" ">
+    <subfield code="l">[19]</subfield>
+    <subfield code="i">NYDA.1987.003.00045.</subfield>
+    <subfield code="t">[Entry hall armoire and highback armchair].</subfield>
+    <subfield code="p">19.4 x 24.7 cm. (7 5/8 x 9 5/8 in.).</subfield>
+    <subfield code="o">Signed on intermediary mount, lower right.</subfield>
+  </datafield>
+  <datafield tag="789" ind1="0" ind2=" ">
+    <subfield code="l">[20]</subfield>
+    <subfield code="i">NYDA.1987.003.00046.</subfield>
+    <subfield code="t">[Bedroom].</subfield>
+    <subfield code="p">19.2 x 24.5 cm. (7 5/8 x 9 5/8 in.).</subfield>
+    <subfield code="o">Signed on intermediary mount, lower right.</subfield>
+  </datafield>
+  <datafield tag="852" ind1=" " ind2=" ">
+    <subfield code="a">Columbia University</subfield>
+    <subfield code="b">Avery Architectural and Fine Arts Library, Drawings and Archives Collection</subfield>
+    <subfield code="e">1172 Amsterdam Avenue, MC 0301, New York, NY 10027.</subfield>
+  </datafield>
+  <datafield tag="900" ind1=" " ind2=" ">
+    <subfield code="a">AUTH</subfield>
+  </datafield>
+</record>
+
+</collection>

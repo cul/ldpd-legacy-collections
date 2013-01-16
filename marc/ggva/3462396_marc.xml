@@ -1,0 +1,191 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<collection
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xsi:schemaLocation="http://www.loc.gov/MARC21/slim http://www.loc.gov/standards/marcxml/schema/MARC21slim.xsd"
+  xmlns="http://www.loc.gov/MARC21/slim">
+
+<record>
+  <leader>04255ckdaa2200565 a 4500</leader>
+  <controlfield tag="001">3462396</controlfield>
+  <controlfield tag="005">20100226103437.0</controlfield>
+  <controlfield tag="008">890525s1924    xx ||| |||||||   1k|eng d</controlfield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="a">(OCoLC)80458007</subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="a">(OCoLC)ocm80458007</subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="a">(CStRLIN)NYDA89-F650</subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="9">AAA2867AD</subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="a">(NNC)3462396</subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">NNC</subfield>
+    <subfield code="c">NNC</subfield>
+    <subfield code="e">gihc</subfield>
+  </datafield>
+  <datafield tag="043" ind1=" " ind2=" ">
+    <subfield code="a">n-us-ca</subfield>
+  </datafield>
+  <datafield tag="090" ind1=" " ind2=" ">
+    <subfield code="i">06/04/01 T</subfield>
+    <subfield code="h">01/09/92 N</subfield>
+  </datafield>
+  <datafield tag="100" ind1="1" ind2=" ">
+    <subfield code="a">Greene, Henry Mather,</subfield>
+    <subfield code="d">1870-1954.</subfield>
+  </datafield>
+  <datafield tag="240" ind1="1" ind2="0">
+    <subfield code="a">Charles H. Hibbard house (Pasadena, Calif.).</subfield>
+    <subfield code="p">Front porch floor</subfield>
+  </datafield>
+  <datafield tag="245" ind1="1" ind2="0">
+    <subfield code="a">Details for concrete floor section on front porch for Rev. Dr. Chas. H. Hibbard, 156 Bellefontaine, Pasadena, California</subfield>
+    <subfield code="h">[graphic] /</subfield>
+    <subfield code="c">Henry M. Greene, Architect.</subfield>
+  </datafield>
+  <datafield tag="260" ind1=" " ind2=" ">
+    <subfield code="c">[1924]</subfield>
+  </datafield>
+  <datafield tag="300" ind1=" " ind2=" ">
+    <subfield code="a">7 sheets :</subfield>
+    <subfield code="b">various media ;</subfield>
+    <subfield code="c">43.2 x 63.5 cm. (17 x 25 in.) or smaller.</subfield>
+  </datafield>
+  <datafield tag="500" ind1=" " ind2=" ">
+    <subfield code="a">Date from inventory.</subfield>
+  </datafield>
+  <datafield tag="500" ind1=" " ind2=" ">
+    <subfield code="a">Bracketed title elements supplied by cataloger or taken from inventory.</subfield>
+  </datafield>
+  <datafield tag="500" ind1=" " ind2=" ">
+    <subfield code="a">Forms part of the Greene &amp; Greene collection of architectural drawings; job no. 425.</subfield>
+  </datafield>
+  <datafield tag="500" ind1=" " ind2=" ">
+    <subfield code="a">Scale 1/4"=1' or 1 1/2"=1'.</subfield>
+  </datafield>
+  <datafield tag="500" ind1=" " ind2=" ">
+    <subfield code="a">This set consists of 3 blueprints with crayon and pencil markings on paper, 3 pencil drawings on tracing paper, and 1 blueprint on paper.</subfield>
+  </datafield>
+  <datafield tag="561" ind1=" " ind2=" ">
+    <subfield code="a">Gift of Jean Murray Bangs (Mrs. Harwell Hamilton Harris), 1960; formerly the collection of Charles Sumner Greene.</subfield>
+  </datafield>
+  <datafield tag="650" ind1=" " ind2="7">
+    <subfield code="a">Houses.</subfield>
+    <subfield code="2">aat</subfield>
+  </datafield>
+  <datafield tag="650" ind1=" " ind2="7">
+    <subfield code="a">Porches.</subfield>
+    <subfield code="2">aat</subfield>
+  </datafield>
+  <datafield tag="650" ind1=" " ind2="0">
+    <subfield code="a">Flooring, Concrete.</subfield>
+  </datafield>
+  <datafield tag="655" ind1=" " ind2="7">
+    <subfield code="a">Detail drawings.</subfield>
+    <subfield code="2">aat</subfield>
+  </datafield>
+  <datafield tag="655" ind1=" " ind2="7">
+    <subfield code="a">Architectural drawings</subfield>
+    <subfield code="x">American.</subfield>
+    <subfield code="2">aat</subfield>
+  </datafield>
+  <datafield tag="655" ind1=" " ind2="7">
+    <subfield code="a">Orthographic drawings.</subfield>
+    <subfield code="2">aat</subfield>
+  </datafield>
+  <datafield tag="691" ind1=" " ind2="0">
+    <subfield code="a">Pasadena (Calif.)</subfield>
+  </datafield>
+  <datafield tag="697" ind1="2" ind2="4">
+    <subfield code="a">Charles H. Hibbard house (Pasadena, Calif.)</subfield>
+  </datafield>
+  <datafield tag="650" ind1=" " ind2="0">
+    <subfield code="a">Architecture</subfield>
+    <subfield code="z">United States</subfield>
+    <subfield code="v">Designs and plans.</subfield>
+  </datafield>
+  <datafield tag="700" ind1="1" ind2=" ">
+    <subfield code="a">Greene, Henry Mather,</subfield>
+    <subfield code="d">1870-1954.</subfield>
+  </datafield>
+  <datafield tag="700" ind1="1" ind2=" ">
+    <subfield code="a">Hibbard, Charles H.</subfield>
+  </datafield>
+  <datafield tag="710" ind1="2" ind2=" ">
+    <subfield code="a">Greene &amp; Greene.</subfield>
+  </datafield>
+  <datafield tag="755" ind1=" " ind2=" ">
+    <subfield code="a">Blueprints.</subfield>
+    <subfield code="2">aat</subfield>
+  </datafield>
+  <datafield tag="755" ind1=" " ind2=" ">
+    <subfield code="a">Pencil drawings.</subfield>
+    <subfield code="2">aat</subfield>
+  </datafield>
+  <datafield tag="799" ind1="4" ind2="1">
+    <subfield code="a">The Greene &amp; Greene collection of architectural drawings.</subfield>
+  </datafield>
+  <datafield tag="789" ind1="0" ind2=" ">
+    <subfield code="1">[1]</subfield>
+    <subfield code="i">NYDA.1960.001.01693.</subfield>
+    <subfield code="v">[AVERYimage].</subfield>
+    <subfield code="t">Details for concrete floor section on front porch -- plan below slab, plan above slab, part section A-A [with] section of joist, part section B-B [with] section at front door :</subfield>
+    <subfield code="n">Sheet no. 1.</subfield>
+    <subfield code="o">"Not used, see revision".</subfield>
+    <subfield code="o">"The contractor shall provide &amp; pay for all materials, labor and tools complete, except painting. Use removable steel forms (16 gauge steel), and wood forms. Use metal chairs to support steel reinforcement in correct location. Floor finish put down as slab ispoured and covered with sand (2") and kept wet for ten days. Gray 'color-mix'. Cut holes in old brick work for beams, floor, and girder ends. Remove all rubbish and clean up when work is completed, protect owner's property. Concrete mix, 1 : 1 1/2 (C-S). Trowelled. Steel, medium square deformed rods. Slab wire fabric BH610, 4" x 16", galv'd."</subfield>
+  </datafield>
+  <datafield tag="789" ind1="0" ind2=" ">
+    <subfield code="1">[2]</subfield>
+    <subfield code="i">NYDA.1960.001.01694.</subfield>
+    <subfield code="v">[AVERYimage].</subfield>
+    <subfield code="t">Details for conrete floor section on front porch -- plan below slab, plan above slab, part section A-A [with] section of joist, part section B-B [with] section at front door :</subfield>
+    <subfield code="n">Sheet no. 1.</subfield>
+    <subfield code="o">"Not used, see revision".</subfield>
+  </datafield>
+  <datafield tag="789" ind1="0" ind2=" ">
+    <subfield code="1">[3]</subfield>
+    <subfield code="i">NYDA.1960.001.01695.</subfield>
+    <subfield code="v">[AVERYimage].</subfield>
+    <subfield code="t">Details for concrete floor section on front porch -- plan below slab, plan above slab, part section A-A [with] section of joist, part section B-B [with] section at front door :</subfield>
+    <subfield code="n">Sheet no. 1 (revised).</subfield>
+  </datafield>
+  <datafield tag="789" ind1="0" ind2=" ">
+    <subfield code="1">[4]</subfield>
+    <subfield code="i">NYDA.1960.001.01696.</subfield>
+    <subfield code="v">[AVERYimage].</subfield>
+    <subfield code="t">Details for concrete floor section on front porch -- plan below slab, plan above slab, part section A-A, part section B-B [with section at front door] :</subfield>
+    <subfield code="n">Sheet no. 1 (2nd revision).</subfield>
+  </datafield>
+  <datafield tag="789" ind1="0" ind2=" ">
+    <subfield code="1">[5]</subfield>
+    <subfield code="i">NYDA.1960.001.01697.</subfield>
+    <subfield code="v">[AVERYimage].</subfield>
+    <subfield code="t">Details for concrete floor section on front porch -- part section A-A, [part of section at front door] :</subfield>
+    <subfield code="n">Sheet no. 1 (2nd revision).</subfield>
+    <subfield code="o">Large portion of drawing is gone.</subfield>
+  </datafield>
+  <datafield tag="789" ind1="0" ind2=" ">
+    <subfield code="1">[6]</subfield>
+    <subfield code="i">NYDA.1960.001.01698.</subfield>
+    <subfield code="v">[AVERYimage].</subfield>
+    <subfield code="t">Details for concrete floor section -- foundation plan, [ground floor plan], section A-A, section B-B.</subfield>
+    <subfield code="o">Encapsulated in mylar.</subfield>
+  </datafield>
+  <datafield tag="789" ind1="0" ind2=" ">
+    <subfield code="1">[7]</subfield>
+    <subfield code="i">NYDA.1960.001.01699.</subfield>
+    <subfield code="v">[AVERYimage].</subfield>
+    <subfield code="t">Details for concrete floor section -- foundation plan, [ground floor plan], section A-A, section B-B.</subfield>
+  </datafield>
+  <datafield tag="900" ind1=" " ind2=" ">
+    <subfield code="a">AUTH</subfield>
+  </datafield>
+</record>
+
+</collection>

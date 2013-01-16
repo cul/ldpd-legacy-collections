@@ -1,0 +1,129 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<collection
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xsi:schemaLocation="http://www.loc.gov/MARC21/slim http://www.loc.gov/standards/marcxml/schema/MARC21slim.xsd"
+  xmlns="http://www.loc.gov/MARC21/slim">
+
+<record>
+  <leader>01970ckdaa2200385 a 4500</leader>
+  <controlfield tag="001">3460522</controlfield>
+  <controlfield tag="005">20100226102536.0</controlfield>
+  <controlfield tag="008">870220s1961    xx ||| |||||||    k|eng d</controlfield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="a">(OCoLC)83775721</subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="a">(OCoLC)ocm83775721</subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="a">(CStRLIN)NYDA87-F76</subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="9">AAA0993AD</subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="a">(NNC)3460522</subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">NNC</subfield>
+    <subfield code="c">NNC</subfield>
+    <subfield code="e">gihc</subfield>
+  </datafield>
+  <datafield tag="043" ind1=" " ind2=" ">
+    <subfield code="a">n-us-ny</subfield>
+  </datafield>
+  <datafield tag="100" ind1="1" ind2=" ">
+    <subfield code="a">Ferriss, Hugh,</subfield>
+    <subfield code="d">1889-1962.</subfield>
+  </datafield>
+  <datafield tag="240" ind1="1" ind2="0">
+    <subfield code="a">New York Times Building (New York, N.Y.)</subfield>
+  </datafield>
+  <datafield tag="245" ind1="1" ind2="0">
+    <subfield code="a">New York Times building.</subfield>
+    <subfield code="h">[graphic]</subfield>
+  </datafield>
+  <datafield tag="260" ind1=" " ind2=" ">
+    <subfield code="c">Apr. 15, [19]61.</subfield>
+  </datafield>
+  <datafield tag="300" ind1=" " ind2=" ">
+    <subfield code="a">4 drawings :</subfield>
+    <subfield code="b">graphite on paper or tracing paper ;</subfield>
+    <subfield code="c">26.9 x 21.8 cm. (10 5/4 x 8 5/8 in.)</subfield>
+  </datafield>
+  <datafield tag="580" ind1=" " ind2=" ">
+    <subfield code="a">Forms part of the Hugh Ferriss architectural drawings and papers, Dept. of Drawings &amp; Archives, Avery Architectural and Fine Arts Library, Columbia University.</subfield>
+  </datafield>
+  <datafield tag="650" ind1=" " ind2="7">
+    <subfield code="a">Newspaper buildings.</subfield>
+    <subfield code="2">aat</subfield>
+  </datafield>
+  <datafield tag="655" ind1=" " ind2="7">
+    <subfield code="a">Architectural drawings</subfield>
+    <subfield code="x">American.</subfield>
+    <subfield code="2">aat</subfield>
+  </datafield>
+  <datafield tag="655" ind1=" " ind2="7">
+    <subfield code="a">Perspective drawings.</subfield>
+    <subfield code="2">aat</subfield>
+  </datafield>
+  <datafield tag="655" ind1=" " ind2="7">
+    <subfield code="a">Bird's-eye perspectives.</subfield>
+    <subfield code="2">aat</subfield>
+  </datafield>
+  <datafield tag="651" ind1=" " ind2="0">
+    <subfield code="a">New York (N.Y.)</subfield>
+  </datafield>
+  <datafield tag="650" ind1=" " ind2="0">
+    <subfield code="a">Architecture</subfield>
+    <subfield code="z">United States</subfield>
+    <subfield code="v">Designs and plans.</subfield>
+  </datafield>
+  <datafield tag="610" ind1="2" ind2="0">
+    <subfield code="a">New York Times Building (New York, N.Y.)</subfield>
+  </datafield>
+  <datafield tag="755" ind1=" " ind2=" ">
+    <subfield code="a">Pencil drawings.</subfield>
+    <subfield code="2">aat</subfield>
+  </datafield>
+  <datafield tag="799" ind1="4" ind2="3">
+    <subfield code="a">The Hugh Ferriss collection.</subfield>
+  </datafield>
+  <datafield tag="789" ind1="0" ind2=" ">
+    <subfield code="1">[1]</subfield>
+    <subfield code="i">NYDA.1000.001.00128.</subfield>
+    <subfield code="t">[Perspective],</subfield>
+    <subfield code="d">Apr. 15.</subfield>
+    <subfield code="p">1 drawing : pencil on tracing paper ; 26.9 x 21.8 cm. (10 5/4 x 8 5/8 in.)</subfield>
+    <subfield code="o">Date in orange crayon, lower right.</subfield>
+  </datafield>
+  <datafield tag="789" ind1="0" ind2=" ">
+    <subfield code="1">[2]</subfield>
+    <subfield code="i">NYDA.1000.001.00129.</subfield>
+    <subfield code="t">[Perspective],</subfield>
+    <subfield code="d">4/15.</subfield>
+    <subfield code="p">1 drawing : pencil on tracing paper with yellow (chalk?) ; 17 5/8 x 16.4 cm. (6 7/8 x 6 1/2 in.)</subfield>
+    <subfield code="o">Date in orange, lower right.</subfield>
+  </datafield>
+  <datafield tag="789" ind1="0" ind2=" ">
+    <subfield code="1">[3]</subfield>
+    <subfield code="i">NYDA.1000.001.00130.</subfield>
+    <subfield code="t">[Bird's-eye perspective],</subfield>
+    <subfield code="d">4/15/[19]61.</subfield>
+    <subfield code="p">1 drawing : pencil on paper ; 11.3 x 10.6 cm. (4 1/2 x 4 1/4 in.)</subfield>
+    <subfield code="o">Date in orange (crayon?) lower right.</subfield>
+  </datafield>
+  <datafield tag="789" ind1="0" ind2=" ">
+    <subfield code="1">[4]</subfield>
+    <subfield code="i">NYDA.1000.001.00131.</subfield>
+    <subfield code="t">N. of 44th,</subfield>
+    <subfield code="d">4/15.</subfield>
+    <subfield code="p">1 drawing : pencil on paper ; 11.8 x 9.8 cm. (4 3/4 x 3 7/8 in.)</subfield>
+    <subfield code="o">Date in orange lower right.</subfield>
+  </datafield>
+  <datafield tag="900" ind1=" " ind2=" ">
+    <subfield code="a">AUTH</subfield>
+  </datafield>
+</record>
+
+</collection>

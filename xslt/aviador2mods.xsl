@@ -11,6 +11,8 @@
             <xd:p/>
         </xd:desc>
     </xd:doc>
+    <xsl:param name="resultPath"><xsl:text>../mods/</xsl:text></xsl:param>
+    <xsl:param name="collection_id"><xsl:text>ferriss</xsl:text></xsl:param>
     <xsl:param name="collection_name"><xsl:text>Hugh Ferriss architectural drawings and papers</xsl:text></xsl:param>
     <xsl:template match="/">
         <xsl:choose>
@@ -20,7 +22,7 @@
                         <!-- <xsl:value-of select="child::marc:subfield[@code = '1']"/> -->
                         <xsl:value-of select="child::marc:subfield[@code = 'i']"/>
                     </xsl:variable>
-                    <xsl:result-document href="{translate($part_id, '.', '_')}mods.xml">
+                    <xsl:result-document href="{$resultPath}{$collection_id}/{translate($part_id, '.', '_')}mods.xml">
                         <xsl:call-template name="record">
                             <xsl:with-param name="part_id" select="$part_id"/>
 
@@ -31,7 +33,7 @@
             <xsl:otherwise>
                 <xsl:variable name="part_id"
                     select="//marc:datafield[@tag = '789']/marc:subfield[@code = 'i']"/>
-                <xsl:result-document href="{translate($part_id, '.', '_')}mods.xml">
+                <xsl:result-document href="{$resultPath}{$collection_id}/{translate($part_id, '.', '_')}mods.xml">
                     <xsl:call-template name="record">
                         <xsl:with-param name="part_id" select="$part_id"/>
                     </xsl:call-template>

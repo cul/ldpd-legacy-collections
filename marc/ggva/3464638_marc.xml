@@ -1,0 +1,296 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<collection
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xsi:schemaLocation="http://www.loc.gov/MARC21/slim http://www.loc.gov/standards/marcxml/schema/MARC21slim.xsd"
+  xmlns="http://www.loc.gov/MARC21/slim">
+
+<record>
+  <leader>06518ckdaa2200697 a 4500</leader>
+  <controlfield tag="001">3464638</controlfield>
+  <controlfield tag="005">20100226104522.0</controlfield>
+  <controlfield tag="008">010604s1915    xx |||  ||||||    k eng d</controlfield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="a">(OCoLC)79765164</subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="a">(OCoLC)ocm79765164</subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="a">(CStRLIN)NYDA01-F122</subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="a">(NNC-A)67.1</subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="a">(NNC)3464638</subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">NNC-A</subfield>
+    <subfield code="c">NNC-A</subfield>
+    <subfield code="e">gihc</subfield>
+  </datafield>
+  <datafield tag="043" ind1=" " ind2=" ">
+    <subfield code="a">n-us-ca</subfield>
+  </datafield>
+  <datafield tag="100" ind1="1" ind2=" ">
+    <subfield code="a">Hulbert, Leroy.</subfield>
+  </datafield>
+  <datafield tag="240" ind1="1" ind2="0">
+    <subfield code="a">Mortimer Fleishhacker house (Woodside, Calif.)</subfield>
+  </datafield>
+  <datafield tag="245" ind1="1" ind2="0">
+    <subfield code="a">[Mortimer Fleishhacker house, Woodside, Calif.]</subfield>
+    <subfield code="h">[graphic] /</subfield>
+    <subfield code="c">Leroy Hulbert [photographer] ; [Greene &amp; Greene, architects]</subfield>
+  </datafield>
+  <datafield tag="260" ind1=" " ind2=" ">
+    <subfield code="c">[circa 1915]</subfield>
+  </datafield>
+  <datafield tag="300" ind1=" " ind2=" ">
+    <subfield code="a">21 photographic prints mounted on board :</subfield>
+    <subfield code="b">brown tone ;</subfield>
+    <subfield code="c">19.2 x 24.8 cm. (7 5/8 x 9 3/4 in.) or smaller, on mount 34.9 x 42.5 cm. (13 3/4 x 16 3/4 in.) or smaller.</subfield>
+  </datafield>
+  <datafield tag="300" ind1=" " ind2=" ">
+    <subfield code="a">3 photographic prints ;</subfield>
+    <subfield code="b">gelatin silver, b&amp;w ;</subfield>
+    <subfield code="c">12.5 x 18.7 cm. (5 x 7 3/8 in.)</subfield>
+  </datafield>
+  <datafield tag="500" ind1=" " ind2=" ">
+    <subfield code="a">Date and some image titles from: Greene &amp; Greene / Edward R. Bosley. London : Phaidon, 2000.</subfield>
+  </datafield>
+  <datafield tag="545" ind1=" " ind2=" ">
+    <subfield code="a">Bosley dates the house to 1911-12.</subfield>
+  </datafield>
+  <datafield tag="500" ind1=" " ind2=" ">
+    <subfield code="a">Photos mounted on board are possibly platinum/palladium prints.</subfield>
+  </datafield>
+  <datafield tag="500" ind1=" " ind2=" ">
+    <subfield code="a">Twelve photos are signed on intermediary mount, lower right, in the following forms: Leroy Hulbert/L.A. ; Leroy Hulbert./L.A. ; and Leroy Hulbert./Los Angeles.</subfield>
+  </datafield>
+  <datafield tag="500" ind1=" " ind2=" ">
+    <subfield code="a">Twelve photos are unsigned.</subfield>
+  </datafield>
+  <datafield tag="561" ind1=" " ind2=" ">
+    <subfield code="a">Gift made possible by Harwell Hamilton Harris. Accession number 1987.003.</subfield>
+  </datafield>
+  <datafield tag="580" ind1=" " ind2=" ">
+    <subfield code="a">Forms part of the Greene &amp; Greene architectural drawings and photographs, Dept. of Drawings &amp; Archives, Avery Architectural and Fine Arts Library.</subfield>
+  </datafield>
+  <datafield tag="650" ind1=" " ind2="7">
+    <subfield code="a">Houses.</subfield>
+    <subfield code="2">aat</subfield>
+  </datafield>
+  <datafield tag="655" ind1=" " ind2="7">
+    <subfield code="a">Photographic prints.</subfield>
+    <subfield code="2">aat</subfield>
+  </datafield>
+  <datafield tag="651" ind1=" " ind2="0">
+    <subfield code="a">Woodside (Calif.)</subfield>
+  </datafield>
+  <datafield tag="610" ind1="2" ind2="0">
+    <subfield code="a">Mortimer Fleishhacker house (Woodside, Calif.)</subfield>
+  </datafield>
+  <datafield tag="700" ind1="1" ind2=" ">
+    <subfield code="a">Fleishhacker, Mortimer.</subfield>
+  </datafield>
+  <datafield tag="710" ind1="2" ind2=" ">
+    <subfield code="a">Greene &amp; Greene.</subfield>
+  </datafield>
+  <datafield tag="773" ind1="0" ind2=" ">
+    <subfield code="7">c2bc</subfield>
+    <subfield code="a">Greene &amp; Greene.</subfield>
+    <subfield code="t">Architectural drawings and photographs.</subfield>
+    <subfield code="w">(CStRLIN)NYDA88-A56.</subfield>
+  </datafield>
+  <datafield tag="789" ind1="0" ind2=" ">
+    <subfield code="l">[1]</subfield>
+    <subfield code="i">NYDA.1987.003.00056.</subfield>
+    <subfield code="t">[South (rear) elevation of the main residence with pool and formal garden].</subfield>
+    <subfield code="p">18.5 x 24.5 cm. (7 3/8 x 9 5/8 in.).</subfield>
+    <subfield code="o">Signed on intermediary mount, lower right.</subfield>
+  </datafield>
+  <datafield tag="789" ind1="0" ind2=" ">
+    <subfield code="l">[2]</subfield>
+    <subfield code="i">NYDA.1987.003.00057.</subfield>
+    <subfield code="t">[Formal garden with south (rear) elevation of the main residence in the distance].</subfield>
+    <subfield code="p">18.3 x 24.8 cm. ( 7 1/4 x 9 3/4 in.).</subfield>
+    <subfield code="o">Signed on intermediary mount, lower right.</subfield>
+  </datafield>
+  <datafield tag="789" ind1="0" ind2=" ">
+    <subfield code="l">[3]</subfield>
+    <subfield code="i">NYDA.1987.003.00058.</subfield>
+    <subfield code="t">[South (rear) elevation of the main residence with three figures on terrace, right].</subfield>
+    <subfield code="p">10.7 x 16.5 cm. (4 1/4 x 6 1/2 in.).</subfield>
+    <subfield code="o">Unsigned.</subfield>
+    <subfield code="o">Mounted on board with NYDA.1987.003.00059 and NYDA.1987.003.00060.</subfield>
+  </datafield>
+  <datafield tag="789" ind1="0" ind2=" ">
+    <subfield code="l">[4]</subfield>
+    <subfield code="i">NYDA.1987.003.00059.</subfield>
+    <subfield code="t">[South (rear) elevation of the main residence with figures at terrace steps, right].</subfield>
+    <subfield code="p">10.7 x 16.5 cm. (4 1/4 x 6 1/2 in.).</subfield>
+    <subfield code="o">Unsigned.</subfield>
+    <subfield code="o">Mounted on board with NYDA.1987.003.00058 and NYDA.1987.003.00060.</subfield>
+  </datafield>
+  <datafield tag="789" ind1="0" ind2=" ">
+    <subfield code="l">[5]</subfield>
+    <subfield code="i">NYDA.1987.003.00060.</subfield>
+    <subfield code="t">[South (rear) elevation of the main residence].</subfield>
+    <subfield code="p">10.7 x 16.3 cm. (4 1/4 x 6 1/2 in.).</subfield>
+    <subfield code="o">Unsigned.</subfield>
+    <subfield code="o">Mounted on board with NYDA.1987.003.00058 and NYDA.1987.003.00059.</subfield>
+  </datafield>
+  <datafield tag="789" ind1="0" ind2=" ">
+    <subfield code="l">[6]</subfield>
+    <subfield code="i">NYDA.1987.003.00061.</subfield>
+    <subfield code="t">[South (rear) elevation of the main residence with three figures on terrace, right].</subfield>
+    <subfield code="p">10.7 x 16.5 cm. (4 1/4 x 6 1/2 in.).</subfield>
+    <subfield code="o">Unsigned.</subfield>
+    <subfield code="o">Same image as NYDA.1987.003.00058.</subfield>
+  </datafield>
+  <datafield tag="789" ind1="0" ind2=" ">
+    <subfield code="l">[7]</subfield>
+    <subfield code="i">NYDA.1987.003.00062.</subfield>
+    <subfield code="t">[South (rear) elevation of the main residence with three figures on terrace, right].</subfield>
+    <subfield code="p">10.7 x 16.5 cm. (4 1/4 x 6 1/2 in.).</subfield>
+    <subfield code="o">Unsigned.</subfield>
+    <subfield code="o">Same image as NYDA.1987.003.00058.</subfield>
+  </datafield>
+  <datafield tag="789" ind1="0" ind2=" ">
+    <subfield code="l">[8]</subfield>
+    <subfield code="i">NYDA.1987.003.00420.</subfield>
+    <subfield code="t">[South (rear) elevation of the main residence with three figures on terrace, right].</subfield>
+    <subfield code="p">12.5 x 18.7 cm. (5 x 7 3/8 in.).</subfield>
+    <subfield code="o">Unsigned.</subfield>
+    <subfield code="o">Same image as NYDA.1987.003.00058.</subfield>
+  </datafield>
+  <datafield tag="789" ind1="0" ind2=" ">
+    <subfield code="l">[9]</subfield>
+    <subfield code="i">NYDA.1987.003.00063.</subfield>
+    <subfield code="t">[South (rear) elevation of the main residence with figures at terrace steps, right].</subfield>
+    <subfield code="p">10.8 x 16.4 cm. (4 1/4 x 6 1/2 in.).</subfield>
+    <subfield code="o">Unsigned.</subfield>
+    <subfield code="o">Same image as NYDA.1987.003.00059.</subfield>
+  </datafield>
+  <datafield tag="789" ind1="0" ind2=" ">
+    <subfield code="l">[10]</subfield>
+    <subfield code="i">NYDA.1987.003.00064.</subfield>
+    <subfield code="t">[South (rear) elevation of the main residence with three figures at terrace steps, right].</subfield>
+    <subfield code="p">10.8 x 16.2 cm. (4 1/4 x 6 3/8 in.).</subfield>
+    <subfield code="o">Unsigned.</subfield>
+    <subfield code="o">Same image as NYDA.1987.003.00059.</subfield>
+  </datafield>
+  <datafield tag="789" ind1="0" ind2=" ">
+    <subfield code="l">[11]</subfield>
+    <subfield code="i">NYDA.1987.003.00421.</subfield>
+    <subfield code="t">[South (rear) elevation of the main residence with three figures at terrace steps, right].</subfield>
+    <subfield code="p">12.5 x 18.7 cm. (5 x 7 3/8 in.).</subfield>
+    <subfield code="o">Unsigned.</subfield>
+    <subfield code="o">Same image as NYDA.1987.003.00059.</subfield>
+  </datafield>
+  <datafield tag="789" ind1="0" ind2=" ">
+    <subfield code="l">[12]</subfield>
+    <subfield code="i">NYDA.1987.003.00065.</subfield>
+    <subfield code="t">[South (rear) elevation of the main residence].</subfield>
+    <subfield code="p">10.8 x 16.4 cm. (4 1/4 x 6 1/2 in.).</subfield>
+    <subfield code="o">Unsigned.</subfield>
+    <subfield code="o">Same image as NYDA.1987.003.00060.</subfield>
+  </datafield>
+  <datafield tag="789" ind1="0" ind2=" ">
+    <subfield code="l">[13]</subfield>
+    <subfield code="i">NYDA.1987.003.00066.</subfield>
+    <subfield code="t">[South (rear) elevation of the main residence].</subfield>
+    <subfield code="p">10.8 x 16.4 cm. (4 1/4 x 6 1/2 in.).</subfield>
+    <subfield code="o">Unsigned.</subfield>
+    <subfield code="o">Same image as NYDA.1987.003.00060.</subfield>
+  </datafield>
+  <datafield tag="789" ind1="0" ind2=" ">
+    <subfield code="l">[14]</subfield>
+    <subfield code="i">NYDA.1987.003.00422.</subfield>
+    <subfield code="t">[South (rear) elevation of the main residence].</subfield>
+    <subfield code="p">12.5 x 18.7 cm. (5 x 7 3/8 in.).</subfield>
+    <subfield code="o">Unsigned.</subfield>
+    <subfield code="o">Same image as NYDA.1987.003.00060.</subfield>
+  </datafield>
+  <datafield tag="789" ind1="0" ind2=" ">
+    <subfield code="l">[15]</subfield>
+    <subfield code="i">NYDA.1987.003.00067.</subfield>
+    <subfield code="t">[Rear terrace].</subfield>
+    <subfield code="p">18.8 x 24.5 cm. (7 3/8 x 9 5/8 in.).</subfield>
+    <subfield code="o">Signed on intermediary mount, lower right.</subfield>
+  </datafield>
+  <datafield tag="789" ind1="0" ind2=" ">
+    <subfield code="l">[16]</subfield>
+    <subfield code="i">NYDA.1987.003.00068.</subfield>
+    <subfield code="t">[Rear terrace].</subfield>
+    <subfield code="p">18.8 x 24.5 cm. (7 3/8 x 9 5/8 in.).</subfield>
+    <subfield code="o">Signed on intermediary mount, lower right.</subfield>
+  </datafield>
+  <datafield tag="789" ind1="0" ind2=" ">
+    <subfield code="l">[17]</subfield>
+    <subfield code="i">NYDA.1987.003.00069.</subfield>
+    <subfield code="t">[View of house from distance].</subfield>
+    <subfield code="p">19.2 x 24.5 cm. (7 5/8 x 9 5/8 in.).</subfield>
+    <subfield code="o">Signed on intermediary mount, lower right.</subfield>
+  </datafield>
+  <datafield tag="789" ind1="0" ind2=" ">
+    <subfield code="l">[18]</subfield>
+    <subfield code="i">NYDA.1987.003.00070.</subfield>
+    <subfield code="t">[View of house and grounds from distance].</subfield>
+    <subfield code="p">18.8 x 24.5 cm. (7 3/8 x 9 5/8 in.).</subfield>
+    <subfield code="o">Signed on intermediary mount, lower right.</subfield>
+  </datafield>
+  <datafield tag="789" ind1="0" ind2=" ">
+    <subfield code="l">[19]</subfield>
+    <subfield code="i">NYDA.1987.003.00071.</subfield>
+    <subfield code="t">[Living room with Elsie de Wolfe furnishings].</subfield>
+    <subfield code="p">17.9 x 24.8 cm. (7 1/8 x 9 3/4 in.).</subfield>
+    <subfield code="o">Signed on intermediary mount, lower right.</subfield>
+  </datafield>
+  <datafield tag="789" ind1="0" ind2=" ">
+    <subfield code="l">[20]</subfield>
+    <subfield code="i">NYDA.1987.003.00072.</subfield>
+    <subfield code="t">[Dining room].</subfield>
+    <subfield code="p">18 x 24.5 cm. (7 1/8 x 9 5/8 in.).</subfield>
+    <subfield code="o">Signed on intermediary mount, lower right.</subfield>
+  </datafield>
+  <datafield tag="789" ind1="0" ind2=" ">
+    <subfield code="l">[21]</subfield>
+    <subfield code="i">NYDA.1987.003.00073.</subfield>
+    <subfield code="t">[Dining room].</subfield>
+    <subfield code="p">18 x 24.5 cm. (7 1/8 x 9 5/8 in.).</subfield>
+    <subfield code="o">Signed on intermediary mount, lower right.</subfield>
+  </datafield>
+  <datafield tag="789" ind1="0" ind2=" ">
+    <subfield code="l">[22]</subfield>
+    <subfield code="i">NYDA.1987.003.00074.</subfield>
+    <subfield code="t">[Hallway].</subfield>
+    <subfield code="p">18.7 x 24.5 cm. (7 3/8 x 9 5/8 in.).</subfield>
+    <subfield code="o">Signed on intermediary mount, lower right.</subfield>
+  </datafield>
+  <datafield tag="789" ind1="0" ind2=" ">
+    <subfield code="l">[23]</subfield>
+    <subfield code="i">NYDA.1987.003.00075.</subfield>
+    <subfield code="t">[Bedroom].</subfield>
+    <subfield code="p">19 x 24 cm. (7 1/2 x 9 1/2 in.).</subfield>
+    <subfield code="o">Signed on intermediary mount, lower right.</subfield>
+  </datafield>
+  <datafield tag="789" ind1="0" ind2=" ">
+    <subfield code="l">[24]</subfield>
+    <subfield code="i">NYDA.1987.003.00076.</subfield>
+    <subfield code="t">[Bathroom].</subfield>
+    <subfield code="p">18.3 x 24.2 cm. (7 1/4 x 9 1/2 in.).</subfield>
+    <subfield code="o">Signed on intermediary mount, lower right.</subfield>
+  </datafield>
+  <datafield tag="852" ind1=" " ind2=" ">
+    <subfield code="a">Columbia University</subfield>
+    <subfield code="b">Avery Architectural and Fine Arts Library, Drawings and Archives Collection</subfield>
+    <subfield code="e">1172 Amsterdam Avenue, MC 0301, New York, NY 10027.</subfield>
+  </datafield>
+  <datafield tag="900" ind1=" " ind2=" ">
+    <subfield code="a">AUTH</subfield>
+  </datafield>
+</record>
+
+</collection>

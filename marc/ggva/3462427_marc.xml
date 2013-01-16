@@ -1,0 +1,268 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<collection
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xsi:schemaLocation="http://www.loc.gov/MARC21/slim http://www.loc.gov/standards/marcxml/schema/MARC21slim.xsd"
+  xmlns="http://www.loc.gov/MARC21/slim">
+
+<record>
+  <leader>05282ckdaa2200709 a 4500</leader>
+  <controlfield tag="001">3462427</controlfield>
+  <controlfield tag="005">20100226103446.0</controlfield>
+  <controlfield tag="008">890606s1912    xx ||| |||||||   1k|eng d</controlfield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="a">(OCoLC)78300522</subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="a">(OCoLC)ocm78300522</subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="a">(CStRLIN)NYDA89-F679</subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="9">AAA2898AD</subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="a">(NNC)3462427</subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">NNC</subfield>
+    <subfield code="c">NNC</subfield>
+    <subfield code="e">gihc</subfield>
+  </datafield>
+  <datafield tag="043" ind1=" " ind2=" ">
+    <subfield code="a">n-us-ca</subfield>
+  </datafield>
+  <datafield tag="110" ind1="2" ind2=" ">
+    <subfield code="a">Greene &amp; Greene.</subfield>
+  </datafield>
+  <datafield tag="240" ind1="1" ind2="0">
+    <subfield code="a">Louise T. Halsted house (Pasadena, Calif.).</subfield>
+    <subfield code="p">Alterations and additions.</subfield>
+    <subfield code="f">1912</subfield>
+  </datafield>
+  <datafield tag="245" ind1="1" ind2="0">
+    <subfield code="a">Additions to residence for S. Hazard Halsted, Esq., Pasadena, Calif.</subfield>
+    <subfield code="h">[graphic] /</subfield>
+    <subfield code="c">Greene and Greene, Architects.</subfield>
+  </datafield>
+  <datafield tag="260" ind1=" " ind2=" ">
+    <subfield code="c">[1912]</subfield>
+  </datafield>
+  <datafield tag="300" ind1=" " ind2=" ">
+    <subfield code="a">12 sheets :</subfield>
+    <subfield code="b">various media ;</subfield>
+    <subfield code="c">106.2 x 49.1 cm. (41 7/8 x 19 3/8 in) or smaller.</subfield>
+  </datafield>
+  <datafield tag="500" ind1=" " ind2=" ">
+    <subfield code="a">Date from inventory.</subfield>
+  </datafield>
+  <datafield tag="500" ind1=" " ind2=" ">
+    <subfield code="a">Bracketed title elements supplied by cataloger or taken from inventory.</subfield>
+  </datafield>
+  <datafield tag="500" ind1=" " ind2=" ">
+    <subfield code="a">Forms part of the Greene &amp; Greene collection of architectural drawings ; job no. 299.</subfield>
+  </datafield>
+  <datafield tag="500" ind1=" " ind2=" ">
+    <subfield code="a">Scale varies.</subfield>
+  </datafield>
+  <datafield tag="500" ind1=" " ind2=" ">
+    <subfield code="a">This set consists of 5 pencil drawings on tracing paper, 2 ink drawings on cloth, 2 blueprints with crayon markings on paper, 1 pencil drawing on paper, 1 blueprint with pencil and crayon markings on paper, 1 pencil and crayon drawing on paper, 1 blueprint with ink on paper, and 1 blueprint with pencil markings on paper.</subfield>
+  </datafield>
+  <datafield tag="561" ind1=" " ind2=" ">
+    <subfield code="a">Gift of Jean Murray Bangs (Mrs. Harwell Hamilton Harris), 1960; formerly the collection of Charles Sumner Greene.</subfield>
+  </datafield>
+  <datafield tag="650" ind1=" " ind2="7">
+    <subfield code="a">Houses.</subfield>
+    <subfield code="2">aat</subfield>
+  </datafield>
+  <datafield tag="650" ind1=" " ind2="7">
+    <subfield code="a">Alterations.</subfield>
+    <subfield code="2">aat</subfield>
+  </datafield>
+  <datafield tag="650" ind1=" " ind2="7">
+    <subfield code="a">Additions.</subfield>
+    <subfield code="2">aat</subfield>
+  </datafield>
+  <datafield tag="655" ind1=" " ind2="7">
+    <subfield code="a">Detail drawings.</subfield>
+    <subfield code="2">aat</subfield>
+  </datafield>
+  <datafield tag="655" ind1=" " ind2="7">
+    <subfield code="a">Sketches.</subfield>
+    <subfield code="2">aat</subfield>
+  </datafield>
+  <datafield tag="655" ind1=" " ind2="7">
+    <subfield code="a">Architectural drawings</subfield>
+    <subfield code="x">American.</subfield>
+    <subfield code="2">aat</subfield>
+  </datafield>
+  <datafield tag="655" ind1=" " ind2="7">
+    <subfield code="a">Orthographic drawings.</subfield>
+    <subfield code="2">aat</subfield>
+  </datafield>
+  <datafield tag="691" ind1=" " ind2="0">
+    <subfield code="a">Pasadena (Calif.)</subfield>
+  </datafield>
+  <datafield tag="650" ind1=" " ind2="0">
+    <subfield code="a">Architecture</subfield>
+    <subfield code="z">United States</subfield>
+    <subfield code="v">Designs and plans.</subfield>
+  </datafield>
+  <datafield tag="697" ind1="2" ind2="4">
+    <subfield code="a">Louise T. Halsted house (Pasadena, Calif.)</subfield>
+  </datafield>
+  <datafield tag="697" ind1="2" ind2="4">
+    <subfield code="a">S. Hazard Halsted house (Pasadena, Calif.)</subfield>
+  </datafield>
+  <datafield tag="700" ind1="1" ind2=" ">
+    <subfield code="a">Greene, Charles Sumner,</subfield>
+    <subfield code="d">1868-1957.</subfield>
+  </datafield>
+  <datafield tag="700" ind1="1" ind2=" ">
+    <subfield code="a">Greene, Henry Mather,</subfield>
+    <subfield code="d">1870-1954.</subfield>
+  </datafield>
+  <datafield tag="700" ind1="1" ind2=" ">
+    <subfield code="a">Halsted, Louise T.</subfield>
+  </datafield>
+  <datafield tag="700" ind1="1" ind2=" ">
+    <subfield code="a">Halsted, S. Hazard.</subfield>
+  </datafield>
+  <datafield tag="740" ind1="0" ind2="1">
+    <subfield code="a">S. Hazard Halsted house (Pasadena, Calif.)</subfield>
+  </datafield>
+  <datafield tag="755" ind1=" " ind2=" ">
+    <subfield code="a">Pencil drawings.</subfield>
+    <subfield code="2">aat</subfield>
+  </datafield>
+  <datafield tag="755" ind1=" " ind2=" ">
+    <subfield code="a">Blueprints.</subfield>
+    <subfield code="2">aat</subfield>
+  </datafield>
+  <datafield tag="755" ind1=" " ind2=" ">
+    <subfield code="a">Ink drawings.</subfield>
+    <subfield code="2">aat</subfield>
+  </datafield>
+  <datafield tag="755" ind1=" " ind2=" ">
+    <subfield code="a">Crayon drawings.</subfield>
+    <subfield code="2">aat</subfield>
+  </datafield>
+  <datafield tag="799" ind1="4" ind2="3">
+    <subfield code="a">The Greene &amp; Greene collection of architectural drawings.</subfield>
+  </datafield>
+  <datafield tag="789" ind1="0" ind2=" ">
+    <subfield code="1">[1]</subfield>
+    <subfield code="i">NYDA.1960.001.01465.</subfield>
+    <subfield code="v">[AVERYimage].</subfield>
+    <subfield code="t">Elevation [and] plan [of entrance steps and driveway] ; 3/4" scale detail of door and side 1'ts [with] section "M-N" ; section[s through driveway] :</subfield>
+    <subfield code="n">Sheet no. 1 /</subfield>
+    <subfield code="c">drawn by C.N.</subfield>
+  </datafield>
+  <datafield tag="789" ind1="0" ind2=" ">
+    <subfield code="1">[2]</subfield>
+    <subfield code="i">NYDA.1960.001.01466R.</subfield>
+    <subfield code="v">[AVERYimage].</subfield>
+    <subfield code="t">Elevation [and] plan [of entrance steps and driveway] ; 3/4" scale detail of door and side 1'ts [with] section "M-N" ; section[s through driveway] :</subfield>
+    <subfield code="n">Sheet no. 1 /</subfield>
+    <subfield code="c">drawn by C.N.</subfield>
+  </datafield>
+  <datafield tag="789" ind1="0" ind2=" ">
+    <subfield code="1">[3]</subfield>
+    <subfield code="i">NYDA.1960.001.01466V.</subfield>
+    <subfield code="v">[AVERYimage].</subfield>
+    <subfield code="t">[Rough sketch of plan of driveway]</subfield>
+  </datafield>
+  <datafield tag="789" ind1="0" ind2=" ">
+    <subfield code="1">[4]</subfield>
+    <subfield code="i">NYDA.1960.001.01467.</subfield>
+    <subfield code="v">[AVERYimage].</subfield>
+    <subfield code="t">Elevation [and] plan [of entrance steps and driveway] ; 3/4" scale detail of door and side 1'ts [with] section "M-N" ; section[s through driveway] :</subfield>
+    <subfield code="n">Sheet no. 1 /</subfield>
+    <subfield code="c">drawn by C.N.</subfield>
+    <subfield code="o">On verso -- "Set no. 1".</subfield>
+  </datafield>
+  <datafield tag="789" ind1="0" ind2=" ">
+    <subfield code="1">[5]</subfield>
+    <subfield code="i">NYDA.1960.001.01468.</subfield>
+    <subfield code="v">[AVERYimage].</subfield>
+    <subfield code="t">North elevation ; plan [showing] sleeping porch ; 3/4" scale detail [of] door &amp; side lights ; 3" scale door sections.</subfield>
+  </datafield>
+  <datafield tag="789" ind1="0" ind2=" ">
+    <subfield code="1">[6]</subfield>
+    <subfield code="i">NYDA.1960.001.01469.</subfield>
+    <subfield code="v">[AVERYimage].</subfield>
+    <subfield code="t">[Details of entrance steps in] plan [and elevations] looking south [and] looking east :</subfield>
+    <subfield code="n">Sheet no. 2 /</subfield>
+    <subfield code="c">drawn by R.W.</subfield>
+  </datafield>
+  <datafield tag="789" ind1="0" ind2=" ">
+    <subfield code="1">[7]</subfield>
+    <subfield code="i">NYDA.1960.001.01470.</subfield>
+    <subfield code="v">[AVERYimage].</subfield>
+    <subfield code="t">[Details of entrance steps in] plan [and elevations] looking south [and] looking east :</subfield>
+    <subfield code="n">Sheet no. 2 /</subfield>
+    <subfield code="c">drawn by R.W.</subfield>
+    <subfield code="o">"Set no. 1 (office copy)".</subfield>
+  </datafield>
+  <datafield tag="789" ind1="0" ind2=" ">
+    <subfield code="1">[8]</subfield>
+    <subfield code="i">NYDA.1960.001.01471.</subfield>
+    <subfield code="v">[AVERYimage].</subfield>
+    <subfield code="t">[Details of entrance steps in] plan [and elevations] looking south [and] looking east :</subfield>
+    <subfield code="n">Sheet no. 2 /</subfield>
+    <subfield code="c">drawn by R.W.</subfield>
+    <subfield code="o">"See later drawing".</subfield>
+  </datafield>
+  <datafield tag="789" ind1="0" ind2=" ">
+    <subfield code="1">[9]</subfield>
+    <subfield code="i">NYDA.1960.001.01472.</subfield>
+    <subfield code="v">[AVERYimage].</subfield>
+    <subfield code="t">3/4" scale and F.S. details of doors and side lights -- 3/4" scale detail of side 1'ts (revised design) ; F.S. section thru stiles and rails of side 1'ts ; F.S. section thru stiles and rails of rabbetted doors (make rabbet to fit lock) ; detail of rabbetted doors :</subfield>
+    <subfield code="n">Sheet no. 3.</subfield>
+  </datafield>
+  <datafield tag="789" ind1="0" ind2=" ">
+    <subfield code="1">[10]</subfield>
+    <subfield code="i">NYDA.1960.001.01473.</subfield>
+    <subfield code="v">[AVERYimage].</subfield>
+    <subfield code="t">Stair rail details -- lower run, upper run ; full size details [showing] side of brackets [and] front of bracket :</subfield>
+    <subfield code="n">Sheet no. 6.</subfield>
+  </datafield>
+  <datafield tag="789" ind1="0" ind2=" ">
+    <subfield code="1">[11]</subfield>
+    <subfield code="i">NYDA.1960.001.01474R.</subfield>
+    <subfield code="v">[AVERYimage].</subfield>
+    <subfield code="t">Stair rail details -- lower run, upper run ; full size details showing side of brackets [and] front of bracket ; [rough sketch of plan of stairs] :</subfield>
+    <subfield code="n">Sheet no. 6.</subfield>
+    <subfield code="o">Encapsulated in mylar.</subfield>
+  </datafield>
+  <datafield tag="789" ind1="0" ind2=" ">
+    <subfield code="1">[12]</subfield>
+    <subfield code="i">NYDA.1960.001.01474V.</subfield>
+    <subfield code="v">[AVERYimage].</subfield>
+    <subfield code="t">[Unidentified rough sketches].</subfield>
+    <subfield code="o">Encapsulated in mylar.</subfield>
+  </datafield>
+  <datafield tag="789" ind1="0" ind2=" ">
+    <subfield code="1">[13]</subfield>
+    <subfield code="i">NYDA.1960.001.01475.</subfield>
+    <subfield code="v">[AVERYimage].</subfield>
+    <subfield code="t">1" scale detail of seat in hall -- sectn. "A-A", plan, elevation, section :</subfield>
+    <subfield code="n">Sheet no. 4 /</subfield>
+    <subfield code="c">drawn by L.W.C.</subfield>
+    <subfield code="o">"Note -- seat changed, verify at building'.</subfield>
+    <subfield code="o">"Seat to be made of W.C.".</subfield>
+  </datafield>
+  <datafield tag="789" ind1="0" ind2=" ">
+    <subfield code="1">[14]</subfield>
+    <subfield code="i">NYDA.1960.001.01476.</subfield>
+    <subfield code="v">[AVERYimage].</subfield>
+    <subfield code="t">Full size details of seat in hall -- side view, end view of shelf, detail of arms :</subfield>
+    <subfield code="n">Sheet no. 5 /</subfield>
+    <subfield code="c">drawn by L.W.C.</subfield>
+  </datafield>
+  <datafield tag="900" ind1=" " ind2=" ">
+    <subfield code="a">AUTH</subfield>
+  </datafield>
+</record>
+
+</collection>

@@ -1,0 +1,293 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<collection
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xsi:schemaLocation="http://www.loc.gov/MARC21/slim http://www.loc.gov/standards/marcxml/schema/MARC21slim.xsd"
+  xmlns="http://www.loc.gov/MARC21/slim">
+
+<record>
+  <leader>06319ckdaa2200757 a 4500</leader>
+  <controlfield tag="001">3462359</controlfield>
+  <controlfield tag="005">20100226103428.0</controlfield>
+  <controlfield tag="008">890516m19121913xx ||| |||||||   1k|eng d</controlfield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="a">(OCoLC)84445742</subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="a">(OCoLC)ocm84445742</subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="a">(CStRLIN)NYDA89-F617</subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="9">AAA2830AD</subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="a">(NNC)3462359</subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">NNC</subfield>
+    <subfield code="c">NNC</subfield>
+    <subfield code="e">gihc</subfield>
+  </datafield>
+  <datafield tag="043" ind1=" " ind2=" ">
+    <subfield code="a">n-us-ca</subfield>
+  </datafield>
+  <datafield tag="090" ind1=" " ind2=" ">
+    <subfield code="i">08/15/01 X</subfield>
+    <subfield code="h">01/09/92 N</subfield>
+  </datafield>
+  <datafield tag="110" ind1="2" ind2=" ">
+    <subfield code="a">Greene &amp; Greene.</subfield>
+  </datafield>
+  <datafield tag="240" ind1="1" ind2="0">
+    <subfield code="a">Robert P. McReynolds house (Los Angeles, Calif.).</subfield>
+    <subfield code="p">Alterations and additions.</subfield>
+    <subfield code="f">1912-1913</subfield>
+  </datafield>
+  <datafield tag="245" ind1="1" ind2="0">
+    <subfield code="a">Plans for garden and house alterations for Dr. Robert P. McReynolds, Burkeley [i.e. Berkeley] Square,Los Angeles, Calif.</subfield>
+    <subfield code="h">[graphic] /</subfield>
+    <subfield code="c">Greene &amp; Greene, Arch'ts.</subfield>
+  </datafield>
+  <datafield tag="260" ind1=" " ind2=" ">
+    <subfield code="c">[19]12-[19]13</subfield>
+  </datafield>
+  <datafield tag="300" ind1=" " ind2=" ">
+    <subfield code="a">14 sheets :</subfield>
+    <subfield code="b">various media ;</subfield>
+    <subfield code="c">54 x75.7 cm. (12 1/4 x 29 7/8 in.) or smaller.</subfield>
+  </datafield>
+  <datafield tag="500" ind1=" " ind2=" ">
+    <subfield code="a">Scale varies.</subfield>
+  </datafield>
+  <datafield tag="500" ind1=" " ind2=" ">
+    <subfield code="a">Bracketed title elements supplied by cataloger or taken from inventory.</subfield>
+  </datafield>
+  <datafield tag="580" ind1=" " ind2=" ">
+    <subfield code="a">Forms part of the Greene &amp; Greene collection of architectural drawings ; job no. 304. Dept. of Drawings &amp; Archives, Avery Architectural and Fine Arts Library, Columbia University.</subfield>
+  </datafield>
+  <datafield tag="500" ind1=" " ind2=" ">
+    <subfield code="a">This set consists of 8 graphite drawings on tracing paper, 3 blueprints with graphite markings on paper, and 1 blueprint with crayon and graphite markings on paper.</subfield>
+  </datafield>
+  <datafield tag="541" ind1=" " ind2=" ">
+    <subfield code="a">Gift of Jean Murray Bangs (Mrs Harwell Hamilton Harris), 1960; formerly the collection of Charles Sumner Greene.</subfield>
+  </datafield>
+  <datafield tag="650" ind1=" " ind2="7">
+    <subfield code="a">Houses.</subfield>
+    <subfield code="2">aat</subfield>
+  </datafield>
+  <datafield tag="650" ind1=" " ind2="7">
+    <subfield code="a">Fences.</subfield>
+    <subfield code="2">aat</subfield>
+  </datafield>
+  <datafield tag="650" ind1=" " ind2="7">
+    <subfield code="a">Gardens.</subfield>
+    <subfield code="2">aat</subfield>
+  </datafield>
+  <datafield tag="650" ind1=" " ind2="7">
+    <subfield code="a">Alterations.</subfield>
+    <subfield code="2">aat</subfield>
+  </datafield>
+  <datafield tag="650" ind1=" " ind2="7">
+    <subfield code="a">Cottages.</subfield>
+    <subfield code="2">aat</subfield>
+  </datafield>
+  <datafield tag="650" ind1=" " ind2="7">
+    <subfield code="a">Additions.</subfield>
+    <subfield code="2">aat</subfield>
+  </datafield>
+  <datafield tag="650" ind1=" " ind2="7">
+    <subfield code="a">Garages.</subfield>
+    <subfield code="2">aat</subfield>
+  </datafield>
+  <datafield tag="650" ind1=" " ind2="7">
+    <subfield code="a">Teahouses.</subfield>
+    <subfield code="2">aat</subfield>
+  </datafield>
+  <datafield tag="650" ind1=" " ind2="7">
+    <subfield code="a">Pergolas.</subfield>
+    <subfield code="2">aat</subfield>
+  </datafield>
+  <datafield tag="655" ind1=" " ind2="7">
+    <subfield code="a">Detail drawings.</subfield>
+    <subfield code="2">aat</subfield>
+  </datafield>
+  <datafield tag="655" ind1=" " ind2="7">
+    <subfield code="a">Sketches.</subfield>
+    <subfield code="2">aat</subfield>
+  </datafield>
+  <datafield tag="655" ind1=" " ind2="7">
+    <subfield code="a">Architectural drawings</subfield>
+    <subfield code="x">American.</subfield>
+    <subfield code="2">aat</subfield>
+  </datafield>
+  <datafield tag="655" ind1=" " ind2="7">
+    <subfield code="a">Orthographic drawings.</subfield>
+    <subfield code="2">aat</subfield>
+  </datafield>
+  <datafield tag="651" ind1=" " ind2="0">
+    <subfield code="a">Los Angeles (Calif.)</subfield>
+  </datafield>
+  <datafield tag="610" ind1="2" ind2="0">
+    <subfield code="a">Robert P. McReynolds house (Los Angeles, Calif.)</subfield>
+  </datafield>
+  <datafield tag="650" ind1=" " ind2="0">
+    <subfield code="a">Architecture</subfield>
+    <subfield code="z">United States</subfield>
+    <subfield code="v">Designs and plans.</subfield>
+  </datafield>
+  <datafield tag="700" ind1="1" ind2=" ">
+    <subfield code="a">Greene, Charles Sumner,</subfield>
+    <subfield code="d">1868-1957.</subfield>
+  </datafield>
+  <datafield tag="700" ind1="1" ind2=" ">
+    <subfield code="a">Greene, Henry Mather,</subfield>
+    <subfield code="d">1870-1954.</subfield>
+  </datafield>
+  <datafield tag="700" ind1="1" ind2=" ">
+    <subfield code="a">McReynolds, Robert P.</subfield>
+  </datafield>
+  <datafield tag="755" ind1=" " ind2=" ">
+    <subfield code="a">Pencil drawings.</subfield>
+    <subfield code="2">aat</subfield>
+  </datafield>
+  <datafield tag="755" ind1=" " ind2=" ">
+    <subfield code="a">Blueprints.</subfield>
+    <subfield code="2">aat</subfield>
+  </datafield>
+  <datafield tag="755" ind1=" " ind2=" ">
+    <subfield code="a">Crayon drawings.</subfield>
+    <subfield code="2">aat</subfield>
+  </datafield>
+  <datafield tag="799" ind1="4" ind2="1">
+    <subfield code="a">The Greene &amp; Greene collection of architectural drawings.</subfield>
+  </datafield>
+  <datafield tag="789" ind1="0" ind2=" ">
+    <subfield code="1">[1]</subfield>
+    <subfield code="i">NYDA.1960.001.02553.</subfield>
+    <subfield code="t">Plan [of house and garden] ; [detail] of cement curbs :</subfield>
+    <subfield code="n">No. 1,revised ,</subfield>
+    <subfield code="d">12-26-12.</subfield>
+    <subfield code="o">"Caution -- fence &amp; pergola located on ground by location of house &amp; garage so that plan may vary from this.See dimensions from actual grounds ".</subfield>
+    <subfield code="o">"4 sheets".</subfield>
+  </datafield>
+  <datafield tag="789" ind1="0" ind2=" ">
+    <subfield code="1">[2]</subfield>
+    <subfield code="i">NYDA.1960.001.02554R.</subfield>
+    <subfield code="t">Plan [of house and garden] ; [detail] of cement curbs :</subfield>
+    <subfield code="n">No. 1, revised ,</subfield>
+    <subfield code="d">12-26-12.</subfield>
+    <subfield code="o">Includes changes marked with pencil.</subfield>
+    <subfield code="o">"Office copy".</subfield>
+  </datafield>
+  <datafield tag="789" ind1="0" ind2=" ">
+    <subfield code="1">[3]</subfield>
+    <subfield code="i">NYDA.1960.001.02554V.</subfield>
+    <subfield code="t">{Unidentified detail sketch]</subfield>
+  </datafield>
+  <datafield tag="789" ind1="0" ind2=" ">
+    <subfield code="1">[4]</subfield>
+    <subfield code="i">NYDA.1960.001.02555.</subfield>
+    <subfield code="t">Tea house -- elevation, section A-B, 3" scale detail [of] cement base, section, plan, [vertical detail of column, horizontal] diagram of col[umn] &amp; door frame ; section thro' pergola :</subfield>
+    <subfield code="n">No.2, revised ,</subfield>
+    <subfield code="d">12-26-12.</subfield>
+    <subfield code="o">"Note -- size timbers are given in the rough, all are to be dressed &amp; painted white. All redwood".</subfield>
+    <subfield code="o">"4 sheets".</subfield>
+  </datafield>
+  <datafield tag="789" ind1="0" ind2=" ">
+    <subfield code="1">[5]</subfield>
+    <subfield code="i">NYDA.1960.001.02556.</subfield>
+    <subfield code="t">Tea house -- elevation, section A-B, 3" scale detail [of] cement base, section, plan, [vertical detail of column, horizontal] diagram of col[umn] &amp; door frame ; section thro' pergola :</subfield>
+    <subfield code="n">No. 2, revised ,</subfield>
+    <subfield code="d">12-26-12.</subfield>
+  </datafield>
+  <datafield tag="789" ind1="0" ind2=" ">
+    <subfield code="1">[6]</subfield>
+    <subfield code="i">NYDA.1960.001.02557.</subfield>
+    <subfield code="t">Kitchen wing -- plan [with detail of window], elevation ; pantry details -- east side [with] cold closet, north end, west case :</subfield>
+    <subfield code="n">No. 3, revised ,</subfield>
+    <subfield code="d">12-26-12.</subfield>
+    <subfield code="o">"Specification -- revised work in kitchen wing, original breakfast room omitted &amp; room built on end of kitchen. Pergola at end of kitchen wing omitted:'</subfield>
+  </datafield>
+  <datafield tag="789" ind1="0" ind2=" ">
+    <subfield code="1">[7]</subfield>
+    <subfield code="i">NYDA.1960.001.02558.</subfield>
+    <subfield code="t">Kitchen wing -- plan [with detail of window], elevation ; pantry details -- east side [with] cold closet, north end, west case ; [unidentified sketch] :</subfield>
+    <subfield code="n">No. 3, revised ,</subfield>
+    <subfield code="d">12-26-12.</subfield>
+  </datafield>
+  <datafield tag="789" ind1="0" ind2=" ">
+    <subfield code="1">[8]</subfield>
+    <subfield code="i">NYDA.1960.001.02559.</subfield>
+    <subfield code="t">[Fence details -- section, elevation and] plan of gates ; [elevation and] detail of trellis ; details [and] elevation of garbagery ; [elevation of] alley gates :</subfield>
+    <subfield code="n">No. 4, revised ,</subfield>
+    <subfield code="d">12-26-12.</subfield>
+    <subfield code="o">"4 sheets".</subfield>
+  </datafield>
+  <datafield tag="789" ind1="0" ind2=" ">
+    <subfield code="1">[9]</subfield>
+    <subfield code="i">NYDA.1960.001.02560R.</subfield>
+    <subfield code="t">[Fence details -- section, elevation and] plan of gate ; [elevation and] detail of trellis ; details [and] elevation of garbagery ; [elevation of] alley gates :</subfield>
+    <subfield code="n">No. 4, revised ,</subfield>
+    <subfield code="d">12-26-12.</subfield>
+  </datafield>
+  <datafield tag="789" ind1="0" ind2=" ">
+    <subfield code="1">[10]</subfield>
+    <subfield code="i">NYDA.1960.001.02560V.</subfield>
+    <subfield code="t">[Unidentified sketches]</subfield>
+  </datafield>
+  <datafield tag="789" ind1="0" ind2=" ">
+    <subfield code="1">[11]</subfield>
+    <subfield code="i">NYDA.1960.001.02561.</subfield>
+    <subfield code="t">[Details], plan and elevations of present garage and new chauffeur's cottage -- floor plan, north elevation, west elevation, section thru passage ceiling, typical wall section ; details of garbage receptacle -- part elevation [with plans of] jamb [and] mullion, section :</subfield>
+    <subfield code="n">Sheet no. 5 /</subfield>
+    <subfield code="c">drawn by H.B.</subfield>
+    <subfield code="o">"For further details of lattice, fence, etc. see sheet no. 5[?]".</subfield>
+  </datafield>
+  <datafield tag="789" ind1="0" ind2=" ">
+    <subfield code="1">[12]</subfield>
+    <subfield code="i">NYDA.1960.001.02562.</subfield>
+    <subfield code="t">[Details], plan and elevations of present garage and new chauffeur's cottage -- floor plan, north elevation, west elevation, section thru passage ceiling, typical wall sections ; details of garbage receptacle -- part elevation [with plans of] jamb [and] mullion, section :</subfield>
+    <subfield code="n">Sheet no. 5 /</subfield>
+    <subfield code="c">drawn by H.B.</subfield>
+    <subfield code="o">"Office copy".</subfield>
+    <subfield code="o">Crayon note -- "See sheet no. 4 &amp; 1".</subfield>
+    <subfield code="o">Original sheet no. was "2".</subfield>
+    <subfield code="o">"For further details of lattice, fence, etc. see sheet no. 5".</subfield>
+  </datafield>
+  <datafield tag="789" ind1="0" ind2=" ">
+    <subfield code="1">[13]</subfield>
+    <subfield code="i">NYDA.1960.001.02563.</subfield>
+    <subfield code="t">Garage alteration &amp; addition -- revised plan, plan of fence :</subfield>
+    <subfield code="n">No. 7, extra ,</subfield>
+    <subfield code="d">12/18/12.</subfield>
+    <subfield code="o">"See all notes on original plan".</subfield>
+  </datafield>
+  <datafield tag="789" ind1="0" ind2=" ">
+    <subfield code="1">[14]</subfield>
+    <subfield code="i">NYDA.1960.001.02564.</subfield>
+    <subfield code="t">Elevation [and] plan [of gate with] full size latch details, [detail drawings of] -- top bar of gate showing construction of lattice, [section through fence], hasp, hinge :</subfield>
+    <subfield code="n">6 /</subfield>
+    <subfield code="c">C.N. ,</subfield>
+    <subfield code="d">1-16-13.</subfield>
+  </datafield>
+  <datafield tag="789" ind1="0" ind2=" ">
+    <subfield code="1">[15]</subfield>
+    <subfield code="i">NYDA.1960.001.02565.</subfield>
+    <subfield code="t">Full size details of concrete columns, 1 1/2" scale detail of shaft :</subfield>
+    <subfield code="n">Sheet no. 7 ,</subfield>
+    <subfield code="d">Jan. 3-13.</subfield>
+    <subfield code="o">Original sheet no. erased and replaced with "7".</subfield>
+  </datafield>
+  <datafield tag="789" ind1="0" ind2=" ">
+    <subfield code="1">[16]</subfield>
+    <subfield code="i">NYDA.1960.001.02566.</subfield>
+    <subfield code="t">Half plan of tea-house showing pattern for tile inlay for floor :</subfield>
+    <subfield code="n">8.</subfield>
+  </datafield>
+  <datafield tag="900" ind1=" " ind2=" ">
+    <subfield code="a">AUTH</subfield>
+  </datafield>
+</record>
+
+</collection>

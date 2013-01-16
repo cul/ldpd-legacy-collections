@@ -1,0 +1,419 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<collection
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xsi:schemaLocation="http://www.loc.gov/MARC21/slim http://www.loc.gov/standards/marcxml/schema/MARC21slim.xsd"
+  xmlns="http://www.loc.gov/MARC21/slim">
+
+<record>
+  <leader>09703ckdaa2200793 a 4500</leader>
+  <controlfield tag="001">3460534</controlfield>
+  <controlfield tag="005">20100226102538.0</controlfield>
+  <controlfield tag="008">870305n        xx ||| |||||||    k|eng d</controlfield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="a">(OCoLC)81188013</subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="a">(OCoLC)ocm81188013</subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="a">(CStRLIN)NYDA87-F87</subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="9">AAA1005AD</subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="a">(NNC)3460534</subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">NNC</subfield>
+    <subfield code="c">NNC</subfield>
+    <subfield code="e">gihc</subfield>
+  </datafield>
+  <datafield tag="043" ind1=" " ind2=" ">
+    <subfield code="a">n-us-ny</subfield>
+  </datafield>
+  <datafield tag="100" ind1="1" ind2=" ">
+    <subfield code="a">Ferriss, Hugh,</subfield>
+    <subfield code="d">1889-1962.</subfield>
+  </datafield>
+  <datafield tag="240" ind1="1" ind2="0">
+    <subfield code="a">United Nations (New York, N.Y.)</subfield>
+  </datafield>
+  <datafield tag="245" ind1="1" ind2="0">
+    <subfield code="a">United Nations [building], New York, N.Y.</subfield>
+    <subfield code="h">[graphic]</subfield>
+  </datafield>
+  <datafield tag="260" ind1=" " ind2=" ">
+    <subfield code="c">[undated]</subfield>
+  </datafield>
+  <datafield tag="300" ind1=" " ind2=" ">
+    <subfield code="a">34 drawings :</subfield>
+    <subfield code="b">various media ;</subfield>
+    <subfield code="c">60.8 x 91.1 cm. (24 x 35 7/8 in.) or smaller.</subfield>
+  </datafield>
+  <datafield tag="500" ind1=" " ind2=" ">
+    <subfield code="a">Title supplied by cataloger.</subfield>
+  </datafield>
+  <datafield tag="500" ind1=" " ind2=" ">
+    <subfield code="a">Set consists of: 12  drawings, graphite on paper, some with black or color crayon; 11 drawings, graphite on tracing paper, some with black or color crayon; 5 drawings, charcoal on paper; 1 drawing, charcoal on tracing paper; 3 drawings, crayon (black and color) on tracing paper; and  2 drawings, crayon (black and color) on paper.</subfield>
+  </datafield>
+  <datafield tag="580" ind1=" " ind2=" ">
+    <subfield code="a">Forms part of the Hugh Ferriss architectural drawings and papers, Dept. of Drawings &amp; Archives, Avery Architectural and Fine Arts Library, Columbia University.</subfield>
+  </datafield>
+  <datafield tag="650" ind1=" " ind2="7">
+    <subfield code="a">International organization buildings.</subfield>
+    <subfield code="2">aat</subfield>
+  </datafield>
+  <datafield tag="655" ind1=" " ind2="7">
+    <subfield code="a">Architectural drawings</subfield>
+    <subfield code="x">American.</subfield>
+    <subfield code="2">aat</subfield>
+  </datafield>
+  <datafield tag="655" ind1=" " ind2="7">
+    <subfield code="a">Perspective drawings.</subfield>
+    <subfield code="2">aat</subfield>
+  </datafield>
+  <datafield tag="655" ind1=" " ind2="7">
+    <subfield code="a">Design development drawings.</subfield>
+    <subfield code="2">aat</subfield>
+  </datafield>
+  <datafield tag="651" ind1=" " ind2="0">
+    <subfield code="a">New York (N.Y.)</subfield>
+  </datafield>
+  <datafield tag="650" ind1=" " ind2="0">
+    <subfield code="a">Architecture</subfield>
+    <subfield code="z">United States</subfield>
+    <subfield code="v">Designs and plans.</subfield>
+  </datafield>
+  <datafield tag="610" ind1="2" ind2="0">
+    <subfield code="a">United Nations (New York, N.Y.)</subfield>
+  </datafield>
+  <datafield tag="755" ind1=" " ind2=" ">
+    <subfield code="a">Pencil drawings.</subfield>
+    <subfield code="2">aat</subfield>
+  </datafield>
+  <datafield tag="755" ind1=" " ind2=" ">
+    <subfield code="a">Crayon drawings.</subfield>
+    <subfield code="2">aat</subfield>
+  </datafield>
+  <datafield tag="755" ind1=" " ind2=" ">
+    <subfield code="a">Charcoal drawings.</subfield>
+    <subfield code="2">aat</subfield>
+  </datafield>
+  <datafield tag="799" ind1="4" ind2="3">
+    <subfield code="a">The Hugh Ferriss collection.</subfield>
+  </datafield>
+  <datafield tag="789" ind1="0" ind2=" ">
+    <subfield code="l">[1]</subfield>
+    <subfield code="i">NYDA.1000.001.00225.</subfield>
+    <subfield code="t">[Bird's-eye perspective looking west] :</subfield>
+    <subfield code="n">[Drwg.] #6,</subfield>
+    <subfield code="d">Mar. 12.</subfield>
+    <subfield code="p">Graphite with color crayon on paper ; 45.6 x 60.0 cm. (18 x 24 in.).</subfield>
+    <subfield code="o">"Drwg #6"--inscribed lower left.</subfield>
+    <subfield code="o">"Mar 12" inscribed lower left.</subfield>
+  </datafield>
+  <datafield tag="789" ind1="0" ind2=" ">
+    <subfield code="l">[2]</subfield>
+    <subfield code="i">NYDA.1000.001.00226.</subfield>
+    <subfield code="t">[Bird's-eye perspective looking south] :</subfield>
+    <subfield code="n">[Drwg. no.] 7,</subfield>
+    <subfield code="d">March 16.</subfield>
+    <subfield code="p">Graphite and color crayon on paper ; 45.5 x 61.0 cm. (18 x 24 in.)</subfield>
+    <subfield code="o">"Drwg #7"--lower right; date inscribed lower right.</subfield>
+  </datafield>
+  <datafield tag="789" ind1="0" ind2=" ">
+    <subfield code="l">[3]</subfield>
+    <subfield code="i">NYDA.1000.001.00227.</subfield>
+    <subfield code="t">[Perspective looking west] :</subfield>
+    <subfield code="n">[Drwg. no.] 8,</subfield>
+    <subfield code="d">March 19.</subfield>
+    <subfield code="p">Graphite with color crayon on tracing paper ; 47.6 x 60.6 cm. (18 3/4 x 23 7/8 in.)</subfield>
+    <subfield code="o">"Drwg #8" inscribed lower left; "March 19" inscribed lower left.</subfield>
+  </datafield>
+  <datafield tag="789" ind1="0" ind2=" ">
+    <subfield code="l">[4]</subfield>
+    <subfield code="i">NYDA.1000.001.00228.</subfield>
+    <subfield code="t">[Bird's-eye perspective looking south] :</subfield>
+    <subfield code="n">[Drwg. no.] 12,</subfield>
+    <subfield code="d">March 23.</subfield>
+    <subfield code="p">Graphite with color crayon on paper ; 42.3 x 61.0 cm. (16 5/8 x 24 1/8 in.)</subfield>
+    <subfield code="o">"Drwg #12" and "March 23"--lower left.</subfield>
+  </datafield>
+  <datafield tag="789" ind1="0" ind2=" ">
+    <subfield code="l">[5]</subfield>
+    <subfield code="i">NYDA.1000.001.00229.</subfield>
+    <subfield code="t">[Perspective view looking south] :</subfield>
+    <subfield code="n">[Drwg. no.] 13,</subfield>
+    <subfield code="d">Mar 26.</subfield>
+    <subfield code="p">Graphite with color crayon on paper ; 45.2 x 60.9 cm. (17 3/8 x 24 in.)</subfield>
+    <subfield code="o">"H.F." lower right mostly erased; "Drwg #13" lower right mostly erased; "Mar. 26" lower right mostly erased.</subfield>
+  </datafield>
+  <datafield tag="789" ind1="0" ind2=" ">
+    <subfield code="l">[6]</subfield>
+    <subfield code="i">NYDA.1000.001.00230.</subfield>
+    <subfield code="t">"Sketch #51" :</subfield>
+    <subfield code="n">[Drwg. no.] 14.</subfield>
+    <subfield code="p">Graphite and color crayon on paper ; 36.7 x 61.2 cm. (14 1/2 x 24 1/4 in.)</subfield>
+    <subfield code="o">"Sketch #51" lower left; "drwg. #14" lower left.</subfield>
+    <subfield code="o">Bird's-eye perspective looking south with a paper scrape "Sketch #51, not Scheme #51, correct in List also" inscribed.</subfield>
+  </datafield>
+  <datafield tag="789" ind1="0" ind2=" ">
+    <subfield code="l">[7]</subfield>
+    <subfield code="i">NYDA.1000.001.00232.</subfield>
+    <subfield code="t">View from river :</subfield>
+    <subfield code="n">[Drwg. no.] 21,</subfield>
+    <subfield code="d">April 8.</subfield>
+    <subfield code="p">Charcoal and color (chalk and crayon) on tracing paper ; 45.2 x 60.5 cm. (17 3/4 x 23 7/8 in.)</subfield>
+    <subfield code="o">"Drwg. #21" and "April 8" lower right.</subfield>
+  </datafield>
+  <datafield tag="789" ind1="0" ind2=" ">
+    <subfield code="l">[8]</subfield>
+    <subfield code="i">NYDA.1000.001.00233.</subfield>
+    <subfield code="t">Public's approach :</subfield>
+    <subfield code="n">[Drwg. no.] 22,</subfield>
+    <subfield code="d">April 8.</subfield>
+    <subfield code="p">Black crayon with color crayon and chalk on tracing paper ; 45.1 x 60.5 cm. (18 3/4 x 23 7/8 in.)</subfield>
+    <subfield code="o">Title and drawing no. lower right in pencil, date lower left in pencil.</subfield>
+  </datafield>
+  <datafield tag="789" ind1="0" ind2=" ">
+    <subfield code="l">[9]</subfield>
+    <subfield code="i">NYDA.1000.001.00234.</subfield>
+    <subfield code="t">[Perspective of plaza] :</subfield>
+    <subfield code="n">[Drwg. no.] 30 /</subfield>
+    <subfield code="c">H.F.,</subfield>
+    <subfield code="d">Apr. 9.</subfield>
+    <subfield code="p">Charcoal on paper ; 43.6 x 59.7 cm. (17 1/4 x 23 1/2 in.)</subfield>
+    <subfield code="o">"H.F." in green chalk lower left.</subfield>
+    <subfield code="o">"Drwg #30" lower right in pencil.</subfield>
+    <subfield code="o">Date lower left in pencil.</subfield>
+  </datafield>
+  <datafield tag="789" ind1="0" ind2=" ">
+    <subfield code="l">[10]</subfield>
+    <subfield code="i">NYDA.1000.001.00235.</subfield>
+    <subfield code="t">[Bird's-eye perspective looking north-west] :</subfield>
+    <subfield code="n">[Drwg. no.] 34,</subfield>
+    <subfield code="d">Apr 8.</subfield>
+    <subfield code="p">Graphite with color crayon on tracing paper ; 32.9 x 59.8 cm. (13 x 13 5/8 in.)</subfield>
+    <subfield code="o">Date, "#34", on right side.</subfield>
+  </datafield>
+  <datafield tag="789" ind1="0" ind2=" ">
+    <subfield code="l">[11]</subfield>
+    <subfield code="i">NYDA.1000.001.00236.</subfield>
+    <subfield code="t">[Bird's-eye perspective looking east] :</subfield>
+    <subfield code="n">[Drwg. no.] 41 /</subfield>
+    <subfield code="c">HF,</subfield>
+    <subfield code="d">Apr 18.</subfield>
+    <subfield code="p">Graphite with color crayon on tracing paper on paper ; 21.7 x 27.9 cm. (8 5/8 x 11 in.)</subfield>
+    <subfield code="o">"Drwg #41", "HF", and date, lower left.</subfield>
+  </datafield>
+  <datafield tag="789" ind1="0" ind2=" ">
+    <subfield code="l">[12]</subfield>
+    <subfield code="i">NYDA.1000.001.00237.</subfield>
+    <subfield code="t">[Bird's-eye perspective looking east] :</subfield>
+    <subfield code="n">[Drwg. no.] 42.</subfield>
+    <subfield code="p">Graphite with color crayon on tracing paper ; 21.2 x 27.7 cm. (8 1/2 x 11 in.)</subfield>
+    <subfield code="o">"Drwg #42" lower right.</subfield>
+  </datafield>
+  <datafield tag="789" ind1="0" ind2=" ">
+    <subfield code="l">[13]</subfield>
+    <subfield code="i">NYDA.1000.001.00238.</subfield>
+    <subfield code="t">[Bird's-eye perspective with bridge in foreground] :</subfield>
+    <subfield code="n">[Drwg. no.] 43.</subfield>
+    <subfield code="p">Graphite with color crayon on paper ; 21.7 x 28.0 cm. (8 5/8 x 11 in.)</subfield>
+    <subfield code="o">"Drwg. 43" lower right.</subfield>
+    <subfield code="o">Bridge labeled: Bridge.</subfield>
+  </datafield>
+  <datafield tag="789" ind1="0" ind2=" ">
+    <subfield code="l">[14]</subfield>
+    <subfield code="i">NYDA.1000.001.00239.</subfield>
+    <subfield code="t">[Perspective of plaza] : Scheme #32 :</subfield>
+    <subfield code="n">[Drwg. no.] 58,</subfield>
+    <subfield code="d">May 16.</subfield>
+    <subfield code="p">Black and color crayon on paper ; 45.0 x 60.8 cm. (17 3/4 x 24 in.)</subfield>
+    <subfield code="o">"Scheme #32", "May 6", lower right.</subfield>
+    <subfield code="o">"Drwg #58" lower center right.</subfield>
+  </datafield>
+  <datafield tag="789" ind1="0" ind2=" ">
+    <subfield code="l">[15]</subfield>
+    <subfield code="i">NYDA.1000.001.00240.</subfield>
+    <subfield code="t">[Perspective of plaza] :</subfield>
+    <subfield code="n">[Drwg. no.] 67.</subfield>
+    <subfield code="p">Charcoal and color chalk on paper ; 45.3 x 59.1 cm. (17 7/8 x 23 1/4 in.)</subfield>
+    <subfield code="p">"Drwg #67" lower right.</subfield>
+  </datafield>
+  <datafield tag="789" ind1="0" ind2=" ">
+    <subfield code="l">[16]</subfield>
+    <subfield code="i">NYDA.1000.001.00241.</subfield>
+    <subfield code="t">[Perspective from river] :</subfield>
+    <subfield code="n">[Drwg. no.] 68,</subfield>
+    <subfield code="d">Mar. 24.</subfield>
+    <subfield code="p">Black crayon [or charcoal] with color crayon and white gouache on tracing paper ; 45.0 x 61.0 cm. (17 3/4 x 24 in.)</subfield>
+    <subfield code="o">"Drwg #68" and date, lower left.</subfield>
+  </datafield>
+  <datafield tag="789" ind1="0" ind2=" ">
+    <subfield code="l">[17]</subfield>
+    <subfield code="i">NYDA.1000.001.00242.</subfield>
+    <subfield code="t">[Site plan and bird's-eye perspectives] :</subfield>
+    <subfield code="n">[Drwg. no.] 74.</subfield>
+    <subfield code="p">Graphit with color on tracing paper on board ; 61.2 x 46.1 cm. (24 1/8 x 18 1/8 in.)</subfield>
+    <subfield code="o">"Drawg #74" lower right.</subfield>
+    <subfield code="o">100' = 1", lower right.</subfield>
+    <subfield code="o">Some small sketches on verso of mount.</subfield>
+  </datafield>
+  <datafield tag="789" ind1="0" ind2=" ">
+    <subfield code="l">[18]</subfield>
+    <subfield code="i">NYDA.1000.001.00243.</subfield>
+    <subfield code="t">[Bird's-eye perspective] :</subfield>
+    <subfield code="n">[Drwg. no.] 91.</subfield>
+    <subfield code="p">Graphite on paper ; 45.9 x 61.0 cm. (18 1/8 x 24 in.)</subfield>
+    <subfield code="o">"Drwg #91" lower right.</subfield>
+  </datafield>
+  <datafield tag="789" ind1="0" ind2=" ">
+    <subfield code="l">[19]</subfield>
+    <subfield code="i">NYDA.1000.001.00244.</subfield>
+    <subfield code="t">[Perspective from river] :</subfield>
+    <subfield code="n">[Drwg. no.] 99.</subfield>
+    <subfield code="p">Graphite on paper ; 45.2 x 60.2 cm. (12 3/4 x 23 3/4 in.)</subfield>
+    <subfield code="o">"Drwg. 99" lower right.</subfield>
+  </datafield>
+  <datafield tag="789" ind1="0" ind2=" ">
+    <subfield code="l">[20]</subfield>
+    <subfield code="i">NYDA.1000.001.00245.</subfield>
+    <subfield code="t">[Perspective from river] :</subfield>
+    <subfield code="n">[Drwg. no.] 100 /</subfield>
+    <subfield code="c">H.F.</subfield>
+    <subfield code="p">Graphite on tracing paper ; 43.3 x 60.0 cm. (17 1/8 x 23 5/8 in.)</subfield>
+    <subfield code="o">Initials and "Drwg #100", lower right.</subfield>
+  </datafield>
+  <datafield tag="789" ind1="0" ind2=" ">
+    <subfield code="l">[21]</subfield>
+    <subfield code="i">NYDA.1000.001.00246.</subfield>
+    <subfield code="t">Scheme #25-E : [perspective of plaza] :</subfield>
+    <subfield code="n">[Drwg. no.] 103,</subfield>
+    <subfield code="d">May 19.</subfield>
+    <subfield code="p">Graphite with color crayon on paper ; 43.7 x 66.9 cm. (17 1/4 x 26 3/8 in.)</subfield>
+    <subfield code="o">"Scheme #25-E", and "Drwg. #103" in pencil lower right.</subfield>
+    <subfield code="o">Date in crayon in lower right.</subfield>
+  </datafield>
+  <datafield tag="789" ind1="0" ind2=" ">
+    <subfield code="l">[22]</subfield>
+    <subfield code="i">NYDA.1000.001.00247.</subfield>
+    <subfield code="t">[Perspective from 1st Ave.] :</subfield>
+    <subfield code="n">[Drwg. no.] 105.</subfield>
+    <subfield code="p">Graphite with black crayon on paper ; 51.7 x 81.7 cm. (26 1/2 x 32 1/4 in.)</subfield>
+    <subfield code="o">"#105" lower center-right.</subfield>
+  </datafield>
+  <datafield tag="789" ind1="0" ind2=" ">
+    <subfield code="l">[23]</subfield>
+    <subfield code="i">NYDA.1000.001.00248.</subfield>
+    <subfield code="t">[Perspective from 1st Ave.] :</subfield>
+    <subfield code="n">[Drwg. no.] 106.</subfield>
+    <subfield code="p">Charcoal on paper ; 43.0 x 66.2 cm. (17 x 26 1/8 in.)</subfield>
+    <subfield code="o">"#106" lower right.</subfield>
+  </datafield>
+  <datafield tag="789" ind1="0" ind2=" ">
+    <subfield code="l">[24]</subfield>
+    <subfield code="i">NYDA.1000.001.00249.</subfield>
+    <subfield code="t">[Perspective from 1st Ave.] :</subfield>
+    <subfield code="n">[Drwg. no.] 107.</subfield>
+    <subfield code="p">Graphite with color on tracing paper ; 33.2 x 45.6 cm. (13 1/8 x 21 1/2 in.)</subfield>
+    <subfield code="o">"#107" lower right.</subfield>
+  </datafield>
+  <datafield tag="789" ind1="0" ind2=" ">
+    <subfield code="l">[25]</subfield>
+    <subfield code="i">NYDA.1000.001.00250.</subfield>
+    <subfield code="t">[Perspective from 1st Ave.] :</subfield>
+    <subfield code="n">[Drwg. no.] 108.</subfield>
+    <subfield code="p">Graphite with color crayon on tracing paper ; 41 x 60.7 cm. (16 1/8 x 24 in.)</subfield>
+    <subfield code="o">"#108" lower right.</subfield>
+  </datafield>
+  <datafield tag="789" ind1="0" ind2=" ">
+    <subfield code="l">[26]</subfield>
+    <subfield code="i">NYDA.1000.001.00251.</subfield>
+    <subfield code="t">[Perspective of plaza] :</subfield>
+    <subfield code="n">[Drwg. no.] 110,</subfield>
+    <subfield code="d">May.</subfield>
+    <subfield code="p">Graphite and black crayon with color crayon on tracing paper ; 45.9 x 61.1 cm. ( 18 1/8 x 24 1/8 in.)</subfield>
+    <subfield code="o">Drwg. "#110", "May", lower right.</subfield>
+  </datafield>
+  <datafield tag="789" ind1="0" ind2=" ">
+    <subfield code="l">[27]</subfield>
+    <subfield code="i">NYDA.1000.001.00252.</subfield>
+    <subfield code="t">[Perspective from the river] :</subfield>
+    <subfield code="n">[Drwg. no.] 117.</subfield>
+    <subfield code="p">Black crayon with color crayon on tracing paper ; 51.0 x 88.9 cm. (20 1/8 x 35 in.)</subfield>
+    <subfield code="o">"#117" lower left (written twice).</subfield>
+  </datafield>
+  <datafield tag="789" ind1="0" ind2=" ">
+    <subfield code="l">[28]</subfield>
+    <subfield code="i">NYDA.1000.001.00253.</subfield>
+    <subfield code="t">[Perspective from river] :</subfield>
+    <subfield code="n">[Drwg. no.] 116.</subfield>
+    <subfield code="p">Graphite on tracing paper ; 51.7 x 90.7 cm. (20 3/8 x 35 3/4 in.)</subfield>
+    <subfield code="o">"#119" lower left.</subfield>
+    <subfield code="o">"UN not in Power in Bldgs."-- inscribed lower left (matting instructions in red outside border, mostly arrows and lines).</subfield>
+  </datafield>
+  <datafield tag="789" ind1="0" ind2=" ">
+    <subfield code="l">[29]</subfield>
+    <subfield code="i">NYDA.1000.001.00254.</subfield>
+    <subfield code="t">[Perspective from river] :</subfield>
+    <subfield code="n">[Drwg. no.] 122.</subfield>
+    <subfield code="p">Graphite on paper ; 46.9 x 61.9 cm. (18 1/2 x 24 3/4 in.)</subfield>
+    <subfield code="o">"#122" lower right.</subfield>
+    <subfield code="o">Drawing has a few small spots of gouache.</subfield>
+    <subfield code="o">Preliminary for drawing no. 1000.001.00255.</subfield>
+  </datafield>
+  <datafield tag="789" ind1="0" ind2=" ">
+    <subfield code="l">[30]</subfield>
+    <subfield code="i">NYDA.1000.001.00255.</subfield>
+    <subfield code="t">[Perspective from river] :</subfield>
+    <subfield code="n">[Drwg. no.] 126 /</subfield>
+    <subfield code="c">Hugh Ferriss,</subfield>
+    <subfield code="d">June 13.</subfield>
+    <subfield code="p">Charcoal on paper on board ; 50.7 x 63.7 cm. (20 x 25 1/8 in.)</subfield>
+    <subfield code="o">Signed lower right, also initialed on verso.</subfield>
+    <subfield code="o">"#126" lower left, also on verso as "Drwg #126".</subfield>
+    <subfield code="o">"June 13", lower left.</subfield>
+    <subfield code="o">"U.N. P. in Bldg. Pl. 42" inscribed lower right.</subfield>
+    <subfield code="o">Note: this is not Plate 42; this drawing is not in Power in Buildings.</subfield>
+  </datafield>
+  <datafield tag="789" ind1="0" ind2=" ">
+    <subfield code="l">[31]</subfield>
+    <subfield code="i">NYDA.1000.001.00256.</subfield>
+    <subfield code="t">Perspective of plaza :</subfield>
+    <subfield code="n">[Drwg. no. 127].</subfield>
+    <subfield code="p">Black crayon on paper ; 42.1 x 66.9 cm. (16 5/8 x 26 3/8 in.)</subfield>
+    <subfield code="o">"#127"lower right.</subfield>
+    <subfield code="o">"#121"lower left with a "7"[?] or "9"[?] written over the 1.</subfield>
+  </datafield>
+  <datafield tag="789" ind1="0" ind2=" ">
+    <subfield code="l">[32]</subfield>
+    <subfield code="i">NYDA.1000.001.00257.</subfield>
+    <subfield code="t">[Perspective from river],</subfield>
+    <subfield code="d">Mar 2.</subfield>
+    <subfield code="p">Graphite on tracing paper ; 60.8 x 91.1 cm. (24 x 35 7/8 in.)</subfield>
+    <subfield code="o">"Mar 2" inscribed lower right.</subfield>
+    <subfield code="o">"U.N." inscribed lower left in blue ink.</subfield>
+  </datafield>
+  <datafield tag="789" ind1="0" ind2=" ">
+    <subfield code="l">[33]</subfield>
+    <subfield code="i">NYDA.1000.001.00258.</subfield>
+    <subfield code="t">[Site plan]</subfield>
+    <subfield code="p">Graphite with color on paper ; 40.9 x 42.1 cm. (16 1/8 x 16 5.8 in.)</subfield>
+    <subfield code="o">1" = 80'--inscribed lower center.</subfield>
+  </datafield>
+  <datafield tag="789" ind1="0" ind2=" ">
+    <subfield code="l">[34]</subfield>
+    <subfield code="i">NYDA.1000.001.00259.</subfield>
+    <subfield code="t">[Bird's-eye perspective]</subfield>
+    <subfield code="p">Charcoal with graphite on tracing paper ; 55.8 x 75.7 cm. (22 x 29 7/8 in.)</subfield>
+    <subfield code="o">Drawn on both sides.</subfield>
+    <subfield code="o">Plate 44 in Power in buildings(?).</subfield>
+  </datafield>
+  <datafield tag="900" ind1=" " ind2=" ">
+    <subfield code="a">AUTH</subfield>
+  </datafield>
+</record>
+
+</collection>

@@ -1,0 +1,691 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<collection
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xsi:schemaLocation="http://www.loc.gov/MARC21/slim http://www.loc.gov/standards/marcxml/schema/MARC21slim.xsd"
+  xmlns="http://www.loc.gov/MARC21/slim">
+
+<record>
+  <leader>12912ckdaa2201441 a 4500</leader>
+  <controlfield tag="001">3462484</controlfield>
+  <controlfield tag="005">20100226103457.0</controlfield>
+  <controlfield tag="008">890622i19121924xx ||| |||||||   1k|eng d</controlfield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="a">(OCoLC)81109926</subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="a">(OCoLC)ocm81109926</subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="a">(CStRLIN)NYDA89-F730</subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="9">AAA2955AD</subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="a">(NNC)3462484</subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">NNC</subfield>
+    <subfield code="c">NNC</subfield>
+    <subfield code="e">gihc</subfield>
+  </datafield>
+  <datafield tag="043" ind1=" " ind2=" ">
+    <subfield code="a">n-us-ca</subfield>
+  </datafield>
+  <datafield tag="090" ind1=" " ind2=" ">
+    <subfield code="i">06/04/01 T</subfield>
+    <subfield code="h">01/09/92 N</subfield>
+  </datafield>
+  <datafield tag="100" ind1="1" ind2=" ">
+    <subfield code="a">Greene, Henry Mather,</subfield>
+    <subfield code="d">1870-1954.</subfield>
+  </datafield>
+  <datafield tag="240" ind1="1" ind2="0">
+    <subfield code="a">W. D. Valentine houses (Altadena, Calif.).</subfield>
+    <subfield code="p">Alterations and new work</subfield>
+  </datafield>
+  <datafield tag="245" ind1="1" ind2="0">
+    <subfield code="a">[New] cottage[s and alterations to existing structures] for Mr. W. D.Valentine, Altadena, [Calif.].</subfield>
+    <subfield code="h">[graphic] /</subfield>
+    <subfield code="c">Henry M. Greene, Architect.</subfield>
+  </datafield>
+  <datafield tag="260" ind1=" " ind2=" ">
+    <subfield code="c">1912, [19]22-1924.</subfield>
+  </datafield>
+  <datafield tag="300" ind1=" " ind2=" ">
+    <subfield code="a">67 sheets :</subfield>
+    <subfield code="b">various media ;</subfield>
+    <subfield code="c">57.8 x 70.4 cm. (22 3/4 x 27 5/8 in.) or smaller +</subfield>
+    <subfield code="c">2 sheets of paper.</subfield>
+  </datafield>
+  <datafield tag="500" ind1=" " ind2=" ">
+    <subfield code="a">Scale varies.</subfield>
+  </datafield>
+  <datafield tag="500" ind1=" " ind2=" ">
+    <subfield code="a">Bracketed title elements supplied by cataloger or taken from inventory.</subfield>
+  </datafield>
+  <datafield tag="500" ind1=" " ind2=" ">
+    <subfield code="a">Forms part of the Greene &amp; Greene collection of architectural drawings ; job no. 438.</subfield>
+  </datafield>
+  <datafield tag="500" ind1=" " ind2=" ">
+    <subfield code="a">This set includes a sheet of "Pasadena Stationery &amp; Printing Co." note paper with notes dated 7/25/24. There is also a sheet of backing paper for a roll of drawings. Neither of these items was accessioned or photographed.</subfield>
+  </datafield>
+  <datafield tag="500" ind1=" " ind2=" ">
+    <subfield code="a">This set consists of 53 pencil drawings on tracing paper, 7 pencil drawings on paper, 4 pencil and ink drawings on tracing paper, 3 ink drawings with pencil markings on tracing paper, 2 blueprints with crayon markings on paper, 1 blueprint on paper, and 1 blueprint with pencil markings on paper.</subfield>
+  </datafield>
+  <datafield tag="561" ind1=" " ind2=" ">
+    <subfield code="a">Gift of Jean Murray Bangs (Mrs. Harwell Hamilton Harris), 1960; formerly the collection of Charles Sumner Greene.</subfield>
+  </datafield>
+  <datafield tag="650" ind1=" " ind2="7">
+    <subfield code="a">Houses.</subfield>
+    <subfield code="2">aat</subfield>
+  </datafield>
+  <datafield tag="650" ind1=" " ind2="7">
+    <subfield code="a">Additions.</subfield>
+    <subfield code="2">aat</subfield>
+  </datafield>
+  <datafield tag="650" ind1=" " ind2="7">
+    <subfield code="a">Cottages.</subfield>
+    <subfield code="2">aat</subfield>
+  </datafield>
+  <datafield tag="650" ind1=" " ind2="7">
+    <subfield code="a">Gateways.</subfield>
+    <subfield code="2">aat</subfield>
+  </datafield>
+  <datafield tag="650" ind1=" " ind2="7">
+    <subfield code="a">Bungalows.</subfield>
+    <subfield code="2">aat</subfield>
+  </datafield>
+  <datafield tag="650" ind1=" " ind2="7">
+    <subfield code="a">Alterations.</subfield>
+    <subfield code="2">aat</subfield>
+  </datafield>
+  <datafield tag="655" ind1=" " ind2="7">
+    <subfield code="a">Detail drawings.</subfield>
+    <subfield code="2">aat</subfield>
+  </datafield>
+  <datafield tag="655" ind1=" " ind2="7">
+    <subfield code="a">Diagrams.</subfield>
+    <subfield code="2">aat</subfield>
+  </datafield>
+  <datafield tag="655" ind1=" " ind2="7">
+    <subfield code="a">Site plans.</subfield>
+    <subfield code="2">aat</subfield>
+  </datafield>
+  <datafield tag="655" ind1=" " ind2="7">
+    <subfield code="a">Sketches.</subfield>
+    <subfield code="2">aat</subfield>
+  </datafield>
+  <datafield tag="655" ind1=" " ind2="7">
+    <subfield code="a">Architectural drawings</subfield>
+    <subfield code="x">American.</subfield>
+    <subfield code="2">aat</subfield>
+  </datafield>
+  <datafield tag="655" ind1=" " ind2="7">
+    <subfield code="a">Perspective drawings.</subfield>
+    <subfield code="2">aat</subfield>
+  </datafield>
+  <datafield tag="655" ind1=" " ind2="7">
+    <subfield code="a">Orthographic drawings.</subfield>
+    <subfield code="2">aat</subfield>
+  </datafield>
+  <datafield tag="691" ind1=" " ind2="0">
+    <subfield code="a">Altadena (Calif.)</subfield>
+  </datafield>
+  <datafield tag="697" ind1="2" ind2="4">
+    <subfield code="a">W. D. Valentine houses (Altadena, Calif.).</subfield>
+  </datafield>
+  <datafield tag="650" ind1=" " ind2="0">
+    <subfield code="a">Architecture</subfield>
+    <subfield code="z">United States</subfield>
+    <subfield code="v">Designs and plans.</subfield>
+  </datafield>
+  <datafield tag="700" ind1="1" ind2=" ">
+    <subfield code="a">Day, Clarence P.</subfield>
+  </datafield>
+  <datafield tag="700" ind1="1" ind2=" ">
+    <subfield code="a">Valentine, W. D.</subfield>
+  </datafield>
+  <datafield tag="710" ind1="2" ind2=" ">
+    <subfield code="a">Greene &amp; Greene.</subfield>
+  </datafield>
+  <datafield tag="755" ind1=" " ind2=" ">
+    <subfield code="a">Pencil drawings.</subfield>
+    <subfield code="2">aat</subfield>
+  </datafield>
+  <datafield tag="755" ind1=" " ind2=" ">
+    <subfield code="a">Ink drawings.</subfield>
+    <subfield code="2">aat</subfield>
+  </datafield>
+  <datafield tag="755" ind1=" " ind2=" ">
+    <subfield code="a">Blueprints.</subfield>
+    <subfield code="2">aat</subfield>
+  </datafield>
+  <datafield tag="755" ind1=" " ind2=" ">
+    <subfield code="a">Crayon drawings.</subfield>
+    <subfield code="2">aat</subfield>
+  </datafield>
+  <datafield tag="799" ind1="4" ind2="1">
+    <subfield code="a">The Greene &amp; Greene collection of architectural drawings.</subfield>
+  </datafield>
+  <datafield tag="789" ind1="0" ind2=" ">
+    <subfield code="1">[1]</subfield>
+    <subfield code="i">NYDA.1960.001.04207.</subfield>
+    <subfield code="v">[AVERYimage].</subfield>
+    <subfield code="t">[Site plan of] Valentine property at Altadena, Cal. /</subfield>
+    <subfield code="c">surveyed by Clarence P. Day, Civil Engineer,</subfield>
+    <subfield code="d">December 1912.</subfield>
+    <subfield code="o">On verso -- "8/15/23".</subfield>
+  </datafield>
+  <datafield tag="789" ind1="0" ind2=" ">
+    <subfield code="1">[2]</subfield>
+    <subfield code="i">NYDA.1960.001.04208.</subfield>
+    <subfield code="v">[AVERYimage].</subfield>
+    <subfield code="t">Additions to west bungalow -- plan, east elevation :</subfield>
+    <subfield code="n">Sheet no. 1.</subfield>
+    <subfield code="o">"Job no. 438a".</subfield>
+  </datafield>
+  <datafield tag="789" ind1="0" ind2=" ">
+    <subfield code="1">[3]</subfield>
+    <subfield code="i">NYDA.1960.001.04209.</subfield>
+    <subfield code="v">[AVERYimage].</subfield>
+    <subfield code="t">Additions to west bungalow -- south [and] west [exterior elevations] ; living room (east side [interior elevations]) ; south end [interior elevation] ; section thru beams and slab :</subfield>
+    <subfield code="n">Sheet no. 2.</subfield>
+    <subfield code="o">"Job no. 438a".</subfield>
+  </datafield>
+  <datafield tag="789" ind1="0" ind2=" ">
+    <subfield code="1">[4]</subfield>
+    <subfield code="i">NYDA.1960.001.04223.</subfield>
+    <subfield code="v">[AVERYimage].</subfield>
+    <subfield code="t">[Additions to west bungalow -- living room (east side interior elevation) ; south end interior elevation] ; section thro' beams and slab.</subfield>
+    <subfield code="o">"438a".</subfield>
+  </datafield>
+  <datafield tag="789" ind1="0" ind2=" ">
+    <subfield code="1">[5]</subfield>
+    <subfield code="i">NYDA.1960.001.04210.</subfield>
+    <subfield code="v">[AVERYimage].</subfield>
+    <subfield code="t">[Drawing which] shows raising of living room, Valentine additions -- elevation (showing new part raised up), plan :</subfield>
+    <subfield code="n">Sheet no. 3.</subfield>
+    <subfield code="o">"Job no. 438a".</subfield>
+  </datafield>
+  <datafield tag="789" ind1="0" ind2=" ">
+    <subfield code="1">[6]</subfield>
+    <subfield code="i">NYDA.1960.001.04211.</subfield>
+    <subfield code="v">[AVERYimage].</subfield>
+    <subfield code="t">[Additions to west bungalow] -- south [and] west [exterior elevations].</subfield>
+    <subfield code="o">"438a".</subfield>
+  </datafield>
+  <datafield tag="789" ind1="0" ind2=" ">
+    <subfield code="1">[7]</subfield>
+    <subfield code="i">NYDA.1960.001.04272.</subfield>
+    <subfield code="v">[AVERYimage].</subfield>
+    <subfield code="t">[Unidentified diagram showing dimensions],</subfield>
+    <subfield code="d">10/17/22.</subfield>
+    <subfield code="o">"438a".</subfield>
+  </datafield>
+  <datafield tag="789" ind1="0" ind2=" ">
+    <subfield code="1">[8]</subfield>
+    <subfield code="i">NYDA.1960.001.04212.</subfield>
+    <subfield code="v">[AVERYimage].</subfield>
+    <subfield code="t">Sleeping porch addition to bungalow no. 2 -- south elevation [and] east elevation [of exterior], plan :</subfield>
+    <subfield code="n">Sheet no. 1.</subfield>
+    <subfield code="o">"Job no. 438b".</subfield>
+  </datafield>
+  <datafield tag="789" ind1="0" ind2=" ">
+    <subfield code="1">[9]</subfield>
+    <subfield code="i">NYDA.1960.001.04213.</subfield>
+    <subfield code="v">[AVERYimage].</subfield>
+    <subfield code="t">Closet addition to bungalow 2 -- plan, [exterior elevation of] south side :</subfield>
+    <subfield code="n">Sheet no. 2,</subfield>
+    <subfield code="d">Sent copy Mr. Valentine 11/19/24.</subfield>
+    <subfield code="o">"Job 438b".</subfield>
+  </datafield>
+  <datafield tag="789" ind1="0" ind2=" ">
+    <subfield code="1">[10]</subfield>
+    <subfield code="i">NYDA.1960.001.04214.</subfield>
+    <subfield code="v">[AVERYimage].</subfield>
+    <subfield code="t">Addition to cottage b2 -- cross section (north), east elevation, south elevation, F.S.D. [showing] corner boards of panneling rabbeted, plan, cross section (south), [unidentified details] :</subfield>
+    <subfield code="n">Sheet no. 1.</subfield>
+    <subfield code="o">"Job no. 438b2".</subfield>
+  </datafield>
+  <datafield tag="789" ind1="0" ind2=" ">
+    <subfield code="1">[11]</subfield>
+    <subfield code="i">NYDA.1960.001.04215R.</subfield>
+    <subfield code="v">[AVERYimage].</subfield>
+    <subfield code="t">Addition to cottage b2 -- cross section (north), east elevation, south elevation, F.S.D. [showing] corner boards of panneling rabbeted, plan, cross section (south), [unidentified details] :</subfield>
+    <subfield code="n">Sheet no. 1.</subfield>
+    <subfield code="o">"Job no. 438b2".</subfield>
+  </datafield>
+  <datafield tag="789" ind1="0" ind2=" ">
+    <subfield code="1">[12]</subfield>
+    <subfield code="i">NYDA.1960.001.04215V.</subfield>
+    <subfield code="v">[AVERYimage].</subfield>
+    <subfield code="t">[Detail showing] fire brick [and] stud.</subfield>
+    <subfield code="o">"Face of fire brick 1/2" back of face of stud".</subfield>
+  </datafield>
+  <datafield tag="789" ind1="0" ind2=" ">
+    <subfield code="1">[13]</subfield>
+    <subfield code="i">NYDA.1960.001.04216.</subfield>
+    <subfield code="v">[AVERYimage].</subfield>
+    <subfield code="t">Addition to cottage b2 -- west elevation, section[s], longitudinal section (west), longitudinal section (east), [details of] hinge on dutch door :</subfield>
+    <subfield code="n">Sheet no. 2.</subfield>
+    <subfield code="o">"Job no. 438b2".</subfield>
+  </datafield>
+  <datafield tag="789" ind1="0" ind2=" ">
+    <subfield code="1">[14]</subfield>
+    <subfield code="i">NYDA.1960.001.04217.</subfield>
+    <subfield code="v">[AVERYimage].</subfield>
+    <subfield code="t">Addition to cottage b2 -- west elevation, section[s], longitudinal section (west), longitudinal section (east), [details of] hinge on dutch door :</subfield>
+    <subfield code="n">Sheet no. 2.</subfield>
+    <subfield code="o">"Job no. 438b2".</subfield>
+  </datafield>
+  <datafield tag="789" ind1="0" ind2=" ">
+    <subfield code="1">[15]</subfield>
+    <subfield code="i">NYDA.1960.001.04218.</subfield>
+    <subfield code="v">[AVERYimage].</subfield>
+    <subfield code="t">Cottage "d" -- first floor plan :</subfield>
+    <subfield code="n">Sheet no. 1.</subfield>
+    <subfield code="o">"Job no. 438d".</subfield>
+  </datafield>
+  <datafield tag="789" ind1="0" ind2=" ">
+    <subfield code="1">[16]</subfield>
+    <subfield code="i">NYDA.1960.001.04219.</subfield>
+    <subfield code="v">[AVERYimage].</subfield>
+    <subfield code="t">Cottage "d" -- first floor plan :</subfield>
+    <subfield code="n">Sheet no. 1.</subfield>
+    <subfield code="o">"Job no. 438d".</subfield>
+  </datafield>
+  <datafield tag="789" ind1="0" ind2=" ">
+    <subfield code="1">[17]</subfield>
+    <subfield code="i">NYDA.1960.001.04220.</subfield>
+    <subfield code="v">[AVERYimage].</subfield>
+    <subfield code="t">[Cottage "d"] -- first floor [plan].</subfield>
+    <subfield code="o">"438d".</subfield>
+  </datafield>
+  <datafield tag="789" ind1="0" ind2=" ">
+    <subfield code="1">[18]</subfield>
+    <subfield code="i">NYDA.1960.001.04221.</subfield>
+    <subfield code="v">[AVERYimage].</subfield>
+    <subfield code="t">[Cottage "d"] -- 2d floor [plan] :</subfield>
+    <subfield code="n">Sheet #2.</subfield>
+    <subfield code="o">"Job no. 438d".</subfield>
+  </datafield>
+  <datafield tag="789" ind1="0" ind2=" ">
+    <subfield code="1">[19]</subfield>
+    <subfield code="i">NYDA.1960.001.04222.</subfield>
+    <subfield code="v">[AVERYimage].</subfield>
+    <subfield code="t">Design for gate posts [at] Holliston Ave. -- elevation, plan :</subfield>
+    <subfield code="n">Sheet no. 1.</subfield>
+    <subfield code="o">"Job no. 438d".</subfield>
+  </datafield>
+  <datafield tag="789" ind1="0" ind2=" ">
+    <subfield code="1">[20]</subfield>
+    <subfield code="i">NYDA.1960.001.04224.</subfield>
+    <subfield code="v">[AVERYimage].</subfield>
+    <subfield code="t">[Design for gate posts] -- plan, elevation[s, detail of] name [plate].</subfield>
+    <subfield code="o">"438d".</subfield>
+  </datafield>
+  <datafield tag="789" ind1="0" ind2=" ">
+    <subfield code="1">[21]</subfield>
+    <subfield code="i">NYDA.1960.001.04225.</subfield>
+    <subfield code="v">[AVERYimage].</subfield>
+    <subfield code="t">Alterations to "d" cottage - plan :</subfield>
+    <subfield code="n">Sheet no. 4,</subfield>
+    <subfield code="d">Copy given Mr. Valentine 9/4/24.</subfield>
+    <subfield code="o">"Job no. 438dR".</subfield>
+  </datafield>
+  <datafield tag="789" ind1="0" ind2=" ">
+    <subfield code="1">[22]</subfield>
+    <subfield code="i">NYDA.1960.001.04226.</subfield>
+    <subfield code="v">[AVERYimage].</subfield>
+    <subfield code="t">[Alterations to "d" cottage] -- south [elevation] :</subfield>
+    <subfield code="n">Sheet no. 4.</subfield>
+    <subfield code="o">"Job no. 438dR".</subfield>
+  </datafield>
+  <datafield tag="789" ind1="0" ind2=" ">
+    <subfield code="1">[23]</subfield>
+    <subfield code="i">NYDA.1960.001.04227.</subfield>
+    <subfield code="v">[AVERYimage].</subfield>
+    <subfield code="t">[Interior elevations showing alterations to "d" cottage] -- west wall, interior showing mantel, east wall, north wall :</subfield>
+    <subfield code="n">Sheet no. 5.</subfield>
+    <subfield code="o">"Job no. 438dR".</subfield>
+  </datafield>
+  <datafield tag="789" ind1="0" ind2=" ">
+    <subfield code="1">[24]</subfield>
+    <subfield code="i">NYDA.1960.001.04228.</subfield>
+    <subfield code="v">[AVERYimage].</subfield>
+    <subfield code="t">So. west elevation.</subfield>
+    <subfield code="o">"438dR2".</subfield>
+  </datafield>
+  <datafield tag="789" ind1="0" ind2=" ">
+    <subfield code="1">[25]</subfield>
+    <subfield code="i">NYDA.1960.001.04229.</subfield>
+    <subfield code="v">[AVERYimage].</subfield>
+    <subfield code="t">First floor plan.</subfield>
+    <subfield code="o">"438dR2".</subfield>
+  </datafield>
+  <datafield tag="789" ind1="0" ind2=" ">
+    <subfield code="1">[26]</subfield>
+    <subfield code="i">NYDA.1960.001.04230.</subfield>
+    <subfield code="v">[AVERYimage].</subfield>
+    <subfield code="t">Second floor plan.</subfield>
+    <subfield code="o">"438dR2".</subfield>
+  </datafield>
+  <datafield tag="789" ind1="0" ind2=" ">
+    <subfield code="1">[27]</subfield>
+    <subfield code="i">NYDA.1960.001.04231.</subfield>
+    <subfield code="v">[AVERYimage].</subfield>
+    <subfield code="t">Cottage dR3 -- section A-A, section B-B, foundation plan, first floor plan :</subfield>
+    <subfield code="n">Sheet no. 1.</subfield>
+    <subfield code="o">"Job no. 438dR3".</subfield>
+  </datafield>
+  <datafield tag="789" ind1="0" ind2=" ">
+    <subfield code="1">[28]</subfield>
+    <subfield code="i">NYDA.1960.001.04232.</subfield>
+    <subfield code="v">[AVERYimage].</subfield>
+    <subfield code="t">Cottage dR3 -- [elevation of] south wall of den, [elevation of] east wall of den, [elevation of] south wall [of] living r'm, [elevation of] west wall [of] living r'm, section[s] thru stairwell, [second floor plan] :</subfield>
+    <subfield code="n">Sheet no. 2.</subfield>
+    <subfield code="o">"Job no. 438dR3".</subfield>
+  </datafield>
+  <datafield tag="789" ind1="0" ind2=" ">
+    <subfield code="1">[29]</subfield>
+    <subfield code="i">NYDA.1960.001.04233.</subfield>
+    <subfield code="v">[AVERYimage].</subfield>
+    <subfield code="t">Cottage dR3 -- north elevation, south elevation :</subfield>
+    <subfield code="n">Sheet no. 3.</subfield>
+    <subfield code="o">"Job no. 438dR3".</subfield>
+  </datafield>
+  <datafield tag="789" ind1="0" ind2=" ">
+    <subfield code="1">[30]</subfield>
+    <subfield code="i">NYDA.1960.001.04234.</subfield>
+    <subfield code="v">[AVERYimage].</subfield>
+    <subfield code="t">Cottage dR3 -- east elevation [with section through wall], detail of beam showing cut at stud line, west elevation :</subfield>
+    <subfield code="n">Sheet no. 4.</subfield>
+    <subfield code="o">"Job no. 438dR3".</subfield>
+  </datafield>
+  <datafield tag="789" ind1="0" ind2=" ">
+    <subfield code="1">[31]</subfield>
+    <subfield code="i">NYDA.1960.001.04235.</subfield>
+    <subfield code="v">[AVERYimage].</subfield>
+    <subfield code="t">Cottage dR3 -- elevation [of] mantel in living room, section, end, plan :</subfield>
+    <subfield code="n">Sheet no. 5.</subfield>
+    <subfield code="o">"Job no. 438dR3".</subfield>
+  </datafield>
+  <datafield tag="789" ind1="0" ind2=" ">
+    <subfield code="1">[32]</subfield>
+    <subfield code="i">NYDA.1960.001.04236.</subfield>
+    <subfield code="v">[AVERYimage].</subfield>
+    <subfield code="t">Cottage dR3 -- front elevation, west elevation ; [interior elevations of walls] :</subfield>
+    <subfield code="n">Shee no. 6,</subfield>
+    <subfield code="d">9/30/24.</subfield>
+    <subfield code="o">"Job no. 438dR3".</subfield>
+  </datafield>
+  <datafield tag="789" ind1="0" ind2=" ">
+    <subfield code="1">[33]</subfield>
+    <subfield code="i">NYDA.1960.001.04237.</subfield>
+    <subfield code="v">[AVERYimage].</subfield>
+    <subfield code="t">Cottage dR3 floor plan :</subfield>
+    <subfield code="n">Sheet no. 5.</subfield>
+    <subfield code="o">"Job no. 438dR3".</subfield>
+  </datafield>
+  <datafield tag="789" ind1="0" ind2=" ">
+    <subfield code="1">[34]</subfield>
+    <subfield code="i">NYDA.1960.001.04238.</subfield>
+    <subfield code="v">[AVERYimage].</subfield>
+    <subfield code="t">[Elevation and plan of terrace wall and bushes] :</subfield>
+    <subfield code="n">Sheet no. 6.</subfield>
+    <subfield code="o">"Job no. 438dR3".</subfield>
+  </datafield>
+  <datafield tag="789" ind1="0" ind2=" ">
+    <subfield code="1">[35]</subfield>
+    <subfield code="i">NYDA.1960.001.04239.</subfield>
+    <subfield code="v">[AVERYimage].</subfield>
+    <subfield code="t">[Elevation of window frame].</subfield>
+    <subfield code="o">"438dR3".</subfield>
+  </datafield>
+  <datafield tag="789" ind1="0" ind2=" ">
+    <subfield code="1">[36]</subfield>
+    <subfield code="i">NYDA.1960.001.04271.</subfield>
+    <subfield code="v">[AVERYimage].</subfield>
+    <subfield code="t">[Unidentified sketches with measurements].</subfield>
+    <subfield code="o">"438dR3".</subfield>
+  </datafield>
+  <datafield tag="789" ind1="0" ind2=" ">
+    <subfield code="1">[37]</subfield>
+    <subfield code="i">NYDA.1960.001.04240.</subfield>
+    <subfield code="v">[AVERYimage].</subfield>
+    <subfield code="t">Proposed cottage -- first floor plan, second floor plan, front elevation :</subfield>
+    <subfield code="n">Sheet no. 1.</subfield>
+    <subfield code="o">"Job no. 438e".</subfield>
+  </datafield>
+  <datafield tag="789" ind1="0" ind2=" ">
+    <subfield code="1">[38]</subfield>
+    <subfield code="i">NYDA.1960.001.04241.</subfield>
+    <subfield code="v">[AVERYimage].</subfield>
+    <subfield code="t">[First floor plan and front elevation of proposed cottage],</subfield>
+    <subfield code="d">1924.</subfield>
+    <subfield code="o">"#438e".</subfield>
+  </datafield>
+  <datafield tag="789" ind1="0" ind2=" ">
+    <subfield code="1">[39]</subfield>
+    <subfield code="i">NYDA.1960.001.04242.</subfield>
+    <subfield code="v">[AVERYimage].</subfield>
+    <subfield code="t">2d floor [plan],</subfield>
+    <subfield code="d">1924.</subfield>
+    <subfield code="o">"#438e".</subfield>
+  </datafield>
+  <datafield tag="789" ind1="0" ind2=" ">
+    <subfield code="1">[40]</subfield>
+    <subfield code="i">NYDA.1960.001.04243.</subfield>
+    <subfield code="v">[AVERYimage].</subfield>
+    <subfield code="t">Gate posts, approach to W. D. Valentine property at end of Palm Drive -- plan, elevation[s] ; section [and elevation of] name [plate] :</subfield>
+    <subfield code="n">Sheet no. 2.</subfield>
+    <subfield code="o">"Job no. 438P".</subfield>
+  </datafield>
+  <datafield tag="789" ind1="0" ind2=" ">
+    <subfield code="1">[41]</subfield>
+    <subfield code="i">NYDA.1960.001.04244.</subfield>
+    <subfield code="v">[AVERYimage].</subfield>
+    <subfield code="t">Detail of iron scroll, W.D. Valentine residence -- plan, front, side, [perspective drawing] :</subfield>
+    <subfield code="n">Sheet 3.</subfield>
+    <subfield code="o">"Job no. 438P".</subfield>
+  </datafield>
+  <datafield tag="789" ind1="0" ind2=" ">
+    <subfield code="1">[42]</subfield>
+    <subfield code="i">NYDA.1960.001.04245R.</subfield>
+    <subfield code="v">[AVERYimage].</subfield>
+    <subfield code="t">[Sketches of iron scroll]</subfield>
+  </datafield>
+  <datafield tag="789" ind1="0" ind2=" ">
+    <subfield code="1">[43]</subfield>
+    <subfield code="i">NYDA.1960.001.04245V.</subfield>
+    <subfield code="v">[AVERYimage].</subfield>
+    <subfield code="t">[Sketches of iron scroll]</subfield>
+  </datafield>
+  <datafield tag="789" ind1="0" ind2=" ">
+    <subfield code="1">[44]</subfield>
+    <subfield code="i">NYDA.1960.001.04246.</subfield>
+    <subfield code="v">[AVERYimage].</subfield>
+    <subfield code="t">[Details of] name plates for stone piers -- west pier, east pier, side :</subfield>
+    <subfield code="n">Sheet no. 4.</subfield>
+    <subfield code="o">"Job no. 438P".</subfield>
+  </datafield>
+  <datafield tag="789" ind1="0" ind2=" ">
+    <subfield code="1">[45]</subfield>
+    <subfield code="i">NYDA.1960.001.04247.</subfield>
+    <subfield code="v">[AVERYimage].</subfield>
+    <subfield code="t">Suggestion [showing name plates for stone piers],</subfield>
+    <subfield code="d">10/24/24.</subfield>
+  </datafield>
+  <datafield tag="789" ind1="0" ind2=" ">
+    <subfield code="1">[46]</subfield>
+    <subfield code="i">NYDA.1960.001.04248.</subfield>
+    <subfield code="v">[AVERYimage].</subfield>
+    <subfield code="t">N[orth]east elev., So[uth]west elev.</subfield>
+  </datafield>
+  <datafield tag="789" ind1="0" ind2=" ">
+    <subfield code="1">[47]</subfield>
+    <subfield code="i">NYDA.1960.001.04249.</subfield>
+    <subfield code="v">[AVERYimage].</subfield>
+    <subfield code="t">[Unidentified elevations with section through wall]</subfield>
+  </datafield>
+  <datafield tag="789" ind1="0" ind2=" ">
+    <subfield code="1">[48]</subfield>
+    <subfield code="i">NYDA.1960.001.04250.</subfield>
+    <subfield code="v">[AVERYimage].</subfield>
+    <subfield code="t">[Partial] west elevation, [partial] plan, [elevations of living room walls, unidentified details]</subfield>
+  </datafield>
+  <datafield tag="789" ind1="0" ind2=" ">
+    <subfield code="1">[49]</subfield>
+    <subfield code="i">NYDA.1960.001.04251.</subfield>
+    <subfield code="v">[AVERYimage].</subfield>
+    <subfield code="t">[Plan], east elevation.</subfield>
+  </datafield>
+  <datafield tag="789" ind1="0" ind2=" ">
+    <subfield code="1">[50]</subfield>
+    <subfield code="i">NYDA.1960.001.04252.</subfield>
+    <subfield code="v">[AVERYimage].</subfield>
+    <subfield code="t">Scheme no. one -- plan, west elevation.</subfield>
+  </datafield>
+  <datafield tag="789" ind1="0" ind2=" ">
+    <subfield code="1">[51]</subfield>
+    <subfield code="i">NYDA.1960.001.04253.</subfield>
+    <subfield code="v">[AVERYimage].</subfield>
+    <subfield code="t">Cottage b - [partial plan, partial elevation]</subfield>
+  </datafield>
+  <datafield tag="789" ind1="0" ind2=" ">
+    <subfield code="1">[52]</subfield>
+    <subfield code="i">NYDA.1960.001.04254R.</subfield>
+    <subfield code="v">[AVERYimage].</subfield>
+    <subfield code="t">Foundation plan, section A-A, section B-B.</subfield>
+  </datafield>
+  <datafield tag="789" ind1="0" ind2=" ">
+    <subfield code="1">[53]</subfield>
+    <subfield code="i">NYDA.1960.001.04254V.</subfield>
+    <subfield code="v">[AVERYimage].</subfield>
+    <subfield code="t">[Sketch of plan of stairs]</subfield>
+  </datafield>
+  <datafield tag="789" ind1="0" ind2=" ">
+    <subfield code="1">[54]</subfield>
+    <subfield code="i">NYDA.1960.001.04255.</subfield>
+    <subfield code="v">[AVERYimage].</subfield>
+    <subfield code="t">[First floor plan].</subfield>
+    <subfield code="o">"Gas units in basement for breakfast room &amp; upstairs[?], electric heater for bathrooms".</subfield>
+  </datafield>
+  <datafield tag="789" ind1="0" ind2=" ">
+    <subfield code="1">[55]</subfield>
+    <subfield code="i">NYDA.1960.001.04256.</subfield>
+    <subfield code="v">[AVERYimage].</subfield>
+    <subfield code="t">2[nd] floor [plan], 1st floor [plan, perspective sketch of stairway, unidentified detail]</subfield>
+  </datafield>
+  <datafield tag="789" ind1="0" ind2=" ">
+    <subfield code="1">[56]</subfield>
+    <subfield code="i">NYDA.1960.001.04257.</subfield>
+    <subfield code="v">[AVERYimage].</subfield>
+    <subfield code="t">[First floor plan]</subfield>
+  </datafield>
+  <datafield tag="789" ind1="0" ind2=" ">
+    <subfield code="1">[57]</subfield>
+    <subfield code="i">NYDA.1960.001.04258R.</subfield>
+    <subfield code="v">[AVERYimage].</subfield>
+    <subfield code="t">[Second floor plan, first floor plan, unidentified sketches].</subfield>
+    <subfield code="o">Encapsulated in mylar.</subfield>
+  </datafield>
+  <datafield tag="789" ind1="0" ind2=" ">
+    <subfield code="1">[58]</subfield>
+    <subfield code="i">NYDA.1960.001.04258V.</subfield>
+    <subfield code="v">[AVERYimage].</subfield>
+    <subfield code="t">[Unidentified sketches].</subfield>
+    <subfield code="o">Encapsulated in mylar.</subfield>
+  </datafield>
+  <datafield tag="789" ind1="0" ind2=" ">
+    <subfield code="1">[59]</subfield>
+    <subfield code="i">NYDA.1960.001.04259.</subfield>
+    <subfield code="v">[AVERYimage].</subfield>
+    <subfield code="t">[Second floor plan]</subfield>
+  </datafield>
+  <datafield tag="789" ind1="0" ind2=" ">
+    <subfield code="1">[60]</subfield>
+    <subfield code="i">NYDA.1960.001.04260.</subfield>
+    <subfield code="v">[AVERYimage].</subfield>
+    <subfield code="t">[Roof plan]</subfield>
+  </datafield>
+  <datafield tag="789" ind1="0" ind2=" ">
+    <subfield code="1">[61]</subfield>
+    <subfield code="i">NYDA.1960.001.04261.</subfield>
+    <subfield code="v">[AVERYimage].</subfield>
+    <subfield code="t">East elevation [showing stone wall and stone chimney]</subfield>
+  </datafield>
+  <datafield tag="789" ind1="0" ind2=" ">
+    <subfield code="1">[62]</subfield>
+    <subfield code="i">NYDA.1960.001.04262.</subfield>
+    <subfield code="v">[AVERYimage].</subfield>
+    <subfield code="t">East elevation [with trees]</subfield>
+  </datafield>
+  <datafield tag="789" ind1="0" ind2=" ">
+    <subfield code="1">[63]</subfield>
+    <subfield code="i">NYDA.1960.001.04263.</subfield>
+    <subfield code="v">[AVERYimage].</subfield>
+    <subfield code="t">[Elevations of walls, section of floor and wall]</subfield>
+  </datafield>
+  <datafield tag="789" ind1="0" ind2=" ">
+    <subfield code="1">[64]</subfield>
+    <subfield code="i">NYDA.1960.001.04264.</subfield>
+    <subfield code="v">[AVERYimage].</subfield>
+    <subfield code="t">[Elevations of walls, unidentified sketch]</subfield>
+  </datafield>
+  <datafield tag="789" ind1="0" ind2=" ">
+    <subfield code="1">[65]</subfield>
+    <subfield code="i">NYDA.1960.001.04265.</subfield>
+    <subfield code="v">[AVERYimage].</subfield>
+    <subfield code="t">South wall old room, [elevation]</subfield>
+  </datafield>
+  <datafield tag="789" ind1="0" ind2=" ">
+    <subfield code="1">[66]</subfield>
+    <subfield code="i">NYDA.1960.001.04266.</subfield>
+    <subfield code="v">[AVERYimage].</subfield>
+    <subfield code="t">[Sketch of section through roof].</subfield>
+    <subfield code="o">Drawing crossed out.</subfield>
+  </datafield>
+  <datafield tag="789" ind1="0" ind2=" ">
+    <subfield code="1">[67]</subfield>
+    <subfield code="i">NYDA.1960.001.04267.</subfield>
+    <subfield code="v">[AVERYimage].</subfield>
+    <subfield code="t">[Elevations -- front door], fireplace, [other fireplace?].</subfield>
+    <subfield code="o">"Stone house[?]".</subfield>
+  </datafield>
+  <datafield tag="789" ind1="0" ind2=" ">
+    <subfield code="1">[68]</subfield>
+    <subfield code="i">NYDA.1960.001.04268.</subfield>
+    <subfield code="v">[AVERYimage].</subfield>
+    <subfield code="t">[Section through floor and wall].</subfield>
+    <subfield code="o">"105, 105".</subfield>
+  </datafield>
+  <datafield tag="789" ind1="0" ind2=" ">
+    <subfield code="1">[69]</subfield>
+    <subfield code="i">NYDA.1960.001.04269.</subfield>
+    <subfield code="v">[AVERYimage].</subfield>
+    <subfield code="t">[Section through stairway]</subfield>
+  </datafield>
+  <datafield tag="789" ind1="0" ind2=" ">
+    <subfield code="1">[70]</subfield>
+    <subfield code="i">NYDA.1960.001.04270.</subfield>
+    <subfield code="v">[AVERYimage].</subfield>
+    <subfield code="t">[Detail sketches of] mirror in den.</subfield>
+    <subfield code="o">Sketches done on "Samson Cordage Works" note paper with an illustration of the "Samson spot sash cord".</subfield>
+    <subfield code="o">"Color of brick in hearth".</subfield>
+  </datafield>
+  <datafield tag="789" ind1="0" ind2=" ">
+    <subfield code="1">[71]</subfield>
+    <subfield code="i">NYDA.1960.001.04273.</subfield>
+    <subfield code="v">[AVERYimage].</subfield>
+    <subfield code="t">[Sketch of vase],</subfield>
+    <subfield code="d">11/28/24.</subfield>
+    <subfield code="o">"438dR3".</subfield>
+  </datafield>
+  <datafield tag="900" ind1=" " ind2=" ">
+    <subfield code="a">AUTH</subfield>
+  </datafield>
+</record>
+
+</collection>

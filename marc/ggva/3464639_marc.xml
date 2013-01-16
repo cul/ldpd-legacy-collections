@@ -1,0 +1,164 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<collection
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xsi:schemaLocation="http://www.loc.gov/MARC21/slim http://www.loc.gov/standards/marcxml/schema/MARC21slim.xsd"
+  xmlns="http://www.loc.gov/MARC21/slim">
+
+<record>
+  <leader>03125ckdaa2200505 a 4500</leader>
+  <controlfield tag="001">3464639</controlfield>
+  <controlfield tag="005">20100226104522.0</controlfield>
+  <controlfield tag="008">010604s1915    xx |||  ||||||    k eng d</controlfield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="a">(OCoLC)82805821</subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="a">(OCoLC)ocm82805821</subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="a">(CStRLIN)NYDA01-F123</subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="a">(NNC-A)73</subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="9">AAB2739AD</subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="a">(NNC)3464639</subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">NNC-A</subfield>
+    <subfield code="c">NNC-A</subfield>
+    <subfield code="e">gihc</subfield>
+  </datafield>
+  <datafield tag="043" ind1=" " ind2=" ">
+    <subfield code="a">n-us-ca</subfield>
+  </datafield>
+  <datafield tag="090" ind1=" " ind2=" ">
+    <subfield code="h">12/31/99 N</subfield>
+  </datafield>
+  <datafield tag="100" ind1="1" ind2=" ">
+    <subfield code="a">Hulbert, Leroy.</subfield>
+  </datafield>
+  <datafield tag="240" ind1="1" ind2="0">
+    <subfield code="a">Freeman A. Ford house (Pasadena, Calif.)</subfield>
+  </datafield>
+  <datafield tag="245" ind1="1" ind2="0">
+    <subfield code="a">[Freeman A. Ford house, Pasadena, Calif.]</subfield>
+    <subfield code="h">[graphic] /</subfield>
+    <subfield code="c">Leroy Hulbert [photographer] ; [Greene &amp; Greene, architects]</subfield>
+  </datafield>
+  <datafield tag="260" ind1=" " ind2=" ">
+    <subfield code="c">[circa 1915]</subfield>
+  </datafield>
+  <datafield tag="300" ind1=" " ind2=" ">
+    <subfield code="a">7 photographic prints mounted on board ; 24.5 x 24.7 cm. (9 5/8 x 9 3/4 in.) or smaller, on mount 34.9 x 42.5 cm. (13 3/4 x 16 3/4 in.)</subfield>
+  </datafield>
+  <datafield tag="500" ind1=" " ind2=" ">
+    <subfield code="a">Dates and some image titles from: Greene &amp; Greene / Edward R. Bosley. London: Phaidon, 2000.</subfield>
+  </datafield>
+  <datafield tag="545" ind1=" " ind2=" ">
+    <subfield code="a">Bosley dates the house to 1906-08.</subfield>
+  </datafield>
+  <datafield tag="500" ind1=" " ind2=" ">
+    <subfield code="a">Photos are mounted horizontally and vertically.</subfield>
+  </datafield>
+  <datafield tag="500" ind1=" " ind2=" ">
+    <subfield code="a">Photos are possibly platinum/palladium prints, brown tone in color. One photo is a gelatin silver print, b&amp;w.</subfield>
+  </datafield>
+  <datafield tag="500" ind1=" " ind2=" ">
+    <subfield code="a">Signed on intermediary mounts, lower right, in the following forms: Leroy Hulbert. L.A. ; and Leroy Hulbert L.A. Gelatin silver print is unsigned.</subfield>
+  </datafield>
+  <datafield tag="561" ind1=" " ind2=" ">
+    <subfield code="a">Gift made possible by Harwell Hamilton Harris. Accession number 1987.003.</subfield>
+  </datafield>
+  <datafield tag="580" ind1=" " ind2=" ">
+    <subfield code="a">Forms part of the Greene &amp; Greene architectural drawings and photographs, Dept. of Drawings &amp; Archives, Avery Architectural and Fine Arts Library.</subfield>
+  </datafield>
+  <datafield tag="650" ind1=" " ind2="7">
+    <subfield code="a">Houses.</subfield>
+    <subfield code="2">aat</subfield>
+  </datafield>
+  <datafield tag="655" ind1=" " ind2="7">
+    <subfield code="a">Photographic prints.</subfield>
+    <subfield code="2">aat</subfield>
+  </datafield>
+  <datafield tag="651" ind1=" " ind2="0">
+    <subfield code="a">Pasadena (Calif.)</subfield>
+  </datafield>
+  <datafield tag="610" ind1="2" ind2="0">
+    <subfield code="a">Freeman A. Ford House (Pasadena, Calif.)</subfield>
+  </datafield>
+  <datafield tag="700" ind1="1" ind2=" ">
+    <subfield code="a">Ford, Freeman A.</subfield>
+  </datafield>
+  <datafield tag="710" ind1="2" ind2=" ">
+    <subfield code="a">Greene &amp; Greene.</subfield>
+  </datafield>
+  <datafield tag="773" ind1="0" ind2=" ">
+    <subfield code="7">c2bc</subfield>
+    <subfield code="a">Greene &amp; Greene.</subfield>
+    <subfield code="t">Architectural drawings and photographs</subfield>
+    <subfield code="w">(CStRLIN)NYDA88-A56.</subfield>
+  </datafield>
+  <datafield tag="789" ind1="0" ind2=" ">
+    <subfield code="l">[1]</subfield>
+    <subfield code="i">NYDA.1987.003.00077.</subfield>
+    <subfield code="t">[Courtyard and main entrance].</subfield>
+    <subfield code="p">15 x 24.2 cm. (6 x 9 1/2 in.).</subfield>
+    <subfield code="p">Signed on intermediary mount, lower right.</subfield>
+  </datafield>
+  <datafield tag="789" ind1="0" ind2=" ">
+    <subfield code="l">[2]</subfield>
+    <subfield code="i">NYDA.1987.003.00078.</subfield>
+    <subfield code="t">[Main entrance].</subfield>
+    <subfield code="p">24.5 x 19.5 cm. (9 5/8 x 7 3/4 in.).</subfield>
+    <subfield code="o">Signed on intermediary mount, lower right.</subfield>
+  </datafield>
+  <datafield tag="789" ind1="0" ind2=" ">
+    <subfield code="l">[3]</subfield>
+    <subfield code="i">NYDA.1987.003.00079.</subfield>
+    <subfield code="t">[Courtyard viewed from main entrance].</subfield>
+    <subfield code="p">15.1 x 24.6 cm. (6 x 9 3/4 in.).</subfield>
+    <subfield code="o">Signed on intermediary mount, lower right.</subfield>
+  </datafield>
+  <datafield tag="789" ind1="0" ind2=" ">
+    <subfield code="l">[4]</subfield>
+    <subfield code="i">NYDA.1987.003.00080.</subfield>
+    <subfield code="t">[East facade viewed from auto court].</subfield>
+    <subfield code="p">14.5 x 24.4 cm. (5 3/4 x 9 5/8 in.).</subfield>
+    <subfield code="o">Signed on intermediary mount, lower right.</subfield>
+  </datafield>
+  <datafield tag="789" ind1="0" ind2=" ">
+    <subfield code="l">[5]</subfield>
+    <subfield code="i">NYDA.1987.003.00081.</subfield>
+    <subfield code="t">[East facade and driveway].</subfield>
+    <subfield code="p">15 x 24.4 cm. (6 x 9 5/8 in.).</subfield>
+    <subfield code="o">Signed on intermediary mount, lower right.</subfield>
+  </datafield>
+  <datafield tag="789" ind1="0" ind2=" ">
+    <subfield code="l">[6]</subfield>
+    <subfield code="i">NYDA.1987.003.00082.</subfield>
+    <subfield code="t">[Driveway and east facade].</subfield>
+    <subfield code="p">19.9 x 15.2 cm. (7 7/8 x 6 in.).</subfield>
+    <subfield code="o">Signed on intermediary mount, lower right.</subfield>
+  </datafield>
+  <datafield tag="789" ind1="0" ind2=" ">
+    <subfield code="l">[7]</subfield>
+    <subfield code="i">NYDA.1987.003.00083.</subfield>
+    <subfield code="t">[Driveway].</subfield>
+    <subfield code="p">15 x 24.7 cm. (6 x 9 3/4 in.).</subfield>
+    <subfield code="o">Signed on intermediary mount, lower right.</subfield>
+  </datafield>
+  <datafield tag="852" ind1=" " ind2=" ">
+    <subfield code="a">Columbia University</subfield>
+    <subfield code="b">Avery Architectural and Fine Arts Library, Drawings and Archives Collection</subfield>
+    <subfield code="e">1172 Amsterdam Avenue, MC0301, New York, NY 10027.</subfield>
+  </datafield>
+  <datafield tag="900" ind1=" " ind2=" ">
+    <subfield code="a">AUTH</subfield>
+  </datafield>
+</record>
+
+</collection>

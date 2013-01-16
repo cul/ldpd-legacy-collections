@@ -1,0 +1,154 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<collection
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xsi:schemaLocation="http://www.loc.gov/MARC21/slim http://www.loc.gov/standards/marcxml/schema/MARC21slim.xsd"
+  xmlns="http://www.loc.gov/MARC21/slim">
+
+<record>
+  <leader>02855ckdaa2200457 a 4500</leader>
+  <controlfield tag="001">3460382</controlfield>
+  <controlfield tag="005">20100226102456.0</controlfield>
+  <controlfield tag="008">871021s1947    xx ||| |||||||   0k|eng d</controlfield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="a">(OCoLC)78361054</subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="a">(OCoLC)ocm78361054</subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="a">(CStRLIN)NYDA87-F584</subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="9">AAA0853AD</subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="a">(NNC)3460382</subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">NNC</subfield>
+    <subfield code="c">NNC</subfield>
+    <subfield code="e">gihc</subfield>
+  </datafield>
+  <datafield tag="043" ind1=" " ind2=" ">
+    <subfield code="a">n-us-ny</subfield>
+  </datafield>
+  <datafield tag="100" ind1="1" ind2=" ">
+    <subfield code="a">Ferriss, Hugh,</subfield>
+    <subfield code="d">1889-1962.</subfield>
+  </datafield>
+  <datafield tag="240" ind1="1" ind2="0">
+    <subfield code="a">United Nations</subfield>
+  </datafield>
+  <datafield tag="245" ind1="1" ind2="0">
+    <subfield code="a">[Preliminary, United Nations Headquarters, New York, N.Y.]</subfield>
+    <subfield code="h">[graphic]</subfield>
+  </datafield>
+  <datafield tag="260" ind1=" " ind2=" ">
+    <subfield code="c">1947.</subfield>
+  </datafield>
+  <datafield tag="300" ind1=" " ind2=" ">
+    <subfield code="a">5 drawings :</subfield>
+    <subfield code="b">graphite on paper or cloth and board ;</subfield>
+    <subfield code="c">39 x 56.4 cm. (15 3/8 x 22 2/8 in.) or smaller.</subfield>
+  </datafield>
+  <datafield tag="500" ind1=" " ind2=" ">
+    <subfield code="a">Drawings reproduced as "Preliminary Studies of the United Nations headquarters" in Power in Buildings / Hugh Ferriss, 1953.</subfield>
+  </datafield>
+  <datafield tag="500" ind1=" " ind2=" ">
+    <subfield code="a">Bracketed drawing titles extrapolated by cataloger.</subfield>
+  </datafield>
+  <datafield tag="500" ind1=" " ind2=" ">
+    <subfield code="a">This set consists of 4 pencil drawings on paper and 1 pencil drawing on cloth.</subfield>
+  </datafield>
+  <datafield tag="500" ind1=" " ind2=" ">
+    <subfield code="a">Information related to drawings taken from Power in Buildings.</subfield>
+  </datafield>
+  <datafield tag="580" ind1=" " ind2=" ">
+    <subfield code="a">Forms part of the Hugh Ferriss architectural drawings and papers, Dept. of Drawings &amp; Archives, Avery Architectural and Fine Arts Library, Columbia University.</subfield>
+  </datafield>
+  <datafield tag="650" ind1=" " ind2="7">
+    <subfield code="a">International organization buildings.</subfield>
+    <subfield code="2">aat</subfield>
+  </datafield>
+  <datafield tag="655" ind1=" " ind2="7">
+    <subfield code="a">Architectural drawings</subfield>
+    <subfield code="x">American.</subfield>
+    <subfield code="2">aat</subfield>
+  </datafield>
+  <datafield tag="655" ind1=" " ind2="7">
+    <subfield code="a">Perspective drawings.</subfield>
+    <subfield code="2">aat</subfield>
+  </datafield>
+  <datafield tag="655" ind1=" " ind2="7">
+    <subfield code="a">Preliminary drawings.</subfield>
+    <subfield code="2">aat</subfield>
+  </datafield>
+  <datafield tag="691" ind1=" " ind2="4">
+    <subfield code="a">New York (N.Y.)</subfield>
+  </datafield>
+  <datafield tag="650" ind1=" " ind2="0">
+    <subfield code="a">Architecture</subfield>
+    <subfield code="z">United States</subfield>
+    <subfield code="v">Designs and plans.</subfield>
+  </datafield>
+  <datafield tag="697" ind1="2" ind2="4">
+    <subfield code="a">United Nations.</subfield>
+  </datafield>
+  <datafield tag="710" ind1="2" ind2=" ">
+    <subfield code="a">United Nations.</subfield>
+  </datafield>
+  <datafield tag="755" ind1=" " ind2=" ">
+    <subfield code="a">Pencil drawings.</subfield>
+    <subfield code="2">aat</subfield>
+  </datafield>
+  <datafield tag="799" ind1="4" ind2="3">
+    <subfield code="a">The Hugh Ferriss collection of architectural drawings.</subfield>
+  </datafield>
+  <datafield tag="789" ind1="0" ind2=" ">
+    <subfield code="l">[1]</subfield>
+    <subfield code="i">NYDA.1000.001.00276.</subfield>
+    <subfield code="t">[Perspective drawing, preliminary study for United Nations] :</subfield>
+    <subfield code="n">#42A,</subfield>
+    <subfield code="d">4/18/47.</subfield>
+    <subfield code="p">Graphite on board ; 17.8 x 25.5 cm. (7 x 10 in.).</subfield>
+    <subfield code="o">Drawing appears as plate 40a in Power in Buildings.</subfield>
+  </datafield>
+  <datafield tag="789" ind1="0" ind2=" ">
+    <subfield code="l">[2]</subfield>
+    <subfield code="i">NYDA.1000.001.00277.</subfield>
+    <subfield code="t">[Perspective drawing, preliminary study for United Nations] :</subfield>
+    <subfield code="n">study #11.</subfield>
+    <subfield code="p">Graphite on paper ; 39 x 56.4 cm. (15 3/8 x 22 2/8 in.).</subfield>
+    <subfield code="o">Drawing appears as plate 40c in Power in Buildings.</subfield>
+  </datafield>
+  <datafield tag="789" ind1="0" ind2=" ">
+    <subfield code="l">[3]</subfield>
+    <subfield code="i">NYDA.1000.001.00278.</subfield>
+    <subfield code="t">[Perspective drawing, preliminary study for the United Nations] :</subfield>
+    <subfield code="n">Study #62, Scheme 24,</subfield>
+    <subfield code="d">4/2/47.</subfield>
+    <subfield code="p">Graphite on paper ; 37.5 x 55 cm. (14 6/8 x 21 6/8 in.).</subfield>
+    <subfield code="o">Drawing appears as plate 40d in Power in Buildings.</subfield>
+  </datafield>
+  <datafield tag="789" ind1="0" ind2=" ">
+    <subfield code="l">[4]</subfield>
+    <subfield code="i">NYDA.1000.001.00279.</subfield>
+    <subfield code="t">[Perspective drawing, preliminary study for United Nations]</subfield>
+    <subfield code="p">Graphite  on paper ; 19.4 x 29.8 cm. (7 5/8 x 11 6/8 in.).</subfield>
+    <subfield code="o">Appears as plate 40c in Power in Buildings.</subfield>
+  </datafield>
+  <datafield tag="789" ind1="0" ind2=" ">
+    <subfield code="l">[5]</subfield>
+    <subfield code="i">NYDA.1000.001.00280.</subfield>
+    <subfield code="t">[Perspective drawing, preliminary study for United Nations] :</subfield>
+    <subfield code="n">study #32, drawing 56,</subfield>
+    <subfield code="d">April 28, 1947.</subfield>
+    <subfield code="p">Graphite on paper ; 39.1 x 58.2 cm. (15 3/8 x 22 7/8 in.).</subfield>
+    <subfield code="o">Appears as plate 40f in Power in Buildings.</subfield>
+  </datafield>
+  <datafield tag="900" ind1=" " ind2=" ">
+    <subfield code="a">AUTH</subfield>
+  </datafield>
+</record>
+
+</collection>

@@ -1,0 +1,213 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<collection
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xsi:schemaLocation="http://www.loc.gov/MARC21/slim http://www.loc.gov/standards/marcxml/schema/MARC21slim.xsd"
+  xmlns="http://www.loc.gov/MARC21/slim">
+
+<record>
+  <leader>03747ckdaa2200565 a 4500</leader>
+  <controlfield tag="001">3460532</controlfield>
+  <controlfield tag="005">20100226102538.0</controlfield>
+  <controlfield tag="008">870303s1961    xx ||| |||||||    k|eng d</controlfield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="a">(OCoLC)81419788</subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="a">(OCoLC)ocm81419788</subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="a">(CStRLIN)NYDA87-F85</subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="9">AAA1003AD</subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="a">(NNC)3460532</subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">NNC</subfield>
+    <subfield code="c">NNC</subfield>
+    <subfield code="e">gihc</subfield>
+  </datafield>
+  <datafield tag="043" ind1=" " ind2=" ">
+    <subfield code="a">n-us-ny</subfield>
+  </datafield>
+  <datafield tag="100" ind1="1" ind2=" ">
+    <subfield code="a">Ferriss, Hugh,</subfield>
+    <subfield code="d">1889-1962.</subfield>
+  </datafield>
+  <datafield tag="240" ind1="1" ind2="0">
+    <subfield code="a">New York Times Building (New York, N.Y.)</subfield>
+  </datafield>
+  <datafield tag="245" ind1="1" ind2="0">
+    <subfield code="a">[Studies for the New York Times building]</subfield>
+    <subfield code="h">[graphic]</subfield>
+  </datafield>
+  <datafield tag="260" ind1=" " ind2=" ">
+    <subfield code="c">[ca. 1961]</subfield>
+  </datafield>
+  <datafield tag="300" ind1=" " ind2=" ">
+    <subfield code="a">16 drawings :</subfield>
+    <subfield code="b">graphite on paper ;</subfield>
+    <subfield code="c">19.4 x 15.4 cm. (7 5/8 x 6 1/8 in.) or smaller.</subfield>
+  </datafield>
+  <datafield tag="500" ind1=" " ind2=" ">
+    <subfield code="a">Title supplied by cataloger.</subfield>
+  </datafield>
+  <datafield tag="500" ind1=" " ind2=" ">
+    <subfield code="a">Date from Hugh Ferriss: Metropolis [Exhibition checklist], 1986, Carol Willis, curator.</subfield>
+  </datafield>
+  <datafield tag="580" ind1=" " ind2=" ">
+    <subfield code="a">Forms part of the Hugh Ferriss architectural drawings and papers, Dept. of Drawings &amp; Archives, Avery Architectural and Fine Arts Library, Columbia University.</subfield>
+  </datafield>
+  <datafield tag="650" ind1=" " ind2="7">
+    <subfield code="a">Newspaper buildings.</subfield>
+    <subfield code="2">aat</subfield>
+  </datafield>
+  <datafield tag="655" ind1=" " ind2="7">
+    <subfield code="a">Architectural drawings</subfield>
+    <subfield code="x">American.</subfield>
+    <subfield code="2">aat</subfield>
+  </datafield>
+  <datafield tag="655" ind1=" " ind2="7">
+    <subfield code="a">Perspective drawings.</subfield>
+    <subfield code="2">aat</subfield>
+  </datafield>
+  <datafield tag="655" ind1=" " ind2="7">
+    <subfield code="a">Sections.</subfield>
+    <subfield code="2">aat</subfield>
+  </datafield>
+  <datafield tag="655" ind1=" " ind2="7">
+    <subfield code="a">Plans.</subfield>
+    <subfield code="2">aat</subfield>
+  </datafield>
+  <datafield tag="651" ind1=" " ind2="0">
+    <subfield code="a">New York (N.Y.)</subfield>
+  </datafield>
+  <datafield tag="650" ind1=" " ind2="0">
+    <subfield code="a">Architecture</subfield>
+    <subfield code="z">United States</subfield>
+    <subfield code="v">Designs and plans.</subfield>
+  </datafield>
+  <datafield tag="610" ind1="2" ind2="0">
+    <subfield code="a">New York Times Building (New York, N.Y.)</subfield>
+  </datafield>
+  <datafield tag="755" ind1=" " ind2=" ">
+    <subfield code="a">Pencil drawings.</subfield>
+    <subfield code="2">aat</subfield>
+  </datafield>
+  <datafield tag="799" ind1="4" ind2="3">
+    <subfield code="a">The Hugh Ferriss collection.</subfield>
+  </datafield>
+  <datafield tag="789" ind1="0" ind2=" ">
+    <subfield code="l">[1]</subfield>
+    <subfield code="i">NYDA.1000.001.00152.</subfield>
+    <subfield code="t">[Perspective],</subfield>
+    <subfield code="d">Apr 15.</subfield>
+    <subfield code="p">Graphite on paper ; 19.4 x 15.4 cm. (7 5/8 x 6 1/8 in.)</subfield>
+    <subfield code="o">Date in orange (crayon?), lower right.</subfield>
+  </datafield>
+  <datafield tag="789" ind1="0" ind2=" ">
+    <subfield code="l">[2]</subfield>
+    <subfield code="i">NYDA.1000.001.00132.</subfield>
+    <subfield code="t">4 steps down from Subway level of bldg. to Subway station level.</subfield>
+    <subfield code="p">Graphite on paper; 17.5 x 5 cm. (7 x 12.6 in.)</subfield>
+  </datafield>
+  <datafield tag="789" ind1="0" ind2=" ">
+    <subfield code="l">[3]</subfield>
+    <subfield code="i">NYDA.1000.001.00133.</subfield>
+    <subfield code="t">[Sketch]</subfield>
+    <subfield code="p">Graphite on paper ; 20.1 x 12.7 cm. (8 x 5 in.)</subfield>
+  </datafield>
+  <datafield tag="789" ind1="0" ind2=" ">
+    <subfield code="l">[4]</subfield>
+    <subfield code="i">NYDA.1000.001.00134.</subfield>
+    <subfield code="t">[Perspective]</subfield>
+    <subfield code="p">Graphite  on paper ; 15.2 x 13.8 cm. (6 x 5 1/8 in.)</subfield>
+    <subfield code="o">Some notes.</subfield>
+  </datafield>
+  <datafield tag="789" ind1="0" ind2=" ">
+    <subfield code="l">[5]</subfield>
+    <subfield code="i">NYDA.1000.001.00135.</subfield>
+    <subfield code="t">[Sketch]</subfield>
+    <subfield code="p">Graphite on paper ; 12.6 x 20.2 cm. (5 x 8 in.)</subfield>
+  </datafield>
+  <datafield tag="789" ind1="0" ind2=" ">
+    <subfield code="l">[6]</subfield>
+    <subfield code="i">NYDA.1000.001.00136.</subfield>
+    <subfield code="t">[Sketch]</subfield>
+    <subfield code="p">Graphite on paper ; 12.6 x 20.2 cm. (5 x 8 in.)</subfield>
+  </datafield>
+  <datafield tag="789" ind1="0" ind2=" ">
+    <subfield code="l">[7]</subfield>
+    <subfield code="i">NYDA.1000.001.00137.</subfield>
+    <subfield code="t">Sketch.</subfield>
+    <subfield code="p">Graphite on paper ; 20.2 x 12.6 cm. (8 x 5 in.)</subfield>
+    <subfield code="o">Similar to accession no. 1000.001.00138.</subfield>
+    <subfield code="o">Another sketch on verso.</subfield>
+    <subfield code="o">On recto inscribed--"K".</subfield>
+  </datafield>
+  <datafield tag="789" ind1="0" ind2=" ">
+    <subfield code="l">[8]</subfield>
+    <subfield code="i">NYDA.1000.001.00138.</subfield>
+    <subfield code="t">[Sketch]</subfield>
+    <subfield code="p">Graphite on paper ; 20.2 x 12.6 cm. (8 x 5 in.)</subfield>
+    <subfield code="o">"K"--inscribed on recto.</subfield>
+  </datafield>
+  <datafield tag="789" ind1="0" ind2=" ">
+    <subfield code="l">[9]</subfield>
+    <subfield code="i">NYDA.1000.001.00139.</subfield>
+    <subfield code="t">[Sketch]</subfield>
+    <subfield code="p">Graphite  on paper ; 20.2 x 12.7 cm. (8 x 5 in.)</subfield>
+    <subfield code="o">"K"--inscribed on recto, sketch on verso.</subfield>
+  </datafield>
+  <datafield tag="789" ind1="0" ind2=" ">
+    <subfield code="l">[10]</subfield>
+    <subfield code="i">NYDA.1000.001.00140.</subfield>
+    <subfield code="t">Sketch.</subfield>
+    <subfield code="p">Graphite on paper ; 20.2 x 12.7 cm. (8 x 5 in.)</subfield>
+    <subfield code="0">"K"--inscribed on recto.</subfield>
+  </datafield>
+  <datafield tag="789" ind1="0" ind2=" ">
+    <subfield code="l">[11]</subfield>
+    <subfield code="i">NYDA.1000.001.00141.</subfield>
+    <subfield code="t">[Plan]</subfield>
+    <subfield code="t">1 drawing : pencil on paper ; 20.4 x 12.8 cm. (8 x 5 1/8 in.)</subfield>
+    <subfield code="o">Some notes.</subfield>
+  </datafield>
+  <datafield tag="789" ind1="0" ind2=" ">
+    <subfield code="l">[12]</subfield>
+    <subfield code="i">NYDA.1000.001.00142. .</subfield>
+    <subfield code="t">Cross section looking east.</subfield>
+    <subfield code="p">Graphite on paper ; 12.7 x 20.4 cm. (5 x 8 in.)</subfield>
+  </datafield>
+  <datafield tag="789" ind1="0" ind2=" ">
+    <subfield code="l">[13]</subfield>
+    <subfield code="i">NYDA.1000.001.00143.</subfield>
+    <subfield code="t">From behind the Duffy Statue on L.L. N or S side of 49 : [site sketch]</subfield>
+    <subfield code="p">Graphite on paper ; 17.6 x 12.7 cm. (7 x 5 in.)</subfield>
+  </datafield>
+  <datafield tag="789" ind1="0" ind2=" ">
+    <subfield code="l">[14]</subfield>
+    <subfield code="i">NYDA.1000.001.00144.</subfield>
+    <subfield code="t">55th and 7th Ave N-W Cor ; Bdy and 52 N-W Corner ; N. facade of Tower [?] wholly visable from 7th and 50 NW Cor[ner] : [site sketch]</subfield>
+    <subfield code="p">Graphite on paper ; 17.6 x 12.7 cm. (7 x 5 in.)</subfield>
+  </datafield>
+  <datafield tag="789" ind1="0" ind2=" ">
+    <subfield code="l">[15]</subfield>
+    <subfield code="i">NYDA.1000.001.00145.</subfield>
+    <subfield code="t">[Site plan with dimensions]</subfield>
+    <subfield code="p">Graphite on paper ; 20.3 x 12.7 cm. (8 x 5 in.)</subfield>
+  </datafield>
+  <datafield tag="789" ind1="0" ind2=" ">
+    <subfield code="l">[16]</subfield>
+    <subfield code="i">NYDA.1000.001.00146.</subfield>
+    <subfield code="t">N facade of [corner?] wholly visible from S-W Cor. Bdy and 51st, entire bldg visible from S-E Cor Bay and 48 : [site sketch]</subfield>
+    <subfield code="p">1 drawing : pencil on paper ; 17.6 x 12.7 cm. (7 x 5 in.)</subfield>
+  </datafield>
+  <datafield tag="900" ind1=" " ind2=" ">
+    <subfield code="a">AUTH</subfield>
+  </datafield>
+</record>
+
+</collection>

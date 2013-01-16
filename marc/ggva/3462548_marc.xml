@@ -1,0 +1,441 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<collection
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xsi:schemaLocation="http://www.loc.gov/MARC21/slim http://www.loc.gov/standards/marcxml/schema/MARC21slim.xsd"
+  xmlns="http://www.loc.gov/MARC21/slim">
+
+<record>
+  <leader>10292ckdaa2201165 a 4500</leader>
+  <controlfield tag="001">3462548</controlfield>
+  <controlfield tag="005">20100226103513.0</controlfield>
+  <controlfield tag="008">890714m19261927xx ||| |||||||   1k|eng d</controlfield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="a">(OCoLC)78028913</subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="a">(OCoLC)ocm78028913</subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="a">(CStRLIN)NYDA89-F789</subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="9">AAA3019AD</subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="a">(NNC)3462548</subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">NNC-A</subfield>
+    <subfield code="c">NNC-A</subfield>
+    <subfield code="e">gihc</subfield>
+  </datafield>
+  <datafield tag="043" ind1=" " ind2=" ">
+    <subfield code="a">n-us-ca</subfield>
+  </datafield>
+  <datafield tag="090" ind1=" " ind2=" ">
+    <subfield code="i">05/23/01 X</subfield>
+    <subfield code="h">01/09/92 N</subfield>
+  </datafield>
+  <datafield tag="100" ind1="1" ind2=" ">
+    <subfield code="a">Greene, Henry Mather,</subfield>
+    <subfield code="d">1870-1954.</subfield>
+  </datafield>
+  <datafield tag="240" ind1="1" ind2="0">
+    <subfield code="a">V. Ray Townsend house (Long Beach, Calif.).</subfield>
+    <subfield code="p">Alterations and additions</subfield>
+  </datafield>
+  <datafield tag="245" ind1="1" ind2="0">
+    <subfield code="a">Alterations &amp; additions to residence, 4260 Magnolia Ave., Long Beach, Calif., for Dr. V. Ray Townsend.</subfield>
+    <subfield code="h">[graphic].</subfield>
+    <subfield code="n">[Part 1] /</subfield>
+    <subfield code="c">Henry M. Greene, Architect.</subfield>
+  </datafield>
+  <datafield tag="260" ind1=" " ind2=" ">
+    <subfield code="c">[19]26-[19]27.</subfield>
+  </datafield>
+  <datafield tag="300" ind1=" " ind2=" ">
+    <subfield code="a">84 sheets :</subfield>
+    <subfield code="b">various media ;</subfield>
+    <subfield code="c">48.3 x 67 cm. (19 1/8 x 26 3/8 in.) or smaller.</subfield>
+  </datafield>
+  <datafield tag="590" ind1=" " ind2=" ">
+    <subfield code="a">This record is Part 1 of 2 parts.</subfield>
+  </datafield>
+  <datafield tag="500" ind1=" " ind2=" ">
+    <subfield code="a">The sheets in this set are severely damaged. All are encapsulated in mylar.</subfield>
+  </datafield>
+  <datafield tag="500" ind1=" " ind2=" ">
+    <subfield code="a">Bracketed title elements supplied by cataloger or taken from inventory.</subfield>
+  </datafield>
+  <datafield tag="500" ind1=" " ind2=" ">
+    <subfield code="a">Forms part of the Greene &amp; Greene collection of architectural drawings ; job no. 481.</subfield>
+  </datafield>
+  <datafield tag="500" ind1=" " ind2=" ">
+    <subfield code="a">Three fragments with title information but no drawings were assigned accession nos. 1960.001.04060-.04061, 1960.001.04563 but were not photographed.</subfield>
+  </datafield>
+  <datafield tag="500" ind1=" " ind2=" ">
+    <subfield code="a">"The Reeve house has been moved twice in its long history of changing ownership. In 1917 Dr. V. Ray Townsend found the house on blocks ready to be carted away from its original site. He bought it and moved it several blocks inland to its second site in Long Beach. Shortly thereafter he moved to the Claremont area but, unwilling to give it up, rented it out for the next ten years. Meanwhile , in Claremont, the Townsends located the Darling house (1903) in which they resided until 1927 when Henry Greene was engaged to move the Reeve house a second time and to handle its additions, alterations and landscaping in readiness for the Townsends' return to Long Beach." -- from Greene &amp; Greene, architecture as a fine art, by Randell L. Makinson, Salt Lake City, 1977, p. 85.</subfield>
+  </datafield>
+  <datafield tag="500" ind1=" " ind2=" ">
+    <subfield code="a">Scale varies.</subfield>
+  </datafield>
+  <datafield tag="520" ind1=" " ind2=" ">
+    <subfield code="a">This set consists of 58 pencil drawings on tracing paper, 8 pencil and crayon drawings on tracing paper, 8 blueprints on paper, 5 blueprints with pencil markings on paper, 3 pencil drawings on paper, 3 blueprints with pencil and crayon markings on paper, and 1 blueprint with crayon markings on paper.</subfield>
+  </datafield>
+  <datafield tag="500" ind1=" " ind2=" ">
+    <subfield code="a">This set also includes one sheet of note paper labelled "California Minwax Company", a brochure describing the "Fiat perfected shower bath compartment", and 4 "Notice[s] to bidders" from "Henry M. Greene" consisting of typed sheets and fragments clipped together.</subfield>
+  </datafield>
+  <datafield tag="561" ind1=" " ind2=" ">
+    <subfield code="a">Gift of Jean Murray Bangs (Mrs. Harwell Hamilton Harris), 1960; formerly the collection of Charles Sumner Greene.</subfield>
+  </datafield>
+  <datafield tag="580" ind1=" " ind2=" ">
+    <subfield code="a">Forms part of the Greene &amp; Greene architectural drawings and photographs, Dept. of Drawings &amp; Archives, Avery Architectural and Fine Arts Library.</subfield>
+  </datafield>
+  <datafield tag="650" ind1=" " ind2="7">
+    <subfield code="a">Houses.</subfield>
+    <subfield code="2">aat</subfield>
+  </datafield>
+  <datafield tag="650" ind1=" " ind2="7">
+    <subfield code="a">Alterations.</subfield>
+    <subfield code="2">aat</subfield>
+  </datafield>
+  <datafield tag="650" ind1=" " ind2="7">
+    <subfield code="a">Wood sheds.</subfield>
+    <subfield code="2">aat</subfield>
+  </datafield>
+  <datafield tag="650" ind1=" " ind2="7">
+    <subfield code="a">Additions.</subfield>
+    <subfield code="2">aat</subfield>
+  </datafield>
+  <datafield tag="650" ind1=" " ind2="7">
+    <subfield code="a">Garages.</subfield>
+    <subfield code="2">aat</subfield>
+  </datafield>
+  <datafield tag="650" ind1=" " ind2="7">
+    <subfield code="a">Fences.</subfield>
+    <subfield code="2">aat</subfield>
+  </datafield>
+  <datafield tag="655" ind1=" " ind2="7">
+    <subfield code="a">Detail drawings.</subfield>
+    <subfield code="2">aat</subfield>
+  </datafield>
+  <datafield tag="655" ind1=" " ind2="7">
+    <subfield code="a">Site plans.</subfield>
+    <subfield code="2">aat</subfield>
+  </datafield>
+  <datafield tag="655" ind1=" " ind2="7">
+    <subfield code="a">Sketches.</subfield>
+    <subfield code="2">aat</subfield>
+  </datafield>
+  <datafield tag="655" ind1=" " ind2="7">
+    <subfield code="a">Preliminary drawings.</subfield>
+    <subfield code="2">aat</subfield>
+  </datafield>
+  <datafield tag="655" ind1=" " ind2="7">
+    <subfield code="a">Perspective drawings.</subfield>
+    <subfield code="2">aat</subfield>
+  </datafield>
+  <datafield tag="655" ind1=" " ind2="7">
+    <subfield code="a">Planting plans.</subfield>
+    <subfield code="2">aat</subfield>
+  </datafield>
+  <datafield tag="655" ind1=" " ind2="7">
+    <subfield code="a">Architectural drawings</subfield>
+    <subfield code="x">American.</subfield>
+    <subfield code="2">aat</subfield>
+  </datafield>
+  <datafield tag="655" ind1=" " ind2="7">
+    <subfield code="a">Orthographic drawings.</subfield>
+    <subfield code="2">aat</subfield>
+  </datafield>
+  <datafield tag="651" ind1=" " ind2="0">
+    <subfield code="a">Long Beach (Calif.)</subfield>
+  </datafield>
+  <datafield tag="610" ind1="2" ind2="0">
+    <subfield code="a">V. Ray Townsend house (Long Beach, Calif.)</subfield>
+  </datafield>
+  <datafield tag="610" ind1="2" ind2="0">
+    <subfield code="a">Jennie A. Reeve house (Long Beach, Calif.)</subfield>
+  </datafield>
+  <datafield tag="650" ind1=" " ind2="0">
+    <subfield code="a">Architecture</subfield>
+    <subfield code="z">United States</subfield>
+    <subfield code="v">Designs and plans.</subfield>
+  </datafield>
+  <datafield tag="700" ind1="1" ind2=" ">
+    <subfield code="a">Townsend, V. Ray.</subfield>
+  </datafield>
+  <datafield tag="700" ind1="1" ind2=" ">
+    <subfield code="a">Reeve, Jennie A.</subfield>
+  </datafield>
+  <datafield tag="740" ind1="0" ind2=" ">
+    <subfield code="a">Jennie A. Reeve house (Long Beach, Calif.)</subfield>
+  </datafield>
+  <datafield tag="755" ind1=" " ind2=" ">
+    <subfield code="a">Pencil drawings.</subfield>
+    <subfield code="2">aat</subfield>
+  </datafield>
+  <datafield tag="755" ind1=" " ind2=" ">
+    <subfield code="a">Blueprints.</subfield>
+    <subfield code="2">aat</subfield>
+  </datafield>
+  <datafield tag="755" ind1=" " ind2=" ">
+    <subfield code="a">Crayon drawings.</subfield>
+    <subfield code="2">aat</subfield>
+  </datafield>
+  <datafield tag="799" ind1="4" ind2="1">
+    <subfield code="a">The Greene &amp; Greene collection of architectural drawings and photographs.</subfield>
+  </datafield>
+  <datafield tag="789" ind1="0" ind2=" ">
+    <subfield code="1">[1]</subfield>
+    <subfield code="i">NYDA.1960.001.04052.</subfield>
+    <subfield code="t">Plot [i.e. site] plan.</subfield>
+  </datafield>
+  <datafield tag="789" ind1="0" ind2=" ">
+    <subfield code="1">[2]</subfield>
+    <subfield code="i">NYDA.1960.001.04053.</subfield>
+    <subfield code="t">Plot [i.e. site] plan.</subfield>
+    <subfield code="o">Encapsulated with this drawing is a pencil on paper couout showing the outline of the house and labelled "Scheme 2". This may have been previously attached as a flap.</subfield>
+  </datafield>
+  <datafield tag="789" ind1="0" ind2=" ">
+    <subfield code="1">[3]</subfield>
+    <subfield code="i">NYDA.1960.001.04054.</subfield>
+    <subfield code="t">Foundation plan ; section B-B, brick water table [with] plan at corner, typical wall section, section C-C, [sections through] post [footing]s and "A" walls up to girders.</subfield>
+  </datafield>
+  <datafield tag="789" ind1="0" ind2=" ">
+    <subfield code="1">[4]</subfield>
+    <subfield code="i">NYDA.1960.001.04055.</subfield>
+    <subfield code="t">First floo[r plan] ; vertical section thro' so. beam of sun room ; [details in sections, elevations and plan]</subfield>
+  </datafield>
+  <datafield tag="789" ind1="0" ind2=" ">
+    <subfield code="1">[5]</subfield>
+    <subfield code="i">NYDA.1960.001.04056.</subfield>
+    <subfield code="t">Second floor plan ; section Y [in] bedrm. 1 :</subfield>
+    <subfield code="n">Sheet no. 3.</subfield>
+  </datafield>
+  <datafield tag="789" ind1="0" ind2=" ">
+    <subfield code="1">[6]</subfield>
+    <subfield code="i">NYDA.1960.001.04057.</subfield>
+    <subfield code="t">East elevation :</subfield>
+    <subfield code="n">[S]heet no. 4.</subfield>
+  </datafield>
+  <datafield tag="789" ind1="0" ind2=" ">
+    <subfield code="1">[7]</subfield>
+    <subfield code="i">NYDA.1960.001.04058.</subfield>
+    <subfield code="t">S[outh e]levation :</subfield>
+    <subfield code="n">Sheet no. 5.</subfield>
+  </datafield>
+  <datafield tag="789" ind1="0" ind2=" ">
+    <subfield code="1">[8]</subfield>
+    <subfield code="i">NYDA.1960.001.04059.</subfield>
+    <subfield code="t">West elevation :</subfield>
+    <subfield code="n">Sheet no. 6.</subfield>
+  </datafield>
+  <datafield tag="789" ind1="0" ind2=" ">
+    <subfield code="1">[9]</subfield>
+    <subfield code="i">NYDA.1960.001.04062.</subfield>
+    <subfield code="t">Garage -- front (east) elevation (west elev'n similar, but no doors), [detail of foot of front door ; plan [with] wall section A-A ; [north elevation (south ele]v'n similar) :</subfield>
+    <subfield code="n">Sheet no. 9.</subfield>
+    <subfield code="o">"See revised sheet - 6/6/27".Only the title block remains from this revised sheet, the rest of the drawing was evidently destroyed.</subfield>
+  </datafield>
+  <datafield tag="789" ind1="0" ind2=" ">
+    <subfield code="1">[10]</subfield>
+    <subfield code="i">NYDA.1960.001.04064.</subfield>
+    <subfield code="t">[Det]ails of mantels -- plan ; elevation of living r'm mantel [with  section] on LC ; elevation of reception r'm mantel [with] section on LC :</subfield>
+    <subfield code="n">Sheet no. 10.</subfield>
+  </datafield>
+  <datafield tag="789" ind1="0" ind2=" ">
+    <subfield code="1">[11]</subfield>
+    <subfield code="i">NYDA.1960.001.04065.</subfield>
+    <subfield code="t">Plot plan showing revised garage :</subfield>
+    <subfield code="n">Sheet no. 11.</subfield>
+  </datafield>
+  <datafield tag="789" ind1="0" ind2=" ">
+    <subfield code="1">[12]</subfield>
+    <subfield code="i">NYDA.1960.001.04066.</subfield>
+    <subfield code="t">Details of case in bedroom 1 -- section thru meeting styles, vertical section thru head, horizontal section thru mullion [with] cross section, section thru door rails ; elevation of handle, F.S. detail[s of] drawers corn[er a]nd center [gui]des ; diagram showing locatio[n of] shelf, elevation of drawer separater ; vertical sections thru base -- for drawers, without drawers ; elevation of handles :</subfield>
+    <subfield code="n">Sheet no. 12.</subfield>
+    <subfield code="o">"Same details apply to cases in bedroom 4 and sittin[g ro]om except doors are battened in bedroom 4 and are panelled in bed[roo]m 1".</subfield>
+  </datafield>
+  <datafield tag="789" ind1="0" ind2=" ">
+    <subfield code="1">[13]</subfield>
+    <subfield code="i">NYDA.1960.001.04067.</subfield>
+    <subfield code="t">F.S. details of medicine cases in bathrooms 1-2 -- horizontal section, section [th]ru hea[d], elevations at lower corner :</subfield>
+    <subfield code="n">Sheet no. 13.</subfield>
+  </datafield>
+  <datafield tag="789" ind1="0" ind2=" ">
+    <subfield code="1">[14]</subfield>
+    <subfield code="i">NYDA.1960.001.04068.</subfield>
+    <subfield code="t">[Det]ails of pantry sink -- plan, elevation, F.S. section A-A, F.S. section B-B :</subfield>
+    <subfield code="n">Sheet no. 14.</subfield>
+  </datafield>
+  <datafield tag="789" ind1="0" ind2=" ">
+    <subfield code="1">[15]</subfield>
+    <subfield code="i">NYDA.1960.001.04069.</subfield>
+    <subfield code="t">Details of corner c[ounter] in dining room -- plan [showing] half plan below counter, half plan above counter ; elevation [with] section of corner [and] F.S.D. [of base] ; full size of drawer handles -- elevation, section ; F.S. of cupboard door handles ; F.S. part plan above counter, F.S. part elevations showing cuts in member A ; ful[l siz]e of corner at counter [with] section ; F.S. showin[g outline] of membe[r B] :</subfield>
+    <subfield code="n">Sheet no. 15.</subfield>
+  </datafield>
+  <datafield tag="789" ind1="0" ind2=" ">
+    <subfield code="1">[16]</subfield>
+    <subfield code="i">NYDA.1960.001.04070.</subfield>
+    <subfield code="t">[Mi]rror moulds (details for doors) -- elevation (on two doors), F.S. details :</subfield>
+    <subfield code="n">Sheet no. 16.</subfield>
+  </datafield>
+  <datafield tag="789" ind1="0" ind2=" ">
+    <subfield code="1">[17]</subfield>
+    <subfield code="i">NYDA.1960.001.04071.</subfield>
+    <subfield code="t">Landscape [plan] ; lattice fence details :</subfield>
+    <subfield code="n">Sheet [no.] 18.</subfield>
+    <subfield code="o">"Note -- fences redwood, select grade, rough sawn, posts resawn on four sides".</subfield>
+  </datafield>
+  <datafield tag="789" ind1="0" ind2=" ">
+    <subfield code="1">[18]</subfield>
+    <subfield code="i">NYDA.1960.001.04072.</subfield>
+    <subfield code="t">Woo[d she]d details -- [so]uth elevation, section, plan ; de[tails of fen]ce gate -- front, side :</subfield>
+    <subfield code="n">Sheet no. 19.</subfield>
+  </datafield>
+  <datafield tag="789" ind1="0" ind2=" ">
+    <subfield code="1">[19]</subfield>
+    <subfield code="i">NYDA.1960.001.04073.</subfield>
+    <subfield code="t">Living room tables -- p[lan, si]de [elevation with F.S.D.], end [elevation], F.S. details of top &amp; cleat ends [showing] end, top [and] side ;</subfield>
+    <subfield code="n">[Sh]eet no. 21.</subfield>
+  </datafield>
+  <datafield tag="789" ind1="0" ind2=" ">
+    <subfield code="1">[20]</subfield>
+    <subfield code="i">NYDA.1960.001.04074.</subfield>
+    <subfield code="t">Planting plan :</subfield>
+    <subfield code="n">Sheet no. 22.</subfield>
+    <subfield code="o">Includes "Key", "Trees" and "Shrubs &amp; plants list".</subfield>
+  </datafield>
+  <datafield tag="789" ind1="0" ind2=" ">
+    <subfield code="1">[21]</subfield>
+    <subfield code="i">NYDA.1960.001.04075.</subfield>
+    <subfield code="t">[Site plan s]howing change in driveway to garage ;</subfield>
+    <subfield code="n">Sheet no. 24.</subfield>
+  </datafield>
+  <datafield tag="789" ind1="0" ind2=" ">
+    <subfield code="1">[22]</subfield>
+    <subfield code="i">NYDA.1960.001.04076.</subfield>
+    <subfield code="t">East [elevation]</subfield>
+  </datafield>
+  <datafield tag="789" ind1="0" ind2=" ">
+    <subfield code="1">[23]</subfield>
+    <subfield code="i">NYDA.1960.001.04077.</subfield>
+    <subfield code="t">Scheme #1 -- east elevation, west elevation.</subfield>
+  </datafield>
+  <datafield tag="789" ind1="0" ind2=" ">
+    <subfield code="1">[24]</subfield>
+    <subfield code="i">NYDA.1960.001.04078.</subfield>
+    <subfield code="t">South elevation.</subfield>
+  </datafield>
+  <datafield tag="789" ind1="0" ind2=" ">
+    <subfield code="1">[25]</subfield>
+    <subfield code="i">NYDA.1960.001.04079.</subfield>
+    <subfield code="t">[Partial] 2nd cellar plan.</subfield>
+    <subfield code="o">"Changed as per 1st floor plan 3/22/27".</subfield>
+  </datafield>
+  <datafield tag="789" ind1="0" ind2=" ">
+    <subfield code="1">[26]</subfield>
+    <subfield code="i">NYDA.1960.001.04080.</subfield>
+    <subfield code="t">Scheme 1 -- first floor plan :</subfield>
+    <subfield code="n">Sheet no. 1,</subfield>
+    <subfield code="d">2/11/27.</subfield>
+    <subfield code="o">"Colored parts show changes &amp; additions".</subfield>
+  </datafield>
+  <datafield tag="789" ind1="0" ind2=" ">
+    <subfield code="1">[27]</subfield>
+    <subfield code="i">NYDA.1960.001.04081.</subfield>
+    <subfield code="t">[Plan of] den addition on east of hall.</subfield>
+  </datafield>
+  <datafield tag="789" ind1="0" ind2=" ">
+    <subfield code="1">[28]</subfield>
+    <subfield code="i">NYDA.1960.001.04082.</subfield>
+    <subfield code="t">Revised drawing showing back stairs and rear part -- first floor plan, [elevation of kitchen wall],</subfield>
+    <subfield code="d">3/30/27.</subfield>
+  </datafield>
+  <datafield tag="789" ind1="0" ind2=" ">
+    <subfield code="1">[29]</subfield>
+    <subfield code="i">NYDA.1960.001.04083.</subfield>
+    <subfield code="t">Revised drawing showing back stairs and rear part -- first floor plan, [elevation of kitchen wall],</subfield>
+    <subfield code="d">3/30/27.</subfield>
+  </datafield>
+  <datafield tag="789" ind1="0" ind2=" ">
+    <subfield code="1">[30]</subfield>
+    <subfield code="i">NYDA.1960.001.04084.</subfield>
+    <subfield code="t">Scheme 2 -- [partial first floor plan],</subfield>
+    <subfield code="d">2/25/27.</subfield>
+  </datafield>
+  <datafield tag="789" ind1="0" ind2=" ">
+    <subfield code="1">[31]</subfield>
+    <subfield code="i">NYDA.1960.001.04085.</subfield>
+    <subfield code="t">Copy of plan of [first floor] rear as laid out in original plan &amp; changed as shown in revised sheet 3/21/27.</subfield>
+  </datafield>
+  <datafield tag="789" ind1="0" ind2=" ">
+    <subfield code="1">[32]</subfield>
+    <subfield code="i">NYDA.1960.001.04086.</subfield>
+    <subfield code="t">Revision of rear of house -- [first floor] plan,</subfield>
+    <subfield code="d">3/21/27.</subfield>
+  </datafield>
+  <datafield tag="789" ind1="0" ind2=" ">
+    <subfield code="1">[33]</subfield>
+    <subfield code="i">NYDA.1960.001.04087.</subfield>
+    <subfield code="t">Revision of rear of house -- [first floor] plan,</subfield>
+    <subfield code="d">3/21/27.</subfield>
+    <subfield code="o">"O.K.ed by phine p.m. 3/22/27".</subfield>
+  </datafield>
+  <datafield tag="789" ind1="0" ind2=" ">
+    <subfield code="1">[34]</subfield>
+    <subfield code="i">NYDA.1960.001.04088.</subfield>
+    <subfield code="t">[Plan of] maid's bath [and adjacent room]</subfield>
+  </datafield>
+  <datafield tag="789" ind1="0" ind2=" ">
+    <subfield code="1">[35]</subfield>
+    <subfield code="i">NYDA.1960.001.04089.</subfield>
+    <subfield code="t">[Plan of stairs at] 1st floor.</subfield>
+  </datafield>
+  <datafield tag="789" ind1="0" ind2=" ">
+    <subfield code="1">[36]</subfield>
+    <subfield code="i">NYDA.1960.001.04090.</subfield>
+    <subfield code="t">[Sketch of plan of] 1st floor [rear],</subfield>
+    <subfield code="d">8/5/26.</subfield>
+  </datafield>
+  <datafield tag="789" ind1="0" ind2=" ">
+    <subfield code="1">[37]</subfield>
+    <subfield code="i">NYDA.1960.001.04091.</subfield>
+    <subfield code="t">[Partial] second floor plan.</subfield>
+  </datafield>
+  <datafield tag="789" ind1="0" ind2=" ">
+    <subfield code="1">[38]</subfield>
+    <subfield code="i">NYDA.1960.001.04092.</subfield>
+    <subfield code="t">[Partial] 2d floor [plan],</subfield>
+    <subfield code="d">8/5/26.</subfield>
+  </datafield>
+  <datafield tag="789" ind1="0" ind2=" ">
+    <subfield code="1">[39]</subfield>
+    <subfield code="i">NYDA.1960.001.04093.</subfield>
+    <subfield code="t">Scheme 1 -- second floor plan :</subfield>
+    <subfield code="n">Sheet no. 2.</subfield>
+  </datafield>
+  <datafield tag="789" ind1="0" ind2=" ">
+    <subfield code="1">[40]</subfield>
+    <subfield code="i">NYDA.1960.001.04094.</subfield>
+    <subfield code="t">Revised drawing showing back stairs and bathrm. 2 -- second floor plan,</subfield>
+    <subfield code="d">3/30/27.</subfield>
+  </datafield>
+  <datafield tag="789" ind1="0" ind2=" ">
+    <subfield code="1">[41]</subfield>
+    <subfield code="i">NYDA.1960.001.04095.</subfield>
+    <subfield code="t">Revised drawing showing back stairs and bathrm. 2 -- second floor plan,</subfield>
+    <subfield code="d">3/30/27.</subfield>
+  </datafield>
+  <datafield tag="789" ind1="0" ind2=" ">
+    <subfield code="1">[42]</subfield>
+    <subfield code="i">NYDA.1960.001.04096.</subfield>
+    <subfield code="t">[Partial second floor plan showing] bedrm. 5, sewing room [and] bath 2.</subfield>
+  </datafield>
+  <datafield tag="900" ind1=" " ind2=" ">
+    <subfield code="a">AUTH</subfield>
+  </datafield>
+</record>
+
+</collection>

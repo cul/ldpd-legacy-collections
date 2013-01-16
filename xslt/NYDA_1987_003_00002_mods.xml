@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mods:mods xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+           xmlns:mods="http://www.loc.gov/mods/v3"
+           xmlns:xlink="http://www.w3.org/1999/xlink"
+           xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-4.xsd">
+   <mods:name type="personal">
+      <mods:namePart>Hulbert, Leroy.</mods:namePart>
+   </mods:name>
+   <mods:titleInfo type="uniform">
+      <mods:title>Robert R. Blacker house (Pasadena, Calif.)</mods:title>
+   </mods:titleInfo>
+   <mods:titleInfo>
+      <mods:title>Robert R. Blacker house, Pasadena, Calif., View from garden to rear elevation of main residence. </mods:title>
+   </mods:titleInfo>
+   <mods:originInfo>
+      <mods:dateCreated>[circa 1915]</mods:dateCreated>
+      <mods:dateCreated encoding="w3cdtf" keyDate="yes">1915</mods:dateCreated>
+   </mods:originInfo>
+   <mods:physicalDescription>
+      <mods:extent>1 sheet</mods:extent>
+      <mods:form authority="gmgpc">architectural drawings</mods:form>
+      <mods:digitalOrigin>reformatted digital</mods:digitalOrigin>
+   </mods:physicalDescription>
+   <mods:typeOfResource>still image</mods:typeOfResource>
+   <mods:note>Signed on photo, lower left.</mods:note>
+   <mods:note type="physical details">19 x 24 cm. (7 1/2 x 9 1/2 in.).</mods:note>
+   <mods:note type="ownership">
+    Gift made possible by Harwell Hamilton Harris. Accession number 1987.003.
+  </mods:note>
+   <mods:accessCondition type="useAndReproduction">Columbia Libraries Staff Use
+                Only</mods:accessCondition>
+   <mods:relatedItem displayLabel="Collection" type="host">
+      <mods:titleInfo>
+         <mods:title>Hugh Ferriss architectural drawings and papers</mods:title>
+      </mods:titleInfo>
+   </mods:relatedItem>
+   <mods:relatedItem displayLabel="Project" type="host">
+      <mods:titleInfo>
+         <mods:title>AVIADOR</mods:title>
+      </mods:titleInfo>
+   </mods:relatedItem>
+   <mods:relatedItem type="original">
+      <mods:identifier type="CLIO">3464632</mods:identifier>
+   </mods:relatedItem>
+   <mods:location>
+      <mods:physicalLocation authority="marcorg">NNC-A</mods:physicalLocation>
+      <mods:physicalLocation>Avery Architectural &amp; Fine Arts Library, Columbia
+                    University</mods:physicalLocation>
+      <mods:shelfLocator>NYDA.1987.003.00002.</mods:shelfLocator>
+      <mods:holdingSimple>
+         <mods:copyInformation>
+            <mods:subLocation>Drawings &amp; Archives</mods:subLocation>
+         </mods:copyInformation>
+      </mods:holdingSimple>
+   </mods:location>
+   <mods:identifier type="local">NYDA.1987.003.00002.</mods:identifier>
+   <mods:recordInfo>
+      <mods:recordContentSource>NNC</mods:recordContentSource>
+      <mods:recordOrigin>Cataloging by project AVIADOR staff, edited to conform to MODS,
+                    version 3.4.</mods:recordOrigin>
+   </mods:recordInfo>
+</mods:mods>

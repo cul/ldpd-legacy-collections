@@ -1,0 +1,248 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<collection
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xsi:schemaLocation="http://www.loc.gov/MARC21/slim http://www.loc.gov/standards/marcxml/schema/MARC21slim.xsd"
+  xmlns="http://www.loc.gov/MARC21/slim">
+
+<record>
+  <leader>04612ckdaa2200661 a 4500</leader>
+  <controlfield tag="001">3462521</controlfield>
+  <controlfield tag="005">20100226103506.0</controlfield>
+  <controlfield tag="008">890630m19051906xx ||| |||||||   1k|eng d</controlfield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="a">(OCoLC)78567465</subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="a">(OCoLC)ocm78567465</subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="a">(CStRLIN)NYDA89-F764</subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="9">AAA2992AD</subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="a">(NNC)3462521</subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">NNc</subfield>
+    <subfield code="c">NNc</subfield>
+    <subfield code="e">gihc</subfield>
+  </datafield>
+  <datafield tag="043" ind1=" " ind2=" ">
+    <subfield code="a">n-us-ca</subfield>
+  </datafield>
+  <datafield tag="090" ind1=" " ind2=" ">
+    <subfield code="i">11/13/01 X</subfield>
+    <subfield code="h">06/04/01 T</subfield>
+    <subfield code="h">01/09/92 N</subfield>
+  </datafield>
+  <datafield tag="110" ind1="2" ind2=" ">
+    <subfield code="a">Greene &amp; Greene.</subfield>
+  </datafield>
+  <datafield tag="240" ind1="1" ind2="0">
+    <subfield code="a">Concrete bridge (South Pasadena, Calif.)</subfield>
+  </datafield>
+  <datafield tag="245" ind1="1" ind2="0">
+    <subfield code="a">Reinforced concrete bridge at Oaklawn, So. Pasadena, Calif. for South Pasadena Realty and Improvement Company.</subfield>
+    <subfield code="h">[graphic] :</subfield>
+    <subfield code="b">/</subfield>
+    <subfield code="c">Greene &amp; Greene, Arch'ts ; M. De Palo, consulting engineer.</subfield>
+  </datafield>
+  <datafield tag="260" ind1=" " ind2=" ">
+    <subfield code="c">1905-[19]06.</subfield>
+  </datafield>
+  <datafield tag="300" ind1=" " ind2=" ">
+    <subfield code="a">15sheets:</subfield>
+    <subfield code="b">various media:</subfield>
+    <subfield code="c">130.5 x 133.4 cm. (51 3/8 x 52 1/2 in.) or smaller.</subfield>
+  </datafield>
+  <datafield tag="500" ind1=" " ind2=" ">
+    <subfield code="a">Scale varies.</subfield>
+  </datafield>
+  <datafield tag="500" ind1=" " ind2=" ">
+    <subfield code="a">Bracketed title elements supplied by cataloger or taken from inventory.</subfield>
+  </datafield>
+  <datafield tag="500" ind1=" " ind2=" ">
+    <subfield code="a">Forms part of the Greene &amp; Greene collection of architectural draeings.</subfield>
+  </datafield>
+  <datafield tag="500" ind1=" " ind2=" ">
+    <subfield code="a">This set consists of 6 ink drawings on cloth, 4 ink drawings with pencil markings on cloth, 4 blueprints on paper, and 1 blueprint with pencil and crayonb markings on paper.</subfield>
+  </datafield>
+  <datafield tag="561" ind1=" " ind2=" ">
+    <subfield code="a">Gift of Jean Murray Bangs (Mrs. Harwell Hamilto Harris), 1960; formerly the collection of Charles Sumner Greene.</subfield>
+  </datafield>
+  <datafield tag="650" ind1=" " ind2="7">
+    <subfield code="a">Bridges.</subfield>
+    <subfield code="2">aat</subfield>
+  </datafield>
+  <datafield tag="650" ind1=" " ind2="7">
+    <subfield code="a">Bridges, Concrete.</subfield>
+    <subfield code="2">aat</subfield>
+  </datafield>
+  <datafield tag="655" ind1=" " ind2="7">
+    <subfield code="a">Detail drawings.</subfield>
+    <subfield code="2">aat</subfield>
+  </datafield>
+  <datafield tag="655" ind1=" " ind2="7">
+    <subfield code="a">Architectural drawings</subfield>
+    <subfield code="x">American.</subfield>
+    <subfield code="2">aat</subfield>
+  </datafield>
+  <datafield tag="655" ind1=" " ind2="7">
+    <subfield code="a">Orthogrpahic drawings.</subfield>
+    <subfield code="2">aat</subfield>
+  </datafield>
+  <datafield tag="691" ind1=" " ind2="7">
+    <subfield code="a">South Pasadena (Calif)</subfield>
+  </datafield>
+  <datafield tag="650" ind1=" " ind2="0">
+    <subfield code="a">Architecture</subfield>
+    <subfield code="z">United States</subfield>
+    <subfield code="v">Designs and plans.</subfield>
+  </datafield>
+  <datafield tag="700" ind1="1" ind2=" ">
+    <subfield code="a">Greene, Charles Sumner,</subfield>
+    <subfield code="d">1868-1957.</subfield>
+  </datafield>
+  <datafield tag="700" ind1="1" ind2=" ">
+    <subfield code="a">Greene, Henry Mather,</subfield>
+    <subfield code="d">1870-1954.</subfield>
+  </datafield>
+  <datafield tag="700" ind1="1" ind2=" ">
+    <subfield code="a">De Palo, M.</subfield>
+  </datafield>
+  <datafield tag="710" ind1="2" ind2=" ">
+    <subfield code="a">South Pasadena Realty and Improvement Co.</subfield>
+  </datafield>
+  <datafield tag="710" ind1="2" ind2=" ">
+    <subfield code="a">Postle &amp; Waddingham.</subfield>
+  </datafield>
+  <datafield tag="755" ind1=" " ind2=" ">
+    <subfield code="a">Ink drawings.</subfield>
+    <subfield code="2">aat</subfield>
+  </datafield>
+  <datafield tag="755" ind1=" " ind2=" ">
+    <subfield code="a">Blueprints.</subfield>
+    <subfield code="2">aat</subfield>
+  </datafield>
+  <datafield tag="755" ind1=" " ind2=" ">
+    <subfield code="a">Crayon markings.</subfield>
+    <subfield code="2">aat</subfield>
+  </datafield>
+  <datafield tag="799" ind1="4" ind2="1">
+    <subfield code="a">The Greene &amp; Greene collection of architectural drawings.</subfield>
+  </datafield>
+  <datafield tag="789" ind1="0" ind2=" ">
+    <subfield code="1">[1]</subfield>
+    <subfield code="i">NYDA.1960.001.03595.</subfield>
+    <subfield code="v">[AVERYimage].</subfield>
+    <subfield code="t">Map showing a private road of Oaklawn, South Pasadena extended southeasterly to Fair Oaks Avenue/</subfield>
+    <subfield code="c">map &amp; survey by Postle &amp; Waddingham, civil engineers,</subfield>
+    <subfield code="d">October 21,1905.</subfield>
+  </datafield>
+  <datafield tag="789" ind1="0" ind2=" ">
+    <subfield code="1">[2]</subfield>
+    <subfield code="i">NYDA.1960.001.03596.</subfield>
+    <subfield code="v">[AVERYimage].</subfield>
+    <subfield code="t">Reinforced concrete bridge -- elevation, plam, [elevations of structure at end of bridge] :</subfield>
+    <subfield code="n">Sheet no.1</subfield>
+  </datafield>
+  <datafield tag="789" ind1="0" ind2=" ">
+    <subfield code="1">[3]</subfield>
+    <subfield code="i">NYDA.1960.001.03597.</subfield>
+    <subfield code="v">[AVERYimage].</subfield>
+    <subfield code="t">Reinforced concrete bridge -- elevation plan, {elevations of structure at end of bridge} ;</subfield>
+    <subfield code="S">heet no. 1.</subfield>
+  </datafield>
+  <datafield tag="789" ind1="0" ind2=" ">
+    <subfield code="1">[4]</subfield>
+    <subfield code="i">NYDA.1960.001.03598.</subfield>
+    <subfield code="v">[AVERYimage].</subfield>
+    <subfield code="t">Plan of one span, cross section, longitudinal section (shoes iron in girders "A") [with] section of girder "C" [and detail of guardrail in] section, plan :</subfield>
+    <subfield code="n">Sheet no. 2.</subfield>
+  </datafield>
+  <datafield tag="789" ind1="0" ind2=" ">
+    <subfield code="1">[5]</subfield>
+    <subfield code="i">NYDA.1960.001.03599.</subfield>
+    <subfield code="v">[AVERYimage].</subfield>
+    <subfield code="t">Plan of one span, cross section, longitudinal section(shows iron in girders "A" [with] section of girder "C"[and detail of guard rail in] section, plan :</subfield>
+    <subfield code="n">Sheet no. 2.</subfield>
+  </datafield>
+  <datafield tag="789" ind1="0" ind2=" ">
+    <subfield code="1">[6]</subfield>
+    <subfield code="i">NYDA.1960.001.03600.</subfield>
+    <subfield code="v">[AVERYimage].</subfield>
+    <subfield code="t">Cross section on center line looking east,plan thro pier, east half of span 2 [elevation], part paln of east half of span 2;</subfield>
+    <subfield code="n">Sheet no. 2.</subfield>
+  </datafield>
+  <datafield tag="789" ind1="0" ind2=" ">
+    <subfield code="1">[7]</subfield>
+    <subfield code="i">NYDA.1960.001.03601.</subfield>
+    <subfield code="v">[AVERYimage].</subfield>
+    <subfield code="t">Cross section on center line looking east, plan thro' pier [elevation of] east half of span 2, part paln of east half of span 2</subfield>
+    <subfield code="n">Sheet no.2</subfield>
+  </datafield>
+  <datafield tag="789" ind1="0" ind2=" ">
+    <subfield code="1">[8]</subfield>
+    <subfield code="i">NYDA.1960.001.03602.</subfield>
+    <subfield code="v">[AVERYimage].</subfield>
+    <subfield code="t">[Elevation, plan, cross section]</subfield>
+  </datafield>
+  <datafield tag="789" ind1="0" ind2=" ">
+    <subfield code="1">[9]</subfield>
+    <subfield code="i">NYDA.1960.001.03603.</subfield>
+    <subfield code="v">[AVERYimage].</subfield>
+    <subfield code="t">[Plan of one span, cross section, longitudinal section with detail of guardrail in section, plan]</subfield>
+  </datafield>
+  <datafield tag="789" ind1="0" ind2=" ">
+    <subfield code="1">[10]</subfield>
+    <subfield code="i">NYDA.1960.001.03604.</subfield>
+    <subfield code="v">[AVERYimage].</subfield>
+    <subfield code="t">Method of strengthening -- [sections, elevations]</subfield>
+  </datafield>
+  <datafield tag="789" ind1="0" ind2=" ">
+    <subfield code="1">[11]</subfield>
+    <subfield code="i">NYDA.1960.001.03605.</subfield>
+    <subfield code="v">[AVERYimage].</subfield>
+    <subfield code="t">Details of piers at west end of bridge -- east end of pier, plan side :</subfield>
+    <subfield code="n">No.4.</subfield>
+  </datafield>
+  <datafield tag="789" ind1="0" ind2=" ">
+    <subfield code="1">[12]</subfield>
+    <subfield code="i">NYDA.1960.001.03606.</subfield>
+    <subfield code="v">[AVERYimage].</subfield>
+    <subfield code="t">Detail of piers at east end of bridge;</subfield>
+    <subfield code="n">Sheet no.5,</subfield>
+    <subfield code="d">June 23rd,"06.</subfield>
+    <subfield code="0">"Note -- all corners are to be rounded."</subfield>
+    <subfield code="0">"Square in plan"</subfield>
+  </datafield>
+  <datafield tag="789" ind1="0" ind2=" ">
+    <subfield code="1">[13]</subfield>
+    <subfield code="i">NYDA.1960.001.03607.</subfield>
+    <subfield code="v">[AVERYimage].</subfield>
+    <subfield code="t">[Elevation of lanterns]</subfield>
+  </datafield>
+  <datafield tag="789" ind1="0" ind2=" ">
+    <subfield code="1">[14]</subfield>
+    <subfield code="i">NYDA.1960.001.03608.</subfield>
+    <subfield code="v">[AVERYimage].</subfield>
+    <subfield code="t">Reinforced concrete bridge -- elevation, plan, [elevations of structure at end of bridge]:</subfield>
+    <subfield code="n">Sheet no.1.</subfield>
+    <subfield code="0">Encapsulated in mylar.</subfield>
+  </datafield>
+  <datafield tag="789" ind1="0" ind2=" ">
+    <subfield code="1">[15]</subfield>
+    <subfield code="i">NYDA.1960.001.03609.</subfield>
+    <subfield code="v">[AVERYimage].</subfield>
+    <subfield code="t">Reinforced concrete bridge -- elevation, plan, [elevations of structure at end of bridge];</subfield>
+    <subfield code="n">Sheet no.1.</subfield>
+    <subfield code="0">Encapsulated in mylar.</subfield>
+  </datafield>
+  <datafield tag="900" ind1=" " ind2=" ">
+    <subfield code="a">AUTH</subfield>
+  </datafield>
+</record>
+
+</collection>

@@ -1,0 +1,255 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<collection
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xsi:schemaLocation="http://www.loc.gov/MARC21/slim http://www.loc.gov/standards/marcxml/schema/MARC21slim.xsd"
+  xmlns="http://www.loc.gov/MARC21/slim">
+
+<record>
+  <leader>05769ckdaa2200577 a 4500</leader>
+  <controlfield tag="001">3460533</controlfield>
+  <controlfield tag="005">20100226102538.0</controlfield>
+  <controlfield tag="008">870303s1947    xx ||| |||||||    k|eng d</controlfield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="a">(OCoLC)80106244</subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="a">(OCoLC)ocm80106244</subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="a">(CStRLIN)NYDA87-F86</subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="9">AAA1004AD</subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="a">(NNC)3460533</subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">NNC</subfield>
+    <subfield code="c">NNC</subfield>
+    <subfield code="e">gihc</subfield>
+  </datafield>
+  <datafield tag="043" ind1=" " ind2=" ">
+    <subfield code="a">n-us-ny</subfield>
+  </datafield>
+  <datafield tag="100" ind1="1" ind2=" ">
+    <subfield code="a">Ferriss, Hugh,</subfield>
+    <subfield code="d">1889-1962.</subfield>
+  </datafield>
+  <datafield tag="240" ind1="1" ind2="0">
+    <subfield code="a">United Nations (New York, N.Y.).</subfield>
+    <subfield code="p">Design Dev. Drawing, 1947</subfield>
+  </datafield>
+  <datafield tag="245" ind1="1" ind2="0">
+    <subfield code="a">[United Nations]</subfield>
+    <subfield code="h">[graphic] /</subfield>
+    <subfield code="c">Hugh Ferriss [renderer] or [delineator]  ; H.[Howard] R.[Robertson]</subfield>
+  </datafield>
+  <datafield tag="260" ind1=" " ind2=" ">
+    <subfield code="c">1947.</subfield>
+  </datafield>
+  <datafield tag="300" ind1=" " ind2=" ">
+    <subfield code="a">13 drawings :</subfield>
+    <subfield code="b">various media ;</subfield>
+    <subfield code="c">60.9 x 91.6 cm. (24 x 36 1/8 in.) or smaller.</subfield>
+  </datafield>
+  <datafield tag="500" ind1=" " ind2=" ">
+    <subfield code="a">Titles supplied by cataloger.</subfield>
+  </datafield>
+  <datafield tag="500" ind1=" " ind2=" ">
+    <subfield code="a">Set consists of 5 drawings, graphite on tracing paper; 2 drawings, graphite on paper; 2  drawings, charcoal on tracing paper; 2 drawings, charcoal on paper; 2 drawings, crayon on paper.</subfield>
+  </datafield>
+  <datafield tag="650" ind1=" " ind2="7">
+    <subfield code="a">International organizations buildings.</subfield>
+    <subfield code="2">aat</subfield>
+  </datafield>
+  <datafield tag="655" ind1=" " ind2="7">
+    <subfield code="a">Architectural drawings</subfield>
+    <subfield code="x">American.</subfield>
+    <subfield code="2">aat</subfield>
+  </datafield>
+  <datafield tag="655" ind1=" " ind2="7">
+    <subfield code="a">Perspective drawings.</subfield>
+    <subfield code="2">aat</subfield>
+  </datafield>
+  <datafield tag="655" ind1=" " ind2="7">
+    <subfield code="a">Design development drawings.</subfield>
+    <subfield code="2">aat</subfield>
+  </datafield>
+  <datafield tag="651" ind1=" " ind2="0">
+    <subfield code="a">New York (N.Y.)</subfield>
+  </datafield>
+  <datafield tag="650" ind1=" " ind2="0">
+    <subfield code="a">Architecture</subfield>
+    <subfield code="z">United States</subfield>
+    <subfield code="v">Designs and plans.</subfield>
+  </datafield>
+  <datafield tag="610" ind1="2" ind2="0">
+    <subfield code="a">United Nations.</subfield>
+  </datafield>
+  <datafield tag="700" ind1="1" ind2=" ">
+    <subfield code="a">Robertson, H.</subfield>
+  </datafield>
+  <datafield tag="755" ind1=" " ind2=" ">
+    <subfield code="a">Pencil drawings.</subfield>
+    <subfield code="2">aat</subfield>
+  </datafield>
+  <datafield tag="755" ind1=" " ind2=" ">
+    <subfield code="a">Crayon drawings.</subfield>
+    <subfield code="2">aat</subfield>
+  </datafield>
+  <datafield tag="755" ind1=" " ind2=" ">
+    <subfield code="a">Charcoal drawings.</subfield>
+    <subfield code="2">aat</subfield>
+  </datafield>
+  <datafield tag="799" ind1="4" ind2="3">
+    <subfield code="a">The Hugh Ferriss collection.</subfield>
+  </datafield>
+  <datafield tag="789" ind1="0" ind2=" ">
+    <subfield code="1">[1]</subfield>
+    <subfield code="i">NYDA.1000.001.00181.</subfield>
+    <subfield code="t">Scheme #13 Drwg # 14 : [bird's-eye perspective looking south east] :</subfield>
+    <subfield code="n">Drwg. no. 14,</subfield>
+    <subfield code="d">"March 21 [19]47".</subfield>
+    <subfield code="p">Graphite with black and color crayon on tracing paper ; 39.6 x 60.9 cm. (15 5/8 x 24 5/8 in.)</subfield>
+    <subfield code="o">Dated lower left.</subfield>
+    <subfield code="o">"R-1"--inscribed lower left under date.</subfield>
+    <subfield code="o">"Mr. Robertson"--inscribed lower right under title.</subfield>
+  </datafield>
+  <datafield tag="789" ind1="0" ind2=" ">
+    <subfield code="1">[2]</subfield>
+    <subfield code="i">NYDA.1000.001.00182.</subfield>
+    <subfield code="t">[Perspective looking southeast]/</subfield>
+    <subfield code="c">H.R.[i.e. Howard Robertson]</subfield>
+    <subfield code="d">"March [19]47".</subfield>
+    <subfield code="p">Graphite (one orange arrow on right border) on tracing paper ; 32.0 x 52.4 cm. (12 5/8 x 20 5/8 in.)</subfield>
+    <subfield code="o">Initialed and dated, lower right.</subfield>
+  </datafield>
+  <datafield tag="789" ind1="0" ind2=" ">
+    <subfield code="1">[3]</subfield>
+    <subfield code="i">NYDA.1000.001.00183.</subfield>
+    <subfield code="t">Perspective looking south toward domed building :</subfield>
+    <subfield code="n">Drwg #40,</subfield>
+    <subfield code="d">April 18, [19]47.</subfield>
+    <subfield code="p">Charcoal and graphite with color on paper ; 60.9 x 76.1 cm. (24 x 30 in.)</subfield>
+    <subfield code="o">Dated lower right.</subfield>
+    <subfield code="o">#29 inscribed but partially erased near date.</subfield>
+    <subfield code="o">Title in pencil before date.</subfield>
+  </datafield>
+  <datafield tag="789" ind1="0" ind2=" ">
+    <subfield code="1">[4]</subfield>
+    <subfield code="i">NYDA.1000.001.00184.</subfield>
+    <subfield code="t">[Bird's-eye perspective looking south] :</subfield>
+    <subfield code="n">Drwg #59.</subfield>
+    <subfield code="p">Graphite (with faint color shading) on tracing paper ; 45.8 x 61.0 cm. (18 1/8 x 25 1/8 in.)</subfield>
+    <subfield code="o">Date and "Drwg #59" lower right.</subfield>
+  </datafield>
+  <datafield tag="789" ind1="0" ind2=" ">
+    <subfield code="1">[5]</subfield>
+    <subfield code="i">NYDA.1000.001.00185.</subfield>
+    <subfield code="t">[Perspective of north entrance and pool] :</subfield>
+    <subfield code="n">[Drwg.] #143,</subfield>
+    <subfield code="d">Aug. 22.</subfield>
+    <subfield code="p">Charcoal and color crayon on tracing paper ; 59.2 x 90.5 cm. (23 1/4 x 36 5/8 in.)</subfield>
+    <subfield code="o">"#143", upper right;</subfield>
+    <subfield code="o">"143", and date, lower right.</subfield>
+  </datafield>
+  <datafield tag="789" ind1="0" ind2=" ">
+    <subfield code="1">[6]</subfield>
+    <subfield code="i">NYDA.1000.001.00186.</subfield>
+    <subfield code="t">[Perspective of north entrance] /</subfield>
+    <subfield code="c">Hugh Ferriss, del.</subfield>
+    <subfield code="p">Charcoal on paper on board ; 60.8 x 80.6 cm. (23 3/4 x 313/4 in.)</subfield>
+    <subfield code="o">Signed lower left.</subfield>
+  </datafield>
+  <datafield tag="789" ind1="0" ind2=" ">
+    <subfield code="1">[7]</subfield>
+    <subfield code="i">NYDA.1000.001.00187R.</subfield>
+    <subfield code="t">View from First Ave., delegate entrance in center : [close-up view] :</subfield>
+    <subfield code="n">Drwg. no. 146,</subfield>
+    <subfield code="d">Aug. 23 [19]47.</subfield>
+    <subfield code="p">Black and color crayon, some pencil on paper ; 43.6 x 60.7 cm. (17 1/8 x 23 7/8 in.)</subfield>
+    <subfield code="o">"#146" in black crayon, lower right, date in graphite under number.</subfield>
+    <subfield code="o">Title from verso.</subfield>
+    <subfield code="o">Small image covering less than half the paper area in brown crayon with a large title block (empty) delineated in graphite; recto/verso images; paper has been folded.</subfield>
+  </datafield>
+  <datafield tag="789" ind1="0" ind2=" ">
+    <subfield code="1">[8]</subfield>
+    <subfield code="i">NYDA.1000.001.00187V.</subfield>
+    <subfield code="t">TEMP.</subfield>
+  </datafield>
+  <datafield tag="789" ind1="0" ind2=" ">
+    <subfield code="1">[9]</subfield>
+    <subfield code="i">NYDA.1000.001.00188R.</subfield>
+    <subfield code="t">U.N. Headquarters seen from the East River : [perspective]blown up :</subfield>
+    <subfield code="n">[Drwg. no.] 148,</subfield>
+    <subfield code="d">Aug 25 [19]47.</subfield>
+    <subfield code="p">Black and color crayon on paper ; 43.3 x 60.2 cm. (17 1/8 x 23 3/4 in.)</subfield>
+    <subfield code="o">"#148" and date in graphite, lower right.</subfield>
+  </datafield>
+  <datafield tag="789" ind1="0" ind2=" ">
+    <subfield code="1">[10]</subfield>
+    <subfield code="i">NYDA.1000.001.00188V.</subfield>
+    <subfield code="t">The U.N. headquarters seen from the East River [perspective sketch]</subfield>
+    <subfield code="o">Small image on only the right half of the verso side of the paper in brown crayon with a large title block (empty) delineated in graphite.</subfield>
+  </datafield>
+  <datafield tag="789" ind1="0" ind2=" ">
+    <subfield code="1">[11]</subfield>
+    <subfield code="i">NYDA.1000.001.00189R.</subfield>
+    <subfield code="t">[Porch on waterfront] :</subfield>
+    <subfield code="n">[Drwg. no.] 151,</subfield>
+    <subfield code="d">Aug 26.</subfield>
+    <subfield code="p">Graphite, black crayon (or charcoal) and color crayon on paper ; 43.7 x 60.2 cm. (17 1/4 x 23 3/4 in.)</subfield>
+    <subfield code="o">"#151" and date in graphite, lower center.</subfield>
+  </datafield>
+  <datafield tag="789" ind1="0" ind2=" ">
+    <subfield code="1">[12]</subfield>
+    <subfield code="i">NYDA.1000.001.00189V.</subfield>
+    <subfield code="t">Delegate Lounge, overlooking the East River.</subfield>
+    <subfield code="o">Small image on only the left half of verso side of paper in brown crayon with a long title block (empty) delineated in graphite.</subfield>
+  </datafield>
+  <datafield tag="789" ind1="0" ind2=" ">
+    <subfield code="1">[13]</subfield>
+    <subfield code="i">NYDA.1000.001.00190.</subfield>
+    <subfield code="t">[Perspective of north entrance] :</subfield>
+    <subfield code="n">[Drawg. no.] 152.</subfield>
+    <subfield code="p">Charcoal and graphite with color crayon on tracing paper ; 54.7 x 74.9 cm. (21 5.8 x 29 1/2 in.)</subfield>
+    <subfield code="o">"#152" lower right.</subfield>
+    <subfield code="o">Fountains in foreground are labeled as countries, eg. England, USSR, etc.</subfield>
+  </datafield>
+  <datafield tag="789" ind1="0" ind2=" ">
+    <subfield code="1">[14]</subfield>
+    <subfield code="i">NYDA.1000.001.00191.</subfield>
+    <subfield code="t">[Perspective : preliminary for Power in buildings, 42] :</subfield>
+    <subfield code="n">[Drwg. no.] 154,</subfield>
+    <subfield code="d">Aug 30.</subfield>
+    <subfield code="p">Graphite with colored crayon on tracing paper ; 57.6 x 81.1 cm. (22 3.4 x 32 in.)</subfield>
+    <subfield code="o">"#154" and date lower right center.</subfield>
+  </datafield>
+  <datafield tag="789" ind1="0" ind2=" ">
+    <subfield code="1">[15]</subfield>
+    <subfield code="i">NYDA.1000.001.00192.</subfield>
+    <subfield code="t">[Perspective drawing, United Nations Plaza] :</subfield>
+    <subfield code="n">[Drwg. no.] 155,</subfield>
+    <subfield code="d">Sep 1.</subfield>
+    <subfield code="p">Graphite with colored crayon on tracing paper ; 60.9 x 91.6 cm. (24 x 36 1/8 in.).</subfield>
+    <subfield code="o">Similar to drawing 42 in Power in buildings / Hugh Ferriss.</subfield>
+  </datafield>
+  <datafield tag="789" ind1="0" ind2=" ">
+    <subfield code="1">[16]</subfield>
+    <subfield code="i">NYDA.1000.001.00193.</subfield>
+    <subfield code="t">[Preliminary study, United Nations Headquaters : north elevation] :</subfield>
+    <subfield code="n">[Drwg] #156 /</subfield>
+    <subfield code="c">Hugh Ferriss,</subfield>
+    <subfield code="d">Sep. 7, 1947.</subfield>
+    <subfield code="p">Charcoal on paper on board ; 61.3 x 76.3 cm. (24 1/8 x 30 in.)</subfield>
+    <subfield code="o">Signed and numbered, lower right.</subfield>
+    <subfield code="o">"#44 Preliminary S-, North Ele-,"--inscription on verso.</subfield>
+    <subfield code="o">Title from Power in buildings / Hugh Ferriss; where it is reproduced as drawing 42.</subfield>
+  </datafield>
+  <datafield tag="900" ind1=" " ind2=" ">
+    <subfield code="a">AUTH</subfield>
+  </datafield>
+</record>
+
+</collection>
