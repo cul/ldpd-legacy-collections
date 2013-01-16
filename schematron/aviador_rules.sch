@@ -8,5 +8,12 @@
             </assert>
         </rule>
     </pattern>
+    <pattern name="identifiers">
+        <rule context="mods:identifier">
+            <assert test="parent::mods:record">
+                The identifier element should be a child of mods:record only
+            </assert>
+        </rule>
+    </pattern>
     
 </schema>
