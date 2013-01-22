@@ -1,0 +1,167 @@
+<collection xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.loc.gov/MARC21/slim" xsi:schemaLocation="http://www.loc.gov/MARC21/slim http://www.loc.gov/standards/marcxml/schema/MARC21slim.xsd">
+
+<record>
+  <leader>03036ckdaa2200493 a 4500</leader>
+  <controlfield tag="001">3460288</controlfield>
+  <controlfield tag="005">20100226102430.0</controlfield>
+  <controlfield tag="008">870119n        xx ||| |||||||    k|eng d</controlfield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="a">(OCoLC)83869585</subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="a">(OCoLC)ocm83869585</subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="a">(CStRLIN)NYDA87-F5</subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="9">AAA0759AD</subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="a">(NNC)3460288</subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">NNC</subfield>
+    <subfield code="c">NNC</subfield>
+    <subfield code="e">gihc</subfield>
+  </datafield>
+  <datafield tag="043" ind1=" " ind2=" ">
+    <subfield code="a">n-us-ny</subfield>
+  </datafield>
+  <datafield tag="100" ind1="1" ind2=" ">
+    <subfield code="a">Ferriss, Hugh,</subfield>
+    <subfield code="d">1889-1962.</subfield>
+  </datafield>
+  <datafield tag="240" ind1="1" ind2="0">
+    <subfield code="a">Rockefeller Center</subfield>
+  </datafield>
+  <datafield tag="245" ind1="1" ind2="0">
+    <subfield code="a">Radio City</subfield>
+    <subfield code="h">[graphic] /</subfield>
+    <subfield code="c">Hugh Ferriss.</subfield>
+  </datafield>
+  <datafield tag="260" ind1=" " ind2=" ">
+    <subfield code="c">[n.d.]</subfield>
+  </datafield>
+  <datafield tag="300" ind1=" " ind2=" ">
+    <subfield code="a">8 drawings :</subfield>
+    <subfield code="b">various media ;</subfield>
+    <subfield code="c">66.0 x 58.9 cm. (26 x 23 1/4 in.) or smaller.</subfield>
+  </datafield>
+  <datafield tag="500" ind1=" " ind2=" ">
+    <subfield code="a">"Radio City" inscribed on 7 of the 8 drawings.</subfield>
+  </datafield>
+  <datafield tag="500" ind1=" " ind2=" ">
+    <subfield code="a">Mount included with the drawings has the inscription:"Rockefeller Center/Radio City. Extension of 6th Ave. (Postwar)"</subfield>
+  </datafield>
+  <datafield tag="500" ind1=" " ind2=" ">
+    <subfield code="a">Set consists of 6 drawings, charcoal on tracing paper; 1 drawing, crayon on paper; 1 drawing, crayon on tracing paper.</subfield>
+  </datafield>
+  <datafield tag="580" ind1=" " ind2=" ">
+    <subfield code="a">Forms part of the Hugh Ferriss architectural drawings and papers, Dept. of Drawings &amp; Archives, Avery Architectural and Fine Arts Library, Columbia University.</subfield>
+  </datafield>
+  <datafield tag="650" ind1=" " ind2="7">
+    <subfield code="a">Multipurpose complexes.</subfield>
+    <subfield code="2">aat</subfield>
+  </datafield>
+  <datafield tag="655" ind1=" " ind2="7">
+    <subfield code="a">Architectural drawings</subfield>
+    <subfield code="x">American.</subfield>
+    <subfield code="2">aat</subfield>
+  </datafield>
+  <datafield tag="655" ind1=" " ind2="7">
+    <subfield code="a">Perspective drawings.</subfield>
+    <subfield code="2">aat</subfield>
+  </datafield>
+  <datafield tag="655" ind1=" " ind2="7">
+    <subfield code="a">Bird's-eye perspectives.</subfield>
+    <subfield code="2">aat</subfield>
+  </datafield>
+  <datafield tag="651" ind1=" " ind2="0">
+    <subfield code="a">New York (N.Y.)</subfield>
+  </datafield>
+  <datafield tag="650" ind1=" " ind2="0">
+    <subfield code="a">Architecture</subfield>
+    <subfield code="z">United States</subfield>
+    <subfield code="v">Designs and plans.</subfield>
+  </datafield>
+  <datafield tag="610" ind1="2" ind2="0">
+    <subfield code="a">Rockefeller Center.</subfield>
+  </datafield>
+  <datafield tag="610" ind1="2" ind2="0">
+    <subfield code="a">Radio City (New York, N.Y.)</subfield>
+  </datafield>
+  <datafield tag="755" ind1=" " ind2=" ">
+    <subfield code="a">Crayon drawings.</subfield>
+    <subfield code="2">aat</subfield>
+  </datafield>
+  <datafield tag="755" ind1=" " ind2=" ">
+    <subfield code="a">Charcoal drawings.</subfield>
+    <subfield code="2">aat</subfield>
+  </datafield>
+  <datafield tag="799" ind1="4" ind2="3">
+    <subfield code="a">The Hugh Ferriss collection.</subfield>
+  </datafield>
+  <datafield tag="789" ind1="0" ind2=" ">
+    <subfield code="l">[1]</subfield>
+    <subfield code="i">NYDA.1000.001.00082.</subfield>
+    <subfield code="t">[Bird's-eye perspective]</subfield>
+    <subfield code="p">Black crayon with color crayon on paper ; 59.0 x 50.0 cm. (23 1/4 x 19 3/4 in.)</subfield>
+    <subfield code="o">Radio City inscribed lower right.</subfield>
+    <subfield code="o">Some buildings labelled, eg.: RKO, Esso, etc.</subfield>
+  </datafield>
+  <datafield tag="789" ind1="0" ind2=" ">
+    <subfield code="l">[2]</subfield>
+    <subfield code="i">NYDA.1000.001.00083.</subfield>
+    <subfield code="t">[Bird's eye perspective]</subfield>
+    <subfield code="p">Charcoal on tracing paper ; 55.8 x 65.3 cm. (22 x 25 3/4 in.)</subfield>
+    <subfield code="o">Radio City inscribed lower left.</subfield>
+  </datafield>
+  <datafield tag="789" ind1="0" ind2=" ">
+    <subfield code="l">[3]</subfield>
+    <subfield code="i">NYDA.1000.001.00084.</subfield>
+    <subfield code="t">[Bird's eye Perspective]</subfield>
+    <subfield code="p">Charcoal on tracing paper ; 64.6 x 52.3 cm. (25 1/2 x 20 5/8 in.)</subfield>
+    <subfield code="o">Radio City inscribed lower right.</subfield>
+  </datafield>
+  <datafield tag="789" ind1="0" ind2=" ">
+    <subfield code="l">[4]</subfield>
+    <subfield code="i">NYDA.1000.001.00085.</subfield>
+    <subfield code="t">[Perspective]</subfield>
+    <subfield code="p">Charcoal on tracing paper ; 64.9 x 45.0 xm. (25 5/8 x 17 7/8 in.)</subfield>
+    <subfield code="o">Radio City inscribed lower right.</subfield>
+  </datafield>
+  <datafield tag="789" ind1="0" ind2=" ">
+    <subfield code="l">[5]</subfield>
+    <subfield code="i">NYDA.1000.001.00086.</subfield>
+    <subfield code="t">[Bird's eye perspective]</subfield>
+    <subfield code="p">Black crayon with color and white gouache or chalk on tracing paper ; 51.6 x 46.2 cm. (20 7/8 x 18 1/2 in.)</subfield>
+  </datafield>
+  <datafield tag="789" ind1="0" ind2=" ">
+    <subfield code="l">[6]</subfield>
+    <subfield code="i">NYDA.1000.001.00087.</subfield>
+    <subfield code="t">[Bird's eye perspective]</subfield>
+    <subfield code="p">Charcoal on tracing paper ; 66.0 x 58.9 cm. (26 x 23 1/4 in.)</subfield>
+    <subfield code="o">Radio City inscribed lower right.</subfield>
+    <subfield code="o">Numbers in red pencil on verso.</subfield>
+  </datafield>
+  <datafield tag="789" ind1="0" ind2=" ">
+    <subfield code="l">[7]</subfield>
+    <subfield code="i">NYDA.1000.001.00088.</subfield>
+    <subfield code="t">[Bird's eye perspective]</subfield>
+    <subfield code="p">Charcoal on tracing paper ; 67.8 x 56.2 cm. (26 3/4 x 22 1/8 in.)</subfield>
+    <subfield code="o">Radio City inscribed lower right.</subfield>
+  </datafield>
+  <datafield tag="789" ind1="0" ind2=" ">
+    <subfield code="l">[8]</subfield>
+    <subfield code="i">NYDA.1000.001.00089.</subfield>
+    <subfield code="t">[Perspective]</subfield>
+    <subfield code="p">Charcoal on tracing paper ; 53.8 x 68.2 cm. (21 1/8 x 26 7/8 in.)</subfield>
+    <subfield code="o">Radio City inscribed lower right.</subfield>
+  </datafield>
+  <datafield tag="900" ind1=" " ind2=" ">
+    <subfield code="a">AUTH</subfield>
+  </datafield>
+</record>
+
+</collection>

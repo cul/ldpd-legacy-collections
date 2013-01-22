@@ -1,0 +1,271 @@
+<collection xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.loc.gov/MARC21/slim" xsi:schemaLocation="http://www.loc.gov/MARC21/slim http://www.loc.gov/standards/marcxml/schema/MARC21slim.xsd">
+
+<record>
+  <leader>06109ckdaa2200661 a 4500</leader>
+  <controlfield tag="001">3460122</controlfield>
+  <controlfield tag="005">20100226102351.0</controlfield>
+  <controlfield tag="008">870127s1960    xx ||| |||||||    k|eng d</controlfield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="a">(OCoLC)82400558</subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="a">(OCoLC)ocm82400558</subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="a">(CStRLIN)NYDA87-F35</subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="9">AAA0593AD</subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="a">(NNC)3460122</subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">NNC</subfield>
+    <subfield code="c">NNC</subfield>
+    <subfield code="e">gihc</subfield>
+  </datafield>
+  <datafield tag="043" ind1=" " ind2=" ">
+    <subfield code="a">n-us-dc</subfield>
+  </datafield>
+  <datafield tag="100" ind1="1" ind2=" ">
+    <subfield code="a">Ferriss, Hugh,</subfield>
+    <subfield code="d">1889-1962.</subfield>
+  </datafield>
+  <datafield tag="240" ind1="1" ind2="0">
+    <subfield code="a">Franklin Delano Roosevelt Memorial (Washington, D.C.)</subfield>
+  </datafield>
+  <datafield tag="245" ind1="1" ind2="0">
+    <subfield code="a">[Rendering of the Pedersen &amp; Tilney design for Franklin Delano Roosevelt Memorial]</subfield>
+    <subfield code="h">[graphic]</subfield>
+  </datafield>
+  <datafield tag="260" ind1=" " ind2=" ">
+    <subfield code="c">1960.</subfield>
+  </datafield>
+  <datafield tag="300" ind1=" " ind2=" ">
+    <subfield code="a">19 drawings :</subfield>
+    <subfield code="b">various media ;</subfield>
+    <subfield code="c">67.6 x 48 cm. (25 5/8 x 19 in.) or smaller.</subfield>
+  </datafield>
+  <datafield tag="500" ind1=" " ind2=" ">
+    <subfield code="a">Title supplied by cataloger.</subfield>
+  </datafield>
+  <datafield tag="500" ind1=" " ind2=" ">
+    <subfield code="a">This set consists of 7 drawings, graphite with colored pencil on tracing paper; 1 drawing, graphite with colored pencil on paper; 6 drawings, graphite on tracing paper; 1 drawing, graphite on paper; 3 drawings, charcoal on tracing paper; and, 1 drawing, charcoal on paper.</subfield>
+  </datafield>
+  <datafield tag="520" ind1=" " ind2=" ">
+    <subfield code="a">Information in The Architecture of monuments / Thomas H. Creighton, 1962, indicates that these drawings are of the design by Pederson [sic, Pedersen] &amp; Tilney. The memorial was proposed for a site in Washington, D.C.'s West Potomac Park. The Franklin Delano Roosevelt Memorial Commission, formed in 1955, sponsored the competition for the memorial. According to The Franklin Delano Roosevelt Memorial: report to the President and Congress by the Franklin Delano Roosevelt Memorial Commission, Pedersen &amp; Tilney won the first competition, but this design was abandoned because of public controversy. Lawrence Halprin's design is the latest proposal approved in 1978 for this memorial.</subfield>
+  </datafield>
+  <datafield tag="580" ind1=" " ind2=" ">
+    <subfield code="a">Forms part of the Hugh Ferriss architectural drawings and papers, Dept. of Drawings &amp; Archives, Avery Architectural and Fine Arts Library, Columbia University.</subfield>
+  </datafield>
+  <datafield tag="600" ind1="1" ind2="3">
+    <subfield code="a">Roosevelt, Franklin D.</subfield>
+    <subfield code="g">(Franklin Delano),</subfield>
+    <subfield code="d">1882-1945.</subfield>
+  </datafield>
+  <datafield tag="650" ind1=" " ind2="7">
+    <subfield code="a">Monuments.</subfield>
+    <subfield code="2">aat</subfield>
+  </datafield>
+  <datafield tag="655" ind1=" " ind2="7">
+    <subfield code="a">Architectural drawings</subfield>
+    <subfield code="x">American.</subfield>
+    <subfield code="2">aat</subfield>
+  </datafield>
+  <datafield tag="655" ind1=" " ind2="7">
+    <subfield code="a">Perspective drawings.</subfield>
+    <subfield code="2">aat</subfield>
+  </datafield>
+  <datafield tag="655" ind1=" " ind2="7">
+    <subfield code="a">Plans.</subfield>
+    <subfield code="2">aat</subfield>
+  </datafield>
+  <datafield tag="655" ind1=" " ind2="7">
+    <subfield code="a">Site plans.</subfield>
+    <subfield code="2">aat</subfield>
+  </datafield>
+  <datafield tag="651" ind1=" " ind2="0">
+    <subfield code="a">Washington (D.C.)</subfield>
+  </datafield>
+  <datafield tag="650" ind1=" " ind2="0">
+    <subfield code="a">Architecture</subfield>
+    <subfield code="z">United States</subfield>
+    <subfield code="v">Designs and plans.</subfield>
+  </datafield>
+  <datafield tag="650" ind1=" " ind2="0">
+    <subfield code="a">Franklin Delano Roosevelt Memorial (Washington, D.C.)</subfield>
+  </datafield>
+  <datafield tag="710" ind1="2" ind2=" ">
+    <subfield code="a">Pedersen &amp; Tilney.</subfield>
+  </datafield>
+  <datafield tag="710" ind1="2" ind2=" ">
+    <subfield code="a">Franklin Delano Roosevelt Memorial Commission.</subfield>
+  </datafield>
+  <datafield tag="755" ind1=" " ind2=" ">
+    <subfield code="a">Pencil drawings.</subfield>
+    <subfield code="2">aat</subfield>
+  </datafield>
+  <datafield tag="755" ind1=" " ind2=" ">
+    <subfield code="a">Charcoal drawings.</subfield>
+    <subfield code="2">aat</subfield>
+  </datafield>
+  <datafield tag="799" ind1="4" ind2="3">
+    <subfield code="a">The Hugh Ferriss collection.</subfield>
+  </datafield>
+  <datafield tag="789" ind1="0" ind2=" ">
+    <subfield code="l">[1]</subfield>
+    <subfield code="i">NYDA.1000.001.00092.</subfield>
+    <subfield code="t">[Plan and perspective] :</subfield>
+    <subfield code="n">[Drwg.] #2.</subfield>
+    <subfield code="p">Graphite with colored pencil on tracing paper ; 66.0 x 48.0 cm. (26 x 19 in.)</subfield>
+    <subfield code="o">#2 in lower right.</subfield>
+  </datafield>
+  <datafield tag="789" ind1="0" ind2=" ">
+    <subfield code="l">[2]</subfield>
+    <subfield code="i">NYDA.1000.001.00093.</subfield>
+    <subfield code="t">[Plan and perspective] :</subfield>
+    <subfield code="n">[Drwg.] #4.</subfield>
+    <subfield code="p">Graphite and colored pencil on tracing paper ; 55.4 x 44.6 cm. (21 7/8 x 17 5/8 in.)</subfield>
+    <subfield code="o">#4, lower right.</subfield>
+    <subfield code="o">Site plan in blue pencil; perspective in pencil, some red line.</subfield>
+  </datafield>
+  <datafield tag="789" ind1="0" ind2=" ">
+    <subfield code="l">[3]</subfield>
+    <subfield code="i">NYDA.1000.001.00094.</subfield>
+    <subfield code="t">[Plan and perspective] :</subfield>
+    <subfield code="n">[Drwg.] #6.</subfield>
+    <subfield code="p">Graphite with colored pencil on tracing paper ; 57.0 x 39.0 cm. (22 1/2 x 15 3/4 in.)</subfield>
+    <subfield code="o">"#6" inscribed, lower right.</subfield>
+  </datafield>
+  <datafield tag="789" ind1="0" ind2=" ">
+    <subfield code="l">[4]</subfield>
+    <subfield code="i">NYDA.1000.001.00095.</subfield>
+    <subfield code="t">[Plan and perspective] :</subfield>
+    <subfield code="n">[Drwg.] #8.</subfield>
+    <subfield code="p">Graphite  with colored pencil on tracing paper ; 67.6 x 44.6 cm. (26 5/8 x 17 5/8 in.)</subfield>
+    <subfield code="o">"#8" and "Jan 18/60" lower right.</subfield>
+  </datafield>
+  <datafield tag="789" ind1="0" ind2=" ">
+    <subfield code="l">[5]</subfield>
+    <subfield code="i">NYDA.1000.001.00096.</subfield>
+    <subfield code="t">[Plan and perspective] :</subfield>
+    <subfield code="n">[Drwg.] #9.</subfield>
+    <subfield code="p">Graphite with colored pencil on tracing paper ; 57.2 x 43.8 cm. (22 1/2 x 17 1/2 in.)</subfield>
+    <subfield code="o">#9 inscribed in red pencil, lower right.</subfield>
+  </datafield>
+  <datafield tag="789" ind1="0" ind2=" ">
+    <subfield code="l">[6]</subfield>
+    <subfield code="i">NYDA.1000.001.00097.</subfield>
+    <subfield code="t">[Plan]</subfield>
+    <subfield code="p">Graphite with red pencil on tracing paper ; 33.5 x 42.2 cm. (13 1/4 x 16 5/8 in.)</subfield>
+  </datafield>
+  <datafield tag="789" ind1="0" ind2=" ">
+    <subfield code="l">[7]</subfield>
+    <subfield code="i">NYDA.1000.001.00098.</subfield>
+    <subfield code="t">[Site plan]</subfield>
+    <subfield code="p">Graphite and colored pencil on paper ; 60.1 x 53.3 cm. (23 3/4 x 21 in.)</subfield>
+  </datafield>
+  <datafield tag="789" ind1="0" ind2=" ">
+    <subfield code="l">[8]</subfield>
+    <subfield code="i">NYDA.1000.001.00099.</subfield>
+    <subfield code="t">[Perspective] :</subfield>
+    <subfield code="n">[Drwg.] #2.</subfield>
+    <subfield code="p">Graphite on tracing paper ; 25.2 x 39.2 cm. (10 x 15 1/4 in.)</subfield>
+    <subfield code="o">"2" inscribed in pencil, lower right.</subfield>
+    <subfield code="o">19" in orange pencil, lower center.</subfield>
+  </datafield>
+  <datafield tag="789" ind1="0" ind2=" ">
+    <subfield code="l">[9]</subfield>
+    <subfield code="i">NYDA.1000.001.00100.</subfield>
+    <subfield code="t">[Bird's-eye perspective]</subfield>
+    <subfield code="p">Graphite on tracing paper ; 24.1 x 22.6 cm. (9 1/2 x 8 7/8 in.)</subfield>
+    <subfield code="o">Drawing has a small "patch" of tracing paper affixed, lower left.</subfield>
+  </datafield>
+  <datafield tag="789" ind1="0" ind2=" ">
+    <subfield code="l">[10]</subfield>
+    <subfield code="i">NYDA.1000.001.00101.</subfield>
+    <subfield code="t">[Bird's-eye perspective] :</subfield>
+    <subfield code="n">[Drwg.] #3-A.</subfield>
+    <subfield code="p">Graphite on paper ; 19.1 x 23.2 cm. (7 1/2 9 1/8 in.)</subfield>
+    <subfield code="o">"#3-A" at lower right.</subfield>
+  </datafield>
+  <datafield tag="789" ind1="0" ind2=" ">
+    <subfield code="l">[11]</subfield>
+    <subfield code="i">NYDA.1000.001.00102.</subfield>
+    <subfield code="t">[Bird's-eye perspective] :</subfield>
+    <subfield code="n">[Drwg. no.]4.</subfield>
+    <subfield code="p">Graphite on tracing paper ; 28.3 x 24.4 cm. (11 1/8 x 9 3/4 in.)</subfield>
+    <subfield code="o">"4" inscribed in pencil, lower right.</subfield>
+  </datafield>
+  <datafield tag="789" ind1="0" ind2=" ">
+    <subfield code="l">[12]</subfield>
+    <subfield code="i">NYDA.1000.001.00103.</subfield>
+    <subfield code="t">[Perspective] :</subfield>
+    <subfield code="n">[Drwg. no.] 5.</subfield>
+    <subfield code="p">Graphite on tracing paper ; 25.4 x 34.1 cm. (10 x 13 1/2 in.)</subfield>
+    <subfield code="o">"5" lower right.</subfield>
+  </datafield>
+  <datafield tag="789" ind1="0" ind2=" ">
+    <subfield code="l">[13]</subfield>
+    <subfield code="i">NYDA.1000.001.00104.</subfield>
+    <subfield code="t">[Perspective] :</subfield>
+    <subfield code="n">[Drwg. no.] 6.</subfield>
+    <subfield code="p">Charcoal on tracing paper ; 27.9 x 33.4 cm. (11 x 13 1/4 in.)</subfield>
+    <subfield code="o">"6" lower right, 18" in orange pencil lower center.</subfield>
+  </datafield>
+  <datafield tag="789" ind1="0" ind2=" ">
+    <subfield code="l">[14]</subfield>
+    <subfield code="i">NYDA.1000.001.00105.</subfield>
+    <subfield code="t">[Perspective] :</subfield>
+    <subfield code="n">[Drwg. no.] 7,</subfield>
+    <subfield code="d">Jan 16 [19]60.</subfield>
+    <subfield code="p">Pencil on tracing paper ; 34.1 x 34.0 cm. (13 1/2 x 13 3/4 in.)</subfield>
+    <subfield code="o">"#7" and date lower right.</subfield>
+  </datafield>
+  <datafield tag="789" ind1="0" ind2=" ">
+    <subfield code="l">[15]</subfield>
+    <subfield code="i">NYDA.1000.001.00106.</subfield>
+    <subfield code="t">[Perspective drawing] :</subfield>
+    <subfield code="n">[Drwg.] #8,</subfield>
+    <subfield code="d">Jan 19 [19]60.</subfield>
+    <subfield code="p">Charcoal on tracing paper ; 32.9 x 41.7 cm. (13 x 16 1/2 in.)</subfield>
+    <subfield code="o">Date and "#8" lower right.</subfield>
+  </datafield>
+  <datafield tag="789" ind1="0" ind2=" ">
+    <subfield code="l">[16]</subfield>
+    <subfield code="i">NYDA.1000.001.00107.</subfield>
+    <subfield code="t">[Perspective] :</subfield>
+    <subfield code="n">[Drwg.] #9.</subfield>
+    <subfield code="p">Graphite on tracing paper ; 27.8 x 39.3 cm. (11 x 15 1/2 in.)</subfield>
+    <subfield code="o">"#9" lower right.</subfield>
+    <subfield code="o">Drawing is divided into 1 inch squares drawn in orange pencil.</subfield>
+  </datafield>
+  <datafield tag="789" ind1="0" ind2=" ">
+    <subfield code="l">[17]</subfield>
+    <subfield code="i">NYDA.1000.001.00108.</subfield>
+    <subfield code="t">[Perspective]</subfield>
+    <subfield code="p">Graphite on tracing paper ; 47.1 x 73.2 cm. (18 1/2 x 28 7/8 in.)</subfield>
+  </datafield>
+  <datafield tag="789" ind1="0" ind2=" ">
+    <subfield code="l">[18]</subfield>
+    <subfield code="i">NYDA.1000.001.00109.</subfield>
+    <subfield code="t">[Perspective]</subfield>
+    <subfield code="p">Charcoal on tracing paper ; 49.5 x 74.1 cm. (19 1/2 x 29 1/4 in.)</subfield>
+    <subfield code="o">"Franklin Delano Roosevelt"-- in reverse or mirror image visible on central monolith of plaza in the drawing.</subfield>
+  </datafield>
+  <datafield tag="789" ind1="0" ind2=" ">
+    <subfield code="l">[19]</subfield>
+    <subfield code="i">NYDA.1000.001.00110.</subfield>
+    <subfield code="t">[Perspective] :</subfield>
+    <subfield code="n">[Drwg.] #9,</subfield>
+    <subfield code="d">Jan 20 [19]60.</subfield>
+    <subfield code="p">Charcoal on paper ; 49.5 x 75.8 cm. (19 1/2 x 29 7/8 in.)</subfield>
+    <subfield code="o">Date and "#9" lower right.</subfield>
+  </datafield>
+  <datafield tag="900" ind1=" " ind2=" ">
+    <subfield code="a">AUTH</subfield>
+  </datafield>
+</record>
+
+</collection>
