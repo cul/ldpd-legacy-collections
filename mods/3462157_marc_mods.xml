@@ -1,0 +1,288 @@
+<collection xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.loc.gov/MARC21/slim" xsi:schemaLocation="http://www.loc.gov/MARC21/slim http://www.loc.gov/standards/marcxml/schema/MARC21slim.xsd">
+
+<record>
+  <leader>05769ckdaa2200733 a 4500</leader>
+  <controlfield tag="001">3462157</controlfield>
+  <controlfield tag="005">20100226103341.0</controlfield>
+  <controlfield tag="008">890411m19061907xx ||| |||||||   1k|eng d</controlfield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="a">(OCoLC)81483721</subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="a">(OCoLC)ocm81483721</subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="a">(CStRLIN)NYDA89-F435</subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="9">AAA2628AD</subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="a">(NNC)3462157</subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">NNC</subfield>
+    <subfield code="c">NNC</subfield>
+    <subfield code="e">gihc</subfield>
+  </datafield>
+  <datafield tag="043" ind1=" " ind2=" ">
+    <subfield code="a">n-us- ca</subfield>
+  </datafield>
+  <datafield tag="110" ind1="2" ind2=" ">
+    <subfield code="a">Greene &amp; Greene.</subfield>
+  </datafield>
+  <datafield tag="240" ind1="1" ind2="0">
+    <subfield code="a">William T. Bolton house, 370 Del Mar (Pasadena, Calif.)</subfield>
+  </datafield>
+  <datafield tag="245" ind1="1" ind2="0">
+    <subfield code="a">Residence for Dr. W.T. Bolton at Pasadena, Calif.</subfield>
+    <subfield code="h">[graphic] /</subfield>
+    <subfield code="c">Greene &amp; Greene, architects.</subfield>
+  </datafield>
+  <datafield tag="260" ind1=" " ind2=" ">
+    <subfield code="c">1906-[19]07.</subfield>
+  </datafield>
+  <datafield tag="300" ind1=" " ind2=" ">
+    <subfield code="a">17 sheets :</subfield>
+    <subfield code="b">various media ;</subfield>
+    <subfield code="c">67.3 x 102.3 cm. (26 4/8 x 40 2/8 in.) or smaller.</subfield>
+  </datafield>
+  <datafield tag="500" ind1=" " ind2=" ">
+    <subfield code="a">Scale varies.</subfield>
+  </datafield>
+  <datafield tag="500" ind1=" " ind2=" ">
+    <subfield code="a">Bracketed title elements supplied by cataloger or taken from inventory.</subfield>
+  </datafield>
+  <datafield tag="500" ind1=" " ind2=" ">
+    <subfield code="a">Forms part of the Greene &amp; Greene collection of architectural drawings; job no. 180.</subfield>
+  </datafield>
+  <datafield tag="500" ind1=" " ind2=" ">
+    <subfield code="a">This is the third of three houses built for William T. Bolton by Greene &amp; Greene.</subfield>
+  </datafield>
+  <datafield tag="500" ind1=" " ind2=" ">
+    <subfield code="a">This set consists of 4 pencil drawings on tracing paper, 4 ink drawings pencil markings on cloth, 3 ink drawings with pencil markings and also with ink wash applied to the verso on cloth, 2 blueprints with crayon on paper, 2 reversed positive photostats on paper, 1 ink drawing with ink wash applied to the verso on cloth, and 1 pencil drawing on paper.</subfield>
+  </datafield>
+  <datafield tag="561" ind1=" " ind2=" ">
+    <subfield code="a">Gift of Jean Murray Bangs (Mrs. Harwell Hamilton Harris), 1960; formerly the collection of Charles Sumner Greene.</subfield>
+  </datafield>
+  <datafield tag="650" ind1=" " ind2="7">
+    <subfield code="a">Houses.</subfield>
+    <subfield code="2">aat</subfield>
+  </datafield>
+  <datafield tag="650" ind1=" " ind2="7">
+    <subfield code="a">Furniture.</subfield>
+    <subfield code="2">aat</subfield>
+  </datafield>
+  <datafield tag="655" ind1=" " ind2="7">
+    <subfield code="a">Site plans.</subfield>
+    <subfield code="2">aat</subfield>
+  </datafield>
+  <datafield tag="655" ind1=" " ind2="7">
+    <subfield code="a">Detail drawings.</subfield>
+    <subfield code="2">aat</subfield>
+  </datafield>
+  <datafield tag="655" ind1=" " ind2="7">
+    <subfield code="a">Interior elevations.</subfield>
+    <subfield code="2">aat</subfield>
+  </datafield>
+  <datafield tag="655" ind1=" " ind2="7">
+    <subfield code="a">Architectural Drawings</subfield>
+    <subfield code="x">American.</subfield>
+    <subfield code="2">aat</subfield>
+  </datafield>
+  <datafield tag="655" ind1=" " ind2="7">
+    <subfield code="a">Orthograpic drawings.</subfield>
+    <subfield code="2">aat</subfield>
+  </datafield>
+  <datafield tag="690" ind1=" " ind2="4">
+    <subfield code="a">Stats.</subfield>
+  </datafield>
+  <datafield tag="691" ind1=" " ind2="0">
+    <subfield code="a">Pasadena (Calif.)</subfield>
+  </datafield>
+  <datafield tag="650" ind1=" " ind2="0">
+    <subfield code="a">Architecture</subfield>
+    <subfield code="z">United States</subfield>
+    <subfield code="v">Designs and plans.</subfield>
+  </datafield>
+  <datafield tag="697" ind1="2" ind2="4">
+    <subfield code="a">William T. Bolton house, 370 Del Mar (Pasadena, Calif.)</subfield>
+  </datafield>
+  <datafield tag="700" ind1="1" ind2=" ">
+    <subfield code="a">Greene, Charles Sumner,</subfield>
+    <subfield code="d">1868-1957.</subfield>
+  </datafield>
+  <datafield tag="700" ind1="1" ind2=" ">
+    <subfield code="a">Greene, Henry Mather,</subfield>
+    <subfield code="d">1870-1954.</subfield>
+  </datafield>
+  <datafield tag="700" ind1="1" ind2=" ">
+    <subfield code="a">Bolton, William T.</subfield>
+  </datafield>
+  <datafield tag="755" ind1=" " ind2=" ">
+    <subfield code="a">Pencil drawings.</subfield>
+    <subfield code="2">aat</subfield>
+  </datafield>
+  <datafield tag="755" ind1=" " ind2=" ">
+    <subfield code="a">Ink drawings.</subfield>
+    <subfield code="2">aat</subfield>
+  </datafield>
+  <datafield tag="755" ind1=" " ind2=" ">
+    <subfield code="a">Ink wash drawings.</subfield>
+    <subfield code="2">aat</subfield>
+  </datafield>
+  <datafield tag="755" ind1=" " ind2=" ">
+    <subfield code="a">Blueprints.</subfield>
+    <subfield code="2">aat</subfield>
+  </datafield>
+  <datafield tag="755" ind1=" " ind2=" ">
+    <subfield code="a">Crayon drawings.</subfield>
+    <subfield code="2">aat</subfield>
+  </datafield>
+  <datafield tag="799" ind1="4" ind2="3">
+    <subfield code="a">The Greene &amp; Greene collection of architectural drawings.</subfield>
+  </datafield>
+  <datafield tag="789" ind1="0" ind2=" ">
+    <subfield code="1">[1]</subfield>
+    <subfield code="i">NYDA.1960.001.00489.</subfield>
+    <subfield code="v">[AVERYimage].</subfield>
+    <subfield code="t">[Foundation plan] :</subfield>
+    <subfield code="n">Sheet no. 1,</subfield>
+    <subfield code="d">July 14, 1906.</subfield>
+  </datafield>
+  <datafield tag="789" ind1="0" ind2=" ">
+    <subfield code="1">[2]</subfield>
+    <subfield code="i">NYDA.1960.001.00490.</subfield>
+    <subfield code="v">[AVERYimage].</subfield>
+    <subfield code="t">[Foundation plan] :</subfield>
+    <subfield code="n">Sheet no.1,</subfield>
+    <subfield code="d">July 114, 1989.</subfield>
+  </datafield>
+  <datafield tag="789" ind1="0" ind2=" ">
+    <subfield code="1">[3]</subfield>
+    <subfield code="i">NYDA.1960.001.00491.</subfield>
+    <subfield code="v">[AVERYimage].</subfield>
+    <subfield code="t">[Foundation plan] :</subfield>
+    <subfield code="n">Sheet no. 1,</subfield>
+    <subfield code="d">July 14, 1906.</subfield>
+  </datafield>
+  <datafield tag="789" ind1="0" ind2=" ">
+    <subfield code="1">[4]</subfield>
+    <subfield code="i">NYDA.1960.001.00495.</subfield>
+    <subfield code="v">[AVERYimage].</subfield>
+    <subfield code="t">Second floor plan, first floor plan ; [interior elevations] -- hall-south end [and] west side, living room-west side, dining room-east side [and] west side :</subfield>
+    <subfield code="n">Sheet no.2,</subfield>
+    <subfield code="d">July 14th, 1906.</subfield>
+    <subfield code="o">"Note-all doors are 6'-6" high".</subfield>
+  </datafield>
+  <datafield tag="789" ind1="0" ind2=" ">
+    <subfield code="1">[5]</subfield>
+    <subfield code="i">NYDA.1960.001.00496.</subfield>
+    <subfield code="v">[AVERYimage].</subfield>
+    <subfield code="t">Second floor plan, first floor plan ; [interior elevations] -- hall-south end [and] west side, living room-west side, dining room-east side [and] west side :</subfield>
+    <subfield code="n">Sheet no.2,</subfield>
+    <subfield code="d">July 14th, 1906.</subfield>
+    <subfield code="o">"Note-all doors are 6'-6" high".</subfield>
+  </datafield>
+  <datafield tag="789" ind1="0" ind2=" ">
+    <subfield code="1">[6]</subfield>
+    <subfield code="i">NYDA.1960.001.00497.</subfield>
+    <subfield code="v">[AVERYimage].</subfield>
+    <subfield code="t">Second floor plan, first floor plan ; [interior elevations] -- hall-south end [and] west side, living room-west side, dining room-east side [and] west side :</subfield>
+    <subfield code="n">Sheet no.2,</subfield>
+    <subfield code="d">July 14th, 1906.</subfield>
+    <subfield code="o">"Note-all doors are 6'-6" high".</subfield>
+  </datafield>
+  <datafield tag="789" ind1="0" ind2=" ">
+    <subfield code="1">[7]</subfield>
+    <subfield code="i">NYDA.1960.001.00498.</subfield>
+    <subfield code="v">[AVERYimage].</subfield>
+    <subfield code="t">North elevation, west elevtation, south elevation, east elevation :</subfield>
+    <subfield code="n">Sheet no. 3,</subfield>
+    <subfield code="d">July 14th, 1906.</subfield>
+  </datafield>
+  <datafield tag="789" ind1="0" ind2=" ">
+    <subfield code="1">[8]</subfield>
+    <subfield code="i">NYDA.1960.001.00499.</subfield>
+    <subfield code="v">[AVERYimage].</subfield>
+    <subfield code="t">Inch scale and f[ull] s[ize] detail[s] of sash[es] :</subfield>
+    <subfield code="n">Sheet no. 6,</subfield>
+    <subfield code="d">Nov. 9th, '06.</subfield>
+    <subfield code="o">"All corners stuck square to be rounded with no. 00 sandpaper as they are cleaned up".</subfield>
+    <subfield code="o">"All mortises to be secured with wooden pins."</subfield>
+  </datafield>
+  <datafield tag="789" ind1="0" ind2=" ">
+    <subfield code="1">[9]</subfield>
+    <subfield code="i">NYDA.1960.001.00500.</subfield>
+    <subfield code="v">[AVERYimage].</subfield>
+    <subfield code="t">Inch scale and F.S. detail[s] of doors :</subfield>
+    <subfield code="n">Sheet no. 7,</subfield>
+    <subfield code="d">Nov. 9th, '06.</subfield>
+    <subfield code="o">"All corners stuck square. To be rounded with no. 00 sandpaper as they are cleaned up".</subfield>
+  </datafield>
+  <datafield tag="789" ind1="0" ind2=" ">
+    <subfield code="1">[10]</subfield>
+    <subfield code="i">NYDA.1960.001.00501.</subfield>
+    <subfield code="v">[AVERYimage].</subfield>
+    <subfield code="t">Block plan of property belonging to Dr. W.T. Bolton :</subfield>
+    <subfield code="n">Sheet no. 12,</subfield>
+    <subfield code="d">Jan., '07.</subfield>
+  </datafield>
+  <datafield tag="789" ind1="0" ind2=" ">
+    <subfield code="1">[11]</subfield>
+    <subfield code="i">NYDA.1960.001.00502.</subfield>
+    <subfield code="v">[AVERYimage].</subfield>
+    <subfield code="t">Scale details of furniture -- sideboard for dining room, desk for den, tables and mirror for hall, armchair for dining room, chair for hall, dining room table and chairs, couch for den, screen, serving table for dining r'm :</subfield>
+    <subfield code="n">Sheet no. 14,</subfield>
+    <subfield code="d">March 21st, '07.</subfield>
+    <subfield code="o">"All wood to be mahogany".</subfield>
+  </datafield>
+  <datafield tag="789" ind1="0" ind2=" ">
+    <subfield code="1">[12]</subfield>
+    <subfield code="i">NYDA.1960.001.00503.</subfield>
+    <subfield code="v">[AVERYimage].</subfield>
+    <subfield code="t">1 1/2" scale details of living room furniture -- wing chair, rocking chair, taborette, chair, table, box seat :</subfield>
+    <subfield code="n">Sheet no. 15,</subfield>
+    <subfield code="d">Mar. 22nd, '07.</subfield>
+    <subfield code="o">"All wood to be mahogany".</subfield>
+  </datafield>
+  <datafield tag="789" ind1="0" ind2=" ">
+    <subfield code="1">[13]</subfield>
+    <subfield code="i">NYDA.1960.001.00504.</subfield>
+    <subfield code="v">[AVERYimage].</subfield>
+    <subfield code="t">F.S.D. of leaded galss in dining r'm lantern -- quarter plan, [drawing of shapes for] glass for sides of lantern :</subfield>
+    <subfield code="n">Sheet no. 27,</subfield>
+    <subfield code="d">Aug. 27th, '07.</subfield>
+  </datafield>
+  <datafield tag="789" ind1="0" ind2=" ">
+    <subfield code="1">[14]</subfield>
+    <subfield code="i">NYDA.1960.001.00505.</subfield>
+    <subfield code="v">[AVERYimage].</subfield>
+    <subfield code="t">[Detail drawings of leaded glass windows]</subfield>
+  </datafield>
+  <datafield tag="789" ind1="0" ind2=" ">
+    <subfield code="1">[15]</subfield>
+    <subfield code="i">NYDA.1960.001.00506.</subfield>
+    <subfield code="v">[AVERYimage].</subfield>
+    <subfield code="t">Scale details of garden work -- elev. of pergola and fence looking west, 1 1/2 inch scale detail of splice at "A", F.S.D. of gate latch, plan [of garden], inch scale detail of garden seat, 1 1/2 inch scale detail of gate :</subfield>
+    <subfield code="n">Sheet no. 33,</subfield>
+    <subfield code="d">Sept. 18th, '07.</subfield>
+  </datafield>
+  <datafield tag="789" ind1="0" ind2=" ">
+    <subfield code="1">[16]</subfield>
+    <subfield code="i">NYDA.1960.001.00507.</subfield>
+    <subfield code="v">[AVERYimage].</subfield>
+    <subfield code="t">[Sketch showing elevation of pergola and fence looking west, plan of garden]</subfield>
+  </datafield>
+  <datafield tag="789" ind1="0" ind2=" ">
+    <subfield code="1">[17]</subfield>
+    <subfield code="i">NYDA.1960.001.00508.</subfield>
+    <subfield code="v">[AVERYimage].</subfield>
+    <subfield code="t">[Rough sketch of first floor plan]</subfield>
+  </datafield>
+  <datafield tag="900" ind1=" " ind2=" ">
+    <subfield code="a">AUTH</subfield>
+  </datafield>
+</record>
+
+</collection>

@@ -1,0 +1,350 @@
+<collection xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.loc.gov/MARC21/slim" xsi:schemaLocation="http://www.loc.gov/MARC21/slim http://www.loc.gov/standards/marcxml/schema/MARC21slim.xsd">
+
+<record>
+  <leader>06852ckdaa2200961 a 4500</leader>
+  <controlfield tag="001">3462170</controlfield>
+  <controlfield tag="005">20100226103346.0</controlfield>
+  <controlfield tag="008">890413s1907    xx ||| |||||||   1k|eng d</controlfield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="a">(OCoLC)78081071</subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="a">(OCoLC)ocm78081071</subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="a">(CStRLIN)NYDA89-F447</subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="9">AAA2641AD</subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="a">(NNC)3462170</subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">NNC</subfield>
+    <subfield code="c">NNC</subfield>
+    <subfield code="e">gihc</subfield>
+  </datafield>
+  <datafield tag="043" ind1=" " ind2=" ">
+    <subfield code="a">n-us-ca</subfield>
+  </datafield>
+  <datafield tag="090" ind1=" " ind2=" ">
+    <subfield code="i">08/16/01 X</subfield>
+    <subfield code="h">08/15/01 T</subfield>
+    <subfield code="h">01/09/92 N</subfield>
+  </datafield>
+  <datafield tag="110" ind1="2" ind2=" ">
+    <subfield code="a">Greene &amp; Greene.</subfield>
+  </datafield>
+  <datafield tag="240" ind1="1" ind2="0">
+    <subfield code="a">Robert R. Blacker house (Pasadena, Calif.).</subfield>
+    <subfield code="p">Keeper's house, pergola garage with pump house, and lathhouse</subfield>
+  </datafield>
+  <datafield tag="245" ind1="1" ind2="0">
+    <subfield code="a">Outhouses for residence of R. Blacker Esq. at Oak Knoll, Cal.</subfield>
+    <subfield code="h">[graphic] :</subfield>
+    <subfield code="b">keeper's house, pergola, garage [with] pump-house, lathhouse /</subfield>
+    <subfield code="c">Greene and Greene, Arch'ts.</subfield>
+  </datafield>
+  <datafield tag="260" ind1=" " ind2=" ">
+    <subfield code="a">[19]07.</subfield>
+  </datafield>
+  <datafield tag="300" ind1=" " ind2=" ">
+    <subfield code="a">30 drawings :</subfield>
+    <subfield code="b">various media ;</subfield>
+    <subfield code="c">52.4 x 91.2 cm. (20 5/8 x 36 in.) or smaller.</subfield>
+  </datafield>
+  <datafield tag="500" ind1=" " ind2=" ">
+    <subfield code="a">Scale varies.</subfield>
+  </datafield>
+  <datafield tag="500" ind1=" " ind2=" ">
+    <subfield code="a">Bracketed title elements supplied by cataloger or taken from inventory.</subfield>
+  </datafield>
+  <datafield tag="580" ind1=" " ind2=" ">
+    <subfield code="a">Forms part of the Greene &amp; Greene collection of architectural drawings ; job no. 207. Dept. of Drawings &amp; Archives, Avery Architectural and Fine Arts Library, Columbia University.</subfield>
+  </datafield>
+  <datafield tag="500" ind1=" " ind2=" ">
+    <subfield code="a">Drawings for the garage include the pumphouse which is inside it.</subfield>
+  </datafield>
+  <datafield tag="500" ind1=" " ind2=" ">
+    <subfield code="a">This set consists of 18 drawings, graphite on tracing paper; 6 drawings, ink on linen; 2 drawings,  ink and graphite on linen; 2 drawings, graphite  on paper; 1 drawing, ink with ink wash applied to the verso on cloth; and 1 drawing, ink with crayon on cloth.</subfield>
+  </datafield>
+  <datafield tag="500" ind1=" " ind2=" ">
+    <subfield code="a">"Because of the lengthy period of careful maintenance and restoration by the present owners, Mr. and Mrs. Max Hill, the structure has, in recent years, been frequently identified as the Blacker-Hill house" -- Greene &amp; Greene, architecture as a fine art, by Randell L. Makinson, Salt Lake City, Peregrine Smith, 1977, p. 150.</subfield>
+  </datafield>
+  <datafield tag="561" ind1=" " ind2=" ">
+    <subfield code="a">Gift of Jean Murray Bangs (Mrs. Harwell Hamilton Harris), 1960; formerly the collection of Charles Sumner Greene.</subfield>
+  </datafield>
+  <datafield tag="650" ind1=" " ind2="7">
+    <subfield code="a">Houses.</subfield>
+    <subfield code="2">aat</subfield>
+  </datafield>
+  <datafield tag="650" ind1=" " ind2="7">
+    <subfield code="a">Cottages.</subfield>
+    <subfield code="2">aat</subfield>
+  </datafield>
+  <datafield tag="650" ind1=" " ind2="7">
+    <subfield code="a">Garages.</subfield>
+    <subfield code="2">aat</subfield>
+  </datafield>
+  <datafield tag="650" ind1=" " ind2="7">
+    <subfield code="a">Pergolas.</subfield>
+    <subfield code="2">aat</subfield>
+  </datafield>
+  <datafield tag="650" ind1=" " ind2="7">
+    <subfield code="a">Pumping stations.</subfield>
+    <subfield code="2">aat</subfield>
+  </datafield>
+  <datafield tag="655" ind1=" " ind2="7">
+    <subfield code="a">Detail drawings.</subfield>
+    <subfield code="2">aat</subfield>
+  </datafield>
+  <datafield tag="655" ind1=" " ind2="7">
+    <subfield code="a">Sketches.</subfield>
+    <subfield code="2">aat</subfield>
+  </datafield>
+  <datafield tag="655" ind1=" " ind2="7">
+    <subfield code="a">Perspective drawings.</subfield>
+    <subfield code="2">aat</subfield>
+  </datafield>
+  <datafield tag="655" ind1=" " ind2="7">
+    <subfield code="a">Architectural drawings</subfield>
+    <subfield code="x">American.</subfield>
+    <subfield code="2">aat</subfield>
+  </datafield>
+  <datafield tag="655" ind1=" " ind2="7">
+    <subfield code="a">Orthographic drawings.</subfield>
+    <subfield code="2">aat</subfield>
+  </datafield>
+  <datafield tag="690" ind1=" " ind2="4">
+    <subfield code="a">Lathhouses.</subfield>
+    <subfield code="2">aat</subfield>
+  </datafield>
+  <datafield tag="651" ind1=" " ind2="0">
+    <subfield code="a">Pasadena (Calif.)</subfield>
+  </datafield>
+  <datafield tag="610" ind1="2" ind2="0">
+    <subfield code="a">Robert R. Blacker house (Pasadena, Calif.)</subfield>
+  </datafield>
+  <datafield tag="610" ind1="2" ind2="0">
+    <subfield code="a">Blacker-Hill house (Pasadena, Calif.)</subfield>
+  </datafield>
+  <datafield tag="650" ind1=" " ind2="0">
+    <subfield code="a">Architecture</subfield>
+    <subfield code="z">United States</subfield>
+    <subfield code="v">Designs and plans.</subfield>
+  </datafield>
+  <datafield tag="700" ind1="1" ind2=" ">
+    <subfield code="a">Greene, Charles Sumner,</subfield>
+    <subfield code="d">1868-1957.</subfield>
+  </datafield>
+  <datafield tag="700" ind1="1" ind2=" ">
+    <subfield code="a">Greene, Henry Mather,</subfield>
+    <subfield code="d">1870-1954.</subfield>
+  </datafield>
+  <datafield tag="700" ind1="1" ind2=" ">
+    <subfield code="a">Blacker, Robert R.</subfield>
+  </datafield>
+  <datafield tag="740" ind1="0" ind2=" ">
+    <subfield code="a">Blacker-Hill house (Pasadena, Calif.)</subfield>
+  </datafield>
+  <datafield tag="755" ind1=" " ind2=" ">
+    <subfield code="a">Pencil drawings.</subfield>
+    <subfield code="2">aat</subfield>
+  </datafield>
+  <datafield tag="755" ind1=" " ind2=" ">
+    <subfield code="a">Ink drawings.</subfield>
+    <subfield code="2">aat</subfield>
+  </datafield>
+  <datafield tag="755" ind1=" " ind2=" ">
+    <subfield code="a">Ink wash drawings.</subfield>
+    <subfield code="2">aat</subfield>
+  </datafield>
+  <datafield tag="755" ind1=" " ind2=" ">
+    <subfield code="a">Crayon drawings.</subfield>
+    <subfield code="2">aat</subfield>
+  </datafield>
+  <datafield tag="799" ind1="4" ind2="1">
+    <subfield code="a">The Greene &amp; Greene collection of architectural drawings.</subfield>
+  </datafield>
+  <datafield tag="789" ind1="0" ind2=" ">
+    <subfield code="1">[1]</subfield>
+    <subfield code="i">NYDA.1960.001.00399.</subfield>
+    <subfield code="t">Plan -- keeper's house, brick walk, garage, pumphouse.</subfield>
+  </datafield>
+  <datafield tag="789" ind1="0" ind2=" ">
+    <subfield code="1">[2]</subfield>
+    <subfield code="i">NYDA.1960.001.00400.</subfield>
+    <subfield code="t">[Plan -- keeper's house, brick walk with posts for pergola, garage, pumphouse].</subfield>
+  </datafield>
+  <datafield tag="789" ind1="0" ind2=" ">
+    <subfield code="1">[3]</subfield>
+    <subfield code="i">NYDA.1960.001.00401.</subfield>
+    <subfield code="t">East elevation [of keeper's house], elevation [of] pergola [and] pumphouse.</subfield>
+  </datafield>
+  <datafield tag="789" ind1="0" ind2=" ">
+    <subfield code="1">[4]</subfield>
+    <subfield code="i">NYDA.1960.001.00402.</subfield>
+    <subfield code="t">[Sketch of east elevation of keeper's house, pergola and pumphouse].</subfield>
+  </datafield>
+  <datafield tag="789" ind1="0" ind2=" ">
+    <subfield code="1">[5]</subfield>
+    <subfield code="i">NYDA.1960.001.00403.</subfield>
+    <subfield code="t">Foundation plan of, keeper's house [with sections] :</subfield>
+    <subfield code="n">Sheet no. 1,</subfield>
+    <subfield code="d">March 9th, 0̀7, rev. Mar. 12, 0̀7.</subfield>
+  </datafield>
+  <datafield tag="789" ind1="0" ind2=" ">
+    <subfield code="1">[6]</subfield>
+    <subfield code="i">NYDA.1960.001.00404.</subfield>
+    <subfield code="t">[Foundation plan of keeper's house], typical wall section [through foundation].</subfield>
+  </datafield>
+  <datafield tag="789" ind1="0" ind2=" ">
+    <subfield code="1">[7]</subfield>
+    <subfield code="i">NYDA.1960.001.00405.</subfield>
+    <subfield code="t">[Ground] floor plan [of] keeper['s] house :</subfield>
+    <subfield code="n">Sheet no. 2,</subfield>
+    <subfield code="d">March 16th, 0̀7.</subfield>
+  </datafield>
+  <datafield tag="789" ind1="0" ind2=" ">
+    <subfield code="1">[8]</subfield>
+    <subfield code="i">NYDA.1960.001.00406.</subfield>
+    <subfield code="t">[Rough sketch of ground floor plan of keeper's house].</subfield>
+    <subfield code="o">"Ask about well in pumphouse".</subfield>
+  </datafield>
+  <datafield tag="789" ind1="0" ind2=" ">
+    <subfield code="1">[9]</subfield>
+    <subfield code="i">NYDA.1960.001.00407.</subfield>
+    <subfield code="t">Keeper's house -- west elevation ; north elevation ; inch scale detail of flower box -- section, front elevation :</subfield>
+    <subfield code="n">Sheet no. 3,</subfield>
+    <subfield code="d">March 16th, 0̀7.</subfield>
+  </datafield>
+  <datafield tag="789" ind1="0" ind2=" ">
+    <subfield code="1">[10]</subfield>
+    <subfield code="i">NYDA.1960.001.00408.</subfield>
+    <subfield code="t">North elevation [of keeper's house].</subfield>
+  </datafield>
+  <datafield tag="789" ind1="0" ind2=" ">
+    <subfield code="1">[11]</subfield>
+    <subfield code="i">NYDA.1960.001.00409.</subfield>
+    <subfield code="t">West elevation [of keeper's house].</subfield>
+  </datafield>
+  <datafield tag="789" ind1="0" ind2=" ">
+    <subfield code="1">[12]</subfield>
+    <subfield code="i">NYDA.1960.001.00410.</subfield>
+    <subfield code="t">Keeper's house -- east elevation, south elevation :</subfield>
+    <subfield code="n">Sheet no. 4,</subfield>
+    <subfield code="d">March 16th, 0̀7.</subfield>
+  </datafield>
+  <datafield tag="789" ind1="0" ind2=" ">
+    <subfield code="1">[13]</subfield>
+    <subfield code="i">NYDA.1960.001.00411.</subfield>
+    <subfield code="t">South elevation [of keeper's house].</subfield>
+  </datafield>
+  <datafield tag="789" ind1="0" ind2=" ">
+    <subfield code="1">[14]</subfield>
+    <subfield code="i">NYDA.1960.001.00412.</subfield>
+    <subfield code="t">South [elevation of garage].</subfield>
+  </datafield>
+  <datafield tag="789" ind1="0" ind2=" ">
+    <subfield code="1">[15]</subfield>
+    <subfield code="i">NYDA.1960.001.00413.</subfield>
+    <subfield code="t">Sheet of details [for] keeper's house -- [typical section through wall and rafters], 1 1/2 in. scale detail of vents in gable ends :</subfield>
+    <subfield code="n">Sheet no. 5,</subfield>
+    <subfield code="d">March 16th, 0̀7.</subfield>
+  </datafield>
+  <datafield tag="789" ind1="0" ind2=" ">
+    <subfield code="1">[16]</subfield>
+    <subfield code="i">NYDA.1960.001.00414.</subfield>
+    <subfield code="t">1st floor plan of garage :</subfield>
+    <subfield code="n">Sheet no. 1,</subfield>
+    <subfield code="d">April 2nd, 0̀7.</subfield>
+  </datafield>
+  <datafield tag="789" ind1="0" ind2=" ">
+    <subfield code="1">[17]</subfield>
+    <subfield code="i">NYDA.1960.001.00415.</subfield>
+    <subfield code="t">[1st floor plan of garage].</subfield>
+  </datafield>
+  <datafield tag="789" ind1="0" ind2=" ">
+    <subfield code="1">[18]</subfield>
+    <subfield code="i">NYDA.1960.001.00416.</subfield>
+    <subfield code="t">Garage -- second floor plan, section thru windows over partitions "A" looking from north to south :</subfield>
+    <subfield code="n">Sheet no. 2,</subfield>
+    <subfield code="d">April 2nd, 0̀7.</subfield>
+  </datafield>
+  <datafield tag="789" ind1="0" ind2=" ">
+    <subfield code="1">[19]</subfield>
+    <subfield code="i">NYDA.1960.001.00417.</subfield>
+    <subfield code="t">[Garage -- second floor plan].</subfield>
+  </datafield>
+  <datafield tag="789" ind1="0" ind2=" ">
+    <subfield code="1">[20]</subfield>
+    <subfield code="i">NYDA.1960.001.00418.</subfield>
+    <subfield code="t">Garage -- south elevation, east elevation :</subfield>
+    <subfield code="n">Sheet no. 3,</subfield>
+    <subfield code="d">April 2nd, 0̀7.</subfield>
+  </datafield>
+  <datafield tag="789" ind1="0" ind2=" ">
+    <subfield code="1">[21]</subfield>
+    <subfield code="i">NYDA.1960.001.00419.</subfield>
+    <subfield code="t">East [elevation of garage].</subfield>
+  </datafield>
+  <datafield tag="789" ind1="0" ind2=" ">
+    <subfield code="1">[22]</subfield>
+    <subfield code="i">NYDA.1960.001.00420.</subfield>
+    <subfield code="t">[Sketch of transverse section through garage showing stairs, rough perspective sketch of garage].</subfield>
+  </datafield>
+  <datafield tag="789" ind1="0" ind2=" ">
+    <subfield code="1">[23]</subfield>
+    <subfield code="i">NYDA.1960.001.00421.</subfield>
+    <subfield code="t">Garage -- west elevation, north elevation :</subfield>
+    <subfield code="n">Sheet no. 4,</subfield>
+    <subfield code="d">April 2nd, 0̀7.</subfield>
+  </datafield>
+  <datafield tag="789" ind1="0" ind2=" ">
+    <subfield code="1">[24]</subfield>
+    <subfield code="i">NYDA.1960.001.00422.</subfield>
+    <subfield code="t">North [elevation of garage].</subfield>
+  </datafield>
+  <datafield tag="789" ind1="0" ind2=" ">
+    <subfield code="1">[24]</subfield>
+    <subfield code="i">NYDA.1960.001.00423.</subfield>
+    <subfield code="t">[Sketch of north elevation of garage showing alternate design].</subfield>
+  </datafield>
+  <datafield tag="789" ind1="0" ind2=" ">
+    <subfield code="1">[25]</subfield>
+    <subfield code="i">NYDA.1960.001.00424.</subfield>
+    <subfield code="t">West elevation [of garage].</subfield>
+  </datafield>
+  <datafield tag="789" ind1="0" ind2=" ">
+    <subfield code="1">[26]</subfield>
+    <subfield code="i">NYDA.1960.001.00425.</subfield>
+    <subfield code="t">[Unidentified detail sketches].</subfield>
+  </datafield>
+  <datafield tag="789" ind1="0" ind2=" ">
+    <subfield code="1">[27]</subfield>
+    <subfield code="i">NYDA.1960.001.00426.</subfield>
+    <subfield code="t">Lathhouse -- west elevation, plan, east elevation, F. S. door detail, inch scale door detail [in] section [and] elevation, south elevation, inch scale section [through wall and roof and tables, detail drawing of lath spacing] :</subfield>
+    <subfield code="n">Sheet no. 8,</subfield>
+    <subfield code="d">March 27th, 0̀7.</subfield>
+    <subfield code="o">"Timbers mortised and pinned with oak pins".</subfield>
+  </datafield>
+  <datafield tag="789" ind1="0" ind2=" ">
+    <subfield code="1">[29]</subfield>
+    <subfield code="i">NYDA.1960.001.00427.</subfield>
+    <subfield code="t">Lathhouse -- west elevation, plan, east elevation, F. S. door detail, inch scale door detail [in] section [and] elevation, south elevation, inch scale section [through wall and roof and tables, detail drawing of lath spacing] :</subfield>
+    <subfield code="n">Sheet no. [8],</subfield>
+    <subfield code="d">March 27th, 0̀7.</subfield>
+    <subfield code="o">Timbers mortised and pinned with oak pins".</subfield>
+  </datafield>
+  <datafield tag="789" ind1="0" ind2=" ">
+    <subfield code="1">[30]</subfield>
+    <subfield code="i">NYDA.1960.001.00428.</subfield>
+    <subfield code="t">[Unidentified detail drawings].</subfield>
+  </datafield>
+  <datafield tag="900" ind1=" " ind2=" ">
+    <subfield code="a">AUTH</subfield>
+  </datafield>
+</record>
+
+</collection>

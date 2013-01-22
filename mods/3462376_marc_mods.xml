@@ -1,0 +1,329 @@
+<collection xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.loc.gov/MARC21/slim" xsi:schemaLocation="http://www.loc.gov/MARC21/slim http://www.loc.gov/standards/marcxml/schema/MARC21slim.xsd">
+
+<record>
+  <leader>07089ckdaa2200805ua 4500</leader>
+  <controlfield tag="001">3462376</controlfield>
+  <controlfield tag="005">20100226103432.0</controlfield>
+  <controlfield tag="008">890522s1907    xx ||| |||||||   1k|eng d</controlfield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="a">(OCoLC)84059579</subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="a">(OCoLC)ocm84059579</subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="a">(CStRLIN)NYDA89-F632</subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="9">AAA2847AD</subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="a">(NNC)3462376</subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">NNc</subfield>
+    <subfield code="c">NNc</subfield>
+    <subfield code="e">ghic</subfield>
+  </datafield>
+  <datafield tag="043" ind1=" " ind2=" ">
+    <subfield code="a">n-us-ca</subfield>
+  </datafield>
+  <datafield tag="090" ind1=" " ind2=" ">
+    <subfield code="i">08/16/01 X</subfield>
+    <subfield code="h">06/04/01 T</subfield>
+    <subfield code="h">01/09/92 N</subfield>
+  </datafield>
+  <datafield tag="110" ind1="2" ind2=" ">
+    <subfield code="a">Greene &amp; Greene.</subfield>
+  </datafield>
+  <datafield tag="240" ind1="1" ind2="0">
+    <subfield code="a">Charles W. Leffingwell bunk house (Whittier, Calif.)</subfield>
+  </datafield>
+  <datafield tag="245" ind1="1" ind2="0">
+    <subfield code="a">Bunk-house for C. W. Leffingwell Esqr. at Whittier, Cal.</subfield>
+    <subfield code="h">[graphic] /</subfield>
+    <subfield code="c">designed by Mary L. Ranney in office of Greene &amp; Greene, Architects.</subfield>
+  </datafield>
+  <datafield tag="260" ind1=" " ind2=" ">
+    <subfield code="a">1907</subfield>
+  </datafield>
+  <datafield tag="300" ind1=" " ind2=" ">
+    <subfield code="a">24 sheets :</subfield>
+    <subfield code="b">various media ;</subfield>
+    <subfield code="c">53.8 x 95.6 cm. (21 1/4 x 37 5/8 in.) or smaller.</subfield>
+  </datafield>
+  <datafield tag="500" ind1=" " ind2=" ">
+    <subfield code="a">Scale varies.</subfield>
+  </datafield>
+  <datafield tag="500" ind1=" " ind2=" ">
+    <subfield code="a">Bracketed title elements supplied by cataloger or taken from inventory.</subfield>
+  </datafield>
+  <datafield tag="500" ind1=" " ind2=" ">
+    <subfield code="a">Forms part of the Greene &amp; Greene collection of architectural drawings ; job no. 206.</subfield>
+  </datafield>
+  <datafield tag="500" ind1=" " ind2=" ">
+    <subfield code="a">This set consists of "pencil drawings on tracing paper, 3 ink drawings with ink wash applied to the verso on cloth, 3 blueprints with crayon markings on paper, 1 ink drawing with pencil markings and also with ink wash applied to the verso on cloth, and 1 pencil and crayon drawing on tracing paper.</subfield>
+  </datafield>
+  <datafield tag="561" ind1=" " ind2=" ">
+    <subfield code="a">Gift of Jean Murray Bangs) Mrs. Harwell Hamilton Harris), 1960; formerly the collection of Charles Sumner Greene.</subfield>
+  </datafield>
+  <datafield tag="650" ind1=" " ind2="7">
+    <subfield code="a">Bunkhouses.</subfield>
+    <subfield code="2">aat</subfield>
+  </datafield>
+  <datafield tag="650" ind1=" " ind2="7">
+    <subfield code="a">Houses.</subfield>
+    <subfield code="2">aat</subfield>
+  </datafield>
+  <datafield tag="655" ind1=" " ind2="7">
+    <subfield code="a">Detail drawings.</subfield>
+    <subfield code="2">aat</subfield>
+  </datafield>
+  <datafield tag="655" ind1=" " ind2="7">
+    <subfield code="a">Sketches.</subfield>
+    <subfield code="2">aat</subfield>
+  </datafield>
+  <datafield tag="655" ind1=" " ind2="7">
+    <subfield code="a">Perspective drawings.</subfield>
+    <subfield code="2">aat</subfield>
+  </datafield>
+  <datafield tag="655" ind1=" " ind2="7">
+    <subfield code="a">Architectural drawings</subfield>
+    <subfield code="x">American.</subfield>
+    <subfield code="2">aat</subfield>
+  </datafield>
+  <datafield tag="655" ind1=" " ind2="7">
+    <subfield code="a">Orthographic drawings.</subfield>
+    <subfield code="2">aat</subfield>
+  </datafield>
+  <datafield tag="691" ind1=" " ind2="0">
+    <subfield code="a">Whittier (Calif.)</subfield>
+  </datafield>
+  <datafield tag="697" ind1="2" ind2="4">
+    <subfield code="a">Charles W. Leffingwell bunk house (Whittier, Calif.)</subfield>
+  </datafield>
+  <datafield tag="650" ind1=" " ind2="0">
+    <subfield code="a">Architecture</subfield>
+    <subfield code="z">United States</subfield>
+    <subfield code="v">Designs and plans.</subfield>
+  </datafield>
+  <datafield tag="700" ind1="1" ind2=" ">
+    <subfield code="a">Greene, Charles Sumner,</subfield>
+    <subfield code="d">1868-1957.</subfield>
+  </datafield>
+  <datafield tag="700" ind1="1" ind2=" ">
+    <subfield code="a">Greene, Henry Mather,</subfield>
+    <subfield code="d">1870-1954.</subfield>
+  </datafield>
+  <datafield tag="700" ind1="1" ind2=" ">
+    <subfield code="a">Leffingwell, Charles W.</subfield>
+  </datafield>
+  <datafield tag="755" ind1=" " ind2=" ">
+    <subfield code="a">Pencil drawing.</subfield>
+    <subfield code="2">aat</subfield>
+  </datafield>
+  <datafield tag="755" ind1=" " ind2=" ">
+    <subfield code="a">Ink drawing.</subfield>
+    <subfield code="2">aat</subfield>
+  </datafield>
+  <datafield tag="755" ind1=" " ind2=" ">
+    <subfield code="a">Blueprints.</subfield>
+    <subfield code="2">aat</subfield>
+  </datafield>
+  <datafield tag="755" ind1=" " ind2=" ">
+    <subfield code="a">Ink wash drawings.</subfield>
+    <subfield code="2">aat</subfield>
+  </datafield>
+  <datafield tag="755" ind1=" " ind2=" ">
+    <subfield code="a">Crayon drawings.</subfield>
+    <subfield code="2">aat</subfield>
+  </datafield>
+  <datafield tag="799" ind1="4" ind2="1">
+    <subfield code="a">The Green &amp; Green collection of architectural drawings.</subfield>
+  </datafield>
+  <datafield tag="789" ind1="0" ind2=" ">
+    <subfield code="1">[1]</subfield>
+    <subfield code="i">NYDA.1960.001.02405.</subfield>
+    <subfield code="v">[AVERYimage].</subfield>
+    <subfield code="t">Foundation plan ; [foundation details] -- typical wall section, elevation of vent, section of vent, girder post footings (except where otherwise indicated on plan), chimney footing :</subfield>
+    <subfield code="n">Sheet no. 1,</subfield>
+    <subfield code="d">April 1, 07.</subfield>
+  </datafield>
+  <datafield tag="789" ind1="0" ind2=" ">
+    <subfield code="1">[2]</subfield>
+    <subfield code="i">NYDA.1960.001.02406.</subfield>
+    <subfield code="v">[AVERYimage].</subfield>
+    <subfield code="t">Foundation plan ; [foundation details] -- typical wall section, elevation of vent, section of vent, girder post footings (except where otherwise indicated on plan), chimney footing :</subfield>
+    <subfield code="n">Sheet no. 1,</subfield>
+    <subfield code="d">April 1, 1907.</subfield>
+  </datafield>
+  <datafield tag="789" ind1="0" ind2=" ">
+    <subfield code="1">[3]</subfield>
+    <subfield code="i">NYDA.1960.001.02407.</subfield>
+    <subfield code="v">[AVERYimage].</subfield>
+    <subfield code="t">[Foundation plan]</subfield>
+  </datafield>
+  <datafield tag="789" ind1="0" ind2=" ">
+    <subfield code="1">[4]</subfield>
+    <subfield code="i">NYDA.1960.001.02408.</subfield>
+    <subfield code="v">[AVERYimage].</subfield>
+    <subfield code="t">Foundation plan ; [foundation details] -- typical wall section, elevation of vent, section of vent, girder post footings, chimney footing :</subfield>
+    <subfield code="n">Sheet no. 1,</subfield>
+    <subfield code="d">March 4, 1907.</subfield>
+    <subfield code="o">"Incorrect".</subfield>
+  </datafield>
+  <datafield tag="789" ind1="0" ind2=" ">
+    <subfield code="1">[5]</subfield>
+    <subfield code="i">NYDA.1960.001.02409.</subfield>
+    <subfield code="v">[AVERYimage].</subfield>
+    <subfield code="t">First floor plan :</subfield>
+    <subfield code="n">Sheet no. 2,</subfield>
+    <subfield code="d">April 12, 1907.</subfield>
+  </datafield>
+  <datafield tag="789" ind1="0" ind2=" ">
+    <subfield code="1">[6]</subfield>
+    <subfield code="i">NYDA.1960.001.02410.</subfield>
+    <subfield code="v">[AVERYimage].</subfield>
+    <subfield code="t">First floor plan :</subfield>
+    <subfield code="n">Sheet no. 2,</subfield>
+    <subfield code="d">April 12, 1907.</subfield>
+  </datafield>
+  <datafield tag="789" ind1="0" ind2=" ">
+    <subfield code="1">[7]</subfield>
+    <subfield code="i">NYDA.1960.001.02411.</subfield>
+    <subfield code="v">[AVERYimage].</subfield>
+    <subfield code="t">Second floor plan :</subfield>
+    <subfield code="n">Sheet no. 3,</subfield>
+    <subfield code="d">April 30, 1907.</subfield>
+  </datafield>
+  <datafield tag="789" ind1="0" ind2=" ">
+    <subfield code="1">[8]</subfield>
+    <subfield code="i">NYDA.1960.001.02412.</subfield>
+    <subfield code="v">[AVERYimage].</subfield>
+    <subfield code="t">Second floor plan :</subfield>
+    <subfield code="n">Sheet no.3,</subfield>
+    <subfield code="d">April 30, 1907.</subfield>
+  </datafield>
+  <datafield tag="789" ind1="0" ind2=" ">
+    <subfield code="1">[9]</subfield>
+    <subfield code="i">NYDA.1960.001.02413.</subfield>
+    <subfield code="v">[AVERYimage].</subfield>
+    <subfield code="t">Front (east) elevation; west elevation :</subfield>
+    <subfield code="n">Sheet no. 4,</subfield>
+    <subfield code="d">April 30, 1907.</subfield>
+  </datafield>
+  <datafield tag="789" ind1="0" ind2=" ">
+    <subfield code="1">[10]</subfield>
+    <subfield code="i">NYDA.1960.001.02414.</subfield>
+    <subfield code="v">[AVERYimage].</subfield>
+    <subfield code="t">Front (east) elevation; west elevation :</subfield>
+    <subfield code="n">Sheet no. 4,</subfield>
+    <subfield code="d">April 30,1907.</subfield>
+  </datafield>
+  <datafield tag="789" ind1="0" ind2=" ">
+    <subfield code="1">[11]</subfield>
+    <subfield code="i">NYDA.1960.001.02415.</subfield>
+    <subfield code="v">[AVERYimage].</subfield>
+    <subfield code="t">[Front (east) elevation; with assorted rough sketches]</subfield>
+  </datafield>
+  <datafield tag="789" ind1="0" ind2=" ">
+    <subfield code="1">[12]</subfield>
+    <subfield code="i">NYDA.1960.001.02416.</subfield>
+    <subfield code="v">[AVERYimage].</subfield>
+    <subfield code="t">W[est elevation, with assorted rough sketches]</subfield>
+  </datafield>
+  <datafield tag="789" ind1="0" ind2=" ">
+    <subfield code="1">[13]</subfield>
+    <subfield code="i">NYDA.1960.001.02417.</subfield>
+    <subfield code="v">[AVERYimage].</subfield>
+    <subfield code="t">Detail of seat [in] front [and] end [elevations] ; [elevations of south side of stairs, east side of stairs showint wainscot in dining room (same wainscot in living room) ; detail[s] of chimney and galv[anize]d vent -- north side, west side ; detail of splice for 8" x 6" plates ; outer wall section [with] exterior [and] interior [elevations of windows] ; details of vents in gable ends ; detail of joint in sills ; north elevation ; south elevation :</subfield>
+    <subfield code="n">Sheet no. 5,</subfield>
+    <subfield code="d">April 30, 1907.</subfield>
+  </datafield>
+  <datafield tag="789" ind1="0" ind2=" ">
+    <subfield code="1">[14]</subfield>
+    <subfield code="i">NYDA.1960.001.02418.</subfield>
+    <subfield code="v">[AVERYimage].</subfield>
+    <subfield code="t">Detail of seat [in] front [and] end [elevations] : [elevations of] south side of stairs, east side of stairs showing wainscot in dining room (same wainscot in living room) : detail[s] of chimney and galv[anize]d vent -- north side, west side ; detail of splice for 8" x 6" plates ; outer wall section [with] exterior [and] interior [elevations of windows] ; details of vents in gable ends ; detail of joint in sills ; north elevation ; south elevation :</subfield>
+    <subfield code="n">Sheet no. 5,</subfield>
+    <subfield code="d">April 30, 1907.</subfield>
+  </datafield>
+  <datafield tag="789" ind1="0" ind2=" ">
+    <subfield code="1">[15]</subfield>
+    <subfield code="i">NYDA.1960.001.02419.</subfield>
+    <subfield code="v">[AVERYimage].</subfield>
+    <subfield code="t">[Details of chimney and galvaized vent] -- north [side], west side, [perspective sketch] ; north elevation ; [so]uth elevation ; detail of splice for 8' x 6' plates ; detail of joint in sills ; [section through porch floor ; unidentifeid details in sections] :</subfield>
+    <subfield code="n">Sheet no. 6,</subfield>
+    <subfield code="d">April, 1907.</subfield>
+  </datafield>
+  <datafield tag="789" ind1="0" ind2=" ">
+    <subfield code="1">[16]</subfield>
+    <subfield code="i">NYDA.1960.001.02420.</subfield>
+    <subfield code="v">[AVERYimage].</subfield>
+    <subfield code="t">Outer wall section [with] exterior [and] interior [elevations of window]</subfield>
+  </datafield>
+  <datafield tag="789" ind1="0" ind2=" ">
+    <subfield code="1">[17]</subfield>
+    <subfield code="i">NYDA.1960.001.02421.</subfield>
+    <subfield code="v">[AVERYimage].</subfield>
+    <subfield code="t">1 1/2 in. scale details of vents in gable ends ; [elevations of] -- south side [of] stairs, east side [of stairs] (shows d[ining] r[oom] &amp; l[iving] r[oom] wainscot).</subfield>
+  </datafield>
+  <datafield tag="789" ind1="0" ind2=" ">
+    <subfield code="1">[18]</subfield>
+    <subfield code="i">NYDA.1960.001.02422.</subfield>
+    <subfield code="v">[AVERYimage].</subfield>
+    <subfield code="t">1 1/2 inch scale and full size details of living room table -- plan, sides, ends, [full size details] :</subfield>
+    <subfield code="n">Sheet no. 7,</subfield>
+    <subfield code="d">August 8th, 1907.</subfield>
+    <subfield code="o">"Traced by R.N. 8-8-07" .</subfield>
+    <subfield code="o">"All corners rounded".</subfield>
+  </datafield>
+  <datafield tag="789" ind1="0" ind2=" ">
+    <subfield code="1">[19]</subfield>
+    <subfield code="i">NYDA.1960.001.02423.</subfield>
+    <subfield code="v">[AVERYimage].</subfield>
+    <subfield code="t">1 1/2 inch scale detail[s] of desk -- [plan], fornt, end ; F.S. of cut at "A" (see front elevation) :</subfield>
+    <subfield code="n">Sheet no. 8,</subfield>
+    <subfield code="d">August 19th, 1907.</subfield>
+    <subfield code="o">"All corners rounded".</subfield>
+    <subfield code="o">"All mortises secured with 3/8" oak pins".</subfield>
+    <subfield code="o">"all figures given are for finish".</subfield>
+  </datafield>
+  <datafield tag="789" ind1="0" ind2=" ">
+    <subfield code="1">[20]</subfield>
+    <subfield code="i">NYDA.1960.001.02424.</subfield>
+    <subfield code="v">[AVERYimage].</subfield>
+    <subfield code="t">Inch scale detail[s] of front porch -- side elevation, front elevation, [front elevation of roof peak] (same detail for main roof),</subfield>
+    <subfield code="d">May 14th, 1907.</subfield>
+  </datafield>
+  <datafield tag="789" ind1="0" ind2=" ">
+    <subfield code="1">[21]</subfield>
+    <subfield code="i">NYDA.1960.001.02425.</subfield>
+    <subfield code="v">[AVERYimage].</subfield>
+    <subfield code="t">[Inch scale details of front porch] -- side [elevation, partial front elevation]</subfield>
+  </datafield>
+  <datafield tag="789" ind1="0" ind2=" ">
+    <subfield code="1">[22]</subfield>
+    <subfield code="i">NYDA.1960.001.02426.</subfield>
+    <subfield code="v">[AVERYimage].</subfield>
+    <subfield code="t">1 inch scale detail of front porch [in partial]front elevation]</subfield>
+  </datafield>
+  <datafield tag="789" ind1="0" ind2=" ">
+    <subfield code="1">[23]</subfield>
+    <subfield code="i">NYDA.1960.001.02427.</subfield>
+    <subfield code="v">[AVERYimage].</subfield>
+    <subfield code="t">1 inch detail[s] of seat -- end, front.</subfield>
+    <subfield code="o">"All corners well rounded"</subfield>
+  </datafield>
+  <datafield tag="789" ind1="0" ind2=" ">
+    <subfield code="1">[24]</subfield>
+    <subfield code="i">NYDA.1960.001.02428.</subfield>
+    <subfield code="v">[AVERYimage].</subfield>
+    <subfield code="t">[Unidentified sketch with list]</subfield>
+  </datafield>
+  <datafield tag="900" ind1=" " ind2=" ">
+    <subfield code="a">AUTH</subfield>
+  </datafield>
+</record>
+
+</collection>

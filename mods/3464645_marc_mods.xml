@@ -1,0 +1,205 @@
+<collection xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.loc.gov/MARC21/slim" xsi:schemaLocation="http://www.loc.gov/MARC21/slim http://www.loc.gov/standards/marcxml/schema/MARC21slim.xsd">
+
+<record>
+  <leader>04025ckdaa2200565 a 4500</leader>
+  <controlfield tag="001">3464645</controlfield>
+  <controlfield tag="005">20081229121916.0</controlfield>
+  <controlfield tag="008">010530s1915    xx |||  ||||||    | eng d</controlfield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="a">(CStRLIN)NYDA01-F112</subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="a">(NNC-A)176.1</subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="9">AAB2745AD</subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="a">(NNC)3464645</subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">NNC-A</subfield>
+    <subfield code="c">NNC-A</subfield>
+    <subfield code="e">gihc</subfield>
+  </datafield>
+  <datafield tag="043" ind1=" " ind2=" ">
+    <subfield code="a">n-us-ca</subfield>
+  </datafield>
+  <datafield tag="090" ind1=" " ind2=" ">
+    <subfield code="h">12/31/99 N</subfield>
+  </datafield>
+  <datafield tag="100" ind1="1" ind2=" ">
+    <subfield code="a">Hulbert, Leroy.</subfield>
+  </datafield>
+  <datafield tag="240" ind1="1" ind2="0">
+    <subfield code="a">Charles M. Pratt house (Ojai, Calif.)</subfield>
+  </datafield>
+  <datafield tag="245" ind1="1" ind2="0">
+    <subfield code="a">[Charles M. Pratt house, Ojai, Calif.]</subfield>
+    <subfield code="h">[graphic] /</subfield>
+    <subfield code="c">Leroy Hulbert [photographer] ; [Greene &amp; Greene, architects]</subfield>
+  </datafield>
+  <datafield tag="260" ind1=" " ind2=" ">
+    <subfield code="c">[circa 1915]</subfield>
+  </datafield>
+  <datafield tag="300" ind1=" " ind2=" ">
+    <subfield code="a">14 photographic prints mounted on board :</subfield>
+    <subfield code="b">brown tone ;</subfield>
+    <subfield code="c">24.6 x 24.5 cm. (9 3/4 x 9 5/8 in.) or smaller, on mount 34.9 x 42.5 cm. (13 3/4 x 16 3/4 in.)</subfield>
+  </datafield>
+  <datafield tag="500" ind1=" " ind2=" ">
+    <subfield code="a">Date and some image titles from: Greene &amp; Greene / Edward R. Bosley. London : Phaidon, 2000.</subfield>
+  </datafield>
+  <datafield tag="545" ind1=" " ind2=" ">
+    <subfield code="a">Bosley dates the house to 1908-1911.</subfield>
+  </datafield>
+  <datafield tag="500" ind1=" " ind2=" ">
+    <subfield code="a">Photos are mounted horizontally and vertically.</subfield>
+  </datafield>
+  <datafield tag="500" ind1=" " ind2=" ">
+    <subfield code="a">Photos are possibly platinum/palladium prints.</subfield>
+  </datafield>
+  <datafield tag="500" ind1=" " ind2=" ">
+    <subfield code="a">Signed in various locations in the following forms: Leroy Hulbert. L.A. ; and Leroy Hulbert. One photo unsigned.</subfield>
+  </datafield>
+  <datafield tag="561" ind1=" " ind2=" ">
+    <subfield code="a">Gift made possible by Harwell Hamilton Harris. Accession number 1987.003.</subfield>
+  </datafield>
+  <datafield tag="580" ind1=" " ind2=" ">
+    <subfield code="a">Forms part of the Greene &amp; Greene architectural drawings and photographs, Dept. of Drawings &amp; Archives, Avery Architectural and Fine Arts Library.</subfield>
+  </datafield>
+  <datafield tag="650" ind1=" " ind2="7">
+    <subfield code="a">Houses.</subfield>
+    <subfield code="2">aat</subfield>
+  </datafield>
+  <datafield tag="655" ind1=" " ind2="7">
+    <subfield code="a">Photographic prints.</subfield>
+    <subfield code="2">aat</subfield>
+  </datafield>
+  <datafield tag="651" ind1=" " ind2="0">
+    <subfield code="a">Ojai (Calif.)</subfield>
+  </datafield>
+  <datafield tag="610" ind1="2" ind2="0">
+    <subfield code="a">Charles M. Pratt house (Ojai, Calif.)</subfield>
+  </datafield>
+  <datafield tag="700" ind1="1" ind2=" ">
+    <subfield code="a">Pratt, Charles M.</subfield>
+  </datafield>
+  <datafield tag="710" ind1="2" ind2=" ">
+    <subfield code="a">Greene &amp; Greene.</subfield>
+  </datafield>
+  <datafield tag="773" ind1="0" ind2=" ">
+    <subfield code="7">c2bc</subfield>
+    <subfield code="a">Greene &amp; Greene.</subfield>
+    <subfield code="t">Architectural drawings and papers.</subfield>
+    <subfield code="w">(CStRLIN)NYDA88-A56.</subfield>
+  </datafield>
+  <datafield tag="789" ind1="0" ind2=" ">
+    <subfield code="l">[1]</subfield>
+    <subfield code="i">NYDA.1987.003.00121.</subfield>
+    <subfield code="t">[Front elevation].</subfield>
+    <subfield code="p">18.8 x 24.3 cm. (7 1/2 x 9 5/8 in.).</subfield>
+    <subfield code="o">Signed on intermediary mount, lower right.</subfield>
+  </datafield>
+  <datafield tag="789" ind1="0" ind2=" ">
+    <subfield code="l">[2]</subfield>
+    <subfield code="i">NYDA.1987.003.00122.</subfield>
+    <subfield code="t">[Rear elevation and grounds].</subfield>
+    <subfield code="p">18.2 x 23.8 (7 1/4 x 9 3/8 in.).</subfield>
+    <subfield code="o">Signed on intermediary mount, lower right.</subfield>
+  </datafield>
+  <datafield tag="789" ind1="0" ind2=" ">
+    <subfield code="l">[3]</subfield>
+    <subfield code="i">NYDA.1987.003.00123.</subfield>
+    <subfield code="t">[Distant view of house].</subfield>
+    <subfield code="p">19 x 24.3 cm. (7 1/2 x 9 5/8 in.).</subfield>
+    <subfield code="o">Signed on intermediary mount, lower right.</subfield>
+  </datafield>
+  <datafield tag="789" ind1="0" ind2=" ">
+    <subfield code="l">[4]</subfield>
+    <subfield code="i">NYDA.1987.003.00124.</subfield>
+    <subfield code="t">[Distant view of house].</subfield>
+    <subfield code="p">18.9 x 24 cm. (7 1/2 x 9 1/2 in.).</subfield>
+    <subfield code="o">Signed on intermediary mount, lower right.</subfield>
+  </datafield>
+  <datafield tag="789" ind1="0" ind2=" ">
+    <subfield code="l">[5]</subfield>
+    <subfield code="i">NYDA.1987.003.00125.</subfield>
+    <subfield code="t">[Stone wall].</subfield>
+    <subfield code="p">18.8 x 24 cm. (7 1/2 x 9 1/2 in.).</subfield>
+    <subfield code="o">Signed on intermediary mount, lower right.</subfield>
+  </datafield>
+  <datafield tag="789" ind1="0" ind2=" ">
+    <subfield code="l">[6]</subfield>
+    <subfield code="i">NYDA.1987.003.00126.</subfield>
+    <subfield code="t">[Three tiered flower beds at entrance].</subfield>
+    <subfield code="p">19 x 24 cm. (7 1/2 x 9 1/2 in.).</subfield>
+    <subfield code="o">Signed on intermediary mount, lower right.</subfield>
+  </datafield>
+  <datafield tag="789" ind1="0" ind2=" ">
+    <subfield code="l">[7]</subfield>
+    <subfield code="i">NYDA.1987.003.00127.</subfield>
+    <subfield code="t">[Living room library table].</subfield>
+    <subfield code="p">17.9 x 22 cm. (7 1/8 x 8 3/4 in.).</subfield>
+    <subfield code="o">Signed on photo, lower right.</subfield>
+  </datafield>
+  <datafield tag="789" ind1="0" ind2=" ">
+    <subfield code="l">[8]</subfield>
+    <subfield code="i">NYDA.1987.003.00128.</subfield>
+    <subfield code="t">[Living room drop-front desk].</subfield>
+    <subfield code="p">19 x 23.2 cm. (7 1/2 x 9 1/4 in.).</subfield>
+    <subfield code="o">Signed on photo, lower right.</subfield>
+  </datafield>
+  <datafield tag="789" ind1="0" ind2=" ">
+    <subfield code="l">[9]</subfield>
+    <subfield code="i">NYDA.1987.003.00129.</subfield>
+    <subfield code="t">[Living room drop-front desk, detail of door inlay].</subfield>
+    <subfield code="p">19.5 x 24.5 cm. (7 3/4 x 9 5/8 in.).</subfield>
+    <subfield code="o">Signed on photo, lower left.</subfield>
+  </datafield>
+  <datafield tag="789" ind1="0" ind2=" ">
+    <subfield code="l">[10]</subfield>
+    <subfield code="i">NYDA.1987.003.00130.</subfield>
+    <subfield code="t">[Living room drop-front desk, detail of side inlay].</subfield>
+    <subfield code="p">24.6 x 19.7 cm. (9 3/4 x 7 3/4 in.).</subfield>
+    <subfield code="o">Unsigned. Inscription on photo, lower left: Greene &amp; Greene. - Arch't's.</subfield>
+  </datafield>
+  <datafield tag="789" ind1="0" ind2=" ">
+    <subfield code="l">[11]</subfield>
+    <subfield code="i">NYDA.1987.003.00131.</subfield>
+    <subfield code="t">[Living room ladder-back rocking chair].</subfield>
+    <subfield code="p">23.7 x 18.5 cm. (9 3/8 x 7 3/8 in.).</subfield>
+    <subfield code="o">Signed on photo, lower right.</subfield>
+  </datafield>
+  <datafield tag="789" ind1="0" ind2=" ">
+    <subfield code="l">[12]</subfield>
+    <subfield code="i">NYDA.1987.003.00132.</subfield>
+    <subfield code="t">[Living room chair].</subfield>
+    <subfield code="p">23.5 x 18.8 cm. (9 1/4 x 7 1/2 in.).</subfield>
+    <subfield code="o">Signed on photo, lower left.</subfield>
+  </datafield>
+  <datafield tag="789" ind1="0" ind2=" ">
+    <subfield code="l">[13]</subfield>
+    <subfield code="i">NYDA.1987.003.00133.</subfield>
+    <subfield code="t">[Living room armchair].</subfield>
+    <subfield code="p">23.8 x 18.7 cm. (9 3/8 x 7 3/8 in.).</subfield>
+    <subfield code="o">Signed on photo, lower right.</subfield>
+  </datafield>
+  <datafield tag="789" ind1="0" ind2=" ">
+    <subfield code="l">[14]</subfield>
+    <subfield code="i">NYDA.1987.003.00134.</subfield>
+    <subfield code="t">[Dining side chair].</subfield>
+    <subfield code="p">23.6 x 17.8 cm. (9 3/8 x 7 1/8 in.).</subfield>
+    <subfield code="o">Signed on photo, lower right.</subfield>
+  </datafield>
+  <datafield tag="852" ind1=" " ind2=" ">
+    <subfield code="a">Columbia University</subfield>
+    <subfield code="b">Avery Architectural and Fine Arts Library, Drawings and Archives Collection</subfield>
+    <subfield code="e">1172 Amsterdam Avenue, MC 0301, New York, NY 10027.</subfield>
+  </datafield>
+  <datafield tag="900" ind1=" " ind2=" ">
+    <subfield code="a">AUTH</subfield>
+  </datafield>
+</record>
+
+</collection>

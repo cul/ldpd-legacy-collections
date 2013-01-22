@@ -15,14 +15,14 @@
         <xsl:text>../mods/</xsl:text>
     </xsl:param>
     <xsl:param name="collection_id">
-        <xsl:text>ferriss</xsl:text>
+        <xsl:text>ggva</xsl:text>
     </xsl:param>
-    <!--    <xsl:param name="collection_name">
+      <xsl:param name="collection_name">
         <xsl:text>Greene &amp; Greene architectural records and papers</xsl:text>
     </xsl:param>
+ 
+    <!--            <xsl:param name="collection_name"><xsl:text>Hugh Ferriss architectural drawings and papers</xsl:text></xsl:param>
     -->
-          <xsl:param name="collection_name"><xsl:text>Hugh Ferriss architectural drawings and papers</xsl:text></xsl:param>
-  
     <xsl:template match="/">
         <xsl:choose>
             <xsl:when test="count(//marc:datafield[@tag = '789']) &gt; 1">
@@ -120,10 +120,10 @@
                         select="//marc:datafield[@tag = '789'][@ind1 = '0'][child::marc:subfield[@code = 't']][child::marc:subfield[@code = 'i']  = $part_id]">
                         <xsl:text>,&#160;</xsl:text>
                         <xsl:for-each select="child::marc:subfield[@code = 't']">
-                            <xsl:value-of select="translate(normalize-space(.), '][', '')"/>
+                            <xsl:value-of select="translate(., '][', '')"/>
                             <xsl:text>&#160;</xsl:text>
                         </xsl:for-each>
-                        <xsl:value-of select="normalize-space(marc:subfield[@code = 'n'])"/>
+                        <xsl:value-of select="marc:subfield[@code = 'n']"/>
                     </xsl:for-each>
                 </mods:title>
             </mods:titleInfo>
