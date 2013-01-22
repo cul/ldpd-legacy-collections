@@ -1,0 +1,331 @@
+<collection xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.loc.gov/MARC21/slim" xsi:schemaLocation="http://www.loc.gov/MARC21/slim http://www.loc.gov/standards/marcxml/schema/MARC21slim.xsd">
+
+<record>
+  <leader>09511ckdaa2200865 a 4500</leader>
+  <controlfield tag="001">3462482</controlfield>
+  <controlfield tag="005">20100226103457.0</controlfield>
+  <controlfield tag="008">890622m19121913xx ||| |||||||    k|eng d</controlfield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="a">(OCoLC)80407619</subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="a">(OCoLC)ocm80407619</subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="a">(CStRLIN)NYDA89-F729</subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="a">(NNC)3462482</subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">NNC-A</subfield>
+    <subfield code="c">NNC-A</subfield>
+    <subfield code="e">gihc</subfield>
+  </datafield>
+  <datafield tag="043" ind1=" " ind2=" ">
+    <subfield code="a">n-us-ca</subfield>
+  </datafield>
+  <datafield tag="110" ind1="2" ind2=" ">
+    <subfield code="a">Greene &amp; Greene.</subfield>
+  </datafield>
+  <datafield tag="240" ind1="1" ind2="0">
+    <subfield code="a">Michael Kew house (San Diego, Calif.)</subfield>
+  </datafield>
+  <datafield tag="245" ind1="1" ind2="0">
+    <subfield code="a">Residence for Mrs. Mary M. Kew at San Diego, California</subfield>
+    <subfield code="h">[graphic] :</subfield>
+    <subfield code="n">[Part 1] /</subfield>
+    <subfield code="c">Greene and Greene, Architects.</subfield>
+  </datafield>
+  <datafield tag="260" ind1=" " ind2=" ">
+    <subfield code="c">1912-[19]13</subfield>
+  </datafield>
+  <datafield tag="300" ind1=" " ind2=" ">
+    <subfield code="a">76 sheets :</subfield>
+    <subfield code="b">various media ;</subfield>
+    <subfield code="c">76.3 x 129.3 cm. (30 1/8 x 51 in.) or smaller.</subfield>
+  </datafield>
+  <datafield tag="590" ind1=" " ind2=" ">
+    <subfield code="a">This record is Part 1 of 3 parts.</subfield>
+  </datafield>
+  <datafield tag="500" ind1=" " ind2=" ">
+    <subfield code="a">Scale varies.</subfield>
+  </datafield>
+  <datafield tag="500" ind1=" " ind2=" ">
+    <subfield code="a">Bracketed title elements supplied by cataloger or taken from inventory.</subfield>
+  </datafield>
+  <datafield tag="580" ind1=" " ind2=" ">
+    <subfield code="a">Forms part of the Greene &amp; Greene architectural drawings and photographs ; job no. 300. Dept. of Drawings &amp; Archives, Avery Architectural and Fine Arts Library.</subfield>
+  </datafield>
+  <datafield tag="500" ind1=" " ind2=" ">
+    <subfield code="a">This set consists of 22 drawings, blueprints on paper; 18 drawings, blueprints with crayon markings on paper; 16 drawings, graphite on tracing paper; 5 drawings, graphite on paper; 4 drawings, ink on linen with graphite annotations, and also with ink wash applied to the verso; 4 drawings, pencil and ink  on tracing paper; 3 drawings, ink with graphite on cloth; 1 drawing, blueprint with crayon and graphite on paper; 1 drawing, graphite and crayon on tracing paper; 1 drawing, blueprint with crayon and graphite and ink annotations on paper; 1 drawing, blueline print on paper; 1 drawing, graphite and watercolor wash on tracing paper; 1 drawing, graphite on graph paper; 1 drawing, graphite and ink with crayon on tracing paper; and 1 drawing, graphite and crayon on paper.</subfield>
+  </datafield>
+  <datafield tag="561" ind1=" " ind2=" ">
+    <subfield code="a">Gift of Jean Murray Bangs (Mrs. Harwell Hamilton Harris), 1960; formerly the collection of Charles Sumner Greene.</subfield>
+  </datafield>
+  <datafield tag="650" ind1=" " ind2="7">
+    <subfield code="a">Houses.</subfield>
+    <subfield code="2">aat</subfield>
+  </datafield>
+  <datafield tag="650" ind1=" " ind2="7">
+    <subfield code="a">Fences.</subfield>
+    <subfield code="2">aat</subfield>
+  </datafield>
+  <datafield tag="650" ind1=" " ind2="7">
+    <subfield code="a">Garages.</subfield>
+    <subfield code="2">aat</subfield>
+  </datafield>
+  <datafield tag="650" ind1=" " ind2="7">
+    <subfield code="a">Garden walls.</subfield>
+    <subfield code="2">lctgm</subfield>
+  </datafield>
+  <datafield tag="650" ind1=" " ind2="7">
+    <subfield code="a">Gardens.</subfield>
+    <subfield code="2">aat</subfield>
+  </datafield>
+  <datafield tag="650" ind1=" " ind2="7">
+    <subfield code="a">Pergolas.</subfield>
+    <subfield code="2">aat</subfield>
+  </datafield>
+  <datafield tag="655" ind1=" " ind2="7">
+    <subfield code="a">Detail drawings.</subfield>
+    <subfield code="2">aat</subfield>
+  </datafield>
+  <datafield tag="655" ind1=" " ind2="7">
+    <subfield code="a">Sketches.</subfield>
+    <subfield code="2">aat</subfield>
+  </datafield>
+  <datafield tag="655" ind1=" " ind2="7">
+    <subfield code="a">Site plans.</subfield>
+    <subfield code="2">aat</subfield>
+  </datafield>
+  <datafield tag="655" ind1=" " ind2="7">
+    <subfield code="a">Architectural drawings</subfield>
+    <subfield code="x">American.</subfield>
+    <subfield code="2">aat</subfield>
+  </datafield>
+  <datafield tag="655" ind1=" " ind2="7">
+    <subfield code="a">Orthographic drawings.</subfield>
+    <subfield code="2">aat</subfield>
+  </datafield>
+  <datafield tag="651" ind1=" " ind2="0">
+    <subfield code="a">San Diego (Calif.)</subfield>
+  </datafield>
+  <datafield tag="610" ind1="2" ind2="0">
+    <subfield code="a">Michael Kew house (San Diego, Calif.)</subfield>
+  </datafield>
+  <datafield tag="610" ind1="2" ind2="0">
+    <subfield code="a">Mary M. Kew house (San Diego, Calif.)</subfield>
+  </datafield>
+  <datafield tag="650" ind1=" " ind2="0">
+    <subfield code="a">Architecture</subfield>
+    <subfield code="z">United States</subfield>
+    <subfield code="v">Designs and plans.</subfield>
+  </datafield>
+  <datafield tag="700" ind1="1" ind2=" ">
+    <subfield code="a">Greene, Charles Sumner,</subfield>
+    <subfield code="d">1868-1957.</subfield>
+  </datafield>
+  <datafield tag="700" ind1="1" ind2=" ">
+    <subfield code="a">Greene, Henry Mather,</subfield>
+    <subfield code="d">1870-1954.</subfield>
+  </datafield>
+  <datafield tag="700" ind1="1" ind2=" ">
+    <subfield code="a">Kew, Michael.</subfield>
+  </datafield>
+  <datafield tag="700" ind1="1" ind2=" ">
+    <subfield code="a">Kew, Mary M.</subfield>
+  </datafield>
+  <datafield tag="700" ind1="1" ind2=" ">
+    <subfield code="a">King, Will S.</subfield>
+  </datafield>
+  <datafield tag="740" ind1="0" ind2=" ">
+    <subfield code="a">Mary M. Kew house (San Diego, Calif.)</subfield>
+  </datafield>
+  <datafield tag="755" ind1=" " ind2=" ">
+    <subfield code="a">Blueprints.</subfield>
+    <subfield code="2">aat</subfield>
+  </datafield>
+  <datafield tag="755" ind1=" " ind2=" ">
+    <subfield code="a">Pencil drawings.</subfield>
+    <subfield code="2">aat</subfield>
+  </datafield>
+  <datafield tag="755" ind1=" " ind2=" ">
+    <subfield code="a">Ink drawings.</subfield>
+    <subfield code="2">aat</subfield>
+  </datafield>
+  <datafield tag="755" ind1=" " ind2=" ">
+    <subfield code="a">Crayon drawings.</subfield>
+    <subfield code="2">aat</subfield>
+  </datafield>
+  <datafield tag="755" ind1=" " ind2=" ">
+    <subfield code="a">Blue line prints.</subfield>
+    <subfield code="2">aat</subfield>
+  </datafield>
+  <datafield tag="755" ind1=" " ind2=" ">
+    <subfield code="a">Ink wash drawings.</subfield>
+    <subfield code="2">aat</subfield>
+  </datafield>
+  <datafield tag="755" ind1=" " ind2=" ">
+    <subfield code="a">Watercolor wash drawings.</subfield>
+    <subfield code="2">aat</subfield>
+  </datafield>
+  <datafield tag="799" ind1="4" ind2="1">
+    <subfield code="a">The Greene &amp; Greene architectural drawings and photographs.</subfield>
+  </datafield>
+  <datafield tag="789" ind1="0" ind2=" ">
+    <subfield code="1">[1]</subfield>
+    <subfield code="i">NYDA.1960.001.02075.</subfield>
+    <subfield code="t">Foundation plan, plan of living rm. chimney, section thru terrace walls, detail of step foundations, section thru basement steps (steps and area wall of concrete), [detail of] step area wall, sections[through footings], plan of dining rm. chimney :</subfield>
+    <subfield code="n">Sheet no. 1,</subfield>
+    <subfield code="d">1/23/13.</subfield>
+    <subfield code="o">"Spec. -- all walls and footings of concrete, up to finished grade. All work showing above grade faced with stone. All steps of brick, except rear of cement".</subfield>
+    <subfield code="o">"Exterior walls concrete up to finished grade, above grade of stone".</subfield>
+    <subfield code="o">"Note -- chimney footings of concrete, 12" thick and to extend 4" larger all round than size of chimney. All posts in basement 4"x6" O[regon] p[ine] unless otherwise indicated. All girders 6"x6" O.P.".</subfield>
+    <subfield code="o">B[lue] p[rint] record -- 1-7-13 3 sets, 1-20-13 part set, 1-23-13 2 sets".</subfield>
+  </datafield>
+  <datafield tag="789" ind1="0" ind2=" ">
+    <subfield code="1">[2]</subfield>
+    <subfield code="i">NYDA.1960.001.02076.</subfield>
+    <subfield code="t">Foundation plan, plan of living rm. chimney, section thru terrace walls (west side), section thru east terrace walls, detail of step foundations, section thru basement steps (steps and area wall of concrete), [detail of] step area wall, sections [through footings], plan of dining rm. chimney :</subfield>
+    <subfield code="n">Sheet no. 1,</subfield>
+    <subfield code="d">1/23/13.</subfield>
+  </datafield>
+  <datafield tag="789" ind1="0" ind2=" ">
+    <subfield code="1">[3]</subfield>
+    <subfield code="i">NYDA.1960.001.02077R.</subfield>
+    <subfield code="t">Foundation plan, plan of living rm. chimney, section thru terrace walls (west side), section thru east terrace walls, detail of step foundations, section thru basement steps (steps and area wall of concrete), [detail of] step area wall, sections [through footings], plan of dining rm. chimney :</subfield>
+    <subfield code="n">Sheet no. 1,</subfield>
+    <subfield code="d">1/23/13.</subfield>
+  </datafield>
+  <datafield tag="789" ind1="0" ind2=" ">
+    <subfield code="1">[4]</subfield>
+    <subfield code="i">NYDA.1960.001.02077V.</subfield>
+    <subfield code="t">[Unidentified detail sketches]</subfield>
+  </datafield>
+  <datafield tag="789" ind1="0" ind2=" ">
+    <subfield code="1">[5]</subfield>
+    <subfield code="i">NYDA.1960.001.02078.</subfield>
+    <subfield code="t">Foundation plan, plan of living rm. chimney, section thru terrace walls (west side), section thru east terrace walls, detail of step foundations, section thru basement steps (steps and area wall of concrete), [detail of] step area wall, sections [through footings], plan of dining rm. chimney :</subfield>
+    <subfield code="n">Sheet no. 1,</subfield>
+    <subfield code="d">1/23/13.</subfield>
+    <subfield code="o">"Office copy".</subfield>
+  </datafield>
+  <datafield tag="789" ind1="0" ind2=" ">
+    <subfield code="1">[6]</subfield>
+    <subfield code="i">NYDA.1960.001.02079.</subfield>
+    <subfield code="t">First floor plan, plan and elevation of east terrace, detail of angle at "A", plan and elevation of terrace steps, plan of center chimney, plan of rear hall, plan of living rm chimney :</subfield>
+    <subfield code="n">2,</subfield>
+    <subfield code="d">1-23-13.</subfield>
+    <subfield code="o">"Note -- screens on sash and doors where indicated by letter S".</subfield>
+    <subfield code="o">"Note -- all doors in kitchen and rear part to be 6'-6" high and 1 3/8" thick. All doors in main rooms and rear hall to be 6'-10" high and 1 3/4" thick unless otherwise marked".</subfield>
+  </datafield>
+  <datafield tag="789" ind1="0" ind2=" ">
+    <subfield code="1">[7]</subfield>
+    <subfield code="i">NYDA.1960.001.02080.</subfield>
+    <subfield code="t">First floor plan, plan and elevation of east terrace, detail of angle at "A", plan and elevation of terrace steps, plan of center chimney, plan of rear hall, plan of living rm chimney :</subfield>
+    <subfield code="n">2,</subfield>
+    <subfield code="d">1-23-13.</subfield>
+  </datafield>
+  <datafield tag="789" ind1="0" ind2=" ">
+    <subfield code="1">[8]</subfield>
+    <subfield code="i">NYDA.1960.001.02081.</subfield>
+    <subfield code="t">First floor plan, plan and elevation of east terrace, detail of angle at "A", plan and elevation of terrace steps, plan of center chimney, plan of rear hall, plan of living rm chimney :</subfield>
+    <subfield code="n">2,</subfield>
+    <subfield code="d">1-23-13.</subfield>
+  </datafield>
+  <datafield tag="789" ind1="0" ind2=" ">
+    <subfield code="1">[9]</subfield>
+    <subfield code="i">NYDA.1960.001.02082.</subfield>
+    <subfield code="t">First floor plan, plan and elevation of east terrace, detail of angle at "A", plan and elevation of terrace steps, plan of center chimney, plan of rear hall, plan of living rm chimney :</subfield>
+    <subfield code="n">2,</subfield>
+    <subfield code="d">1-23-13.</subfield>
+    <subfield code="o">"Office copy".</subfield>
+    <subfield code="o">Encapsulated in mylar.</subfield>
+  </datafield>
+  <datafield tag="789" ind1="0" ind2=" ">
+    <subfield code="1">[10]</subfield>
+    <subfield code="i">NYDA.1960.001.02083.</subfield>
+    <subfield code="t">Second floor plan, plan of living rm. chimney, outline of attic stairs and closet under, plan of center chimney [and] attic stairs and closet, detail of bathroom no. 2 (case and locker in no. 1 similar), section thru rear hall (first and second floors), plan of shower :</subfield>
+    <subfield code="n">3,</subfield>
+    <subfield code="d">1-23-13.</subfield>
+    <subfield code="o">"Note -- screens on sash and doors where indicated by letter S".</subfield>
+    <subfield code="o">"Note -- all doors on second floor unless otherwise marked to be 6'-6" high".</subfield>
+  </datafield>
+  <datafield tag="789" ind1="0" ind2=" ">
+    <subfield code="1">[11]</subfield>
+    <subfield code="i">NYDA.1960.001.02084.</subfield>
+    <subfield code="t">Second floor plan, plan of living rm. chimney, outline of attic stairs and closet under, plan of center chimney [and] attic stairs and closet, detail of bathroom no. 2 (case and locker in no. 1 similar), section thru rear hall (first and second floors), plan of shower :</subfield>
+    <subfield code="n">3,</subfield>
+    <subfield code="d">1-23-13.</subfield>
+  </datafield>
+  <datafield tag="789" ind1="0" ind2=" ">
+    <subfield code="1">[12]</subfield>
+    <subfield code="i">NYDA.1960.001.02085.</subfield>
+    <subfield code="t">Second floor plan, plan of living rm. chimney, outline of attic stairs and closet under, plan of center chimney [and] attic stairs and closet, detail of bathroom no. 2 (case and locker in no. 1 similar), section thru rear hall (first and second floors), plan of shower :</subfield>
+    <subfield code="n">3,</subfield>
+    <subfield code="d">1-23-13.</subfield>
+  </datafield>
+  <datafield tag="789" ind1="0" ind2=" ">
+    <subfield code="1">[13]</subfield>
+    <subfield code="i">NYDA.1960.001.02086.</subfield>
+    <subfield code="t">Second floor plan, plan of living rm. chimney, outline of attic stairs and closet under, plan of center chimney [and] attic stairs and closet, detail of bathroom no. 2 (case and locker in no. 1 similar), section thru rear hall (first and second floors), plan of shower :</subfield>
+    <subfield code="n">3,</subfield>
+    <subfield code="d">1-23-13.</subfield>
+    <subfield code="o">"Office copy".</subfield>
+  </datafield>
+  <datafield tag="789" ind1="0" ind2=" ">
+    <subfield code="1">[14]</subfield>
+    <subfield code="i">NYDA.1960.001.02087.</subfield>
+    <subfield code="t">Roof plan ; 1 1/2" scale detail of shingle ridge -- elev. at center of roof, section, elev. at end of roof ; section [and] elev. of corner of chimney ; section thru chimney tops ; elev. showing flashing ; section thru 16 x 16 flue of kitchen chimney -- above roof, below roof :</subfield>
+    <subfield code="n">4,</subfield>
+    <subfield code="d">1-23-13.</subfield>
+  </datafield>
+  <datafield tag="789" ind1="0" ind2=" ">
+    <subfield code="1">[15]</subfield>
+    <subfield code="i">NYDA.1960.001.02088.</subfield>
+    <subfield code="t">Roof plan ; 1 1/2" scale detail of shingle ridge -- elev. at center of roof, section, elev. at end of roof ; section [and] elev. of corner of chimney ; section thru chimney tops ; elev. showing flashing ; section thru 16 x 16 flue of kitchen chimney -- above roof, below roof :</subfield>
+    <subfield code="n">4,</subfield>
+    <subfield code="d">1-23-13.</subfield>
+  </datafield>
+  <datafield tag="789" ind1="0" ind2=" ">
+    <subfield code="1">[16]</subfield>
+    <subfield code="i">NYDA.1960.001.02089R.</subfield>
+    <subfield code="t">Roof plan ; 1 1/2" scale detail of shingle ridge -- elev. at center of roof, section, elev. at end of roof ; section [and] elev. of corner of chimney ; section thru chimney tops ; elev. showing flashing ; section thru 16 x 16 flue of kitchen chimney -- above roof, below roof :</subfield>
+    <subfield code="n">4,</subfield>
+    <subfield code="d">1-23-13.</subfield>
+    <subfield code="o">"Office copy".</subfield>
+  </datafield>
+  <datafield tag="789" ind1="0" ind2=" ">
+    <subfield code="1">[17]</subfield>
+    <subfield code="i">NYDA.1960.001.02089V.</subfield>
+    <subfield code="t">[Unidentified sketches]</subfield>
+  </datafield>
+  <datafield tag="789" ind1="0" ind2=" ">
+    <subfield code="1">[18]</subfield>
+    <subfield code="i">NYDA.1960.001.02090.</subfield>
+    <subfield code="t">East elevation, sections showing relative heights of gables, secton thro' small gable, elevation of small east gable :</subfield>
+    <subfield code="n">5,</subfield>
+    <subfield code="d">1-23-13.</subfield>
+  </datafield>
+  <datafield tag="789" ind1="0" ind2=" ">
+    <subfield code="1">[19]</subfield>
+    <subfield code="i">NYDA.1960.001.02091.</subfield>
+    <subfield code="t">East elevation, sections showing relative heights of gables, secton thro' small gable, elevation of small east gable :</subfield>
+    <subfield code="n">5,</subfield>
+    <subfield code="d">1-23-13.</subfield>
+  </datafield>
+  <datafield tag="789" ind1="0" ind2=" ">
+    <subfield code="1">[20]</subfield>
+    <subfield code="i">NYDA.1960.001.02092.</subfield>
+    <subfield code="t">East elevation, sections showing relative heights of gables, secton thro' small gable, elevation of small east gable :</subfield>
+    <subfield code="n">5,</subfield>
+    <subfield code="d">1-23-13.</subfield>
+    <subfield code="o">"Office copy".</subfield>
+  </datafield>
+  <datafield tag="900" ind1=" " ind2=" ">
+    <subfield code="a">AUTH</subfield>
+  </datafield>
+</record>
+
+</collection>

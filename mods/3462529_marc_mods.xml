@@ -1,0 +1,263 @@
+<collection xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.loc.gov/MARC21/slim" xsi:schemaLocation="http://www.loc.gov/MARC21/slim http://www.loc.gov/standards/marcxml/schema/MARC21slim.xsd">
+
+<record>
+  <leader>06031ckdaa2200781 a 4500</leader>
+  <controlfield tag="001">3462529</controlfield>
+  <controlfield tag="005">20100226103508.0</controlfield>
+  <controlfield tag="008">890707s1931    xx ||| |||||||   1k|eng d</controlfield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="a">(OCoLC)80409799</subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="a">(OCoLC)ocm80409799</subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="a">(CStRLIN)NYDA89-F771</subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="9">AAA3000AD</subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="a">(NNC)3462529</subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">NNC-A</subfield>
+    <subfield code="c">NNC-A</subfield>
+    <subfield code="e">gihc</subfield>
+  </datafield>
+  <datafield tag="043" ind1=" " ind2=" ">
+    <subfield code="a">n-us-ca</subfield>
+  </datafield>
+  <datafield tag="100" ind1="1" ind2=" ">
+    <subfield code="a">Greene, Henry Mather,</subfield>
+    <subfield code="d">1870-1954.</subfield>
+  </datafield>
+  <datafield tag="240" ind1="1" ind2="0">
+    <subfield code="a">Cordelia A. Culbertson house (Pasadena, Calif.).</subfield>
+    <subfield code="p">Grounds and outbuildings</subfield>
+  </datafield>
+  <datafield tag="245" ind1="1" ind2="0">
+    <subfield code="a">Potting house, retaining wall, [etc.], for Mr. Francis F. Prentiss, 1188 Hillcrest Ave., Pasadena, [Calif.]</subfield>
+    <subfield code="h">[graphic] /</subfield>
+    <subfield code="c">Henry M. Greene, Architect.</subfield>
+  </datafield>
+  <datafield tag="260" ind1=" " ind2=" ">
+    <subfield code="c">1931</subfield>
+  </datafield>
+  <datafield tag="300" ind1=" " ind2=" ">
+    <subfield code="a">18 sheets :</subfield>
+    <subfield code="b">various media ;</subfield>
+    <subfield code="c">50.8 x 77.1 cm. (20 x 30 3/8 in.) or smaller.</subfield>
+  </datafield>
+  <datafield tag="500" ind1=" " ind2=" ">
+    <subfield code="a">Most of the drawings are encapsulated in mylar. Many are severely damaged.</subfield>
+  </datafield>
+  <datafield tag="500" ind1=" " ind2=" ">
+    <subfield code="a">Bracketed title elements supplied by cataloger or taken from inventory.</subfield>
+  </datafield>
+  <datafield tag="580" ind1=" " ind2=" ">
+    <subfield code="a">Forms part of the Greene &amp; Greene architectural drawings and photographs ; job no. 514. Dept. of Drawings &amp; Archives, Avery Architectural and Fine Arts Library.</subfield>
+  </datafield>
+  <datafield tag="500" ind1=" " ind2=" ">
+    <subfield code="a">Set includes two booklets, typewritten original and carbon copy, entitled "Specifications for a one story frame and masonry potting house for Mr. Francis F. Prentiss, Pasadena, California, June 1931, Henry M. Greene, Architect, job no. 514". Original booklet is stamped "Set no. 1, office copy", copy stamped "Set no. 3". Both have 4 pages and neither was accessioned or photographed.</subfield>
+  </datafield>
+  <datafield tag="500" ind1=" " ind2=" ">
+    <subfield code="a">This set consists of 13 drawings, graphite on tracing paper; 2 drawings, graphite on paper; 1 drawing, graphite and crayon on tracing paper; 1 drawing, blueprint on paper; and 1 drawing, blueprint with crayon annotations on paper.</subfield>
+  </datafield>
+  <datafield tag="500" ind1=" " ind2=" ">
+    <subfield code="a">"Charles and Henry were each involved in various additional designs for Mrs. Francis F. Prentiss who had now become as much identified with the Cordelia A. Culbertson house as the Culbertsons themselves" -- Greene &amp; Greene, architecture as a fine art, by Randell L. Makinson, Salt Lake City, Peregrine Smith, 1977, p. 261.</subfield>
+  </datafield>
+  <datafield tag="500" ind1=" " ind2=" ">
+    <subfield code="a">Scale varies.</subfield>
+  </datafield>
+  <datafield tag="500" ind1=" " ind2=" ">
+    <subfield code="a">Set also includes a sheet of stationery from the "Williams Radiator Co." with calculations on it and a sheet of stationery from "Edwars H. Rust, Nurseryman" with notes about plants on the verso. Neither of these was accessioned nor photographed.</subfield>
+  </datafield>
+  <datafield tag="561" ind1=" " ind2=" ">
+    <subfield code="a">Gift of Jean Murray Bangs (Mrs. Harwell Hamilton Harris), 1960; formerly the collection of Charles Sumner Greene.</subfield>
+  </datafield>
+  <datafield tag="650" ind1=" " ind2="7">
+    <subfield code="a">Houses.</subfield>
+    <subfield code="2">aat</subfield>
+  </datafield>
+  <datafield tag="650" ind1=" " ind2="7">
+    <subfield code="a">Retaining walls.</subfield>
+    <subfield code="2">aat</subfield>
+  </datafield>
+  <datafield tag="650" ind1=" " ind2="7">
+    <subfield code="a">Outbuildings.</subfield>
+    <subfield code="2">aat</subfield>
+  </datafield>
+  <datafield tag="650" ind1=" " ind2="7">
+    <subfield code="a">Grounds.</subfield>
+    <subfield code="2">aat</subfield>
+  </datafield>
+  <datafield tag="655" ind1=" " ind2="7">
+    <subfield code="a">Detail drawings.</subfield>
+    <subfield code="2">aat</subfield>
+  </datafield>
+  <datafield tag="655" ind1=" " ind2="7">
+    <subfield code="a">Sketches.</subfield>
+    <subfield code="2">aat</subfield>
+  </datafield>
+  <datafield tag="655" ind1=" " ind2="7">
+    <subfield code="a">Perspective drawings.</subfield>
+    <subfield code="2">aat</subfield>
+  </datafield>
+  <datafield tag="655" ind1=" " ind2="7">
+    <subfield code="a">Architectural drawings</subfield>
+    <subfield code="x">American.</subfield>
+    <subfield code="2">aat</subfield>
+  </datafield>
+  <datafield tag="655" ind1=" " ind2="7">
+    <subfield code="a">Orthographic drawings.</subfield>
+    <subfield code="2">aat</subfield>
+  </datafield>
+  <datafield tag="651" ind1=" " ind2="0">
+    <subfield code="a">Pasadena (Calif.)</subfield>
+  </datafield>
+  <datafield tag="650" ind1=" " ind2="0">
+    <subfield code="a">Architecture</subfield>
+    <subfield code="z">United States</subfield>
+    <subfield code="v">Designs and plans.</subfield>
+  </datafield>
+  <datafield tag="610" ind1="2" ind2="0">
+    <subfield code="a">Cordelia A. Culbertson house (Pasadena, Calif.)</subfield>
+  </datafield>
+  <datafield tag="610" ind1="2" ind2="0">
+    <subfield code="a">Francis F. Prentiss house (Pasadena, Calif.)</subfield>
+  </datafield>
+  <datafield tag="700" ind1="1" ind2=" ">
+    <subfield code="a">Prentiss, Francis F.</subfield>
+  </datafield>
+  <datafield tag="710" ind1="2" ind2=" ">
+    <subfield code="a">Greene &amp; Greene.</subfield>
+  </datafield>
+  <datafield tag="740" ind1="0" ind2="1">
+    <subfield code="a">Francis F. Prentiss house (Pasadena, Calif.)</subfield>
+  </datafield>
+  <datafield tag="755" ind1=" " ind2=" ">
+    <subfield code="a">Pencil drawings.</subfield>
+    <subfield code="2">aat</subfield>
+  </datafield>
+  <datafield tag="755" ind1=" " ind2=" ">
+    <subfield code="a">Blueprints.</subfield>
+    <subfield code="2">aat</subfield>
+  </datafield>
+  <datafield tag="755" ind1=" " ind2=" ">
+    <subfield code="a">Crayon drawings.</subfield>
+    <subfield code="2">aat</subfield>
+  </datafield>
+  <datafield tag="799" ind1="4" ind2="3">
+    <subfield code="a">The Greene &amp; Greene architectural drawings and photographs.</subfield>
+  </datafield>
+  <datafield tag="789" ind1="0" ind2=" ">
+    <subfield code="1">[1]</subfield>
+    <subfield code="i">NYDA.1960.001.03205.</subfield>
+    <subfield code="t">Plan of shed.</subfield>
+  </datafield>
+  <datafield tag="789" ind1="0" ind2=" ">
+    <subfield code="1">[2]</subfield>
+    <subfield code="i">NYDA.1960.001.03206.</subfield>
+    <subfield code="t">Sketch for a potting house -- plan, south elevation, west elevation :</subfield>
+    <subfield code="n">Sheet no. 1,</subfield>
+    <subfield code="d">approved June 26, 1931.</subfield>
+  </datafield>
+  <datafield tag="789" ind1="0" ind2=" ">
+    <subfield code="1">[3]</subfield>
+    <subfield code="i">NYDA.1960.001.03207.</subfield>
+    <subfield code="t">Potting house -- plan, typical wall section, [we]st elevation, [sketch of end elevation] :</subfield>
+    <subfield code="n">1.</subfield>
+  </datafield>
+  <datafield tag="789" ind1="0" ind2=" ">
+    <subfield code="1">[4]</subfield>
+    <subfield code="i">NYDA.1960.001.03208.</subfield>
+    <subfield code="t">Potting house -- section C-C, section D-D, north elevation, section B-B, plan, west elevation, f[ull] s[ize] d[etail of] boards [and] battens, sec[tion A]-A [through wall], outside door [section], south elevation :</subfield>
+    <subfield code="n">Sheet no. 1.</subfield>
+  </datafield>
+  <datafield tag="789" ind1="0" ind2=" ">
+    <subfield code="1">[5]</subfield>
+    <subfield code="i">NYDA.1960.001.03209.</subfield>
+    <subfield code="t">Potting house -- section C-C, section D-D, north elevation, section B-B, plan, west elevation, F.S.D. [of] boards [and] battens, section A-A [through wall], outside d[oor section], south elevation :</subfield>
+    <subfield code="n">[Sheet no. 1]</subfield>
+  </datafield>
+  <datafield tag="789" ind1="0" ind2=" ">
+    <subfield code="1">[6]</subfield>
+    <subfield code="i">NYDA.1960.001.03210.</subfield>
+    <subfield code="t">Sketch showing proposed retaining wall in no[rth] lot -- plan :</subfield>
+    <subfield code="n">Sheet 2,</subfield>
+    <subfield code="d">Copy on white [illegible] paper sent to Mr. Prentiss 8/22/31.</subfield>
+  </datafield>
+  <datafield tag="789" ind1="0" ind2=" ">
+    <subfield code="1">[7]</subfield>
+    <subfield code="i">NYDA.1960.001.03212.</subfield>
+    <subfield code="t">[Retaining wall -- elevation, plan]</subfield>
+  </datafield>
+  <datafield tag="789" ind1="0" ind2=" ">
+    <subfield code="1">[8]</subfield>
+    <subfield code="i">NYDA.1960.001.03213.</subfield>
+    <subfield code="t">[Retaining wall steps in plan and elevation, section through wall]</subfield>
+  </datafield>
+  <datafield tag="789" ind1="0" ind2=" ">
+    <subfield code="1">[9]</subfield>
+    <subfield code="i">NYDA.1960.001.03214.</subfield>
+    <subfield code="t">Elevation of west wall, [plan of wall], elevation of north wall by new greenhouse, section of high wall part B.</subfield>
+  </datafield>
+  <datafield tag="789" ind1="0" ind2=" ">
+    <subfield code="1">[10]</subfield>
+    <subfield code="i">NYDA.1960.001.03215.</subfield>
+    <subfield code="t">Section D-D, section C-C, section B-B, section A-A, section E-E, section F-F, section G-G.</subfield>
+  </datafield>
+  <datafield tag="789" ind1="0" ind2=" ">
+    <subfield code="1">[11]</subfield>
+    <subfield code="i">NYDA.1960.001.03216.</subfield>
+    <subfield code="t">[Wall and steps] -- sectional elevation of So[uth] side A-A, [perspective drawing of same]</subfield>
+  </datafield>
+  <datafield tag="789" ind1="0" ind2=" ">
+    <subfield code="1">[12]</subfield>
+    <subfield code="i">NYDA.1960.001.03217.</subfield>
+    <subfield code="t">Sect. A [and] sect. B [through wall].</subfield>
+    <subfield code="o">"R.W.P.".</subfield>
+  </datafield>
+  <datafield tag="789" ind1="0" ind2=" ">
+    <subfield code="1">[13]</subfield>
+    <subfield code="i">NYDA.1960.001.03218.</subfield>
+    <subfield code="t">Section A-A [through wall], rear elevation of A-A, [detail drawing]</subfield>
+  </datafield>
+  <datafield tag="789" ind1="0" ind2=" ">
+    <subfield code="1">[14]</subfield>
+    <subfield code="i">NYDA.1960.001.03219.</subfield>
+    <subfield code="t">Section B-B [through wall].</subfield>
+    <subfield code="o">"Level ground back of wall".</subfield>
+    <subfield code="o">Sheet includes many measurements and calculations.</subfield>
+  </datafield>
+  <datafield tag="789" ind1="0" ind2=" ">
+    <subfield code="1">[15]</subfield>
+    <subfield code="i">NYDA.1960.001.03220.</subfield>
+    <subfield code="t">[Section through wall? at potting house]</subfield>
+  </datafield>
+  <datafield tag="789" ind1="0" ind2=" ">
+    <subfield code="1">[16]</subfield>
+    <subfield code="i">NYDA.1960.001.03221.</subfield>
+    <subfield code="t">Section C-C [through wall].</subfield>
+    <subfield code="o">Sheet includes many measurements and calculations.</subfield>
+  </datafield>
+  <datafield tag="789" ind1="0" ind2=" ">
+    <subfield code="1">[17]</subfield>
+    <subfield code="i">NYDA.1960.001.03222.</subfield>
+    <subfield code="t">[Rough sketch of unidentified plan showing steps].</subfield>
+    <subfield code="o">It is unclear whether this drawing belongs with this set or not.</subfield>
+  </datafield>
+  <datafield tag="789" ind1="0" ind2=" ">
+    <subfield code="1">[18]</subfield>
+    <subfield code="i">NYDA.1960.001.03223.</subfield>
+    <subfield code="t">[Unidentified partial floor plan].</subfield>
+    <subfield code="o">Drawing done on two sheets of paper glued together.</subfield>
+    <subfield code="o">It is unclear whether this drawing belongs with this set or not.</subfield>
+  </datafield>
+  <datafield tag="900" ind1=" " ind2=" ">
+    <subfield code="a">AUTH</subfield>
+  </datafield>
+</record>
+
+</collection>

@@ -1,0 +1,224 @@
+<collection xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.loc.gov/MARC21/slim" xsi:schemaLocation="http://www.loc.gov/MARC21/slim http://www.loc.gov/standards/marcxml/schema/MARC21slim.xsd">
+
+<record>
+  <leader>04335ckdaa2200685 a 4500</leader>
+  <controlfield tag="001">3462518</controlfield>
+  <controlfield tag="005">20100226103505.0</controlfield>
+  <controlfield tag="008">890629q19201929xx ||| |||||||   1k|eng d</controlfield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="a">(OCoLC)79982929</subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="a">(OCoLC)ocm79982929</subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="a">(CStRLIN)NYDA89-F761</subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="9">AAA2989AD</subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="a">(NNC)3462518</subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">NNC-A</subfield>
+    <subfield code="c">NNC-A</subfield>
+    <subfield code="e">gihc</subfield>
+  </datafield>
+  <datafield tag="043" ind1=" " ind2=" ">
+    <subfield code="a">n-us-ca</subfield>
+  </datafield>
+  <datafield tag="100" ind1="1" ind2=" ">
+    <subfield code="a">Greene, Henry Mather,</subfield>
+    <subfield code="d">1870-1954.</subfield>
+  </datafield>
+  <datafield tag="240" ind1="1" ind2="0">
+    <subfield code="a">Cordelia A. Culbertson house (Pasadena, Calif.).</subfield>
+    <subfield code="p">Alterations and furniture</subfield>
+  </datafield>
+  <datafield tag="245" ind1="1" ind2="0">
+    <subfield code="a">Chair[s], kitchen sink, lantern, chaise longue, [and] front hall, residence for Mrs. F.F. Prentiss, Pasadena, California.</subfield>
+    <subfield code="h">[graphic] /</subfield>
+    <subfield code="c">Henry M. Greene, Arch.</subfield>
+  </datafield>
+  <datafield tag="260" ind1=" " ind2=" ">
+    <subfield code="c">[1920-1929]</subfield>
+  </datafield>
+  <datafield tag="300" ind1=" " ind2=" ">
+    <subfield code="a">13 drawings :</subfield>
+    <subfield code="b">various media ;</subfield>
+    <subfield code="c">47.5 x 85.1 cm. (18 3/4 x 33 1/2 in.) or smaller.</subfield>
+  </datafield>
+  <datafield tag="500" ind1=" " ind2=" ">
+    <subfield code="a">Scale varies.</subfield>
+  </datafield>
+  <datafield tag="500" ind1=" " ind2=" ">
+    <subfield code="a">Bracketed title elements supplied by cataloger or taken from inventory.</subfield>
+  </datafield>
+  <datafield tag="580" ind1=" " ind2=" ">
+    <subfield code="a">Forms part of the Greene &amp; Greene architectural drawings and photographs ; job no. 452. Dept. of Drawings &amp; Archives, Avery Architectural and Fine Arts Library.</subfield>
+  </datafield>
+  <datafield tag="500" ind1=" " ind2=" ">
+    <subfield code="a">"Along with their other projects during the 1920's, Charles and Henry were each involved in various additional designs for Mrs. Francis F. Prentiss who had now become as much identified with the Cordelia A. Culbertson house as the Culbertsons themselves" -- Greene &amp; Greene, architecture as a fine art, by Randell L. Makinson, Salt Lake City, Peregrine Smith, 1977, p. 261.</subfield>
+  </datafield>
+  <datafield tag="500" ind1=" " ind2=" ">
+    <subfield code="a">This set consists of 12 drawings, graphite on tracing paper; and 1 drawing, graphite on graph paper.</subfield>
+  </datafield>
+  <datafield tag="561" ind1=" " ind2=" ">
+    <subfield code="a">Gift of Jean Murray Bangs (Mrs. Harwell Hamilton Harris), 1960; formerly the collection of Charles Sumner Greene.</subfield>
+  </datafield>
+  <datafield tag="650" ind1=" " ind2="7">
+    <subfield code="a">Houses.</subfield>
+    <subfield code="2">aat</subfield>
+  </datafield>
+  <datafield tag="650" ind1=" " ind2="7">
+    <subfield code="a">Halls.</subfield>
+    <subfield code="2">aat</subfield>
+  </datafield>
+  <datafield tag="650" ind1=" " ind2="7">
+    <subfield code="a">Alterations.</subfield>
+    <subfield code="2">aat</subfield>
+  </datafield>
+  <datafield tag="650" ind1=" " ind2="7">
+    <subfield code="a">Rocking chairs.</subfield>
+    <subfield code="2">aat</subfield>
+  </datafield>
+  <datafield tag="650" ind1=" " ind2="7">
+    <subfield code="a">Chairs.</subfield>
+    <subfield code="2">aat</subfield>
+  </datafield>
+  <datafield tag="650" ind1=" " ind2="7">
+    <subfield code="a">Sinks.</subfield>
+    <subfield code="2">aat</subfield>
+  </datafield>
+  <datafield tag="655" ind1=" " ind2="7">
+    <subfield code="a">Detail drawings.</subfield>
+    <subfield code="2">aat</subfield>
+  </datafield>
+  <datafield tag="655" ind1=" " ind2="7">
+    <subfield code="a">Perspective drawings.</subfield>
+    <subfield code="2">aat</subfield>
+  </datafield>
+  <datafield tag="655" ind1=" " ind2="7">
+    <subfield code="a">Architectural drawings</subfield>
+    <subfield code="x">American.</subfield>
+    <subfield code="2">aat</subfield>
+  </datafield>
+  <datafield tag="655" ind1=" " ind2="7">
+    <subfield code="a">Orthographic drawings.</subfield>
+    <subfield code="2">aat</subfield>
+  </datafield>
+  <datafield tag="690" ind1=" " ind2="4">
+    <subfield code="a">Chaises longues.</subfield>
+  </datafield>
+  <datafield tag="651" ind1=" " ind2="0">
+    <subfield code="a">Pasadena (Calif.)</subfield>
+  </datafield>
+  <datafield tag="650" ind1=" " ind2="0">
+    <subfield code="a">Architecture</subfield>
+    <subfield code="z">United States</subfield>
+    <subfield code="v">Designs and plans.</subfield>
+  </datafield>
+  <datafield tag="610" ind1="2" ind2="0">
+    <subfield code="a">Cordelia A. Culbertson house (Pasadena, Calif.)</subfield>
+  </datafield>
+  <datafield tag="610" ind1="2" ind2="0">
+    <subfield code="a">Francis F. Prentiss house (Pasadena, Calif.)</subfield>
+  </datafield>
+  <datafield tag="700" ind1="1" ind2=" ">
+    <subfield code="a">Prentiss, Francis F.</subfield>
+  </datafield>
+  <datafield tag="710" ind1="2" ind2=" ">
+    <subfield code="a">Greene &amp; Greene.</subfield>
+  </datafield>
+  <datafield tag="740" ind1="0" ind2="1">
+    <subfield code="a">Francis F. Prentiss house (Pasadena, Calif.)</subfield>
+  </datafield>
+  <datafield tag="755" ind1=" " ind2=" ">
+    <subfield code="a">Pencil drawings.</subfield>
+    <subfield code="2">aat</subfield>
+  </datafield>
+  <datafield tag="799" ind1="4" ind2="3">
+    <subfield code="a">The Greene &amp; Greene collection of architectural drawings and photographs.</subfield>
+  </datafield>
+  <datafield tag="789" ind1="0" ind2=" ">
+    <subfield code="1">[1]</subfield>
+    <subfield code="i">NYDA.1960.001.03242.</subfield>
+    <subfield code="t">[Perspective sketch of rocking chair].</subfield>
+    <subfield code="o">Drawing done on one of "Gillespie's perspective charts, chart no. 1, 27 ".</subfield>
+  </datafield>
+  <datafield tag="789" ind1="0" ind2=" ">
+    <subfield code="1">[2]</subfield>
+    <subfield code="i">NYDA.1960.001.03243.</subfield>
+    <subfield code="t">Details of kitchen sink -- section, elevation, plan, F.S. section thro' sink (showing construction), section thro' window stool :</subfield>
+    <subfield code="n">Sheet no. 1.</subfield>
+  </datafield>
+  <datafield tag="789" ind1="0" ind2=" ">
+    <subfield code="1">[3]</subfield>
+    <subfield code="i">NYDA.1960.001.03244.</subfield>
+    <subfield code="t">Lantern [details]</subfield>
+  </datafield>
+  <datafield tag="789" ind1="0" ind2=" ">
+    <subfield code="1">[4]</subfield>
+    <subfield code="i">NYDA.1960.001.03245.</subfield>
+    <subfield code="t">[Perspective drawing of one of the] rocking chairs in drawing room :</subfield>
+    <subfield code="n">Sheet no. 3.</subfield>
+    <subfield code="o">Drawing originally had drawing no. 1960.001.03254 attached as a flap showing alternative bottom.</subfield>
+  </datafield>
+  <datafield tag="789" ind1="0" ind2=" ">
+    <subfield code="1">[5]</subfield>
+    <subfield code="i">NYDA.1960.001.03246.</subfield>
+    <subfield code="t">Chaise longue in own bedroom -- plan, side [elevation], front [elevation] :</subfield>
+    <subfield code="n">Sheet no. 4.</subfield>
+  </datafield>
+  <datafield tag="789" ind1="0" ind2=" ">
+    <subfield code="1">[6]</subfield>
+    <subfield code="i">NYDA.1960.001.03247.</subfield>
+    <subfield code="t">Details of bedroom chair :</subfield>
+    <subfield code="n">Sheet no. 4.</subfield>
+  </datafield>
+  <datafield tag="789" ind1="0" ind2=" ">
+    <subfield code="1">[7]</subfield>
+    <subfield code="i">NYDA.1960.001.03248.</subfield>
+    <subfield code="t">Plan of front hall :</subfield>
+    <subfield code="n">Sheet no. 5.</subfield>
+  </datafield>
+  <datafield tag="789" ind1="0" ind2=" ">
+    <subfield code="1">[8]</subfield>
+    <subfield code="i">NYDA.1960.001.03249.</subfield>
+    <subfield code="t">Living room rockers changed to straight chairs -- side view [and] plan [of bottom] :</subfield>
+    <subfield code="n">Sheet no. 6.</subfield>
+  </datafield>
+  <datafield tag="789" ind1="0" ind2=" ">
+    <subfield code="1">[9]</subfield>
+    <subfield code="i">NYDA.1960.001.03250.</subfield>
+    <subfield code="t">[Rockers changed to straight chair -- side view and plan of bottom].</subfield>
+    <subfield code="o">"Void".</subfield>
+  </datafield>
+  <datafield tag="789" ind1="0" ind2=" ">
+    <subfield code="1">[10]</subfield>
+    <subfield code="i">NYDA.1960.001.03251.</subfield>
+    <subfield code="t">Rocking chairs in drawing room -- [side elevation]</subfield>
+  </datafield>
+  <datafield tag="789" ind1="0" ind2=" ">
+    <subfield code="1">[11]</subfield>
+    <subfield code="i">NYDA.1960.001.03252.</subfield>
+    <subfield code="t">[Rocking chairs in drawing room -- side elevation]</subfield>
+  </datafield>
+  <datafield tag="789" ind1="0" ind2=" ">
+    <subfield code="1">[12]</subfield>
+    <subfield code="i">NYDA.1960.001.03253.</subfield>
+    <subfield code="t">[Side and front view of straight bottoms for rocking chairs]</subfield>
+  </datafield>
+  <datafield tag="789" ind1="0" ind2=" ">
+    <subfield code="1">[13]</subfield>
+    <subfield code="i">NYDA.1960.001.03254.</subfield>
+    <subfield code="t">Flap (shows rockers removed) -- [perspective drawing of straight bottom for rocking chair].</subfield>
+    <subfield code="o">Drawing was originally attached to drawing no. 1960.001.03245 and showed alternative bottom.</subfield>
+  </datafield>
+  <datafield tag="900" ind1=" " ind2=" ">
+    <subfield code="a">AUTH</subfield>
+  </datafield>
+</record>
+
+</collection>

@@ -1,0 +1,111 @@
+<collection xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.loc.gov/MARC21/slim" xsi:schemaLocation="http://www.loc.gov/MARC21/slim http://www.loc.gov/standards/marcxml/schema/MARC21slim.xsd">
+
+<record>
+  <leader>01835ckmaa2200397 a 4500</leader>
+  <controlfield tag="001">3459865</controlfield>
+  <controlfield tag="005">20100226102243.0</controlfield>
+  <controlfield tag="008">870311s1936    nyu||| ||||||     k|eng d</controlfield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="a">(OCoLC)84088764</subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="a">(OCoLC)ocm84088764</subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="a">(CStRLIN)NYDA87-F113</subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="9">AAA0336AD</subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="a">(NNC)3459865</subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">NNC</subfield>
+    <subfield code="c">NNC</subfield>
+    <subfield code="e">gihc</subfield>
+  </datafield>
+  <datafield tag="043" ind1=" " ind2=" ">
+    <subfield code="a">n-us-ny</subfield>
+  </datafield>
+  <datafield tag="100" ind1="1" ind2=" ">
+    <subfield code="a">Ferriss, Hugh,</subfield>
+    <subfield code="d">1889-1962.</subfield>
+  </datafield>
+  <datafield tag="240" ind1="1" ind2="0">
+    <subfield code="a">New York World's Fair (1939-1940)</subfield>
+  </datafield>
+  <datafield tag="245" ind1="1" ind2="0">
+    <subfield code="a">Imaginary Pavillion : project for the 1939 World's Fair.</subfield>
+    <subfield code="h">[graphic] /</subfield>
+    <subfield code="c">Hugh Ferriss.</subfield>
+  </datafield>
+  <datafield tag="260" ind1=" " ind2=" ">
+    <subfield code="c">8-24-36.</subfield>
+  </datafield>
+  <datafield tag="300" ind1=" " ind2=" ">
+    <subfield code="a">1 drawing :</subfield>
+    <subfield code="b">black crayon on paper, mounted on board ;</subfield>
+    <subfield code="c">51.9 x 40.5 cm. (20 1/2 x 16 in.), on board 54.2 x 42.5 cm. (21 3/8 x 16 3/4 in.)</subfield>
+  </datafield>
+  <datafield tag="500" ind1=" " ind2=" ">
+    <subfield code="a">Forms part of the Hugh Herriss architectural drawings and papers, Dept. of Drawings &amp; Archives, Avery Architectural and Fine Arts Library.</subfield>
+  </datafield>
+  <datafield tag="500" ind1=" " ind2=" ">
+    <subfield code="a">Title on index card with drawing has note: "Jean Leich. This info. via the architects" in blue ink; also on index card: "1971, Shreve, Lamb and Harmon" in red ink (on both sides) and label on index card: "Jean Bohne, Inc. Pictures and Frames, 34 West 46th Street, New York, Sep 29 1939."</subfield>
+  </datafield>
+  <datafield tag="500" ind1=" " ind2=" ">
+    <subfield code="a">Signed and dated lower left.</subfield>
+  </datafield>
+  <datafield tag="590" ind1=" " ind2=" ">
+    <subfield code="a">"To William F Lamb from"--inscription above signature.</subfield>
+  </datafield>
+  <datafield tag="650" ind1=" " ind2="7">
+    <subfield code="a">World fairs.</subfield>
+    <subfield code="2">aat</subfield>
+  </datafield>
+  <datafield tag="655" ind1=" " ind2="7">
+    <subfield code="a">Architectural drawings</subfield>
+    <subfield code="x">American.</subfield>
+    <subfield code="2">aat</subfield>
+  </datafield>
+  <datafield tag="655" ind1=" " ind2="7">
+    <subfield code="a">Perspective drawings.</subfield>
+    <subfield code="2">aat</subfield>
+  </datafield>
+  <datafield tag="655" ind1=" " ind2="7">
+    <subfield code="a">Imaginary drawings.</subfield>
+    <subfield code="2">aat</subfield>
+  </datafield>
+  <datafield tag="651" ind1=" " ind2="0">
+    <subfield code="a">Flushing (New York, N.Y.)</subfield>
+  </datafield>
+  <datafield tag="650" ind1=" " ind2="0">
+    <subfield code="a">Architecture</subfield>
+    <subfield code="z">United States</subfield>
+    <subfield code="v">Designs and plans.</subfield>
+  </datafield>
+  <datafield tag="611" ind1="2" ind2="0">
+    <subfield code="a">New York World's Fair</subfield>
+    <subfield code="d">(1939-1940)</subfield>
+  </datafield>
+  <datafield tag="711" ind1="2" ind2=" ">
+    <subfield code="a">New York World's Fair</subfield>
+    <subfield code="d">(1939-1940)</subfield>
+  </datafield>
+  <datafield tag="755" ind1=" " ind2=" ">
+    <subfield code="a">Crayon drawings.</subfield>
+    <subfield code="2">aat</subfield>
+  </datafield>
+  <datafield tag="799" ind1="4" ind2="3">
+    <subfield code="a">The Hugh Ferriss architectural drawings and papers.</subfield>
+  </datafield>
+  <datafield tag="789" ind1="0" ind2=" ">
+    <subfield code="i">NYDA.1000.001.00297.</subfield>
+  </datafield>
+  <datafield tag="900" ind1=" " ind2=" ">
+    <subfield code="a">AUTH</subfield>
+  </datafield>
+</record>
+
+</collection>

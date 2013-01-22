@@ -1,0 +1,249 @@
+<collection xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.loc.gov/MARC21/slim" xsi:schemaLocation="http://www.loc.gov/MARC21/slim http://www.loc.gov/standards/marcxml/schema/MARC21slim.xsd">
+
+<record>
+  <leader>04528ckdaa2200685 a 4500</leader>
+  <controlfield tag="001">3462189</controlfield>
+  <controlfield tag="005">20100226103350.0</controlfield>
+  <controlfield tag="008">890418s1906    xx ||| |||||||   1k|eng d</controlfield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="a">(OCoLC)271452879</subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="a">(OCoLC)ocn271452879</subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="a">(CStRLIN)NYDA89-F464</subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="9">AAA2660AD</subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="a">(NNC)3462189</subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">NNC</subfield>
+    <subfield code="c">NNC</subfield>
+    <subfield code="e">gihc</subfield>
+  </datafield>
+  <datafield tag="043" ind1=" " ind2=" ">
+    <subfield code="a">n-us-ca</subfield>
+  </datafield>
+  <datafield tag="110" ind1="2" ind2=" ">
+    <subfield code="a">Greene &amp; Greene.</subfield>
+  </datafield>
+  <datafield tag="240" ind1="1" ind2="0">
+    <subfield code="a">John C. Bentz house (Pasadena, Calif.)</subfield>
+  </datafield>
+  <datafield tag="245" ind1="1" ind2="0">
+    <subfield code="a">Residence for Mrs. Louise Bentz at Pasadena, Cal.</subfield>
+    <subfield code="h">[graphic] :</subfield>
+    <subfield code="b">[with garage and addition] /</subfield>
+    <subfield code="c">Greene &amp; Greene, architects.</subfield>
+  </datafield>
+  <datafield tag="260" ind1=" " ind2=" ">
+    <subfield code="a">[19]06.</subfield>
+  </datafield>
+  <datafield tag="300" ind1=" " ind2=" ">
+    <subfield code="a">13 drawings :</subfield>
+    <subfield code="b">various media ;</subfield>
+    <subfield code="c">83.8 x 65 cm. (33 x 25 5/8 in.) or smaller.</subfield>
+  </datafield>
+  <datafield tag="500" ind1=" " ind2=" ">
+    <subfield code="a">Scale varies.</subfield>
+  </datafield>
+  <datafield tag="500" ind1=" " ind2=" ">
+    <subfield code="a">Bracketed title elements supplied by cataloger or taken from inventoyr.</subfield>
+  </datafield>
+  <datafield tag="500" ind1=" " ind2=" ">
+    <subfield code="a">Forms part of the Greene &amp; Greene collection of architectural drawings; job no. 262.</subfield>
+  </datafield>
+  <datafield tag="500" ind1=" " ind2=" ">
+    <subfield code="a">Name of client changed on drawings from John C. Bentz to Mrs. Louise Bentz. Referred to as the "John C. Bentz house, 657 Prospect Square" in Greene &amp; Greene, architecture as a fine art, by Randell L. Makinson, Salt Lake City, Peregrine Smith, 1977.p. 142.</subfield>
+  </datafield>
+  <datafield tag="500" ind1=" " ind2=" ">
+    <subfield code="a">This set consists of 3 ink drawings with pencil and also with ink wash applied to the verso, 3 pencil drawings on tracing paper, 2 ink drawings with pencil on cloth, 2 pencil drawings with ink and crayon on tracing paper, 1 pencil drawing on paper, and 1 ink drawing with ink wash applied to the verso on cloth.</subfield>
+  </datafield>
+  <datafield tag="561" ind1=" " ind2=" ">
+    <subfield code="a">Gift of Jean Murray Bangs (Mrs. Harwell Hamilton Harris), 1960; formerly the collection of Charles Sumner Greene.</subfield>
+  </datafield>
+  <datafield tag="650" ind1=" " ind2="7">
+    <subfield code="a">Houses.</subfield>
+    <subfield code="2">aat</subfield>
+  </datafield>
+  <datafield tag="650" ind1=" " ind2="7">
+    <subfield code="a">Garages.</subfield>
+    <subfield code="2">aat</subfield>
+  </datafield>
+  <datafield tag="650" ind1=" " ind2="7">
+    <subfield code="a">Additions.</subfield>
+    <subfield code="2">aat</subfield>
+  </datafield>
+  <datafield tag="655" ind1=" " ind2="7">
+    <subfield code="a">Detail drawings.</subfield>
+    <subfield code="2">aat</subfield>
+  </datafield>
+  <datafield tag="655" ind1=" " ind2="7">
+    <subfield code="a">Sketches.</subfield>
+    <subfield code="2">aat</subfield>
+  </datafield>
+  <datafield tag="655" ind1=" " ind2="7">
+    <subfield code="a">Architectural drawings</subfield>
+    <subfield code="x">American.</subfield>
+    <subfield code="2">aat</subfield>
+  </datafield>
+  <datafield tag="655" ind1=" " ind2="7">
+    <subfield code="a">Orthographic drawings.</subfield>
+    <subfield code="2">aat</subfield>
+  </datafield>
+  <datafield tag="691" ind1=" " ind2="0">
+    <subfield code="a">Pasadena (Calif.)</subfield>
+  </datafield>
+  <datafield tag="650" ind1=" " ind2="0">
+    <subfield code="a">Architecture</subfield>
+    <subfield code="z">United States</subfield>
+    <subfield code="v">Designs and plans.</subfield>
+  </datafield>
+  <datafield tag="697" ind1="2" ind2="4">
+    <subfield code="a">John C. Bentz house (Pasadena, Calif.)</subfield>
+  </datafield>
+  <datafield tag="697" ind1="2" ind2="4">
+    <subfield code="a">Louise Bentz house (Pasadena, Calif.)</subfield>
+  </datafield>
+  <datafield tag="700" ind1="1" ind2=" ">
+    <subfield code="a">Greene, Charles Sumner,</subfield>
+    <subfield code="d">1868-1957.</subfield>
+  </datafield>
+  <datafield tag="700" ind1="1" ind2=" ">
+    <subfield code="a">Greene, Henry Mather,</subfield>
+    <subfield code="d">1870-1954.</subfield>
+  </datafield>
+  <datafield tag="700" ind1="1" ind2=" ">
+    <subfield code="a">Bentz, John C.</subfield>
+  </datafield>
+  <datafield tag="700" ind1="1" ind2=" ">
+    <subfield code="a">Bentz, Louise.</subfield>
+  </datafield>
+  <datafield tag="755" ind1=" " ind2=" ">
+    <subfield code="a">Ink drawings.</subfield>
+    <subfield code="2">aat</subfield>
+  </datafield>
+  <datafield tag="755" ind1=" " ind2=" ">
+    <subfield code="a">Pencil drawings.</subfield>
+    <subfield code="2">aat</subfield>
+  </datafield>
+  <datafield tag="755" ind1=" " ind2=" ">
+    <subfield code="a">Ink wash drawings.</subfield>
+    <subfield code="2">aat</subfield>
+  </datafield>
+  <datafield tag="755" ind1=" " ind2=" ">
+    <subfield code="a">Crayon drawings.</subfield>
+    <subfield code="2">aat</subfield>
+  </datafield>
+  <datafield tag="799" ind1="4" ind2="3">
+    <subfield code="a">The Greene &amp; Greene collection of architectural drawings.</subfield>
+  </datafield>
+  <datafield tag="789" ind1="0" ind2=" ">
+    <subfield code="1">[1]</subfield>
+    <subfield code="i">NYDA.1960.001.00285.</subfield>
+    <subfield code="v">[AVERYimage].</subfield>
+    <subfield code="t">Foundation plan, sections [of] walls [and] piers [and] chimneys :</subfield>
+    <subfield code="n">Sheet no 1,</subfield>
+    <subfield code="d">July 16th, '06.</subfield>
+  </datafield>
+  <datafield tag="789" ind1="0" ind2=" ">
+    <subfield code="1">[2]</subfield>
+    <subfield code="i">NYDA.1960.001.00286.</subfield>
+    <subfield code="v">[AVERYimage].</subfield>
+    <subfield code="t">First floor plan :</subfield>
+    <subfield code="n">Sheet no. 2,</subfield>
+    <subfield code="d">July 16, '06.</subfield>
+  </datafield>
+  <datafield tag="789" ind1="0" ind2=" ">
+    <subfield code="1">[3]</subfield>
+    <subfield code="i">NYDA.1960.001.00287.</subfield>
+    <subfield code="v">[AVERYimage].</subfield>
+    <subfield code="t">Second floor plan :</subfield>
+    <subfield code="n">Sheet no. 2,</subfield>
+    <subfield code="d">July 16th, '06.</subfield>
+  </datafield>
+  <datafield tag="789" ind1="0" ind2=" ">
+    <subfield code="1">[4]</subfield>
+    <subfield code="i">NYDA.1960.001.00288.</subfield>
+    <subfield code="v">[AVERYimage].</subfield>
+    <subfield code="t">West elevation, front elevation (east) :</subfield>
+    <subfield code="n">Sheet no. 4,</subfield>
+    <subfield code="d">July 16th, '06.</subfield>
+  </datafield>
+  <datafield tag="789" ind1="0" ind2=" ">
+    <subfield code="1">[5]</subfield>
+    <subfield code="i">NYDA.1960.001.00289.</subfield>
+    <subfield code="v">[AVERYimage].</subfield>
+    <subfield code="t">South elevation, north elevation :</subfield>
+    <subfield code="n">Sheet no. 5,</subfield>
+    <subfield code="d">July 16th, '06.</subfield>
+  </datafield>
+  <datafield tag="789" ind1="0" ind2=" ">
+    <subfield code="1">[6]</subfield>
+    <subfield code="i">NYDA.1960.001.00290.</subfield>
+    <subfield code="v">[AVERYimage].</subfield>
+    <subfield code="t"/>
+    <subfield code="v">[AVERYimage].</subfield>
+    <subfield code="[">Section through wall and rafters showing details of door and window framing], detail of vent in gable ends, elevaiton of vents, detail of shingle ridge, elevation of stairs in hall, [elevations of] west side of dining room [and] north side of living room :</subfield>
+    <subfield code="n">Sheet no. 6,</subfield>
+    <subfield code="d">July 16th, '06.</subfield>
+  </datafield>
+  <datafield tag="789" ind1="0" ind2=" ">
+    <subfield code="1">[7]</subfield>
+    <subfield code="i">NYDA.1960.001.00291.</subfield>
+    <subfield code="v">[AVERYimage].</subfield>
+    <subfield code="t">Inch scale and f[ull] s[ize] details of doors :</subfield>
+    <subfield code="n">Sheet no. 14,</subfield>
+    <subfield code="d">Sept. 28th, '06.</subfield>
+  </datafield>
+  <datafield tag="789" ind1="0" ind2=" ">
+    <subfield code="1">[8]</subfield>
+    <subfield code="i">NYDA.1960.001.00292.</subfield>
+    <subfield code="v">[AVERYimage].</subfield>
+    <subfield code="t">Garage -- plan, west elevation, [sections through flooring], main wall section :</subfield>
+    <subfield code="n">Sheet no. 1.</subfield>
+  </datafield>
+  <datafield tag="789" ind1="0" ind2=" ">
+    <subfield code="1">[9]</subfield>
+    <subfield code="i">NYDA.1960.001.00293.</subfield>
+    <subfield code="v">[AVERYimage].</subfield>
+    <subfield code="t">[Sketch of plan and west elevation of garage].</subfield>
+    <subfield code="o">Encapsulated in mylar.</subfield>
+  </datafield>
+  <datafield tag="789" ind1="0" ind2=" ">
+    <subfield code="1">[10]</subfield>
+    <subfield code="i">NYDA.1960.001.00294.</subfield>
+    <subfield code="v">[AVERYimage].</subfield>
+    <subfield code="t">Garage -- north elevation, section thro. lathhouse footing :</subfield>
+    <subfield code="n">Sheet no. 2.</subfield>
+  </datafield>
+  <datafield tag="789" ind1="0" ind2=" ">
+    <subfield code="1">[11]</subfield>
+    <subfield code="i">NYDA.1960.001.00295.</subfield>
+    <subfield code="v">[AVERYimage].</subfield>
+    <subfield code="t">[Addition] -- plan, north elevation, west elevation, south elevation.</subfield>
+  </datafield>
+  <datafield tag="789" ind1="0" ind2=" ">
+    <subfield code="1">[12]</subfield>
+    <subfield code="i">NYDA.1960.001.00296.</subfield>
+    <subfield code="v">[AVERYimage].</subfield>
+    <subfield code="t">[Addition] -- plan, north elevation, west elevation, south elevation.</subfield>
+    <subfield code="o">"Not used".</subfield>
+  </datafield>
+  <datafield tag="789" ind1="0" ind2=" ">
+    <subfield code="1">[13]</subfield>
+    <subfield code="i">NYDA.1960.001.00297.</subfield>
+    <subfield code="v">[AVERYimage].</subfield>
+    <subfield code="t">[Addition] -- part elevation (no[rth]), part plan.</subfield>
+    <subfield code="o">"Sketches for adding bathroom to 2nd floor - started for Mrs. Bentz- but she called it off".</subfield>
+  </datafield>
+  <datafield tag="900" ind1=" " ind2=" ">
+    <subfield code="a">AUTH</subfield>
+  </datafield>
+</record>
+
+</collection>

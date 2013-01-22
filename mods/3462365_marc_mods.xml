@@ -1,0 +1,204 @@
+<collection xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.loc.gov/MARC21/slim" xsi:schemaLocation="http://www.loc.gov/MARC21/slim http://www.loc.gov/standards/marcxml/schema/MARC21slim.xsd">
+
+<record>
+  <leader>03945ckdaa2200601 a 4500</leader>
+  <controlfield tag="001">3462365</controlfield>
+  <controlfield tag="005">20100226103430.0</controlfield>
+  <controlfield tag="008">890517s1914    cau||| ||||||     k|eng d</controlfield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="a">(OCoLC)83772222</subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="a">(OCoLC)ocm83772222</subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="a">(CStRLIN)NYDA89-F622</subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="9">AAA2836AD</subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="a">(NNC)3462365</subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">NNC</subfield>
+    <subfield code="c">NNC</subfield>
+    <subfield code="e">gihc</subfield>
+  </datafield>
+  <datafield tag="043" ind1=" " ind2=" ">
+    <subfield code="a">n-us-ca</subfield>
+  </datafield>
+  <datafield tag="110" ind1="2" ind2=" ">
+    <subfield code="a">Greene &amp; Greene.</subfield>
+  </datafield>
+  <datafield tag="240" ind1="1" ind2="0">
+    <subfield code="a">Pasadena Ice Company plant (Pasadena, Calif.).</subfield>
+    <subfield code="p">East freezing room.</subfield>
+    <subfield code="p">Addition</subfield>
+  </datafield>
+  <datafield tag="245" ind1="1" ind2="0">
+    <subfield code="a">East freezing r'm addition, Pasadena Ice Co., [Pasadena, Calif.].</subfield>
+    <subfield code="h">[graphic] /</subfield>
+    <subfield code="c">Greene &amp; Greene, Arch'ts ; drawn by L.W.C.</subfield>
+  </datafield>
+  <datafield tag="260" ind1=" " ind2=" ">
+    <subfield code="c">[1914]</subfield>
+  </datafield>
+  <datafield tag="300" ind1=" " ind2=" ">
+    <subfield code="a">10 sheets :</subfield>
+    <subfield code="b">various media ;</subfield>
+    <subfield code="c">69.1 x 102.8 cm. (27 1/4 x 40 1/2 in.) or smaller.</subfield>
+  </datafield>
+  <datafield tag="500" ind1=" " ind2=" ">
+    <subfield code="a">Bracketed title elements suppied by cataloger or taken from inventory.</subfield>
+  </datafield>
+  <datafield tag="500" ind1=" " ind2=" ">
+    <subfield code="a">Forms part of the Greene &amp; Greene architectural drawings; job no. 322. Dept. of Drawings &amp; Archives, Avery Architectural and Fine Arts Library.</subfield>
+  </datafield>
+  <datafield tag="500" ind1=" " ind2=" ">
+    <subfield code="a">This set consists of 3 drawings, graphite and ink on tracng paper; 3 drawings, blueprint on paper; 3 drawings, graphite on tracing paper; and 1 drawing, blueprint with ink on paper.</subfield>
+  </datafield>
+  <datafield tag="561" ind1=" " ind2=" ">
+    <subfield code="a">Gift of Jean Murray Bangs (Mrs. Harwell Hamilton Harris), 1960; formerly the collection of Charles Sumner Greene.</subfield>
+  </datafield>
+  <datafield tag="650" ind1=" " ind2="7">
+    <subfield code="a">Ice-houses (Factories).</subfield>
+    <subfield code="2">aat</subfield>
+  </datafield>
+  <datafield tag="650" ind1=" " ind2="7">
+    <subfield code="a">Additions.</subfield>
+    <subfield code="2">aat</subfield>
+  </datafield>
+  <datafield tag="650" ind1=" " ind2="7">
+    <subfield code="a">Trusses.</subfield>
+    <subfield code="2">aat</subfield>
+  </datafield>
+  <datafield tag="655" ind1=" " ind2="7">
+    <subfield code="a">Detail drawings.</subfield>
+    <subfield code="2">aat</subfield>
+  </datafield>
+  <datafield tag="655" ind1=" " ind2="7">
+    <subfield code="a">Perspective drawings.</subfield>
+    <subfield code="2">aat</subfield>
+  </datafield>
+  <datafield tag="655" ind1=" " ind2="7">
+    <subfield code="a">Sketches.</subfield>
+    <subfield code="2">aat</subfield>
+  </datafield>
+  <datafield tag="655" ind1=" " ind2="7">
+    <subfield code="a">Architectural drawings</subfield>
+    <subfield code="x">American.</subfield>
+    <subfield code="2">aat</subfield>
+  </datafield>
+  <datafield tag="655" ind1=" " ind2="7">
+    <subfield code="a">Orthographic drawings.</subfield>
+    <subfield code="2">aat</subfield>
+  </datafield>
+  <datafield tag="691" ind1=" " ind2="0">
+    <subfield code="a">Pasadena (Calif.)</subfield>
+  </datafield>
+  <datafield tag="650" ind1=" " ind2="0">
+    <subfield code="a">Architecture</subfield>
+    <subfield code="z">United States</subfield>
+    <subfield code="v">Designs and plans.</subfield>
+  </datafield>
+  <datafield tag="697" ind1="2" ind2="4">
+    <subfield code="a">Pasadena Ice Company plant (Pasadena, Calif.).</subfield>
+    <subfield code="b">East freezing room.</subfield>
+  </datafield>
+  <datafield tag="700" ind1="1" ind2=" ">
+    <subfield code="a">Greene, Charles Sumner,</subfield>
+    <subfield code="d">1868-1957.</subfield>
+  </datafield>
+  <datafield tag="700" ind1="1" ind2=" ">
+    <subfield code="a">Greene, Henry Mather,</subfield>
+    <subfield code="d">1870-1954.</subfield>
+  </datafield>
+  <datafield tag="710" ind1="2" ind2=" ">
+    <subfield code="a">Pasadena Ice Company.</subfield>
+  </datafield>
+  <datafield tag="755" ind1=" " ind2=" ">
+    <subfield code="a">Pencil drawings.</subfield>
+    <subfield code="2">aat</subfield>
+  </datafield>
+  <datafield tag="755" ind1=" " ind2=" ">
+    <subfield code="a">Blueprints.</subfield>
+    <subfield code="2">aat</subfield>
+  </datafield>
+  <datafield tag="755" ind1=" " ind2=" ">
+    <subfield code="a">Ink drawings.</subfield>
+    <subfield code="2">aat</subfield>
+  </datafield>
+  <datafield tag="799" ind1="4" ind2="3">
+    <subfield code="a">The Greene &amp; Greene architectural drawings.</subfield>
+  </datafield>
+  <datafield tag="789" ind1="0" ind2=" ">
+    <subfield code="1">[1]</subfield>
+    <subfield code="i">NYDA.1960.001.02871.</subfield>
+    <subfield code="t">Foundation plan [with sections], view of slab showing spacing of roads :</subfield>
+    <subfield code="n">Sheet no. 1.</subfield>
+    <subfield code="o">"Note -- all new footings to be same depth as old footings, see sect'n B-B. See sheet no. 4 for further information about footings, etc.".</subfield>
+    <subfield code="o">"Note -- clear lines on plan indicate new work. Dim lines on plan indicate old work unchanged by this contract".</subfield>
+  </datafield>
+  <datafield tag="789" ind1="0" ind2=" ">
+    <subfield code="1">[2]</subfield>
+    <subfield code="i">NYDA.1960.001.02872.</subfield>
+    <subfield code="t">Foundation plan [with section], view of slab showing spacing of rods :</subfield>
+    <subfield code="n">Sheet no 1.</subfield>
+  </datafield>
+  <datafield tag="789" ind1="0" ind2=" ">
+    <subfield code="1">[3]</subfield>
+    <subfield code="i">NYDA.1960.001.02873.</subfield>
+    <subfield code="t">Floor plan, elevation of truss showing old and new work (view taken looking south) :</subfield>
+    <subfield code="n">Sheet no. 2.</subfield>
+  </datafield>
+  <datafield tag="789" ind1="0" ind2=" ">
+    <subfield code="1">[4]</subfield>
+    <subfield code="i">NYDA.1960.001.02874.</subfield>
+    <subfield code="t">Floor plan, elevation of truss showing old and new work (view taken looking south) :</subfield>
+    <subfield code="n">Sheet no. 2.</subfield>
+  </datafield>
+  <datafield tag="789" ind1="0" ind2=" ">
+    <subfield code="1">[5]</subfield>
+    <subfield code="i">NYDA.1960.001.02875.</subfield>
+    <subfield code="t">East elevation, detail of brickwork showing bond between old and new work :</subfield>
+    <subfield code="n">Sheet no. 3.</subfield>
+    <subfield code="o">"Note -- new work indicated by clear lines. Work indicated by dim lines not affected by this contract".</subfield>
+    <subfield code="o">"Note -- see sheet no. 4 for construction details, etc.".</subfield>
+  </datafield>
+  <datafield tag="789" ind1="0" ind2=" ">
+    <subfield code="1">[6]</subfield>
+    <subfield code="i">NYDA.1960.001.02876.</subfield>
+    <subfield code="t">East elevation, detail of brickwork showing bond between old and new work :</subfield>
+    <subfield code="n">Sheet no. 3.</subfield>
+  </datafield>
+  <datafield tag="789" ind1="0" ind2=" ">
+    <subfield code="1">[7]</subfield>
+    <subfield code="i">NYDA.1960.001.02877.</subfield>
+    <subfield code="t">Construction details ; detail of splice in truss [in] elevation [and] plan :</subfield>
+    <subfield code="n">Sheet no. 4.</subfield>
+    <subfield code="o">"Note -- all new footings same depth as old work".</subfield>
+  </datafield>
+  <datafield tag="789" ind1="0" ind2=" ">
+    <subfield code="1">[8]</subfield>
+    <subfield code="i">NYDA.1960.001.02878.</subfield>
+    <subfield code="t">Construction details ; detail of splice in truss [in] elevation [and] plan :</subfield>
+    <subfield code="n">Sheet no. 4.</subfield>
+  </datafield>
+  <datafield tag="789" ind1="0" ind2=" ">
+    <subfield code="1">[9]</subfield>
+    <subfield code="i">NYDA.1960.001.02879.</subfield>
+    <subfield code="t">Detail of truss -- new part to be erected, present part of truss already erected, [perspective sketch of bolt] :</subfield>
+    <subfield code="n">Sheet no. 5.</subfield>
+  </datafield>
+  <datafield tag="789" ind1="0" ind2=" ">
+    <subfield code="1">[10]</subfield>
+    <subfield code="i">NYDA.1960.001.02880.</subfield>
+    <subfield code="t">[Plan of] new freezing room [with unidentified sketch].</subfield>
+  </datafield>
+  <datafield tag="900" ind1=" " ind2=" ">
+    <subfield code="a">AUTH</subfield>
+  </datafield>
+</record>
+
+</collection>
