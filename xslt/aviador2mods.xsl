@@ -12,7 +12,7 @@
         </xd:desc>
     </xd:doc>
     <xsl:param name="resultPath">
-        <xsl:text>../mods/</xsl:text>
+        <xsl:text>/tmp/legacy-mods/</xsl:text>
     </xsl:param>
     <xsl:param name="collection_id">
         <xsl:text>ggva</xsl:text>

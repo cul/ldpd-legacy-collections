@@ -22,6 +22,25 @@
     </xsl:template>
     <!-- strip elements not defined as empty which have no content       -->
     <xsl:template
-        match="*[string-length(normalize-space(.)) = 0][not(child::*)]"/>
+        match="*[normalize-space() = '']"><xsl:comment><xsl:text>EMPTY ELEMENT&#160; </xsl:text><xsl:value-of select="name()"/><xsl:text>&#160; REMOVED</xsl:text></xsl:comment></xsl:template>
+    
+    <!-- Remove period after creator name -->
+    
+    <xsl:template match="mods:namePart">
+        <xsl:element name="mods:namePart">
+            <xsl:copy-of select="@*"/>
+            <xsl:value-of select="replace(., '^(.*)[\.:,]$', '$1')"/>
+        </xsl:element>
+    </xsl:template>
+    
+    <!-- Remove trailing whitespace -->
+    
+    <xsl:template match="mods:title">
+        <xsl:element name="mods:title">
+            <xsl:copy-of select="@*"/>
+            <xsl:value-of select="replace(replace(normalize-space(.), '\.,', ','), ' ;', ';')"/>
+        </xsl:element>
+    </xsl:template>
+
 
 </xsl:stylesheet>

@@ -1,19 +1,13 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<mods:mods xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
-           xmlns:mods="http://www.loc.gov/mods/v3"
-           xmlns:xlink="http://www.w3.org/1999/xlink"
-           xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-4.xsd">
-   <mods:name type="personal">
-      <mods:namePart/>
-   </mods:name>
+<?xml version="1.0" encoding="UTF-8"?><mods:mods xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-4.xsd">
+   <!--EMPTY ELEMENT  mods:name  REMOVED-->
    <mods:name type="corporate">
-      <mods:namePart>Greene &amp; Greene.</mods:namePart>
+      <mods:namePart>Greene &amp; Greene</mods:namePart>
    </mods:name>
    <mods:titleInfo type="uniform">
-      <mods:title>All Saints Episcopal Church (Pasadena, Calif.). Alterations     </mods:title>
+      <mods:title>All Saints Episcopal Church (Pasadena, Calif.). Alterations</mods:title>
    </mods:titleInfo>
    <mods:titleInfo>
-      <mods:title>Alterations of All saints church, Pasadena, Cal., Foundation plan of vestibule end of church ; two sections through foundation : No.1.</mods:title>
+      <mods:title>Alterations of All saints church, Pasadena, Cal, Foundation plan of vestibule end of church; two sections through foundation : No.1.</mods:title>
    </mods:titleInfo>
    <mods:originInfo>
       <mods:dateCreated>1902-[1903]</mods:dateCreated>
