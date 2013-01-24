@@ -6,7 +6,7 @@
     <p:pipeline  xmlns:p="http://www.w3.org/ns/xproc" version="1.0">
         <p:xslt>
             <p:input port="stylesheet">
-                <p:document href="identity.xsl"/>
+                <p:document href="aviador2mods.xsl"/>
             </p:input>
         </p:xslt>
        <p:xslt>
