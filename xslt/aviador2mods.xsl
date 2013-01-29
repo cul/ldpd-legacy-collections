@@ -12,17 +12,17 @@
         </xd:desc>
     </xd:doc>
     <xsl:param name="resultPath">
-        <xsl:text>/tmp/legacy-mods/</xsl:text>
+        <xsl:text>/Users/terry/tmp/legacy-mods/</xsl:text>
     </xsl:param>
     <xsl:param name="collection_id">
-        <xsl:text>ggva</xsl:text>
+        <xsl:text>ferriss</xsl:text>
     </xsl:param>
-      <xsl:param name="collection_name">
+    <!--      <xsl:param name="collection_name">
         <xsl:text>Greene &amp; Greene architectural records and papers</xsl:text>
-    </xsl:param>
+        </xsl:param>    -->
  
-    <!--            <xsl:param name="collection_name"><xsl:text>Hugh Ferriss architectural drawings and papers</xsl:text></xsl:param>
-    -->
+               <xsl:param name="collection_name"><xsl:text>Hugh Ferriss architectural drawings and papers</xsl:text></xsl:param>
+    
     <xsl:template match="/">
         <xsl:choose>
             <xsl:when test="count(//marc:datafield[@tag = '789']) &gt; 1">
