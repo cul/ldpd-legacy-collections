@@ -126,7 +126,6 @@
                             <xsl:text>&#160;</xsl:text>
                             <xsl:value-of select="."/>
                         </xsl:for-each>
-
                     </xsl:for-each>
                 </mods:title>
             </mods:titleInfo>
