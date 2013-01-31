@@ -14,19 +14,20 @@
     <xsl:param name="resultPath">
         <xsl:text>/Users/terry/tmp/legacy-mods/</xsl:text>
     </xsl:param>
-    <xsl:param name="collection_id">
+    <!--    <xsl:param name="collection_id">
         <xsl:text>ggva</xsl:text>
     </xsl:param>
-<!--    <xsl:param name="collection_id">
+    -->
+    <xsl:param name="collection_id">
         <xsl:text>ferriss</xsl:text>
     </xsl:param>
--->
-    <xsl:param name="collection_name">
-        <xsl:text>Greene &amp; Greene architectural records and papers</xsl:text>
-    </xsl:param>
 
-    <!--              <xsl:param name="collection_name"><xsl:text>Hugh Ferriss architectural drawings and papers</xsl:text></xsl:param>
-    -->
+    <!--    <xsl:param name="collection_name">
+        <xsl:text>Greene &amp; Greene architectural records and papers</xsl:text>
+        </xsl:param>  -->
+
+                  <xsl:param name="collection_name"><xsl:text>Hugh Ferriss architectural drawings and papers</xsl:text></xsl:param>
+  
     <xsl:template match="/">
         <xsl:choose>
             <xsl:when test="count(//marc:datafield[@tag = '789']) &gt; 1">
@@ -209,20 +210,13 @@
                 <mods:topic>Architecture/United States-/Designs and plans</mods:topic>
             </mods:subject>
             -->
-            <mods:relatedItem displayLabel="Collection" type="host">
-                <mods:titleInfo>
-                    <mods:title>
-                        <xsl:value-of select="$collection_name"/>
-                    </mods:title>
-                </mods:titleInfo>
-            </mods:relatedItem>
             <mods:relatedItem displayLabel="Project" type="host">
                 <mods:titleInfo>
                     <xsl:choose>
-                        <xsl:when test="$collection_name = 'ggva'">
+                        <xsl:when test="$collection_id = 'ggva'">
                             <xsl:text>Greene &amp; Greene Architectural Records</xsl:text>
                         </xsl:when>
-                        <xsl:when test="$collection_name = 'ferriss'">
+                        <xsl:when test="$collection_id = 'ferriss'">
                             <xsl:text>Ferriss</xsl:text>
                         </xsl:when>
                     </xsl:choose>
