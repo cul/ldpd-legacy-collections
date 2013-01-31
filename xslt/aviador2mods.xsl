@@ -218,7 +218,14 @@
             </mods:relatedItem>
             <mods:relatedItem displayLabel="Project" type="host">
                 <mods:titleInfo>
-                    <mods:title>AVIADOR</mods:title>
+                    <xsl:choose>
+                        <xsl:when test="$collection_name = 'ggva'">
+                            <xsl:text>Greene &amp; Greene Architectural Records</xsl:text>
+                        </xsl:when>
+                        <xsl:when test="$collection_name = 'ferriss'">
+                            <xsl:text>Ferriss</xsl:text>
+                        </xsl:when>
+                    </xsl:choose>
                 </mods:titleInfo>
             </mods:relatedItem>
             <mods:location>
