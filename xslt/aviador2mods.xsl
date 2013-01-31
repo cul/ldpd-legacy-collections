@@ -147,7 +147,7 @@
                             <xsl:text>0000-00-00</xsl:text>
                         </mods:dateCreated>
                     </xsl:when>
-                    <xsl:when test="substring(//marc:controlfield[@tag = '008'], 12, 4) ">
+                    <xsl:when test="contains(substring(//marc:controlfield[@tag = '008'], 12, 4), '1') ">
                         <mods:dateCreated encoding="w3cdtf" keyDate="yes" point="start">
                             <xsl:value-of
                                 select="substring(//marc:controlfield[@tag = '008'], 8, 4) "/>
