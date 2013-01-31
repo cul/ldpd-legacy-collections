@@ -143,7 +143,7 @@
                 <!--008 07-10-->
                 <xsl:choose>
                     <xsl:when test="substring(//marc:controlfield[@tag = '008'], 7, 1) = 'n'">
-                        <mods:dateCreated encoding="w3cdtf" keyDate="yes">
+                        <mods:dateCreated  keyDate="yes">
                             <xsl:text>0000-00-00</xsl:text>
                         </mods:dateCreated>
                     </xsl:when>
