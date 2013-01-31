@@ -17,11 +17,11 @@
     <xsl:param name="collection_id">
         <xsl:text>ggva</xsl:text>
     </xsl:param>
-         <xsl:param name="collection_name">
+    <xsl:param name="collection_name">
         <xsl:text>Greene &amp; Greene architectural records and papers</xsl:text>
-        </xsl:param>    
- 
- <!--              <xsl:param name="collection_name"><xsl:text>Hugh Ferriss architectural drawings and papers</xsl:text></xsl:param>
+    </xsl:param>
+
+    <!--              <xsl:param name="collection_name"><xsl:text>Hugh Ferriss architectural drawings and papers</xsl:text></xsl:param>
     -->
     <xsl:template match="/">
         <xsl:choose>
@@ -121,9 +121,12 @@
                         <xsl:text>,&#160;</xsl:text>
                         <xsl:for-each select="child::marc:subfield[@code = 't']">
                             <xsl:value-of select="translate(., '][', '')"/>
-                            <xsl:text>&#160;</xsl:text>
                         </xsl:for-each>
-                        <xsl:value-of select="marc:subfield[@code = 'n']"/>
+                        <xsl:for-each select="marc:subfield[@code = 'n']">
+                            <xsl:text>&#160;</xsl:text>
+                            <xsl:value-of select="."/>
+                        </xsl:for-each>
+
                     </xsl:for-each>
                 </mods:title>
             </mods:titleInfo>
@@ -133,31 +136,32 @@
                     <xsl:value-of select="//marc:datafield[@tag = '260']/marc:subfield[@code = 'c']"
                     />
                 </mods:dateCreated>
-                
-                    <!--008 07-10-->
-                    <xsl:choose>
-                        <xsl:when test="substring(//marc:controlfield[@tag = '008'], 7, 1) = 'n'">
-                            <mods:dateCreated encoding="w3cdtf" keyDate="yes">
-                                <xsl:text>0000-00-00</xsl:text>
-                                </mods:dateCreated>
-                        </xsl:when>
-                        <xsl:when test="substring(//marc:controlfield[@tag = '008'], 8, 4) ">
-                            <mods:dateCreated encoding="w3cdtf" keyDate="yes" point="start">
-                                <xsl:value-of select="substring(//marc:controlfield[@tag = '008'], 8, 4) "/>
-                            </mods:dateCreated>
-                            <mods:dateCreated encoding="w3cdtf" point="end">
-                                <xsl:value-of select="substring(//marc:controlfield[@tag = '008'], 12, 4) "
-                                />
-                            </mods:dateCreated>
-                        </xsl:when>
-                        <xsl:otherwise>
-                            <mods:dateCreated encoding="w3cdtf" keyDate="yes">
+
+                <!--008 07-10-->
+                <xsl:choose>
+                    <xsl:when test="substring(//marc:controlfield[@tag = '008'], 7, 1) = 'n'">
+                        <mods:dateCreated encoding="w3cdtf" keyDate="yes">
+                            <xsl:text>0000-00-00</xsl:text>
+                        </mods:dateCreated>
+                    </xsl:when>
+                    <xsl:when test="substring(//marc:controlfield[@tag = '008'], 8, 4) ">
+                        <mods:dateCreated encoding="w3cdtf" keyDate="yes" point="start">
                             <xsl:value-of
                                 select="substring(//marc:controlfield[@tag = '008'], 8, 4) "/>
-                            </mods:dateCreated>
-                        </xsl:otherwise>
-                    </xsl:choose>
-         <!--       <xsl:if
+                        </mods:dateCreated>
+                        <mods:dateCreated encoding="w3cdtf" point="end">
+                            <xsl:value-of
+                                select="substring(//marc:controlfield[@tag = '008'], 12, 4) "/>
+                        </mods:dateCreated>
+                    </xsl:when>
+                    <xsl:otherwise>
+                        <mods:dateCreated encoding="w3cdtf" keyDate="yes">
+                            <xsl:value-of
+                                select="substring(//marc:controlfield[@tag = '008'], 8, 4) "/>
+                        </mods:dateCreated>
+                    </xsl:otherwise>
+                </xsl:choose>
+                <!--       <xsl:if
                     test="substring(//marc:controlfield[@tag = '008'], 12, 4) castable as xs:integer">
                     
                 </xsl:if>

@@ -36,9 +36,10 @@
     <!-- Remove trailing whitespace -->
     
     <xsl:template match="mods:title">
+        <xsl:comment><xsl:text>ELEMENT&#160; </xsl:text><xsl:value-of select="name()"/><xsl:text>&#160; SPACE-NORMALIZED</xsl:text></xsl:comment>
         <xsl:element name="mods:title">
             <xsl:copy-of select="@*"/>
-            <xsl:value-of select="replace(replace(normalize-space(.), '\.,', ','), ' ;', ';')"/>
+            <xsl:value-of select="normalize-space(replace(replace(., '\.,', ','), ' ;', ';'))"/>
         </xsl:element>
     </xsl:template>
 
