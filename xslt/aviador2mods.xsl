@@ -17,6 +17,10 @@
     <xsl:param name="collection_id">
         <xsl:text>ggva</xsl:text>
     </xsl:param>
+<!--    <xsl:param name="collection_id">
+        <xsl:text>ferriss</xsl:text>
+    </xsl:param>
+-->
     <xsl:param name="collection_name">
         <xsl:text>Greene &amp; Greene architectural records and papers</xsl:text>
     </xsl:param>
@@ -191,8 +195,15 @@
                     <xsl:call-template name="subfields"/>
                 </mods:note>
             </xsl:for-each>
-            <mods:accessCondition type="useAndReproduction">Columbia Libraries Staff Use
-                Only</mods:accessCondition>
+            <xsl:choose>
+                <xsl:when test="$collection_id = 'ggva'">
+                    <mods:accessCondition type="useAndReproduction">No known restrictions.</mods:accessCondition>
+                </xsl:when>
+                <xsl:when test="$collection_id = 'ferriss'">
+                    <mods:accessCondition type="useAndReproduction">Columbia Libraries Staff Use
+                        Only</mods:accessCondition>
+                </xsl:when>
+            </xsl:choose> 
             <!-- 
                <mods:subject authority="lcsh">
                 <mods:topic>Architecture/United States-/Designs and plans</mods:topic>
