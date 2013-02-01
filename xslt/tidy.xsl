@@ -10,7 +10,7 @@
             <xd:p>Various templates to clean up MODS records</xd:p>
         </xd:desc>
     </xd:doc>
-
+    <xsl:output indent="yes"/>
     <!-- Identity Template -->
     <!-- Whenever you match any node or any attribute -->
     <xsl:template match="node()|@*">
@@ -21,32 +21,47 @@
         </xsl:copy>
     </xsl:template>
     <!-- strip elements not defined as empty which have no content       -->
-    <xsl:template
-        match="*[normalize-space() = ''][not(child::*)]"><xsl:comment><xsl:text>EMPTY ELEMENT&#160; </xsl:text><xsl:value-of select="name()"/><xsl:text>&#160; REMOVED</xsl:text></xsl:comment></xsl:template>
-    
+    <xsl:template match="*[normalize-space() = ''][not(child::*)]">
+        <xsl:comment>
+            <xsl:text>EMPTY ELEMENT&#160; </xsl:text>
+            <xsl:value-of select="name()"/>
+            <xsl:text>&#160; REMOVED</xsl:text>
+        </xsl:comment>
+    </xsl:template>
+
     <!-- Remove period after creator name -->
-    
+
     <xsl:template match="MODS:namePart">
         <xsl:element name="MODS:namePart">
             <xsl:copy-of select="@*"/>
             <xsl:value-of select="replace(., '^(.*)[\.:,]$', '$1')"/>
         </xsl:element>
     </xsl:template>
-    
+
     <!-- Remove trailing whitespace -->
-    
+
     <xsl:template match="MODS:title">
-        <xsl:comment><xsl:text>ELEMENT&#160; </xsl:text><xsl:value-of select="name()"/><xsl:text>&#160; SPACE-NORMALIZED</xsl:text></xsl:comment>
+        <xsl:comment>
+            <xsl:text>ELEMENT&#160; </xsl:text>
+            <xsl:value-of select="name()"/>
+            <xsl:text>&#160; SPACE-NORMALIZED</xsl:text>
+        </xsl:comment>
+        <xsl:text>&#10;</xsl:text>
         <xsl:element name="MODS:title">
             <xsl:copy-of select="@*"/>
             <xsl:value-of select="normalize-space(replace(replace(., '\.,', ','), ' ;', ';'))"/>
         </xsl:element>
     </xsl:template>
-    
+
     <!-- Remove trailing punctuation -->
-    
+
     <xsl:template match="MODS:shelfLocator | MODS:identifier">
-        <xsl:comment><xsl:text>ELEMENT&#160; </xsl:text><xsl:value-of select="name()"/><xsl:text>&#160; trailing punctuation removed</xsl:text></xsl:comment>
+        <xsl:comment>
+            <xsl:text>ELEMENT&#160; </xsl:text>
+            <xsl:value-of select="name()"/>
+            <xsl:text>&#160; trailing punctuation removed</xsl:text>
+        </xsl:comment>
+        <xsl:text>&#10;</xsl:text>
         <xsl:element name="{name()}">
             <xsl:copy-of select="@*"/>
             <xsl:value-of select="replace(., '^(.*)[\.:,]$', '$1')"/>

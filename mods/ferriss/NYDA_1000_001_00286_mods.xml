@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<MODS:mods xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+           xmlns:MODS="http://www.loc.gov/mods/v3"
+           xmlns:xlink="http://www.w3.org/1999/xlink"
+           xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-4.xsd"
+           version="3.4">
+   <MODS:name type="personal">
+      <MODS:namePart>Ferriss, Hugh, 1889-1962</MODS:namePart>
+   </MODS:name>
+   <MODS:titleInfo type="uniform">
+      <!--ELEMENT  MODS:title  SPACE-NORMALIZED-->
+<MODS:title>United Nations</MODS:title>
+   </MODS:titleInfo>
+   <MODS:titleInfo>
+      <!--ELEMENT  MODS:title  SPACE-NORMALIZED-->
+<MODS:title>Progressive steps, United Nations Headquarters, Perspective drawing, conference area : study #171,</MODS:title>
+   </MODS:titleInfo>
+   <MODS:originInfo>
+      <MODS:dateCreated>1948-1949.</MODS:dateCreated>
+      <MODS:dateCreated encoding="w3cdtf" keyDate="yes" point="start">1948</MODS:dateCreated>
+      <MODS:dateCreated encoding="w3cdtf" point="end">1949</MODS:dateCreated>
+   </MODS:originInfo>
+   <MODS:physicalDescription>
+      <MODS:extent>1 sheet</MODS:extent>
+      <MODS:form authority="gmgpc">architectural drawings</MODS:form>
+      <MODS:digitalOrigin>reformatted digital</MODS:digitalOrigin>
+   </MODS:physicalDescription>
+   <MODS:typeOfResource>still image</MODS:typeOfResource>
+   <MODS:note>Drawing appears as plate 43c in Power in Buildings.</MODS:note>
+   <MODS:note>Typed label pasted to lower left hand corner: "One of 67 drawings made in 1948-50 of progressive stages in the design [sic] for U.N.".</MODS:note>
+   <MODS:note type="physical details">Graphite on board ; 42.2 x 61.9 cm. (16 5/8 x 24 5/8 in.).</MODS:note>
+   <MODS:accessCondition type="useAndReproduction">Columbia Libraries Staff Use
+                        Only</MODS:accessCondition>
+   <MODS:relatedItem displayLabel="Project" type="host">
+      <MODS:titleInfo>
+         <!--ELEMENT  MODS:title  SPACE-NORMALIZED-->
+<MODS:title>Hugh Ferriss Architectural Drawings</MODS:title>
+      </MODS:titleInfo>
+   </MODS:relatedItem>
+   <MODS:location>
+      <MODS:physicalLocation authority="marcorg">NNC-A</MODS:physicalLocation>
+      <MODS:physicalLocation>Avery Architectural &amp; Fine Arts Library, Columbia
+                    University</MODS:physicalLocation>
+      <!--ELEMENT  MODS:shelfLocator  trailing punctuation removed-->
+<MODS:shelfLocator>NYDA.1000.001.00286</MODS:shelfLocator>
+      <MODS:holdingSimple>
+         <MODS:copyInformation>
+            <MODS:subLocation>Drawings &amp; Archives</MODS:subLocation>
+         </MODS:copyInformation>
+      </MODS:holdingSimple>
+   </MODS:location>
+   <!--ELEMENT  MODS:identifier  trailing punctuation removed-->
+<MODS:identifier type="local">NYDA.1000.001.00286</MODS:identifier>
+   <!--ELEMENT  MODS:identifier  trailing punctuation removed-->
+<MODS:identifier type="CLIO">3460393</MODS:identifier>
+   <MODS:recordInfo>
+      <MODS:recordContentSource>NNC</MODS:recordContentSource>
+      <MODS:recordOrigin>Cataloging by project AVIADOR staff, edited to conform to MODS,
+                    version 3.4.</MODS:recordOrigin>
+   </MODS:recordInfo>
+</MODS:mods>

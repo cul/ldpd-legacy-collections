@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<MODS:mods xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+           xmlns:MODS="http://www.loc.gov/mods/v3"
+           xmlns:xlink="http://www.w3.org/1999/xlink"
+           xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-4.xsd"
+           version="3.4">
+   <MODS:name type="personal">
+      <MODS:namePart>Ferriss, Hugh, 1889-1962</MODS:namePart>
+   </MODS:name>
+   <MODS:titleInfo type="uniform">
+      <!--ELEMENT  MODS:title  SPACE-NORMALIZED-->
+<MODS:title>United Nations (New York, N.Y.). Design Dev. Drawing, 1947</MODS:title>
+   </MODS:titleInfo>
+   <MODS:titleInfo>
+      <!--ELEMENT  MODS:title  SPACE-NORMALIZED-->
+<MODS:title>United Nations, Perspective looking south toward domed building : Drwg #40,</MODS:title>
+   </MODS:titleInfo>
+   <MODS:originInfo>
+      <MODS:dateCreated>1947.</MODS:dateCreated>
+      <MODS:dateCreated encoding="w3cdtf" keyDate="yes">1947</MODS:dateCreated>
+   </MODS:originInfo>
+   <MODS:physicalDescription>
+      <MODS:extent>1 sheet</MODS:extent>
+      <MODS:form authority="gmgpc">architectural drawings</MODS:form>
+      <MODS:digitalOrigin>reformatted digital</MODS:digitalOrigin>
+   </MODS:physicalDescription>
+   <MODS:typeOfResource>still image</MODS:typeOfResource>
+   <MODS:note>Dated lower right.</MODS:note>
+   <MODS:note>#29 inscribed but partially erased near date.</MODS:note>
+   <MODS:note>Title in pencil before date.</MODS:note>
+   <MODS:note type="physical details">Charcoal and graphite with color on paper ; 60.9 x 76.1 cm. (24 x 30 in.)</MODS:note>
+   <MODS:accessCondition type="useAndReproduction">Columbia Libraries Staff Use
+                        Only</MODS:accessCondition>
+   <MODS:relatedItem displayLabel="Project" type="host">
+      <MODS:titleInfo>
+         <!--ELEMENT  MODS:title  SPACE-NORMALIZED-->
+<MODS:title>Hugh Ferriss Architectural Drawings</MODS:title>
+      </MODS:titleInfo>
+   </MODS:relatedItem>
+   <MODS:location>
+      <MODS:physicalLocation authority="marcorg">NNC-A</MODS:physicalLocation>
+      <MODS:physicalLocation>Avery Architectural &amp; Fine Arts Library, Columbia
+                    University</MODS:physicalLocation>
+      <!--ELEMENT  MODS:shelfLocator  trailing punctuation removed-->
+<MODS:shelfLocator>NYDA.1000.001.00183</MODS:shelfLocator>
+      <MODS:holdingSimple>
+         <MODS:copyInformation>
+            <MODS:subLocation>Drawings &amp; Archives</MODS:subLocation>
+         </MODS:copyInformation>
+      </MODS:holdingSimple>
+   </MODS:location>
+   <!--ELEMENT  MODS:identifier  trailing punctuation removed-->
+<MODS:identifier type="local">NYDA.1000.001.00183</MODS:identifier>
+   <!--ELEMENT  MODS:identifier  trailing punctuation removed-->
+<MODS:identifier type="CLIO">3460533</MODS:identifier>
+   <MODS:recordInfo>
+      <MODS:recordContentSource>NNC</MODS:recordContentSource>
+      <MODS:recordOrigin>Cataloging by project AVIADOR staff, edited to conform to MODS,
+                    version 3.4.</MODS:recordOrigin>
+   </MODS:recordInfo>
+</MODS:mods>
