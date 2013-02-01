@@ -14,21 +14,33 @@
     <xsl:param name="resultPath">
         <xsl:text>/Users/terry/tmp/legacy-mods/</xsl:text>
     </xsl:param>
+      
     <xsl:param name="collection_id">
-        <xsl:text>ggva</xsl:text>
+        <xsl:if test="$collection_id = ''">
+            <xsl:message><xsl:text>ERROR: collection_id paramter value is missing.</xsl:text></xsl:message>
+        </xsl:if>
     </xsl:param>
-    <!--
-    <xsl:param name="collection_id">
-        <xsl:text>ferriss</xsl:text>
-    </xsl:param>
-    -->
-       <xsl:param name="collection_name">
-        <xsl:text>Greene &amp; Greene architectural records and papers</xsl:text>
-        </xsl:param> 
-    <!--
-                  <xsl:param name="collection_name"><xsl:text>Hugh Ferriss architectural drawings and papers</xsl:text></xsl:param>
-    -->
+   
+    
+
+
     <xsl:template match="/">
+        <xsl:param name="collection_name">
+            <xsl:choose>
+                <xsl:when test="$collection_id = 'ferriss'">
+                    <xsl:text>Hugh Ferriss architectural drawings and papers</xsl:text>
+                    <xsl:message><xsl:text>$collection_name is Hugh Ferriss architectural drawings and papers</xsl:text></xsl:message>
+                </xsl:when>
+                <xsl:when test="$collection_id = 'ggva'">
+                    <xsl:text>Greene &amp; Greene architectural records and papers</xsl:text>
+                </xsl:when>
+                <xsl:otherwise>
+                    <xsl:message><xsl:text>ERROR: collection_id parameter value incorrect: expected either 'ferriss' or 'ggva'</xsl:text></xsl:message>
+                </xsl:otherwise>
+            </xsl:choose>
+            
+        </xsl:param>
+        
         <xsl:choose>
             <xsl:when test="count(//marc:datafield[@tag = '789']) &gt; 1">
                 <xsl:for-each select="//marc:datafield[@tag = '789']">
