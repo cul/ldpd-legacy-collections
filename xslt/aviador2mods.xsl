@@ -78,7 +78,7 @@
         <MODS:mods xmlns:MODS="http://www.loc.gov/mods/v3"
             xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
             xmlns:xlink="http://www.w3.org/1999/xlink"
-            xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-4.xsd">
+            xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-4.xsd" version="3.4">
 
             <MODS:name type="personal">
                 <MODS:namePart>
@@ -213,7 +213,7 @@
             -->
             <MODS:relatedItem displayLabel="Project" type="host">
                 <MODS:titleInfo>
-                    <xsl:choose>
+                    <MODS:title><xsl:choose>
                         <xsl:when test="$collection_id = 'ggva'">
                             <xsl:text>Greene &amp; Greene Architectural Records</xsl:text>
                         </xsl:when>
@@ -221,6 +221,7 @@
                             <xsl:text>Hugh Ferriss Architectural Drawings</xsl:text>
                         </xsl:when>
                     </xsl:choose>
+                    </MODS:title>
                 </MODS:titleInfo>
             </MODS:relatedItem>
             <MODS:location>
