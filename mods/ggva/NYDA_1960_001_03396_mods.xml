@@ -23,17 +23,9 @@
    <mods:note>"Note -- sash in east and west gable ends, dormer and transoms over front door and side door are not included on this sheet".</mods:note>
    <mods:note>"All mortises of sash secured by wooden pins".</mods:note>
    <mods:note>"All corners stuck square to be rounded with #00 snadpaper as they are cleaned up".</mods:note>
-   <mods:accessCondition type="useAndReproduction">Columbia Libraries Staff Use
-                Only</mods:accessCondition>
-   <mods:relatedItem displayLabel="Collection" type="host">
-      <mods:titleInfo>
-         <!--ELEMENT  mods:title  SPACE-NORMALIZED--><mods:title>Greene &amp; Greene architectural records and papers</mods:title>
-      </mods:titleInfo>
-   </mods:relatedItem>
+   <mods:accessCondition type="useAndReproduction">No known restrictions.</mods:accessCondition>
    <mods:relatedItem displayLabel="Project" type="host">
-      <mods:titleInfo>
-         <!--ELEMENT  mods:title  SPACE-NORMALIZED--><mods:title>AVIADOR</mods:title>
-      </mods:titleInfo>
+      <mods:titleInfo>Greene &amp; Greene Architectural Records</mods:titleInfo>
    </mods:relatedItem>
    <mods:location>
       <mods:physicalLocation authority="marcorg">NNC-A</mods:physicalLocation>

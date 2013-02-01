@@ -11,8 +11,7 @@
    </mods:titleInfo>
    <mods:originInfo>
       <mods:dateCreated>[19]22</mods:dateCreated>
-      <mods:dateCreated encoding="w3cdtf" keyDate="yes" point="start">1922</mods:dateCreated>
-      <!--EMPTY ELEMENT  mods:dateCreated  REMOVED-->
+      <mods:dateCreated encoding="w3cdtf" keyDate="yes">1922</mods:dateCreated>
    </mods:originInfo>
    <mods:physicalDescription>
       <mods:extent>1 sheet</mods:extent>
@@ -21,17 +20,9 @@
    </mods:physicalDescription>
    <mods:typeOfResource>still image</mods:typeOfResource>
    <mods:note>Printed in reverse.</mods:note>
-   <mods:accessCondition type="useAndReproduction">Columbia Libraries Staff Use
-                Only</mods:accessCondition>
-   <mods:relatedItem displayLabel="Collection" type="host">
-      <mods:titleInfo>
-         <!--ELEMENT  mods:title  SPACE-NORMALIZED--><mods:title>Greene &amp; Greene architectural records and papers</mods:title>
-      </mods:titleInfo>
-   </mods:relatedItem>
+   <mods:accessCondition type="useAndReproduction">No known restrictions.</mods:accessCondition>
    <mods:relatedItem displayLabel="Project" type="host">
-      <mods:titleInfo>
-         <!--ELEMENT  mods:title  SPACE-NORMALIZED--><mods:title>AVIADOR</mods:title>
-      </mods:titleInfo>
+      <mods:titleInfo>Greene &amp; Greene Architectural Records</mods:titleInfo>
    </mods:relatedItem>
    <mods:location>
       <mods:physicalLocation authority="marcorg">NNC-A</mods:physicalLocation>

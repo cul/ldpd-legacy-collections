@@ -21,17 +21,9 @@
    </mods:physicalDescription>
    <mods:typeOfResource>still image</mods:typeOfResource>
    <mods:note>"See all notes on original plan".</mods:note>
-   <mods:accessCondition type="useAndReproduction">Columbia Libraries Staff Use
-                Only</mods:accessCondition>
-   <mods:relatedItem displayLabel="Collection" type="host">
-      <mods:titleInfo>
-         <!--ELEMENT  mods:title  SPACE-NORMALIZED--><mods:title>Greene &amp; Greene architectural records and papers</mods:title>
-      </mods:titleInfo>
-   </mods:relatedItem>
+   <mods:accessCondition type="useAndReproduction">No known restrictions.</mods:accessCondition>
    <mods:relatedItem displayLabel="Project" type="host">
-      <mods:titleInfo>
-         <!--ELEMENT  mods:title  SPACE-NORMALIZED--><mods:title>AVIADOR</mods:title>
-      </mods:titleInfo>
+      <mods:titleInfo>Greene &amp; Greene Architectural Records</mods:titleInfo>
    </mods:relatedItem>
    <mods:location>
       <mods:physicalLocation authority="marcorg">NNC-A</mods:physicalLocation>

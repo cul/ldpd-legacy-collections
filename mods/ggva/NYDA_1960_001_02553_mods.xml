@@ -22,17 +22,9 @@
    <mods:typeOfResource>still image</mods:typeOfResource>
    <mods:note>"Caution -- fence &amp; pergola located on ground by location of house &amp; garage so that plan may vary from this.See dimensions from actual grounds ".</mods:note>
    <mods:note>"4 sheets".</mods:note>
-   <mods:accessCondition type="useAndReproduction">Columbia Libraries Staff Use
-                Only</mods:accessCondition>
-   <mods:relatedItem displayLabel="Collection" type="host">
-      <mods:titleInfo>
-         <!--ELEMENT  mods:title  SPACE-NORMALIZED--><mods:title>Greene &amp; Greene architectural records and papers</mods:title>
-      </mods:titleInfo>
-   </mods:relatedItem>
+   <mods:accessCondition type="useAndReproduction">No known restrictions.</mods:accessCondition>
    <mods:relatedItem displayLabel="Project" type="host">
-      <mods:titleInfo>
-         <!--ELEMENT  mods:title  SPACE-NORMALIZED--><mods:title>AVIADOR</mods:title>
-      </mods:titleInfo>
+      <mods:titleInfo>Greene &amp; Greene Architectural Records</mods:titleInfo>
    </mods:relatedItem>
    <mods:location>
       <mods:physicalLocation authority="marcorg">NNC-A</mods:physicalLocation>
