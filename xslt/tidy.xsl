@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <xsl:stylesheet xmlns:xsl="http://www.w3.org/1999/XSL/Transform"
-    xmlns:xd="http://www.oxygenxml.com/ns/doc/xsl" xmlns:mods="http://www.loc.gov/mods/v3"
+    xmlns:xd="http://www.oxygenxml.com/ns/doc/xsl" xmlns:MODS="http://www.loc.gov/mods/v3"
     xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:functx="http://www.functx.com"
     exclude-result-prefixes="xd" version="2.0">
     <xd:doc scope="stylesheet">
@@ -26,8 +26,8 @@
     
     <!-- Remove period after creator name -->
     
-    <xsl:template match="mods:namePart">
-        <xsl:element name="mods:namePart">
+    <xsl:template match="MODS:namePart">
+        <xsl:element name="MODS:namePart">
             <xsl:copy-of select="@*"/>
             <xsl:value-of select="replace(., '^(.*)[\.:,]$', '$1')"/>
         </xsl:element>
@@ -35,9 +35,9 @@
     
     <!-- Remove trailing whitespace -->
     
-    <xsl:template match="mods:title">
+    <xsl:template match="MODS:title">
         <xsl:comment><xsl:text>ELEMENT&#160; </xsl:text><xsl:value-of select="name()"/><xsl:text>&#160; SPACE-NORMALIZED</xsl:text></xsl:comment>
-        <xsl:element name="mods:title">
+        <xsl:element name="MODS:title">
             <xsl:copy-of select="@*"/>
             <xsl:value-of select="normalize-space(replace(replace(., '\.,', ','), ' ;', ';'))"/>
         </xsl:element>
