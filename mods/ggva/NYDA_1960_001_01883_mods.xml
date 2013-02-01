@@ -1,49 +1,65 @@
-<?xml version="1.0" encoding="UTF-8"?><mods:mods xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-4.xsd">
-   <!--EMPTY ELEMENT  mods:name  REMOVED-->
-   <mods:name type="corporate">
-      <mods:namePart>Greene &amp; Greene</mods:namePart>
-   </mods:name>
-   <mods:titleInfo type="uniform">
-      <!--ELEMENT  mods:title  SPACE-NORMALIZED--><mods:title>Kate A. Kelly house (Hollywood, Los Angeles, Calif.). Preliminary drawings</mods:title>
-   </mods:titleInfo>
-   <mods:titleInfo>
-      <!--ELEMENT  mods:title  SPACE-NORMALIZED--><mods:title>Sketches of residence for Mrs. K.A. Kelly i.e. Kelley, Hollywood, Calif, South elevation, east elevation.</mods:title>
-   </mods:titleInfo>
-   <mods:originInfo>
-      <mods:dateCreated>[circa 1920]</mods:dateCreated>
-      <mods:dateCreated encoding="w3cdtf" keyDate="yes">1920</mods:dateCreated>
-   </mods:originInfo>
-   <mods:physicalDescription>
-      <mods:extent>1 sheet</mods:extent>
-      <mods:form authority="gmgpc">architectural drawings</mods:form>
-      <mods:digitalOrigin>reformatted digital</mods:digitalOrigin>
-   </mods:physicalDescription>
-   <mods:typeOfResource>still image</mods:typeOfResource>
-   <mods:note>"Set B".</mods:note>
-   <mods:note>"Original".</mods:note>
-   <mods:note type="ownership">
+<?xml version="1.0" encoding="UTF-8"?>
+<MODS:mods xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+           xmlns:MODS="http://www.loc.gov/mods/v3"
+           xmlns:xlink="http://www.w3.org/1999/xlink"
+           xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-4.xsd"
+           version="3.4">
+   <MODS:name type="personal">
+      <!--EMPTY ELEMENT  MODS:namePart  REMOVED-->
+   </MODS:name>
+   <MODS:name type="corporate">
+      <MODS:namePart>Greene &amp; Greene</MODS:namePart>
+   </MODS:name>
+   <MODS:titleInfo type="uniform">
+      <!--ELEMENT  MODS:title  SPACE-NORMALIZED-->
+<MODS:title>Kate A. Kelly house (Hollywood, Los Angeles, Calif.). Preliminary drawings</MODS:title>
+   </MODS:titleInfo>
+   <MODS:titleInfo>
+      <!--ELEMENT  MODS:title  SPACE-NORMALIZED-->
+<MODS:title>Sketches of residence for Mrs. K.A. Kelly i.e. Kelley, Hollywood, Calif, South elevation, east elevation.</MODS:title>
+   </MODS:titleInfo>
+   <MODS:originInfo>
+      <MODS:dateCreated>[circa 1920]</MODS:dateCreated>
+      <MODS:dateCreated encoding="w3cdtf" keyDate="yes">1920</MODS:dateCreated>
+   </MODS:originInfo>
+   <MODS:physicalDescription>
+      <MODS:extent>1 sheet</MODS:extent>
+      <MODS:form authority="gmgpc">architectural drawings</MODS:form>
+      <MODS:digitalOrigin>reformatted digital</MODS:digitalOrigin>
+   </MODS:physicalDescription>
+   <MODS:typeOfResource>still image</MODS:typeOfResource>
+   <MODS:note>"Set B".</MODS:note>
+   <MODS:note>"Original".</MODS:note>
+   <MODS:note type="ownership">
     Gift of Jean Murray Bangs (Mrs. Harwell Hamilton Harris), 1960; formerly the collection of Charles Sumner Greene.
-  </mods:note>
-   <mods:accessCondition type="useAndReproduction">No known restrictions.</mods:accessCondition>
-   <mods:relatedItem displayLabel="Project" type="host">
-      <mods:titleInfo>Greene &amp; Greene Architectural Records</mods:titleInfo>
-   </mods:relatedItem>
-   <mods:location>
-      <mods:physicalLocation authority="marcorg">NNC-A</mods:physicalLocation>
-      <mods:physicalLocation>Avery Architectural &amp; Fine Arts Library, Columbia
-                    University</mods:physicalLocation>
-      <mods:shelfLocator>NYDA.1960.001.01883.</mods:shelfLocator>
-      <mods:holdingSimple>
-         <mods:copyInformation>
-            <mods:subLocation>Drawings &amp; Archives</mods:subLocation>
-         </mods:copyInformation>
-      </mods:holdingSimple>
-   </mods:location>
-   <mods:identifier type="local">NYDA.1960.001.01883.</mods:identifier>
-   <mods:identifier type="CLIO">3462522</mods:identifier>
-   <mods:recordInfo>
-      <mods:recordContentSource>NNC</mods:recordContentSource>
-      <mods:recordOrigin>Cataloging by project AVIADOR staff, edited to conform to MODS,
-                    version 3.4.</mods:recordOrigin>
-   </mods:recordInfo>
-</mods:mods>
+  </MODS:note>
+   <MODS:accessCondition type="useAndReproduction">No known
+                        restrictions.</MODS:accessCondition>
+   <MODS:relatedItem displayLabel="Project" type="host">
+      <MODS:titleInfo>
+         <!--ELEMENT  MODS:title  SPACE-NORMALIZED-->
+<MODS:title>Greene &amp; Greene Architectural Records</MODS:title>
+      </MODS:titleInfo>
+   </MODS:relatedItem>
+   <MODS:location>
+      <MODS:physicalLocation authority="marcorg">NNC-A</MODS:physicalLocation>
+      <MODS:physicalLocation>Avery Architectural &amp; Fine Arts Library, Columbia
+                    University</MODS:physicalLocation>
+      <!--ELEMENT  MODS:shelfLocator  trailing punctuation removed-->
+<MODS:shelfLocator>NYDA.1960.001.01883</MODS:shelfLocator>
+      <MODS:holdingSimple>
+         <MODS:copyInformation>
+            <MODS:subLocation>Drawings &amp; Archives</MODS:subLocation>
+         </MODS:copyInformation>
+      </MODS:holdingSimple>
+   </MODS:location>
+   <!--ELEMENT  MODS:identifier  trailing punctuation removed-->
+<MODS:identifier type="local">NYDA.1960.001.01883</MODS:identifier>
+   <!--ELEMENT  MODS:identifier  trailing punctuation removed-->
+<MODS:identifier type="CLIO">3462522</MODS:identifier>
+   <MODS:recordInfo>
+      <MODS:recordContentSource>NNC</MODS:recordContentSource>
+      <MODS:recordOrigin>Cataloging by project AVIADOR staff, edited to conform to MODS,
+                    version 3.4.</MODS:recordOrigin>
+   </MODS:recordInfo>
+</MODS:mods>
