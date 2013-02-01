@@ -22,7 +22,7 @@
     </xsl:template>
     <!-- strip elements not defined as empty which have no content       -->
     <xsl:template
-        match="*[normalize-space() = '']"><xsl:comment><xsl:text>EMPTY ELEMENT&#160; </xsl:text><xsl:value-of select="name()"/><xsl:text>&#160; REMOVED</xsl:text></xsl:comment></xsl:template>
+        match="*[normalize-space() = ''][not(child::*)]"><xsl:comment><xsl:text>EMPTY ELEMENT&#160; </xsl:text><xsl:value-of select="name()"/><xsl:text>&#160; REMOVED</xsl:text></xsl:comment></xsl:template>
     
     <!-- Remove period after creator name -->
     
@@ -40,6 +40,16 @@
         <xsl:element name="MODS:title">
             <xsl:copy-of select="@*"/>
             <xsl:value-of select="normalize-space(replace(replace(., '\.,', ','), ' ;', ';'))"/>
+        </xsl:element>
+    </xsl:template>
+    
+    <!-- Remove trailing punctuation -->
+    
+    <xsl:template match="MODS:shelfLocator | MODS:identifier">
+        <xsl:comment><xsl:text>ELEMENT&#160; </xsl:text><xsl:value-of select="name()"/><xsl:text>&#160; trailing punctuation removed</xsl:text></xsl:comment>
+        <xsl:element name="{name()}">
+            <xsl:copy-of select="@*"/>
+            <xsl:value-of select="replace(., '^(.*)[\.:,]$', '$1')"/>
         </xsl:element>
     </xsl:template>
 

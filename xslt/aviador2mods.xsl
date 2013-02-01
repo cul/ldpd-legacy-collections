@@ -14,14 +14,10 @@
     <xsl:param name="resultPath">
         <xsl:text>/Users/terry/tmp/legacy-mods/</xsl:text>
     </xsl:param>
-      
-    <xsl:param name="collection_id">
-        <xsl:if test="$collection_id = ''">
-            <xsl:message><xsl:text>ERROR: collection_id paramter value is missing.</xsl:text></xsl:message>
-        </xsl:if>
-    </xsl:param>
-   
-    
+
+    <xsl:param name="collection_id"/> 
+
+
 
 
     <xsl:template match="/">
@@ -29,18 +25,22 @@
             <xsl:choose>
                 <xsl:when test="$collection_id = 'ferriss'">
                     <xsl:text>Hugh Ferriss architectural drawings and papers</xsl:text>
-                    <xsl:message><xsl:text>$collection_name is Hugh Ferriss architectural drawings and papers</xsl:text></xsl:message>
+                    <xsl:message>
+                        <xsl:text>$collection_name is Hugh Ferriss architectural drawings and papers</xsl:text>
+                    </xsl:message>
                 </xsl:when>
                 <xsl:when test="$collection_id = 'ggva'">
                     <xsl:text>Greene &amp; Greene architectural records and papers</xsl:text>
                 </xsl:when>
                 <xsl:otherwise>
-                    <xsl:message><xsl:text>ERROR: collection_id parameter value incorrect: expected either 'ferriss' or 'ggva'</xsl:text></xsl:message>
+                    <xsl:message>
+                        <xsl:text>ERROR: collection_id parameter value incorrect: expected either 'ferriss' or 'ggva'</xsl:text>
+                    </xsl:message>
                 </xsl:otherwise>
             </xsl:choose>
-            
+
         </xsl:param>
-        
+
         <xsl:choose>
             <xsl:when test="count(//marc:datafield[@tag = '789']) &gt; 1">
                 <xsl:for-each select="//marc:datafield[@tag = '789']">
@@ -90,7 +90,8 @@
         <MODS:mods xmlns:MODS="http://www.loc.gov/mods/v3"
             xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
             xmlns:xlink="http://www.w3.org/1999/xlink"
-            xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-4.xsd" version="3.4">
+            xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-4.xsd"
+            version="3.4">
 
             <MODS:name type="personal">
                 <MODS:namePart>
@@ -156,12 +157,17 @@
                 <!--008 07-10-->
                 <xsl:choose>
                     <xsl:when test="substring(//marc:controlfield[@tag = '008'], 7, 1) = 'n'">
-                        <MODS:dateCreated  keyDate="yes">
+                        <MODS:dateCreated keyDate="yes">
                             <xsl:text>0000-00-00</xsl:text>
                         </MODS:dateCreated>
                     </xsl:when>
-                    <xsl:when test="contains(substring(//marc:controlfield[@tag = '008'], 12, 4), '1') ">
-                        <xsl:message><xsl:text>END DATE </xsl:text><xsl:value-of select="substring(//marc:controlfield[@tag = '008'], 12, 4)"/></xsl:message>
+                    <xsl:when
+                        test="contains(substring(//marc:controlfield[@tag = '008'], 12, 4), '1') ">
+                        <xsl:message>
+                            <xsl:text>END DATE </xsl:text>
+                            <xsl:value-of
+                                select="substring(//marc:controlfield[@tag = '008'], 12, 4)"/>
+                        </xsl:message>
                         <MODS:dateCreated encoding="w3cdtf" keyDate="yes" point="start">
                             <xsl:value-of
                                 select="substring(//marc:controlfield[@tag = '008'], 8, 4) "/>
@@ -211,13 +217,14 @@
             </xsl:for-each>
             <xsl:choose>
                 <xsl:when test="$collection_id = 'ggva'">
-                    <MODS:accessCondition type="useAndReproduction">No known restrictions.</MODS:accessCondition>
+                    <MODS:accessCondition type="useAndReproduction">No known
+                        restrictions.</MODS:accessCondition>
                 </xsl:when>
                 <xsl:when test="$collection_id = 'ferriss'">
                     <MODS:accessCondition type="useAndReproduction">Columbia Libraries Staff Use
                         Only</MODS:accessCondition>
                 </xsl:when>
-            </xsl:choose> 
+            </xsl:choose>
             <!-- 
                <MODS:subject authority="lcsh">
                 <MODS:topic>Architecture/United States-/Designs and plans</MODS:topic>
@@ -225,14 +232,15 @@
             -->
             <MODS:relatedItem displayLabel="Project" type="host">
                 <MODS:titleInfo>
-                    <MODS:title><xsl:choose>
-                        <xsl:when test="$collection_id = 'ggva'">
-                            <xsl:text>Greene &amp; Greene Architectural Records</xsl:text>
-                        </xsl:when>
-                        <xsl:when test="$collection_id = 'ferriss'">
-                            <xsl:text>Hugh Ferriss Architectural Drawings</xsl:text>
-                        </xsl:when>
-                    </xsl:choose>
+                    <MODS:title>
+                        <xsl:choose>
+                            <xsl:when test="$collection_id = 'ggva'">
+                                <xsl:text>Greene &amp; Greene Architectural Records</xsl:text>
+                            </xsl:when>
+                            <xsl:when test="$collection_id = 'ferriss'">
+                                <xsl:text>Hugh Ferriss Architectural Drawings</xsl:text>
+                            </xsl:when>
+                        </xsl:choose>
                     </MODS:title>
                 </MODS:titleInfo>
             </MODS:relatedItem>
@@ -254,11 +262,12 @@
             </MODS:location>
             <MODS:identifier type="local">
                 <xsl:message>
-                    <xsl:value-of select="replace($part_id, '^(.*)[\.:,]$', '$1')"/>
+                    <xsl:value-of select="$part_id"/>
                 </xsl:message>
                 <xsl:for-each
                     select="//marc:datafield[@tag = '789'][@ind1 = '0'][child::marc:subfield[@code = 'i'] = $part_id]">
-                    <xsl:value-of select="replace(child::marc:subfield[@code = 'i'], '^(.*)[\.:,]$', '$1')"/>
+                    <xsl:value-of
+                        select="child::marc:subfield[@code = 'i']"/>
                 </xsl:for-each>
             </MODS:identifier>
             <MODS:identifier type="CLIO">
