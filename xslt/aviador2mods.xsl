@@ -242,11 +242,11 @@
             </MODS:location>
             <MODS:identifier type="local">
                 <xsl:message>
-                    <xsl:value-of select="$part_id"/>
+                    <xsl:value-of select="replace($part_id, '^(.*)[\.:,]$', '$1')"/>
                 </xsl:message>
                 <xsl:for-each
                     select="//marc:datafield[@tag = '789'][@ind1 = '0'][child::marc:subfield[@code = 'i'] = $part_id]">
-                    <xsl:value-of select="child::marc:subfield[@code = 'i']"/>
+                    <xsl:value-of select="replace(child::marc:subfield[@code = 'i'], '^(.*)[\.:,]$', '$1')"/>
                 </xsl:for-each>
             </MODS:identifier>
             <MODS:identifier type="CLIO">
