@@ -195,6 +195,7 @@
                 <MODS:form authority="gmgpc">architectural drawings</MODS:form>
                 <MODS:digitalOrigin>reformatted digital</MODS:digitalOrigin>
                 <MODS:reformattingQuality>access</MODS:reformattingQuality>
+                <MODS:form authority="marcform">electronic</MODS:form>
             </MODS:physicalDescription>
             <MODS:typeOfResource>still image</MODS:typeOfResource>
             <xsl:for-each
@@ -271,6 +272,9 @@
                 <xsl:choose>
                     <xsl:when test="$collection_id = 'ggva'">
                         <MODS:url access="object in context" usage="primary display">http://www.columbia.edu/cu/lweb/eresources/archives/avery/greene/images/index.html</MODS:url>
+                    </xsl:when>
+                    <xsl:when test="$collection_id = 'ferriss'">
+                        <MODS:url access="object in context" usage="primary display">http://www.columbia.edu/cu/libraries/inside/units/ldpd/avery/html/</MODS:url>
                     </xsl:when>
                 </xsl:choose>
                 
