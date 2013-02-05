@@ -1,64 +1,72 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<mods:mods xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
-           xmlns:mods="http://www.loc.gov/mods/v3"
+<MODS:mods xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+           xmlns:MODS="http://www.loc.gov/mods/v3"
            xmlns:xlink="http://www.w3.org/1999/xlink"
-           xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-4.xsd">
-   <mods:name type="personal">
-      <mods:namePart/>
-   </mods:name>
-   <mods:name type="corporate">
-      <mods:namePart>Greene &amp; Greene.</mods:namePart>
-   </mods:name>
-   <mods:titleInfo type="uniform">
-      <mods:title>Kinney-Kendall building (Pasadena, Calif.). Alterations</mods:title>
-   </mods:titleInfo>
-   <mods:titleInfo>
-      <mods:title>Alterations of Kinney and Kendall block at Pasadena, Calif., New third floor plan : No. 3.</mods:title>
-   </mods:titleInfo>
-   <mods:originInfo>
-      <mods:dateCreated>[1903]</mods:dateCreated>
-      <mods:dateCreated encoding="w3cdtf" keyDate="yes" point="start">1903</mods:dateCreated>
-      <mods:dateCreated encoding="w3cdtf" point="end">    </mods:dateCreated>
-   </mods:originInfo>
-   <mods:physicalDescription>
-      <mods:extent>1 sheet</mods:extent>
-      <mods:form authority="gmgpc">architectural drawings</mods:form>
-      <mods:digitalOrigin>reformatted digital</mods:digitalOrigin>
-   </mods:physicalDescription>
-   <mods:typeOfResource>still image</mods:typeOfResource>
-   <mods:note>"Key -- new work [shaded], old work [unshaded]" .</mods:note>
-   <mods:note>Job no. "121".</mods:note>
-   <mods:note type="ownership">
+           xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-4.xsd"
+           version="3.4">
+   <MODS:name type="personal">
+      <!--EMPTY ELEMENT  MODS:namePart  REMOVED-->
+   </MODS:name>
+   <MODS:name type="corporate">
+      <MODS:namePart>Greene &amp; Greene</MODS:namePart>
+   </MODS:name>
+   <MODS:titleInfo type="uniform">
+      <!--ELEMENT  MODS:title  SPACE-NORMALIZED-->
+<MODS:title>Kinney-Kendall building (Pasadena, Calif.). Alterations</MODS:title>
+   </MODS:titleInfo>
+   <MODS:titleInfo>
+      <!--ELEMENT  MODS:title  SPACE-NORMALIZED-->
+<MODS:title>Alterations of Kinney and Kendall block at Pasadena, Calif, New third floor plan : No. 3.</MODS:title>
+   </MODS:titleInfo>
+   <MODS:originInfo>
+      <MODS:dateCreated>[1903]</MODS:dateCreated>
+      <MODS:dateCreated encoding="w3cdtf" keyDate="yes">1903</MODS:dateCreated>
+   </MODS:originInfo>
+   <MODS:physicalDescription>
+      <MODS:extent>1 sheet</MODS:extent>
+      <MODS:form authority="gmgpc">architectural drawings</MODS:form>
+      <MODS:digitalOrigin>reformatted digital</MODS:digitalOrigin>
+      <MODS:reformattingQuality>access</MODS:reformattingQuality>
+      <MODS:form authority="marcform">electronic</MODS:form>
+   </MODS:physicalDescription>
+   <MODS:typeOfResource>still image</MODS:typeOfResource>
+   <MODS:note>"Key -- new work [shaded], old work [unshaded]" .</MODS:note>
+   <MODS:note>Job no. "121".</MODS:note>
+   <MODS:note type="ownership">
     Gift of Jean Murray Bangs (Mrs. Harwell Hamilton Harris), 1960 ; formerly the collection of Charles Sumner Greene.
-  </mods:note>
-   <mods:accessCondition type="useAndReproduction">Columbia Libraries Staff Use
-                Only</mods:accessCondition>
-   <mods:relatedItem displayLabel="Collection" type="host">
-      <mods:titleInfo>
-         <mods:title>Greene &amp; Greene architectural records and papers</mods:title>
-      </mods:titleInfo>
-   </mods:relatedItem>
-   <mods:relatedItem displayLabel="Project" type="host">
-      <mods:titleInfo>
-         <mods:title>AVIADOR</mods:title>
-      </mods:titleInfo>
-   </mods:relatedItem>
-   <mods:location>
-      <mods:physicalLocation authority="marcorg">NNC-A</mods:physicalLocation>
-      <mods:physicalLocation>Avery Architectural &amp; Fine Arts Library, Columbia
-                    University</mods:physicalLocation>
-      <mods:shelfLocator>NYDA.1960.001.02176.</mods:shelfLocator>
-      <mods:holdingSimple>
-         <mods:copyInformation>
-            <mods:subLocation>Drawings &amp; Archives</mods:subLocation>
-         </mods:copyInformation>
-      </mods:holdingSimple>
-   </mods:location>
-   <mods:identifier type="local">NYDA.1960.001.02176.</mods:identifier>
-   <mods:identifier type="CLIO">3462425</mods:identifier>
-   <mods:recordInfo>
-      <mods:recordContentSource>NNC</mods:recordContentSource>
-      <mods:recordOrigin>Cataloging by project AVIADOR staff, edited to conform to MODS,
-                    version 3.4.</mods:recordOrigin>
-   </mods:recordInfo>
-</mods:mods>
+  </MODS:note>
+   <MODS:note>Digital image created from an analog slide.</MODS:note>
+   <MODS:accessCondition type="useAndReproduction">No known
+                        restrictions.</MODS:accessCondition>
+   <MODS:relatedItem displayLabel="Project" type="host">
+      <MODS:titleInfo>
+         <!--ELEMENT  MODS:title  SPACE-NORMALIZED-->
+<MODS:title>Greene &amp; Greene Project</MODS:title>
+      </MODS:titleInfo>
+      <MODS:location>
+         <url>http://www.columbia.edu/cgi-bin/cul/resolve?clio4278328</url>
+      </MODS:location>
+   </MODS:relatedItem>
+   <MODS:location>
+      <MODS:physicalLocation authority="marcorg">NNC-A</MODS:physicalLocation>
+      <MODS:physicalLocation>Avery Architectural &amp; Fine Arts Library, Columbia
+                    University</MODS:physicalLocation>
+      <!--ELEMENT  MODS:shelfLocator  trailing punctuation removed-->
+<MODS:shelfLocator>NYDA.1960.001.02176</MODS:shelfLocator>
+      <MODS:url access="object in context" usage="primary display">http://www.columbia.edu/cu/lweb/eresources/archives/avery/greene/images/index.html</MODS:url>
+      <MODS:holdingSimple>
+         <MODS:copyInformation>
+            <MODS:subLocation>Drawings &amp; Archives</MODS:subLocation>
+         </MODS:copyInformation>
+      </MODS:holdingSimple>
+   </MODS:location>
+   <!--ELEMENT  MODS:identifier  trailing punctuation removed-->
+<MODS:identifier type="local">NYDA.1960.001.02176</MODS:identifier>
+   <!--ELEMENT  MODS:identifier  trailing punctuation removed-->
+<MODS:identifier type="CLIO">3462425</MODS:identifier>
+   <MODS:recordInfo>
+      <MODS:recordContentSource>NNC</MODS:recordContentSource>
+      <MODS:recordOrigin>Cataloging by project AVIADOR staff, edited to conform to MODS,
+                    version 3.4.</MODS:recordOrigin>
+   </MODS:recordInfo>
+</MODS:mods>
