@@ -15,7 +15,7 @@
         <xsl:text>/Users/terry/tmp/legacy-mods/</xsl:text>
     </xsl:param>
 
-    <xsl:param name="collection_id"/> 
+    <xsl:param name="collection_id"/>
 
 
 
@@ -234,18 +234,28 @@
             </MODS:subject>
             -->
             <MODS:relatedItem displayLabel="Project" type="host">
-                <MODS:titleInfo>
-                    <MODS:title>
-                        <xsl:choose>
-                            <xsl:when test="$collection_id = 'ggva'">
+                <xsl:choose>
+                    <xsl:when test="$collection_id = 'ggva'">
+                        <MODS:titleInfo>
+                            <MODS:title>
                                 <xsl:text>Greene &amp; Greene Project</xsl:text>
-                            </xsl:when>
-                            <xsl:when test="$collection_id = 'ferriss'">
+                            </MODS:title>
+                        </MODS:titleInfo>
+                        <MODS:location>
+                            <url>http://www.columbia.edu/cgi-bin/cul/resolve?clio4278328</url>
+                        </MODS:location>
+                    </xsl:when>
+                    <xsl:when test="$collection_id = 'ferriss'">
+                        <MODS:titleInfo>
+                            <MODS:title>
                                 <xsl:text>Hugh Ferriss Architectural Drawings</xsl:text>
-                            </xsl:when>
-                        </xsl:choose>
-                    </MODS:title>
-                </MODS:titleInfo>
+                            </MODS:title>
+                            <MODS:location>
+                                <url>http://library.columbia.edu/indiv/avery/da/collections/ferriss.html</url>
+                            </MODS:location>
+                        </MODS:titleInfo>
+                    </xsl:when>
+                </xsl:choose>
             </MODS:relatedItem>
             <MODS:location>
                 <MODS:physicalLocation authority="marcorg">NNC-A</MODS:physicalLocation>
@@ -269,8 +279,7 @@
                 </xsl:message>
                 <xsl:for-each
                     select="//marc:datafield[@tag = '789'][@ind1 = '0'][child::marc:subfield[@code = 'i'] = $part_id]">
-                    <xsl:value-of
-                        select="child::marc:subfield[@code = 'i']"/>
+                    <xsl:value-of select="child::marc:subfield[@code = 'i']"/>
                 </xsl:for-each>
             </MODS:identifier>
             <MODS:identifier type="CLIO">
