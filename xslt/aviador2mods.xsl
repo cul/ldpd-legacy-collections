@@ -194,6 +194,7 @@
                 <MODS:extent>1 sheet</MODS:extent>
                 <MODS:form authority="gmgpc">architectural drawings</MODS:form>
                 <MODS:digitalOrigin>reformatted digital</MODS:digitalOrigin>
+                <MODS:reformattingQuality>access</MODS:reformattingQuality>
             </MODS:physicalDescription>
             <MODS:typeOfResource>still image</MODS:typeOfResource>
             <xsl:for-each
