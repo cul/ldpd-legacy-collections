@@ -267,6 +267,12 @@
                         <xsl:value-of select="child::marc:subfield[@code = 'i']"/>
                     </MODS:shelfLocator>
                 </xsl:for-each>
+                <xsl:choose>
+                    <xsl:when test="$collection_id = 'ggva'">
+                        <MODS:url access="object in context" usage="primary display">http://www.columbia.edu/cu/lweb/eresources/archives/avery/greene/images/index.html</MODS:url>
+                    </xsl:when>
+                </xsl:choose>
+                
                 <MODS:holdingSimple>
                     <MODS:copyInformation>
                         <MODS:subLocation>Drawings &amp; Archives</MODS:subLocation>
