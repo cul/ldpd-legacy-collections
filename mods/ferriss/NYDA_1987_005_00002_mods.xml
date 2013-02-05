@@ -23,17 +23,23 @@
       <MODS:extent>1 sheet</MODS:extent>
       <MODS:form authority="gmgpc">architectural drawings</MODS:form>
       <MODS:digitalOrigin>reformatted digital</MODS:digitalOrigin>
+      <MODS:reformattingQuality>access</MODS:reformattingQuality>
+      <MODS:form authority="marcform">electronic</MODS:form>
    </MODS:physicalDescription>
    <MODS:typeOfResource>still image</MODS:typeOfResource>
    <MODS:note type="ownership">
     Gift of Max Abramovitz, 1987.
   </MODS:note>
+   <MODS:note>Digital image created from an analog slide.</MODS:note>
    <MODS:accessCondition type="useAndReproduction">Columbia Libraries Staff Use
                         Only</MODS:accessCondition>
    <MODS:relatedItem displayLabel="Project" type="host">
       <MODS:titleInfo>
          <!--ELEMENT  MODS:title  SPACE-NORMALIZED-->
 <MODS:title>Hugh Ferriss Architectural Drawings</MODS:title>
+         <MODS:location>
+            <url>http://library.columbia.edu/indiv/avery/da/collections/ferriss.html</url>
+         </MODS:location>
       </MODS:titleInfo>
    </MODS:relatedItem>
    <MODS:location>
@@ -42,6 +48,7 @@
                     University</MODS:physicalLocation>
       <!--ELEMENT  MODS:shelfLocator  trailing punctuation removed-->
 <MODS:shelfLocator>NYDA.1987.005.00002</MODS:shelfLocator>
+      <MODS:url access="object in context" usage="primary display">http://www.columbia.edu/cu/libraries/inside/units/ldpd/avery/html/</MODS:url>
       <MODS:holdingSimple>
          <MODS:copyInformation>
             <MODS:subLocation>Drawings &amp; Archives</MODS:subLocation>

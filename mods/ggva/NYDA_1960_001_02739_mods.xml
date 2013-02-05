@@ -26,6 +26,8 @@
       <MODS:extent>1 sheet</MODS:extent>
       <MODS:form authority="gmgpc">architectural drawings</MODS:form>
       <MODS:digitalOrigin>reformatted digital</MODS:digitalOrigin>
+      <MODS:reformattingQuality>access</MODS:reformattingQuality>
+      <MODS:form authority="marcform">electronic</MODS:form>
    </MODS:physicalDescription>
    <MODS:typeOfResource>still image</MODS:typeOfResource>
    <MODS:note>"Commanding views unsurpassed in any part of southern California. Within five to ten minutes from the center of Pasadena.All street work completed. Water, telephone, light and gas service, complete sewer system. Building and other restrictions".</MODS:note>
@@ -33,13 +35,17 @@
    <MODS:note type="ownership">
     Gift of Jean Murray Bangs (Mrs. Harwell Hamilton Harris), 1960; formerly the collection of Charles Sumner Greene.
   </MODS:note>
+   <MODS:note>Digital image created from an analog slide.</MODS:note>
    <MODS:accessCondition type="useAndReproduction">No known
                         restrictions.</MODS:accessCondition>
    <MODS:relatedItem displayLabel="Project" type="host">
       <MODS:titleInfo>
          <!--ELEMENT  MODS:title  SPACE-NORMALIZED-->
-<MODS:title>Greene &amp; Greene Architectural Records</MODS:title>
+<MODS:title>Greene &amp; Greene Project</MODS:title>
       </MODS:titleInfo>
+      <MODS:location>
+         <url>http://www.columbia.edu/cgi-bin/cul/resolve?clio4278328</url>
+      </MODS:location>
    </MODS:relatedItem>
    <MODS:location>
       <MODS:physicalLocation authority="marcorg">NNC-A</MODS:physicalLocation>
@@ -47,6 +53,7 @@
                     University</MODS:physicalLocation>
       <!--ELEMENT  MODS:shelfLocator  trailing punctuation removed-->
 <MODS:shelfLocator>NYDA.1960.001.02739</MODS:shelfLocator>
+      <MODS:url access="object in context" usage="primary display">http://www.columbia.edu/cu/lweb/eresources/archives/avery/greene/images/index.html</MODS:url>
       <MODS:holdingSimple>
          <MODS:copyInformation>
             <MODS:subLocation>Drawings &amp; Archives</MODS:subLocation>

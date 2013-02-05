@@ -23,18 +23,24 @@
       <MODS:extent>1 sheet</MODS:extent>
       <MODS:form authority="gmgpc">architectural drawings</MODS:form>
       <MODS:digitalOrigin>reformatted digital</MODS:digitalOrigin>
+      <MODS:reformattingQuality>access</MODS:reformattingQuality>
+      <MODS:form authority="marcform">electronic</MODS:form>
    </MODS:physicalDescription>
    <MODS:typeOfResource>still image</MODS:typeOfResource>
    <MODS:note>Signed lower right "Ferriss ... 1808".</MODS:note>
    <MODS:note>Negative 24" wide inscribed in orange pencil or crayon.</MODS:note>
    <MODS:note>Corners have been cropped.</MODS:note>
    <MODS:note type="physical details">Graphite with black crayon on tracing paper ; 41.6 x 56.4 cm. (16 3/8 x 22 1/4 in.)</MODS:note>
+   <MODS:note>Digital image created from an analog slide.</MODS:note>
    <MODS:accessCondition type="useAndReproduction">Columbia Libraries Staff Use
                         Only</MODS:accessCondition>
    <MODS:relatedItem displayLabel="Project" type="host">
       <MODS:titleInfo>
          <!--ELEMENT  MODS:title  SPACE-NORMALIZED-->
 <MODS:title>Hugh Ferriss Architectural Drawings</MODS:title>
+         <MODS:location>
+            <url>http://library.columbia.edu/indiv/avery/da/collections/ferriss.html</url>
+         </MODS:location>
       </MODS:titleInfo>
    </MODS:relatedItem>
    <MODS:location>
@@ -43,6 +49,7 @@
                     University</MODS:physicalLocation>
       <!--ELEMENT  MODS:shelfLocator  trailing punctuation removed-->
 <MODS:shelfLocator>NYDA.1000.001.00028</MODS:shelfLocator>
+      <MODS:url access="object in context" usage="primary display">http://www.columbia.edu/cu/libraries/inside/units/ldpd/avery/html/</MODS:url>
       <MODS:holdingSimple>
          <MODS:copyInformation>
             <MODS:subLocation>Drawings &amp; Archives</MODS:subLocation>

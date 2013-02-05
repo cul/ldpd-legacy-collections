@@ -23,18 +23,24 @@
       <MODS:extent>1 sheet</MODS:extent>
       <MODS:form authority="gmgpc">architectural drawings</MODS:form>
       <MODS:digitalOrigin>reformatted digital</MODS:digitalOrigin>
+      <MODS:reformattingQuality>access</MODS:reformattingQuality>
+      <MODS:form authority="marcform">electronic</MODS:form>
    </MODS:physicalDescription>
    <MODS:typeOfResource>still image</MODS:typeOfResource>
    <MODS:note>Three images on the sheet labeled the following: -1959, (see A-4) C5-2, FAR-1000, Street Wall Provision, Tower Provision, Plaza Bonus Wall Provision, Tower Provision, Plaza Bonus -1916, (see A-1916)"1 1/2- Times zone", Tower Area : 1/4 Lot Area (Areal?), No FAR. -1959, (See A-1), District-C5-2, FAR-1000., C Street Wall Provision, C Initial Set Back, C sky Exposure Plaza.</MODS:note>
    <MODS:note>Some other notes, some dimensions.</MODS:note>
    <MODS:note>Title in Hugh Ferriss: Metropolis [exhibition checklist]: New York Zoning, three studies of proposed zoning resolution on Park Avenue.</MODS:note>
    <MODS:note type="physical details">Graphite with colored pencil on tracing paper ; 34.1 x 43.6 cm. (13 1/2 x 17 1/4 in.)</MODS:note>
+   <MODS:note>Digital image created from an analog slide.</MODS:note>
    <MODS:accessCondition type="useAndReproduction">Columbia Libraries Staff Use
                         Only</MODS:accessCondition>
    <MODS:relatedItem displayLabel="Project" type="host">
       <MODS:titleInfo>
          <!--ELEMENT  MODS:title  SPACE-NORMALIZED-->
 <MODS:title>Hugh Ferriss Architectural Drawings</MODS:title>
+         <MODS:location>
+            <url>http://library.columbia.edu/indiv/avery/da/collections/ferriss.html</url>
+         </MODS:location>
       </MODS:titleInfo>
    </MODS:relatedItem>
    <MODS:location>
@@ -43,6 +49,7 @@
                     University</MODS:physicalLocation>
       <!--ELEMENT  MODS:shelfLocator  trailing punctuation removed-->
 <MODS:shelfLocator>NYDA.1000.001.00179</MODS:shelfLocator>
+      <MODS:url access="object in context" usage="primary display">http://www.columbia.edu/cu/libraries/inside/units/ldpd/avery/html/</MODS:url>
       <MODS:holdingSimple>
          <MODS:copyInformation>
             <MODS:subLocation>Drawings &amp; Archives</MODS:subLocation>
