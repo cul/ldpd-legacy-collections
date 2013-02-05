@@ -235,7 +235,7 @@
                     <MODS:title>
                         <xsl:choose>
                             <xsl:when test="$collection_id = 'ggva'">
-                                <xsl:text>Greene &amp; Greene Architectural Records</xsl:text>
+                                <xsl:text>Greene &amp; Greene Project</xsl:text>
                             </xsl:when>
                             <xsl:when test="$collection_id = 'ferriss'">
                                 <xsl:text>Hugh Ferriss Architectural Drawings</xsl:text>
