@@ -215,6 +215,9 @@
                     <xsl:call-template name="subfields"/>
                 </MODS:note>
             </xsl:for-each>
+            <MODS:note>
+                <xsl:text>Digital image created from an analog slide.</xsl:text>
+            </MODS:note>
             <xsl:choose>
                 <xsl:when test="$collection_id = 'ggva'">
                     <MODS:accessCondition type="useAndReproduction">No known
