@@ -271,13 +271,15 @@
                 </xsl:for-each>
                 <xsl:choose>
                     <xsl:when test="$collection_id = 'ggva'">
-                        <MODS:url access="object in context" usage="primary display">http://www.columbia.edu/cu/lweb/eresources/archives/avery/greene/images/index.html</MODS:url>
+                        <MODS:url access="object in context" usage="primary display"
+                            >http://www.columbia.edu/cu/lweb/eresources/archives/avery/greene/images/index.html</MODS:url>
                     </xsl:when>
                     <xsl:when test="$collection_id = 'ferriss'">
-                        <MODS:url access="object in context" usage="primary display">http://www.columbia.edu/cu/libraries/inside/units/ldpd/avery/html/</MODS:url>
+                        <MODS:url access="object in context" usage="primary display"
+                            >http://www.columbia.edu/cu/libraries/inside/units/ldpd/avery/html/</MODS:url>
                     </xsl:when>
                 </xsl:choose>
-                
+
                 <MODS:holdingSimple>
                     <MODS:copyInformation>
                         <MODS:subLocation>Drawings &amp; Archives</MODS:subLocation>
@@ -298,8 +300,17 @@
             </MODS:identifier>
             <MODS:recordInfo>
                 <MODS:recordContentSource>NNC</MODS:recordContentSource>
-                <MODS:recordOrigin>Cataloging by project AVIADOR staff, edited to conform to MODS,
-                    version 3.4.</MODS:recordOrigin>
+                <xsl:choose>
+                    <xsl:when
+                        test="contains(//marc:datafield[@tag = '100'][@ind1 = '1']/marc:subfield[@tag = 'a']/text(), 'Hulbert')">
+                        <MODS:recordOrigin>Edited to conform to MODS, version
+                            3.4.</MODS:recordOrigin>
+                    </xsl:when>
+                    <xsl:otherwise>
+                        <MODS:recordOrigin>Cataloging by project AVIADOR staff, edited to conform to
+                            MODS, version 3.4.</MODS:recordOrigin>
+                    </xsl:otherwise>
+                </xsl:choose>
                 <!-- 
                     <MODS:recordCreationDate encoding="w3cdtf">system
                     generated?</MODS:recordCreationDate>
