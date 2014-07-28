@@ -52,7 +52,6 @@
                         href="{$resultPath}{$collection_id}/{translate($part_id, '.', '_')}mods.xml">
                         <xsl:call-template name="record">
                             <xsl:with-param name="part_id" select="$part_id"/>
-
                         </xsl:call-template>
                     </xsl:result-document>
                 </xsl:for-each>
@@ -87,30 +86,30 @@
     <xsl:template name="record">
         <xsl:param name="part_id"/>
 
-        <MODS:mods xmlns:MODS="http://www.loc.gov/mods/v3"
+        <mods:mods xmlns:mods="http://www.loc.gov/mods/v3"
             xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
             xmlns:xlink="http://www.w3.org/1999/xlink"
             xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-4.xsd"
             version="3.4">
 
-            <MODS:name type="personal">
-                <MODS:namePart>
+            <mods:name type="personal">
+                <mods:namePart>
                     <xsl:for-each select="//marc:datafield[@tag = '100'][@ind1 = '1']/*">
                         <xsl:call-template name="subfields"/>
                     </xsl:for-each>
-                </MODS:namePart>
-            </MODS:name>
+                </mods:namePart>
+            </mods:name>
 
             <xsl:for-each select="//marc:datafield[@tag = '110'][@ind1 = '2']/*">
-                <MODS:name type="corporate">
-                    <MODS:namePart>
+                <mods:name type="corporate">
+                    <mods:namePart>
                         <xsl:call-template name="subfields"/>
-                    </MODS:namePart>
-                </MODS:name>
+                    </mods:namePart>
+                </mods:name>
             </xsl:for-each>
 
-            <MODS:titleInfo type="uniform">
-                <MODS:title>
+            <mods:titleInfo type="uniform">
+                <mods:title>
                     <xsl:for-each select="//marc:datafield[@tag = '240']/*">
                         <xsl:call-template name="subfields">
                             <xsl:with-param name="strip">
@@ -118,19 +117,19 @@
                             </xsl:with-param>
                         </xsl:call-template>
                     </xsl:for-each>
-                </MODS:title>
-            </MODS:titleInfo>
+                </mods:title>
+            </mods:titleInfo>
             <!--
             <xsl:for-each select="//marc:datafield[@tag = '130'][@ind1 = '0']/*">
-                <MODS:titleInfo type="uniform">
-                    <MODS:title>
+                <mods:titleInfo type="uniform">
+                    <mods:title>
                         <xsl:call-template name="subfields"/>
-                    </MODS:title>
-                </MODS:titleInfo>
+                    </mods:title>
+                </mods:titleInfo>
             </xsl:for-each>
 -->
-            <MODS:titleInfo>
-                <MODS:title>
+            <mods:titleInfo>
+                <mods:title>
                     <!-- 245 $a, 789 0_ $t $n -->
                     <xsl:value-of
                         select="translate(//marc:datafield[@tag = '245']/marc:subfield[@code = 'a'], '][', '')"/>
@@ -145,21 +144,21 @@
                             <xsl:value-of select="."/>
                         </xsl:for-each>
                     </xsl:for-each>
-                </MODS:title>
-            </MODS:titleInfo>
-            <MODS:originInfo>
-                <MODS:dateCreated>
+                </mods:title>
+            </mods:titleInfo>
+            <mods:originInfo>
+                <mods:dateCreated>
                     <!--260 $c -->
                     <xsl:value-of select="//marc:datafield[@tag = '260']/marc:subfield[@code = 'c']"
                     />
-                </MODS:dateCreated>
+                </mods:dateCreated>
 
                 <!--008 07-10-->
                 <xsl:choose>
                     <xsl:when test="substring(//marc:controlfield[@tag = '008'], 7, 1) = 'n'">
-                        <MODS:dateCreated keyDate="yes">
+                        <mods:dateCreated keyDate="yes">
                             <xsl:text>0000-00-00</xsl:text>
-                        </MODS:dateCreated>
+                        </mods:dateCreated>
                     </xsl:when>
                     <xsl:when
                         test="contains(substring(//marc:controlfield[@tag = '008'], 12, 4), '1') ">
@@ -168,20 +167,20 @@
                             <xsl:value-of
                                 select="substring(//marc:controlfield[@tag = '008'], 12, 4)"/>
                         </xsl:message>
-                        <MODS:dateCreated encoding="w3cdtf" keyDate="yes" point="start">
+                        <mods:dateCreated encoding="w3cdtf" keyDate="yes" point="start">
                             <xsl:value-of
                                 select="substring(//marc:controlfield[@tag = '008'], 8, 4) "/>
-                        </MODS:dateCreated>
-                        <MODS:dateCreated encoding="w3cdtf" point="end">
+                        </mods:dateCreated>
+                        <mods:dateCreated encoding="w3cdtf" point="end">
                             <xsl:value-of
                                 select="substring(//marc:controlfield[@tag = '008'], 12, 4) "/>
-                        </MODS:dateCreated>
+                        </mods:dateCreated>
                     </xsl:when>
                     <xsl:otherwise>
-                        <MODS:dateCreated encoding="w3cdtf" keyDate="yes">
+                        <mods:dateCreated encoding="w3cdtf" keyDate="yes">
                             <xsl:value-of
                                 select="substring(//marc:controlfield[@tag = '008'], 8, 4) "/>
-                        </MODS:dateCreated>
+                        </mods:dateCreated>
                     </xsl:otherwise>
                 </xsl:choose>
                 <!--       <xsl:if
@@ -189,104 +188,104 @@
                     
                 </xsl:if>
                 -->
-            </MODS:originInfo>
-            <MODS:physicalDescription>
-                <MODS:extent>1 sheet</MODS:extent>
-                <MODS:form authority="gmgpc">architectural drawings</MODS:form>
-                <MODS:digitalOrigin>reformatted digital</MODS:digitalOrigin>
-                <MODS:reformattingQuality>access</MODS:reformattingQuality>
-                <MODS:form authority="marcform">electronic</MODS:form>
-            </MODS:physicalDescription>
-            <MODS:typeOfResource>still image</MODS:typeOfResource>
+            </mods:originInfo>
+            <mods:physicalDescription>
+                <mods:extent>1 sheet</mods:extent>
+                <mods:form authority="gmgpc">architectural drawings</mods:form>
+                <mods:digitalOrigin>reformatted digital</mods:digitalOrigin>
+                <mods:reformattingQuality>access</mods:reformattingQuality>
+                <mods:form authority="marcform">electronic</mods:form>
+            </mods:physicalDescription>
+            <mods:typeOfResource>still image</mods:typeOfResource>
             <xsl:for-each
                 select="//marc:datafield[@tag = '789'][@ind1 = '0'][child::marc:subfield[@code = 'i'] = $part_id]/marc:subfield[@code = 'o']">
-                <MODS:note>
+                <mods:note>
                     <!--789 0_ $o -->
                     <xsl:value-of select="."/>
-                </MODS:note>
+                </mods:note>
             </xsl:for-each>
             <xsl:for-each
                 select="//marc:datafield[@tag = '789'][@ind1 = '0'][child::marc:subfield[@code = 'i']  = $part_id]/marc:subfield[@code = 'p']">
-                <MODS:note type="physical details">
+                <mods:note type="physical details">
                     <!--789 0_ $p -->
                     <xsl:value-of select="."/>
-                </MODS:note>
+                </mods:note>
             </xsl:for-each>
             <xsl:for-each select="//marc:datafield[@tag = '561']">
-                <MODS:note type="ownership">
+                <mods:note type="ownership">
                     <xsl:call-template name="subfields"/>
-                </MODS:note>
+                </mods:note>
             </xsl:for-each>
-            <MODS:note>
+            <mods:note>
                 <xsl:text>Digital image created from an analog slide.</xsl:text>
-            </MODS:note>
+            </mods:note>
             <xsl:choose>
                 <xsl:when test="$collection_id = 'ggva'">
-                    <MODS:accessCondition type="useAndReproduction">No known
-                        restrictions.</MODS:accessCondition>
+                    <mods:accessCondition type="useAndReproduction">No known
+                        restrictions.</mods:accessCondition>
                 </xsl:when>
                 <xsl:when test="$collection_id = 'ferriss'">
-                    <MODS:accessCondition type="useAndReproduction">Columbia Libraries Staff Use
-                        Only</MODS:accessCondition>
+                    <mods:accessCondition type="useAndReproduction">Columbia Libraries Staff Use
+                        Only</mods:accessCondition>
                 </xsl:when>
             </xsl:choose>
             <!-- 
-               <MODS:subject authority="lcsh">
-                <MODS:topic>Architecture/United States-/Designs and plans</MODS:topic>
-            </MODS:subject>
+               <mods:subject authority="lcsh">
+                <mods:topic>Architecture/United States-/Designs and plans</mods:topic>
+            </mods:subject>
             -->
-            <MODS:relatedItem displayLabel="Project" type="host">
+            <mods:relatedItem displayLabel="Project" type="host">
                 <xsl:choose>
                     <xsl:when test="$collection_id = 'ggva'">
-                        <MODS:titleInfo>
-                            <MODS:title>
+                        <mods:titleInfo>
+                            <mods:title>
                                 <xsl:text>Greene &amp; Greene Project</xsl:text>
-                            </MODS:title>
-                        </MODS:titleInfo>
-                        <MODS:location>
+                            </mods:title>
+                        </mods:titleInfo>
+                        <mods:location>
                             <url>http://www.columbia.edu/cgi-bin/cul/resolve?clio4278328</url>
-                        </MODS:location>
+                        </mods:location>
                     </xsl:when>
                     <xsl:when test="$collection_id = 'ferriss'">
-                        <MODS:titleInfo>
-                            <MODS:title>
+                        <mods:titleInfo>
+                            <mods:title>
                                 <xsl:text>Hugh Ferriss Architectural Drawings</xsl:text>
-                            </MODS:title>
-                            <MODS:location>
+                            </mods:title>
+                            <mods:location>
                                 <url>http://library.columbia.edu/indiv/avery/da/collections/ferriss.html</url>
-                            </MODS:location>
-                        </MODS:titleInfo>
+                            </mods:location>
+                        </mods:titleInfo>
                     </xsl:when>
                 </xsl:choose>
-            </MODS:relatedItem>
-            <MODS:location>
-                <MODS:physicalLocation authority="marcorg">NNC-A</MODS:physicalLocation>
-                <MODS:physicalLocation>Avery Architectural &amp; Fine Arts Library, Columbia
-                    University</MODS:physicalLocation>
+            </mods:relatedItem>
+            <mods:location>
+                <mods:physicalLocation authority="marcorg">NNC-A</mods:physicalLocation>
+                <mods:physicalLocation>Avery Architectural &amp; Fine Arts Library, Columbia
+                    University</mods:physicalLocation>
                 <xsl:for-each
                     select="//marc:datafield[@tag = '789'][@ind1 = '0'][child::marc:subfield[@code = 'i'] = $part_id]">
-                    <MODS:shelfLocator>
+                    <mods:shelfLocator>
                         <xsl:value-of select="child::marc:subfield[@code = 'i']"/>
-                    </MODS:shelfLocator>
+                    </mods:shelfLocator>
                 </xsl:for-each>
                 <xsl:choose>
                     <xsl:when test="$collection_id = 'ggva'">
-                        <MODS:url access="object in context" usage="primary display"
-                            >http://www.columbia.edu/cu/lweb/eresources/archives/avery/greene/images/index.html</MODS:url>
+                        <mods:url access="object in context" usage="primary display"
+                            >http://www.columbia.edu/cu/lweb/eresources/archives/avery/greene/images/index.html</mods:url>
                     </xsl:when>
                     <xsl:when test="$collection_id = 'ferriss'">
-                        <MODS:url access="object in context" usage="primary display"
-                            >http://www.columbia.edu/cu/libraries/inside/units/ldpd/avery/html/</MODS:url>
+                        <mods:url access="object in context" usage="primary display"
+                            >http://www.columbia.edu/cu/libraries/inside/units/ldpd/avery/html/</mods:url>
                     </xsl:when>
                 </xsl:choose>
 
-                <MODS:holdingSimple>
-                    <MODS:copyInformation>
-                        <MODS:subLocation>Drawings &amp; Archives</MODS:subLocation>
-                    </MODS:copyInformation>
-                </MODS:holdingSimple>
-            </MODS:location>
-            <MODS:identifier type="local">
+                <mods:holdingSimple>
+                    <mods:copyInformation>
+                        <mods:subLocation>Drawings &amp; Archives</mods:subLocation>
+                    </mods:copyInformation>
+                </mods:holdingSimple>
+            </mods:location>
+            <mods:identifier type="local">
                 <xsl:message>
                     <xsl:value-of select="$part_id"/>
                 </xsl:message>
@@ -294,28 +293,28 @@
                     select="//marc:datafield[@tag = '789'][@ind1 = '0'][child::marc:subfield[@code = 'i'] = $part_id]">
                     <xsl:value-of select="child::marc:subfield[@code = 'i']"/>
                 </xsl:for-each>
-            </MODS:identifier>
-            <MODS:identifier type="CLIO">
+            </mods:identifier>
+            <mods:identifier type="CLIO">
                 <xsl:value-of select="//marc:controlfield[@tag = '001']"/>
-            </MODS:identifier>
-            <MODS:recordInfo>
-                <MODS:recordContentSource>NNC</MODS:recordContentSource>
+            </mods:identifier>
+            <mods:recordInfo>
+                <mods:recordContentSource>NNC</mods:recordContentSource>
                 <xsl:choose>
                     <xsl:when
                         test="contains(//marc:datafield[@tag = '100'][@ind1 = '1']/marc:subfield[@tag = 'a']/text(), 'Hulbert')">
-                        <MODS:recordOrigin>Edited to conform to MODS, version
-                            3.4.</MODS:recordOrigin>
+                        <mods:recordOrigin>Edited to conform to mods, version
+                            3.4.</mods:recordOrigin>
                     </xsl:when>
                     <xsl:otherwise>
-                        <MODS:recordOrigin>Cataloging by project AVIADOR staff, edited to conform to
-                            MODS, version 3.4.</MODS:recordOrigin>
+                        <mods:recordOrigin>Cataloging by project AVIADOR staff, edited to conform to
+                            mods, version 3.4.</mods:recordOrigin>
                     </xsl:otherwise>
                 </xsl:choose>
                 <!-- 
-                    <MODS:recordCreationDate encoding="w3cdtf">system
-                    generated?</MODS:recordCreationDate>
+                    <mods:recordCreationDate encoding="w3cdtf">system
+                    generated?</mods:recordCreationDate>
                 -->
-            </MODS:recordInfo>
-        </MODS:mods>
+            </mods:recordInfo>
+        </mods:mods>
     </xsl:template>
 </xsl:stylesheet>
