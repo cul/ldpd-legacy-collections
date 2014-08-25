@@ -66,7 +66,7 @@
             </mods:name>
             </xsl:for-each>
             <xsl:for-each select="//marc:datafield[@tag = '110'][@ind1 = '2']/*">
-                <mods:name type="corporate">
+                <mods:name type="corporate" authority="naf">
                     <mods:namePart>
                         <xsl:call-template name="subfields"/>
                     </mods:namePart>
