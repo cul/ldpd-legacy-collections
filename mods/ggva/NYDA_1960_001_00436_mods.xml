@@ -1,22 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<MODS:mods xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
-           xmlns:MODS="http://www.loc.gov/mods/v3"
+<MODS:mods xmlns:MODS="http://www.loc.gov/mods/v3"
+           xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
            xmlns:xlink="http://www.w3.org/1999/xlink"
-           xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-4.xsd"
-           version="3.4">
-   <MODS:name type="personal">
-      <!--EMPTY ELEMENT  MODS:namePart  REMOVED-->
-   </MODS:name>
-   <MODS:name type="corporate">
-      <MODS:namePart>Greene &amp; Greene</MODS:namePart>
-   </MODS:name>
-   <MODS:titleInfo type="uniform">
-      <!--ELEMENT  MODS:title  SPACE-NORMALIZED-->
-<MODS:title>Robert R. Blacker house (Pasadena, Calif.). Billiard room</MODS:title>
-   </MODS:titleInfo>
+           xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd"
+           version="3.5">
+   <MODS:identifier type="local">NYDA.1960.001.00436</MODS:identifier>
    <MODS:titleInfo>
-      <!--ELEMENT  MODS:title  SPACE-NORMALIZED-->
-<MODS:title>Details of billiard room, residence for R. R. Blacker, Esq. at Oak Knoll, Cal, F. S. detail drawings of ceiling light block &amp; ventilator -- sections, quarter plan; F. S. detail of curtain rod for door (same detail for screens each side) Sheet no. 4.</MODS:title>
+      <MODS:title>F. S. detail drawings of ceiling light block &amp; ventilator -- sections, quarter plan ; F. S. detail of curtain rod for door (same detail for screens each side) Sheet no. 4.</MODS:title>
    </MODS:titleInfo>
    <MODS:originInfo>
       <MODS:dateCreated>[1909]</MODS:dateCreated>
@@ -32,37 +22,19 @@
    <MODS:typeOfResource>still image</MODS:typeOfResource>
    <MODS:note>On verso -- "Set no. 1".</MODS:note>
    <MODS:note>Digital image created from an analog slide.</MODS:note>
-   <MODS:accessCondition type="useAndReproduction">No known
-                        restrictions.</MODS:accessCondition>
-   <MODS:relatedItem displayLabel="Project" type="host">
-      <MODS:titleInfo>
-         <!--ELEMENT  MODS:title  SPACE-NORMALIZED-->
-<MODS:title>Greene &amp; Greene Project</MODS:title>
-      </MODS:titleInfo>
-      <MODS:location>
-         <url>http://www.columbia.edu/cgi-bin/cul/resolve?clio4278328</url>
-      </MODS:location>
-   </MODS:relatedItem>
+   <MODS:accessCondition type="useAndReproduction">No known restrictions.</MODS:accessCondition>
    <MODS:location>
       <MODS:physicalLocation authority="marcorg">NNC-A</MODS:physicalLocation>
-      <MODS:physicalLocation>Avery Architectural &amp; Fine Arts Library, Columbia
-                    University</MODS:physicalLocation>
-      <!--ELEMENT  MODS:shelfLocator  trailing punctuation removed-->
-<MODS:shelfLocator>NYDA.1960.001.00436</MODS:shelfLocator>
-      <MODS:url access="object in context" usage="primary display">http://www.columbia.edu/cu/lweb/eresources/archives/avery/greene/images/index.html</MODS:url>
+      <MODS:physicalLocation>Avery Architectural &amp; Fine Arts Library, Columbia University</MODS:physicalLocation>
+      <MODS:shelfLocator>NYDA.1960.001.00436.</MODS:shelfLocator>
       <MODS:holdingSimple>
          <MODS:copyInformation>
             <MODS:subLocation>Drawings &amp; Archives</MODS:subLocation>
          </MODS:copyInformation>
       </MODS:holdingSimple>
    </MODS:location>
-   <!--ELEMENT  MODS:identifier  trailing punctuation removed-->
-<MODS:identifier type="local">NYDA.1960.001.00436</MODS:identifier>
-   <!--ELEMENT  MODS:identifier  trailing punctuation removed-->
-<MODS:identifier type="CLIO">3462164</MODS:identifier>
    <MODS:recordInfo>
       <MODS:recordContentSource>NNC</MODS:recordContentSource>
-      <MODS:recordOrigin>Cataloging by project AVIADOR staff, edited to conform to MODS,
-                    version 3.4.</MODS:recordOrigin>
+      <MODS:recordOrigin>Cataloging by project AVIADOR staff, edited to conform to MODS, version 3.5.</MODS:recordOrigin>
    </MODS:recordInfo>
 </MODS:mods>
