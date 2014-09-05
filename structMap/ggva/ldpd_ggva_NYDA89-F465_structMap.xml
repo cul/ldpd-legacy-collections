@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mets:structMap xmlns:mets="http://www.loc.gov/METS/" LABEL="ldpd.ggva.NYDA89-F465">
+   <mets:div ORDER="1"
+             CONTENTIDS="NYDA.1960.001.00222"
+             LABEL="Foundation plan, section A-B, detail drawings of chimney footings and pier footings : 1."/>
+   <mets:div ORDER="2"
+             CONTENTIDS="NYDA.1960.001.00223"
+             LABEL="Revised drawing of part of sheet no. 1 i.e. Foundation plan showing figures for new position of wall."/>
+   <mets:div ORDER="3"
+             CONTENTIDS="NYDA.1960.001.00224"
+             LABEL="First floor plan : 2."/>
+   <mets:div ORDER="4"
+             CONTENTIDS="NYDA.1960.001.00225"
+             LABEL="Revised drawing of part of sheet no. 2 i.e. first floor plan showing changes ; west elevation -- revised drawing of part of sheet no. 7 showing changes."/>
+   <mets:div ORDER="5"
+             CONTENTIDS="NYDA.1960.001.00226"
+             LABEL="Second floor plan : 3."/>
+   <mets:div ORDER="6" CONTENTIDS="NYDA.1960.001.00227" LABEL="Attic plan : 4."/>
+   <mets:div ORDER="7"
+             CONTENTIDS="NYDA.1960.001.00228"
+             LABEL="East elevation (front), section through wall ; dining room details -- section of sideboard, elevations of west side and north end : 5."/>
+   <mets:div ORDER="8"
+             CONTENTIDS="NYDA.1960.001.00229"
+             LABEL="North elevation, section through wall ; details -- section showing living room (showing nook &amp; mantel), hall and parlor, elevations of side of nook and stairs : 6."/>
+   <mets:div ORDER="9"
+             CONTENTIDS="NYDA.1960.001.00230"
+             LABEL="West elevation : 7."/>
+   <mets:div ORDER="10"
+             CONTENTIDS="NYDA.1960.001.00231"
+             LABEL="South elevation : 8."/>
+   <mets:div ORDER="11"
+             CONTENTIDS="NYDA.1960.001.00232"
+             LABEL="1 1/2 inch details -- section showing window openings, section of main cornice, detail in section of porch timbers : 9."/>
+   <mets:div ORDER="12"
+             CONTENTIDS="NYDA.1960.001.00233"
+             LABEL="Full scale detail of siding : No. 12,"/>
+   <mets:div ORDER="13"
+             CONTENTIDS="NYDA.1960.001.00234"
+             LABEL="Porch details -- elevation and sectio of front porch, details of beams in plans and elevations, full scale details of rafters, beams and post, cap and bracket : No. 13."/>
+   <mets:div ORDER="14"
+             CONTENTIDS="NYDA.1960.001.00235"
+             LABEL="1 1/2 inch details -- vertical section through bedroom no. 4 - bay, plan of seat end at A, section of sideboard bay roof, unidentified section of verge board and beam : 15."/>
+   <mets:div ORDER="15"
+             CONTENTIDS="NYDA.1960.001.00236"
+             LABEL="1 1/2 inch details -- detail in sections with plans of screen porch, part plan 1/4&#34; scale of screened porch showing where vent and water pipes are carried up : 16."/>
+   <mets:div ORDER="16"
+             CONTENTIDS="NYDA.1960.001.00237"
+             LABEL="1 1/2 inch scale details of hinge straps for doors from living room to outside and doors from dining room to outside : No. 44,"/>
+   <mets:div ORDER="17"
+             CONTENTIDS="NYDA.1960.001.00238"
+             LABEL="Plan of grounds : No. 45."/>
+   <mets:div ORDER="18"
+             CONTENTIDS="NYDA.1960.001.00239"
+             LABEL="Addition to residence -- south elev., west elevation, plan."/>
+</mets:structMap>

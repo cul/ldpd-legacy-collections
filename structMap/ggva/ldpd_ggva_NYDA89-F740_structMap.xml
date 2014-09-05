@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mets:structMap xmlns:mets="http://www.loc.gov/METS/" LABEL="ldpd.ggva.NYDA89-F740">
+   <mets:div ORDER="1"
+             CONTENTIDS="NYDA.1960.001.03427"
+             LABEL="Plan, south elevation, typical section through wall with exterior and interior elevations of window frames, section thro' sliding door head."/>
+   <mets:div ORDER="2"
+             CONTENTIDS="NYDA.1960.001.03428"
+             LABEL="East elevation, west elevation, north elevation, detail of sliding doors, full size detail of sliding doors."/>
+</mets:structMap>

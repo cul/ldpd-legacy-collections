@@ -1,0 +1,102 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mets:structMap xmlns:mets="http://www.loc.gov/METS/" LABEL="ldpd.ggva.NYDA01-F124">
+   <mets:div ORDER="1"
+             CONTENTIDS="NYDA.1987.003.00084"
+             LABEL="East (front) and south elevations."/>
+   <mets:div ORDER="2"
+             CONTENTIDS="NYDA.1987.003.00085"
+             LABEL="East (front) elevation, right side."/>
+   <mets:div ORDER="3"
+             CONTENTIDS="NYDA.1987.003.00086"
+             LABEL="View from northwest."/>
+   <mets:div ORDER="4" CONTENTIDS="NYDA.1987.003.00087" LABEL="North elevation."/>
+   <mets:div ORDER="5"
+             CONTENTIDS="NYDA.1987.003.00088"
+             LABEL="Garden and north elevation."/>
+   <mets:div ORDER="6"
+             CONTENTIDS="NYDA.1987.003.00089"
+             LABEL="Stone path leading to house."/>
+   <mets:div ORDER="7" CONTENTIDS="NYDA.1987.003.00090" LABEL="Rear terrace."/>
+   <mets:div ORDER="8"
+             CONTENTIDS="NYDA.1987.003.00091"
+             LABEL="Rear retaining wall."/>
+   <mets:div ORDER="9"
+             CONTENTIDS="NYDA.1987.003.00092"
+             LABEL="Partial view of brick driveway and east (front) elevation."/>
+   <mets:div ORDER="10"
+             CONTENTIDS="NYDA.1987.003.00093"
+             LABEL="Entry hall, view toward leaded art-glass front doorway."/>
+   <mets:div ORDER="11"
+             CONTENTIDS="NYDA.1987.003.00094"
+             LABEL="Entry hall, view toward terrace doors."/>
+   <mets:div ORDER="12"
+             CONTENTIDS="NYDA.1987.003.00095"
+             LABEL="Entry hall, view toward terrace doors."/>
+   <mets:div ORDER="13"
+             CONTENTIDS="NYDA.1987.003.00096"
+             LABEL="Entry hall stairway."/>
+   <mets:div ORDER="14"
+             CONTENTIDS="NYDA.1987.003.00097"
+             LABEL="Entry hall chair."/>
+   <mets:div ORDER="15"
+             CONTENTIDS="NYDA.1987.003.00098"
+             LABEL="Living room, view from main hallway."/>
+   <mets:div ORDER="16"
+             CONTENTIDS="NYDA.1987.003.00099"
+             LABEL="Living room, view with library table and Tiffany lamp."/>
+   <mets:div ORDER="17"
+             CONTENTIDS="NYDA.1987.003.00100"
+             LABEL="Living room rocking chair."/>
+   <mets:div ORDER="18"
+             CONTENTIDS="NYDA.1987.003.00101"
+             LABEL="Living room armchair."/>
+   <mets:div ORDER="19"
+             CONTENTIDS="NYDA.1987.003.00102"
+             LABEL="Living room chair."/>
+   <mets:div ORDER="20"
+             CONTENTIDS="NYDA.1987.003.00103"
+             LABEL="Living room end table."/>
+   <mets:div ORDER="21" CONTENTIDS="NYDA.1987.003.00104" LABEL="Dining room."/>
+   <mets:div ORDER="22"
+             CONTENTIDS="NYDA.1987.003.00105"
+             LABEL="Dining room chair."/>
+   <mets:div ORDER="23"
+             CONTENTIDS="NYDA.1987.003.00106"
+             LABEL="Staircase at second story hallway."/>
+   <mets:div ORDER="24" CONTENTIDS="NYDA.1987.003.00107" LABEL="Guest room."/>
+   <mets:div ORDER="25"
+             CONTENTIDS="NYDA.1987.003.00108"
+             LABEL="Guest room dressing table."/>
+   <mets:div ORDER="26"
+             CONTENTIDS="NYDA.1987.003.00109"
+             LABEL="Guest room rocking chair."/>
+   <mets:div ORDER="27"
+             CONTENTIDS="NYDA.1987.003.00110"
+             LABEL="Guest room chair."/>
+   <mets:div ORDER="28"
+             CONTENTIDS="NYDA.1987.003.00111"
+             LABEL="&#34;Aunt Julia&#34; Huggins's bedroom."/>
+   <mets:div ORDER="29"
+             CONTENTIDS="NYDA.1987.003.00112"
+             LABEL="&#34;Aunt Julia&#34; Huggins's bedroom."/>
+   <mets:div ORDER="30" CONTENTIDS="NYDA.1987.003.00113" LABEL="Master bedroom."/>
+   <mets:div ORDER="31"
+             CONTENTIDS="NYDA.1987.003.00114"
+             LABEL="Master bedroom inglenook."/>
+   <mets:div ORDER="32"
+             CONTENTIDS="NYDA.1987.003.00115"
+             LABEL="Master bedroom beds."/>
+   <mets:div ORDER="33"
+             CONTENTIDS="NYDA.1987.003.00116"
+             LABEL="Master bedroom dresser."/>
+   <mets:div ORDER="34"
+             CONTENTIDS="NYDA.1987.003.00117"
+             LABEL="Master bedroom letter desk."/>
+   <mets:div ORDER="35"
+             CONTENTIDS="NYDA.1987.003.00118"
+             LABEL="Master bedroom rocking chair."/>
+   <mets:div ORDER="36"
+             CONTENTIDS="NYDA.1987.003.00119"
+             LABEL="Master bedroom chair."/>
+   <mets:div ORDER="37" CONTENTIDS="NYDA.1987.003.00120" LABEL="Attic."/>
+</mets:structMap>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mets:structMap xmlns:mets="http://www.loc.gov/METS/" LABEL="ldpd.ggva.NYDA89-F745">
+   <mets:div ORDER="1"
+             CONTENTIDS="NYDA.1960.001.01798"
+             LABEL="Foundation plan ; 1/2 inch detail of chimney footings ; section thro' A-B (same footing for piers) : 1."/>
+   <mets:div ORDER="2"
+             CONTENTIDS="NYDA.1960.001.01799"
+             LABEL="Ground floor plan : 2."/>
+   <mets:div ORDER="3"
+             CONTENTIDS="NYDA.1960.001.01800"
+             LABEL="Front elevation : 3."/>
+   <mets:div ORDER="4"
+             CONTENTIDS="NYDA.1960.001.01801"
+             LABEL="South elevation ; roof plan of bay : 4."/>
+   <mets:div ORDER="5"
+             CONTENTIDS="NYDA.1960.001.01802"
+             LABEL="Rear elevation : 5."/>
+   <mets:div ORDER="6"
+             CONTENTIDS="NYDA.1960.001.01803"
+             LABEL="North elevation : 6."/>
+   <mets:div ORDER="7"
+             CONTENTIDS="NYDA.1960.001.01804"
+             LABEL="1/2 inch scale details -- section through wall ; elevation of mantel in reception rm. ; plan of fireplaces ; north elevation of reception rm. ; section thro' arch ; front and side elevations of fireplace : No. 7."/>
+</mets:structMap>

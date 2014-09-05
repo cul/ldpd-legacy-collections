@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mets:structMap xmlns:mets="http://www.loc.gov/METS/" LABEL="ldpd.ggva.NYDA89-F726">
+   <mets:div ORDER="1" CONTENTIDS="NYDA.1960.001.04139" LABEL="Main floor plan."/>
+   <mets:div ORDER="2" CONTENTIDS="NYDA.1960.001.04140" LABEL="Main floor plan"/>
+   <mets:div ORDER="3" CONTENTIDS="NYDA.1960.001.04141" LABEL="Main floor plan."/>
+   <mets:div ORDER="4"
+             CONTENTIDS="NYDA.1960.001.04142"
+             LABEL="Transverse section, partial longitudinal section, partial main floor plan, unidentified detail sketches"/>
+   <mets:div ORDER="5"
+             CONTENTIDS="NYDA.1960.001.04143"
+             LABEL="Plan and sections of dome, detail sketches"/>
+   <mets:div ORDER="6"
+             CONTENTIDS="NYDA.1960.001.04144"
+             LABEL="Front elevations, detail of steps"/>
+   <mets:div ORDER="7"
+             CONTENTIDS="NYDA.1960.001.04145R"
+             LABEL="Partial front elevation"/>
+   <mets:div ORDER="8"
+             CONTENTIDS="NYDA.1960.001.04145V"
+             LABEL="Details of rafters in sections"/>
+   <mets:div ORDER="9"
+             CONTENTIDS="NYDA.1960.001.04146"
+             LABEL="Transverse section"/>
+   <mets:div ORDER="10"
+             CONTENTIDS="NYDA.1960.001.04147"
+             LABEL="Longitudinal section, transverse section"/>
+   <mets:div ORDER="11"
+             CONTENTIDS="NYDA.1960.001.04148"
+             LABEL="Sketch of section, sketch of arches"/>
+   <mets:div ORDER="12"
+             CONTENTIDS="NYDA.1960.001.04149"
+             LABEL="Transverse section"/>
+   <mets:div ORDER="13"
+             CONTENTIDS="NYDA.1960.001.04150"
+             LABEL="Longitudinal section through aisle?"/>
+   <mets:div ORDER="14"
+             CONTENTIDS="NYDA.1960.001.04151"
+             LABEL="Transverse section"/>
+   <mets:div ORDER="15"
+             CONTENTIDS="NYDA.1960.001.04152"
+             LABEL="Sketches of plan, elevation and details of arches"/>
+   <mets:div ORDER="16"
+             CONTENTIDS="NYDA.1960.001.04153"
+             LABEL="Section showing arches, section through top of wall, elevation of aisle? wall"/>
+   <mets:div ORDER="17"
+             CONTENTIDS="NYDA.1960.001.04154"
+             LABEL="Sketch of towers"/>
+   <mets:div ORDER="18"
+             CONTENTIDS="NYDA.1960.001.04155"
+             LABEL="Perspective drawing of tops of towers"/>
+   <mets:div ORDER="19"
+             CONTENTIDS="NYDA.1960.001.04156"
+             LABEL="Sketches of rafters"/>
+   <mets:div ORDER="20"
+             CONTENTIDS="NYDA.1960.001.04157"
+             LABEL="Main floor plan,"/>
+   <mets:div ORDER="21"
+             CONTENTIDS="NYDA.1960.001.04158"
+             LABEL="Main floor plan."/>
+   <mets:div ORDER="22"
+             CONTENTIDS="NYDA.1960.001.04159"
+             LABEL="Sketch of main floor plan."/>
+   <mets:div ORDER="23"
+             CONTENTIDS="NYDA.1960.001.04160"
+             LABEL="Main floor plan."/>
+   <mets:div ORDER="24"
+             CONTENTIDS="NYDA.1960.001.04161"
+             LABEL="Main floor plan."/>
+   <mets:div ORDER="25"
+             CONTENTIDS="NYDA.1960.001.04162"
+             LABEL="Sketch of transverse section"/>
+   <mets:div ORDER="26"
+             CONTENTIDS="NYDA.1960.001.04163"
+             LABEL="Sketch of floor plan, rough sketch of elevation"/>
+</mets:structMap>

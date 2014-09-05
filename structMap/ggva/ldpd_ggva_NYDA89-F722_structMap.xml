@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mets:structMap xmlns:mets="http://www.loc.gov/METS/" LABEL="ldpd.ggva.NYDA89-F722">
+   <mets:div ORDER="1"
+             CONTENTIDS="NYDA.1960.001.04170"
+             LABEL="First floor plan."/>
+   <mets:div ORDER="2"
+             CONTENTIDS="NYDA.1960.001.04171"
+             LABEL="Second floor plan, scheme 1,"/>
+   <mets:div ORDER="3"
+             CONTENTIDS="NYDA.1960.001.04172"
+             LABEL="East elevation, scheme 1,"/>
+   <mets:div ORDER="4"
+             CONTENTIDS="NYDA.1960.001.04173"
+             LABEL="Partial first floor plan, scheme no. 2."/>
+   <mets:div ORDER="5"
+             CONTENTIDS="NYDA.1960.001.04174"
+             LABEL="Partial second floor plan, scheme no. 2."/>
+   <mets:div ORDER="6"
+             CONTENTIDS="NYDA.1960.001.04175"
+             LABEL="Partial front elevation, scheme no. 2."/>
+   <mets:div ORDER="7"
+             CONTENTIDS="NYDA.1960.001.04176"
+             LABEL="Partial east elevation, scheme no. 2."/>
+   <mets:div ORDER="8"
+             CONTENTIDS="NYDA.1960.001.04177"
+             LABEL="Partial elevation, partial plan"/>
+   <mets:div ORDER="9"
+             CONTENTIDS="NYDA.1960.001.04178"
+             LABEL="Partial elevation"/>
+   <mets:div ORDER="10"
+             CONTENTIDS="NYDA.1960.001.04179"
+             LABEL="Plan showing entry and room with fireplace, plan of stairs"/>
+   <mets:div ORDER="11"
+             CONTENTIDS="NYDA.1960.001.04180"
+             LABEL="Sketch of plan of stairs"/>
+</mets:structMap>

@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mets:structMap xmlns:mets="http://www.loc.gov/METS/" LABEL="ldpd.ggva.NYDA89-F416">
+   <mets:div ORDER="1"
+             CONTENTIDS="NYDA.1960.001.01032"
+             LABEL="First floor plan : Sheet A."/>
+   <mets:div ORDER="2" CONTENTIDS="NYDA.1960.001.01033" LABEL="First floor plan"/>
+   <mets:div ORDER="3"
+             CONTENTIDS="NYDA.1960.001.01034"
+             LABEL="Second floor plan : Sheet B"/>
+   <mets:div ORDER="4"
+             CONTENTIDS="NYDA.1960.001.01035"
+             LABEL="Second floor plan"/>
+   <mets:div ORDER="5"
+             CONTENTIDS="NYDA.1960.001.01036"
+             LABEL="West elevation : Sheet C."/>
+   <mets:div ORDER="6" CONTENTIDS="NYDA.1960.001.01037" LABEL="West elevation"/>
+   <mets:div ORDER="7"
+             CONTENTIDS="NYDA.1960.001.01038"
+             LABEL="South elevation : Sheet D."/>
+   <mets:div ORDER="8"
+             CONTENTIDS="NYDA.1960.001.01039"
+             LABEL="Elevation of north side of living room ; section on line &#34;A-A&#34; through house : Sheet E."/>
+   <mets:div ORDER="9"
+             CONTENTIDS="NYDA.1960.001.01040"
+             LABEL="Elevation of north side of living room"/>
+   <mets:div ORDER="10"
+             CONTENTIDS="NYDA.1960.001.01041"
+             LABEL="Section &#34;A-A&#34; through house"/>
+</mets:structMap>

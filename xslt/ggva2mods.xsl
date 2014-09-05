@@ -33,6 +33,14 @@
                         <xsl:with-param name="item_id" select="$item_id"/>
                     </xsl:call-template>
                 </xsl:result-document>
+                <xsl:if test="count(//marc:datafield[@tag = '789']) > 1">
+                    <xsl:result-document
+                        href="structMap/{$collection_id}/ldpd_ggva_{translate($item_id, '.', '_')}_structMap.xml">
+                        <xsl:call-template name="structMap">
+                            <xsl:with-param name="item_id" select="$item_id"/>
+                        </xsl:call-template>
+                    </xsl:result-document>
+                </xsl:if>
             </xsl:if>
         </xsl:for-each>
         <xsl:for-each select="//marc:datafield[@tag = '789']">
@@ -62,6 +70,47 @@
         <xsl:if test="position() != last()">
             <xsl:text>&#160;</xsl:text>
         </xsl:if>
+    </xsl:template>
+    <xsl:template name="structMap">
+        <xsl:param name="item_id"/>
+        <mets:structMap xmlns:mets="http://www.loc.gov/METS/" LABEL="ldpd.ggva.{$item_id}">
+            <xsl:attribute name="LABEL"><xsl:text>ldpd.ggva.</xsl:text><xsl:value-of select="$item_id"/></xsl:attribute>
+            <xsl:for-each select="//marc:datafield[@tag = '789']">
+                <xsl:variable name="part_id">
+                    <xsl:value-of select="child::marc:subfield[@code = 'i']"/>
+                </xsl:variable>
+                <xsl:variable name="order">
+                    <xsl:choose>
+                        <xsl:when test="child::marc:subfield[@code = '1']">
+                            <xsl:value-of select="child::marc:subfield[@code = '1']"/>
+                        </xsl:when>
+                        <xsl:otherwise>
+                            <xsl:value-of select="child::marc:subfield[@code = 'l']"/>
+                        </xsl:otherwise>
+                    </xsl:choose>
+                </xsl:variable>
+                <mets:div>
+                    <xsl:attribute name="ORDER"><xsl:value-of select="translate($order,'][','')"/></xsl:attribute>
+                    <xsl:choose>
+                        <xsl:when test="ends-with($part_id,'.')">
+                            <xsl:attribute name="CONTENTIDS"><xsl:value-of select="substring($part_id,0,string-length($part_id))"/></xsl:attribute>
+                        </xsl:when>
+                        <xsl:otherwise>
+                            <xsl:attribute name="CONTENTIDS"><xsl:value-of select="$part_id"/></xsl:attribute>
+                        </xsl:otherwise>
+                    </xsl:choose>
+                    <xsl:attribute name="LABEL">
+                        <xsl:for-each select="child::marc:subfield[@code = 't']">
+                            <xsl:value-of select="translate(., '][', '')"/>
+                        </xsl:for-each>
+                        <xsl:for-each select="marc:subfield[@code = 'n']">
+                            <xsl:text>&#160;</xsl:text>
+                            <xsl:value-of select="."/>
+                        </xsl:for-each>
+                    </xsl:attribute>
+                </mets:div>
+            </xsl:for-each>
+        </mets:structMap>
     </xsl:template>
     <xsl:template name="item">
         <xsl:param name="item_id"/>

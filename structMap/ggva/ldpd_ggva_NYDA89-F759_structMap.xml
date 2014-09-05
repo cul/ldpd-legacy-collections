@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mets:structMap xmlns:mets="http://www.loc.gov/METS/" LABEL="ldpd.ggva.NYDA89-F759">
+   <mets:div ORDER="1"
+             CONTENTIDS="NYDA.1960.001.01824"
+             LABEL="First floor plan ; elevations of dining room mantel and living room mantel : Sheet no. 1,"/>
+   <mets:div ORDER="2"
+             CONTENTIDS="NYDA.1960.001.01825"
+             LABEL="First floor plan."/>
+   <mets:div ORDER="3"
+             CONTENTIDS="NYDA.1960.001.01826"
+             LABEL="Second floor plan : Sheet no. 2,"/>
+   <mets:div ORDER="4"
+             CONTENTIDS="NYDA.1960.001.01827"
+             LABEL="Second floor plan."/>
+   <mets:div ORDER="5"
+             CONTENTIDS="NYDA.1960.001.01828"
+             LABEL="Front elevation : Sheet no. 3,"/>
+   <mets:div ORDER="6" CONTENTIDS="NYDA.1960.001.01829" LABEL="Front elevation."/>
+   <mets:div ORDER="7"
+             CONTENTIDS="NYDA.1960.001.01830"
+             LABEL="End elevation : Sheet no. 4,"/>
+   <mets:div ORDER="8" CONTENTIDS="NYDA.1960.001.01831" LABEL="End elevation."/>
+   <mets:div ORDER="9"
+             CONTENTIDS="NYDA.1960.001.01832"
+             LABEL="Side elevation : Sheet no. 5,"/>
+   <mets:div ORDER="10" CONTENTIDS="NYDA.1960.001.01833" LABEL="Side elevation"/>
+   <mets:div ORDER="11"
+             CONTENTIDS="NYDA.1960.001.01834"
+             LABEL="End elevation : Sheet no. 6,"/>
+   <mets:div ORDER="12" CONTENTIDS="NYDA.1960.001.01835" LABEL="End elevation"/>
+</mets:structMap>

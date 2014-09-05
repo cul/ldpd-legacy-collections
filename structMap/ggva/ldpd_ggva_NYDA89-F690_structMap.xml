@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mets:structMap xmlns:mets="http://www.loc.gov/METS/" LABEL="ldpd.ggva.NYDA89-F690">
+   <mets:div ORDER="1"
+             CONTENTIDS="NYDA.1960.001.04371"
+             LABEL="First floor plan."/>
+   <mets:div ORDER="2"
+             CONTENTIDS="NYDA.1960.001.04372"
+             LABEL="Partial first floor plan, elevation of wall in breakfast rm."/>
+   <mets:div ORDER="3"
+             CONTENTIDS="NYDA.1960.001.04373"
+             LABEL="Partial first floor plan"/>
+   <mets:div ORDER="4"
+             CONTENTIDS="NYDA.1960.001.04374"
+             LABEL="Second floor plan."/>
+   <mets:div ORDER="5"
+             CONTENTIDS="NYDA.1960.001.04375"
+             LABEL="Partial 2d floor plan"/>
+   <mets:div ORDER="6"
+             CONTENTIDS="NYDA.1960.001.04376"
+             LABEL="Interior elevations -- dining room, north, dining room south."/>
+</mets:structMap>

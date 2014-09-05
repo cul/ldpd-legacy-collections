@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mets:structMap xmlns:mets="http://www.loc.gov/METS/" LABEL="ldpd.ggva.NYDA89-F753">
+   <mets:div ORDER="1"
+             CONTENTIDS="NYDA.1960.001.03107"
+             LABEL="Partial floor plan, partial plan of wall"/>
+   <mets:div ORDER="2"
+             CONTENTIDS="NYDA.1960.001.03108"
+             LABEL="Floor plan showing suggestion #1, plan of wall showing suggestion #2, ceiling plan."/>
+   <mets:div ORDER="3"
+             CONTENTIDS="NYDA.1960.001.03109"
+             LABEL="Ceiling plan showing suggestion #3, elevation of wall showing suggestion #3."/>
+   <mets:div ORDER="4"
+             CONTENTIDS="NYDA.1960.001.03110"
+             LABEL="Elevations -- south side of room showing suggestion #1, north side of room showing suggestion #1 and 3?, south side of room showing suggestion #?"/>
+   <mets:div ORDER="5"
+             CONTENTIDS="NYDA.1960.001.03111"
+             LABEL="Library ceiling plan"/>
+   <mets:div ORDER="6"
+             CONTENTIDS="NYDA.1960.001.03112"
+             LABEL="Library ceiling plan ; elevations of vestibule -- looking south, looking west, looking north, looking east ; wardrobe in linen room in elevation and section &#34;A-A&#34; ; linen press in elevation and section."/>
+   <mets:div ORDER="7"
+             CONTENTIDS="NYDA.1960.001.03113"
+             LABEL="One half inch scale details of library -- elevation looking east, elevation and plan of wall looking north showing bay, elevation looking west (for bay details see sheet no. 9), elevation and plan of wall looking south."/>
+   <mets:div ORDER="8"
+             CONTENTIDS="NYDA.1960.001.03114"
+             LABEL="Details of library bay -- half elevation of bay entrance, half elevation of interior of bay, plan of bay, section thro' bay : 9,"/>
+   <mets:div ORDER="9"
+             CONTENTIDS="NYDA.1960.001.03637"
+             LABEL="Floor plan of present library, elevations of walls."/>
+</mets:structMap>

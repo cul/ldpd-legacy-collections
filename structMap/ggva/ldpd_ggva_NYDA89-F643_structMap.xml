@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mets:structMap xmlns:mets="http://www.loc.gov/METS/" LABEL="ldpd.ggva.NYDA89-F643">
+   <mets:div ORDER="1"
+             CONTENTIDS="NYDA.1960.001.02778"
+             LABEL="First floor plan,"/>
+   <mets:div ORDER="2"
+             CONTENTIDS="NYDA.1960.001.02779"
+             LABEL="Second floor plan."/>
+   <mets:div ORDER="3"
+             CONTENTIDS="NYDA.1960.001.02780"
+             LABEL="Ocean front, elevation,"/>
+   <mets:div ORDER="4"
+             CONTENTIDS="NYDA.1960.001.02781"
+             LABEL="Ocean front, elevation."/>
+</mets:structMap>

@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mets:structMap xmlns:mets="http://www.loc.gov/METS/" LABEL="ldpd.ggva.NYDA89-F771">
+   <mets:div ORDER="1" CONTENTIDS="NYDA.1960.001.03205" LABEL="Plan of shed."/>
+   <mets:div ORDER="2"
+             CONTENTIDS="NYDA.1960.001.03206"
+             LABEL="Sketch for a potting house -- plan, south elevation, west elevation : Sheet no. 1,"/>
+   <mets:div ORDER="3"
+             CONTENTIDS="NYDA.1960.001.03207"
+             LABEL="Potting house -- plan, typical wall section, west elevation, sketch of end elevation : 1."/>
+   <mets:div ORDER="4"
+             CONTENTIDS="NYDA.1960.001.03208"
+             LABEL="Potting house -- section C-C, section D-D, north elevation, section B-B, plan, west elevation, full size detail of boards and battens, section A-A through wall, outside door section, south elevation : Sheet no. 1."/>
+   <mets:div ORDER="5"
+             CONTENTIDS="NYDA.1960.001.03209"
+             LABEL="Potting house -- section C-C, section D-D, north elevation, section B-B, plan, west elevation, F.S.D. of boards and battens, section A-A through wall, outside door section, south elevation : [Sheet no. 1]"/>
+   <mets:div ORDER="6"
+             CONTENTIDS="NYDA.1960.001.03210"
+             LABEL="Sketch showing proposed retaining wall in north lot -- plan : Sheet 2,"/>
+   <mets:div ORDER="7"
+             CONTENTIDS="NYDA.1960.001.03212"
+             LABEL="Retaining wall -- elevation, plan"/>
+   <mets:div ORDER="8"
+             CONTENTIDS="NYDA.1960.001.03213"
+             LABEL="Retaining wall steps in plan and elevation, section through wall"/>
+   <mets:div ORDER="9"
+             CONTENTIDS="NYDA.1960.001.03214"
+             LABEL="Elevation of west wall, plan of wall, elevation of north wall by new greenhouse, section of high wall part B."/>
+   <mets:div ORDER="10"
+             CONTENTIDS="NYDA.1960.001.03215"
+             LABEL="Section D-D, section C-C, section B-B, section A-A, section E-E, section F-F, section G-G."/>
+   <mets:div ORDER="11"
+             CONTENTIDS="NYDA.1960.001.03216"
+             LABEL="Wall and steps -- sectional elevation of South side A-A, perspective drawing of same"/>
+   <mets:div ORDER="12"
+             CONTENTIDS="NYDA.1960.001.03217"
+             LABEL="Sect. A and sect. B through wall."/>
+   <mets:div ORDER="13"
+             CONTENTIDS="NYDA.1960.001.03218"
+             LABEL="Section A-A through wall, rear elevation of A-A, detail drawing"/>
+   <mets:div ORDER="14"
+             CONTENTIDS="NYDA.1960.001.03219"
+             LABEL="Section B-B through wall."/>
+   <mets:div ORDER="15"
+             CONTENTIDS="NYDA.1960.001.03220"
+             LABEL="Section through wall? at potting house"/>
+   <mets:div ORDER="16"
+             CONTENTIDS="NYDA.1960.001.03221"
+             LABEL="Section C-C through wall."/>
+   <mets:div ORDER="17"
+             CONTENTIDS="NYDA.1960.001.03222"
+             LABEL="Rough sketch of unidentified plan showing steps."/>
+   <mets:div ORDER="18"
+             CONTENTIDS="NYDA.1960.001.03223"
+             LABEL="Unidentified partial floor plan."/>
+</mets:structMap>

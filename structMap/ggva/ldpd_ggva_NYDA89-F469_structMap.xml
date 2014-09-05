@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mets:structMap xmlns:mets="http://www.loc.gov/METS/" LABEL="ldpd.ggva.NYDA89-F469">
+   <mets:div ORDER="1"
+             CONTENTIDS="NYDA.1960.001.00262"
+             LABEL="Rough perspective sketch showing front and side of building"/>
+   <mets:div ORDER="2"
+             CONTENTIDS="NYDA.1960.001.00263"
+             LABEL="Sketch of basement plan"/>
+   <mets:div ORDER="3"
+             CONTENTIDS="NYDA.1960.001.00264"
+             LABEL="Sketch of basement plan"/>
+   <mets:div ORDER="4"
+             CONTENTIDS="NYDA.1960.001.00265"
+             LABEL="Sketch of basement plan"/>
+   <mets:div ORDER="5"
+             CONTENTIDS="NYDA.1960.001.00266"
+             LABEL="Sketches of two versions of first floor plan"/>
+   <mets:div ORDER="6"
+             CONTENTIDS="NYDA.1960.001.00267"
+             LABEL="Sketch offirst floor plan,"/>
+   <mets:div ORDER="7" CONTENTIDS="NYDA.1960.001.00268" LABEL="First floor plan"/>
+   <mets:div ORDER="8"
+             CONTENTIDS="NYDA.1960.001.00269"
+             LABEL="Sketch of 1st floor plan"/>
+   <mets:div ORDER="9"
+             CONTENTIDS="NYDA.1960.001.00270"
+             LABEL="Sketch of mezzanine floor plan."/>
+   <mets:div ORDER="10"
+             CONTENTIDS="NYDA.1960.001.00271"
+             LABEL="Sketch of upper floor plan showing offices."/>
+</mets:structMap>

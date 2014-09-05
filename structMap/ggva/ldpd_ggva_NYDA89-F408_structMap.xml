@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mets:structMap xmlns:mets="http://www.loc.gov/METS/" LABEL="ldpd.ggva.NYDA89-F408">
+   <mets:div ORDER="1"
+             CONTENTIDS="NYDA.1960.001.01204"
+             LABEL="Second floor plan : Sheet no.1."/>
+   <mets:div ORDER="2"
+             CONTENTIDS="NYDA.1960.001.01205"
+             LABEL="Partial west elevation, partial plan of second floor : Sheet no. 2."/>
+   <mets:div ORDER="3"
+             CONTENTIDS="NYDA.1960.001.01206"
+             LABEL="Partial east elevation, partial plan of second floor : Sheet no. 3."/>
+   <mets:div ORDER="4"
+             CONTENTIDS="NYDA.1960.001.01207"
+             LABEL="Dining room details -- half plan of ceiling ; east, south and west elevations : Sheet no. 6 [?]"/>
+   <mets:div ORDER="5"
+             CONTENTIDS="NYDA.1960.001.01208"
+             LABEL="Elevations of staircase -- west, east, north : Sheet no. 6."/>
+   <mets:div ORDER="6"
+             CONTENTIDS="NYDA.1960.001.01209"
+             LABEL="Interior elevations of unidentified room -- north, south, east, west : Sheet no. 7."/>
+</mets:structMap>

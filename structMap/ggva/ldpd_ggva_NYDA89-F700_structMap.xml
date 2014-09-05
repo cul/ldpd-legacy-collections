@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mets:structMap xmlns:mets="http://www.loc.gov/METS/" LABEL="ldpd.ggva.NYDA89-F700">
+   <mets:div ORDER="1"
+             CONTENTIDS="NYDA.1960.001.01719"
+             LABEL="Foundation plan, 1/2 in. scale detail of footings for 8&#34; and 12&#34; brick piers, section B-C, section A-B, detail of chimney footings : No. 1."/>
+   <mets:div ORDER="2"
+             CONTENTIDS="NYDA.1960.001.01720"
+             LABEL="First floor plan : No. 2."/>
+   <mets:div ORDER="3"
+             CONTENTIDS="NYDA.1960.001.01721"
+             LABEL="Second floor plan : 3."/>
+   <mets:div ORDER="4" CONTENTIDS="NYDA.1960.001.01722" LABEL="Roof plan : 4."/>
+   <mets:div ORDER="5"
+             CONTENTIDS="NYDA.1960.001.01723"
+             LABEL="South (or front) elevation : No. 5."/>
+   <mets:div ORDER="6"
+             CONTENTIDS="NYDA.1960.001.01724"
+             LABEL="East elevation : No. 6."/>
+   <mets:div ORDER="7"
+             CONTENTIDS="NYDA.1960.001.01725"
+             LABEL="North (or rear) elevation : No. 7."/>
+   <mets:div ORDER="8"
+             CONTENTIDS="NYDA.1960.001.01726"
+             LABEL="West elevation : No. 8."/>
+   <mets:div ORDER="9"
+             CONTENTIDS="NYDA.1960.001.01727"
+             LABEL="1/2 in. scale details of exterior finish -- section thro' front wall ; elevation of second story front windows ; elevation of south end of front hall showing front door ; section of main cornice showing goose neck to gargoyle ; partial elevation of front with section ; section of front door ; section thro' side light : No. 9."/>
+   <mets:div ORDER="10"
+             CONTENTIDS="NYDA.1960.001.01728"
+             LABEL="1/4 in. scale details of interior finish -- north side of dining rm. (oak paneled wainscot), west side, back (oak), front, east side, plan of ceiling (showing leaded glass &amp; stereo relief), plan of ceiling under landing (paneled oak) : No. 10."/>
+</mets:structMap>

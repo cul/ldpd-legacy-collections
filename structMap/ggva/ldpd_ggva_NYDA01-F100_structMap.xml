@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mets:structMap xmlns:mets="http://www.loc.gov/METS/" LABEL="ldpd.ggva.NYDA01-F100">
+   <mets:div ORDER="1"
+             CONTENTIDS="NYDA.1987.003.00016"
+             LABEL="East (front) elevation."/>
+   <mets:div ORDER="2"
+             CONTENTIDS="NYDA.1987.003.00017"
+             LABEL="Front and side elevation taken from northeast corner."/>
+   <mets:div ORDER="3"
+             CONTENTIDS="NYDA.1987.003.00018"
+             LABEL="West (rear) elevation."/>
+   <mets:div ORDER="4" CONTENTIDS="NYDA.1987.003.00019" LABEL="Rear terrace."/>
+   <mets:div ORDER="5" CONTENTIDS="NYDA.1987.003.00020" LABEL="Front terrace."/>
+</mets:structMap>

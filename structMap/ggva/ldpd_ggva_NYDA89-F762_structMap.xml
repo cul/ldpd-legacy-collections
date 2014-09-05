@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mets:structMap xmlns:mets="http://www.loc.gov/METS/" LABEL="ldpd.ggva.NYDA89-F762">
+   <mets:div ORDER="1"
+             CONTENTIDS="NYDA.1960.001.03508"
+             LABEL="Foundation plan ; main floor plan ; detail of chimney footing for living rm. fireplace (dining rm. chimney footing same detail) ; detail drawings of piers and footings ; interior elevations -- north side in liv. rm., west side of liv. rm. and hall, north side of dining rm., east side of pantry and dining room, south side of bedrm. 1 : Sheet no. 1."/>
+   <mets:div ORDER="2"
+             CONTENTIDS="NYDA.1960.001.03509"
+             LABEL="Foundation plan ; main floor plan ; detail of chimney footing for living rm. fireplace (dining rm. chimney footing same detail) ; detail drawings of piers and footings ; interior elevations -- north side in liv. rm., west side of liv. rm. and hall, north side of dining rm., east side of pantry and dining room, south side of bedrm. 1 : Sheet no. 1."/>
+   <mets:div ORDER="3"
+             CONTENTIDS="NYDA.1960.001.03510"
+             LABEL="North elevation ; west elevation ; front elevation ; east elevation : Sheet no. 2."/>
+   <mets:div ORDER="4"
+             CONTENTIDS="NYDA.1960.001.03511"
+             LABEL="North elevation ; west elevation ; front elevation ; east elevation : Sheet no. 2."/>
+   <mets:div ORDER="5"
+             CONTENTIDS="NYDA.1960.001.03512"
+             LABEL="Sections through walls with details of windows ; detail of lattice work ; details of front door : Sheet 3."/>
+   <mets:div ORDER="6"
+             CONTENTIDS="NYDA.1960.001.03513"
+             LABEL="Sections through walls with details of windows ; detail of lattice work ; details of front door : Sheet 3."/>
+   <mets:div ORDER="7"
+             CONTENTIDS="NYDA.1960.001.03514"
+             LABEL="1 inch scale detail of fireplace in dining room -- front elevation, section, plan : Sheet no. 4."/>
+   <mets:div ORDER="8"
+             CONTENTIDS="NYDA.1960.001.03515"
+             LABEL="1 inch scale detail of fireplace in dining room -- front elevation, section, plan : Sheet no. 4."/>
+   <mets:div ORDER="9"
+             CONTENTIDS="NYDA.1960.001.03516"
+             LABEL="1 inch scale details of mantels -- living room fireplace in front elevation, section, and plan ; front elevation of bedroom 1 fireplace : Sheet 5."/>
+   <mets:div ORDER="10"
+             CONTENTIDS="NYDA.1960.001.03517"
+             LABEL="1 inch scale details of mantels -- living room fireplace in front elevation, section, and plan ; front elevation of bedroom 1 fireplace : Sheet 5."/>
+   <mets:div ORDER="11"
+             CONTENTIDS="NYDA.1960.001.03518"
+             LABEL="1 1/2 inch scale details of seat and bookcases in living room, and batten doors -- plan, section, and elevation of seat and bookcases ; details of batten doors in front and side elevations : Sheet 6."/>
+   <mets:div ORDER="12"
+             CONTENTIDS="NYDA.1960.001.03519"
+             LABEL="1 1/2 inch scale details of seat and bookcases in living room, and batten doors -- plan, section and elevation of seat and bookcases ; details of batten doors in front and side elevations : Sheet 6."/>
+   <mets:div ORDER="13"
+             CONTENTIDS="NYDA.1960.001.03520"
+             LABEL="1 1/2 inch scale details of pantry and china case in dining room -- plan, section and elevation of china case ; details of pantry in plan and elevation, plan of cupboard &#34;A&#34; : #7."/>
+   <mets:div ORDER="14"
+             CONTENTIDS="NYDA.1960.001.03521"
+             LABEL="Unidentified sketches."/>
+</mets:structMap>

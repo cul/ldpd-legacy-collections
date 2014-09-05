@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mets:structMap xmlns:mets="http://www.loc.gov/METS/" LABEL="ldpd.ggva.NYDA89-F366">
+   <mets:div ORDER="1"
+             CONTENTIDS="NYDA.1960.001.01446"
+             LABEL="Foundation plan ; detail drawings of-- piers, chimney footing and girder, posts &amp; footings : 1."/>
+   <mets:div ORDER="2"
+             CONTENTIDS="NYDA.1960.001.01447"
+             LABEL="Plan showing extra first floor joists"/>
+   <mets:div ORDER="3"
+             CONTENTIDS="NYDA.1960.001.01448"
+             LABEL="First floor plan ; details in elevations and section of bedrm. #1mantel and living rm. mantel : 2."/>
+   <mets:div ORDER="4"
+             CONTENTIDS="NYDA.1960.001.01449"
+             LABEL="First floor plan of dining room showing addtion ; 1/4&#34; scale detail of case in dining room ; south elevation of addition; east elevation of addition ; section at &#34;A&#34; showing roofing of addition"/>
+   <mets:div ORDER="5"
+             CONTENTIDS="NYDA.1960.001.01450"
+             LABEL="Second floor plan : 3."/>
+   <mets:div ORDER="6"
+             CONTENTIDS="NYDA.1960.001.01451"
+             LABEL="East elevation ; west elevation : 4."/>
+   <mets:div ORDER="7"
+             CONTENTIDS="NYDA.1960.001.01452"
+             LABEL="Partial west elevation."/>
+   <mets:div ORDER="8"
+             CONTENTIDS="NYDA.1960.001.01453"
+             LABEL="South elevation, north elevation : 5."/>
+   <mets:div ORDER="9"
+             CONTENTIDS="NYDA.1960.001.01454"
+             LABEL="1/2 inch scale details -- detail of lattice work between piers ; typical wall section with exterior and interior elevations of window ; front door details ; detail of bracket : 6."/>
+   <mets:div ORDER="10"
+             CONTENTIDS="NYDA.1960.001.01455"
+             LABEL="1/2 inch scale details of living room -- sections through walls, floor and roof ; outside and inside elevations of window ; shingled ridge roll ; gable ends ; end of ridge pole ; china cabinet ; F.S.D. of doors &#34;A&#34; : No. 7."/>
+   <mets:div ORDER="11"
+             CONTENTIDS="NYDA.1960.001.01456"
+             LABEL="1&#34; scale and full size details of doors : 8 /"/>
+   <mets:div ORDER="12"
+             CONTENTIDS="NYDA.1960.001.01457"
+             LABEL="Door details, 1 inch scale &amp; F.S. : Sheet no. 9,"/>
+   <mets:div ORDER="13"
+             CONTENTIDS="NYDA.1960.001.01458R"
+             LABEL=" Sheet no. 21A,"/>
+   <mets:div ORDER="14"
+             CONTENTIDS="NYDA.1960.001.01458V"
+             LABEL="Unidentified detail sketch"/>
+</mets:structMap>

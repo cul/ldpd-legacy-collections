@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mets:structMap xmlns:mets="http://www.loc.gov/METS/" LABEL="ldpd.ggva.NYDA01-F110">
+   <mets:div ORDER="1"
+             CONTENTIDS="NYDA.1987.003.00021"
+             LABEL="East (front) elevation."/>
+   <mets:div ORDER="2"
+             CONTENTIDS="NYDA.1987.003.00022"
+             LABEL="East (front) elevation and driveway."/>
+   <mets:div ORDER="3"
+             CONTENTIDS="NYDA.1987.003.00023"
+             LABEL="Paved court (rear elevation) and driveway."/>
+   <mets:div ORDER="4"
+             CONTENTIDS="NYDA.1987.003.00024"
+             LABEL="Wall and trellis surrounding grounds."/>
+   <mets:div ORDER="5"
+             CONTENTIDS="NYDA.1987.003.00025"
+             LABEL="Living room, view toward dining room."/>
+   <mets:div ORDER="6"
+             CONTENTIDS="NYDA.1987.003.00026"
+             LABEL="Living room, view from dining room."/>
+   <mets:div ORDER="7"
+             CONTENTIDS="NYDA.1987.003.00027"
+             LABEL="Sunroom with skylight."/>
+</mets:structMap>

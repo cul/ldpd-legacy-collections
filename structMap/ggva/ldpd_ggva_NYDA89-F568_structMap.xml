@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mets:structMap xmlns:mets="http://www.loc.gov/METS/" LABEL="ldpd.ggva.NYDA89-F568">
+   <mets:div ORDER="1"
+             CONTENTIDS="NYDA.1960.001.00711"
+             LABEL="1 1/2 in. scale and Full Size details of dining r'm work -- 1 1/2&#34; scale detail of dining r'm sideboard in end view, front elevation and section &#34;A&#34;-&#34;A&#34; ; F.S. detail of oak splice, F.S.D. of drawer handle, F.S. detail of cut for front of shelves,"/>
+   <mets:div ORDER="2"
+             CONTENTIDS="NYDA.1960.001.00712"
+             LABEL="3 in. and F.S. detail of electric light fixture and 1 1/2 in. scale detail of bookcase -- 1 1/2 in. scale detail of bookcase in plan of bottom, section, front elevation, section &#34;A-A&#34; ; 3 in. scale detail of electric light fixture in side elevation, F.S. plan of bottom of corner, details of hook (8 like this), section : Sheet no. 3,"/>
+   <mets:div ORDER="3"
+             CONTENTIDS="NYDA.1960.001.00713R"
+             LABEL="Unidentified rough detail sketches."/>
+   <mets:div ORDER="4"
+             CONTENTIDS="NYDA.1960.001.00713V"
+             LABEL="Bookcase detail sketches"/>
+   <mets:div ORDER="5"
+             CONTENTIDS="NYDA.1960.001.00714R"
+             LABEL="Unidentified rough detail sketch showing rectangle"/>
+   <mets:div ORDER="6"
+             CONTENTIDS="NYDA.1960.001.00714V"
+             LABEL="Unidentified rough detail sketch"/>
+   <mets:div ORDER="7"
+             CONTENTIDS="NYDA.1960.001.00715"
+             LABEL="Unidentified rough detail sketches, probably light fixture."/>
+   <mets:div ORDER="8"
+             CONTENTIDS="NYDA.1960.001.00716"
+             LABEL="Rough detail sketches."/>
+</mets:structMap>

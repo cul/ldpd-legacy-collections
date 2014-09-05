@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mets:structMap xmlns:mets="http://www.loc.gov/METS/" LABEL="ldpd.ggva.NYDA89-F649">
+   <mets:div ORDER="1" CONTENTIDS="NYDA.1960.001.01714" LABEL="Plan."/>
+   <mets:div ORDER="2"
+             CONTENTIDS="NYDA.1960.001.01715"
+             LABEL="Plan, front elevation, west elevation, north elevation, south elevation, elevation of inside of court with section throsic hall : No. 1."/>
+   <mets:div ORDER="3"
+             CONTENTIDS="NYDA.1960.001.01716"
+             LABEL="Elevation of west side of living rm. hall and bedrm. ; 1/8 in. scale details of dining room -- east side, south side, west side ; 1 1/2 inch scale details -- sections through walls with exterior and interior elevations of windows, shingled ridge roll, batten door : No. 2."/>
+   <mets:div ORDER="4"
+             CONTENTIDS="NYDA.1960.001.01717"
+             LABEL="Details of fence and pergola -- section, front view, elevation of back, plan ; details of pergola -- section, elevation : No. 18."/>
+   <mets:div ORDER="5"
+             CONTENTIDS="NYDA.1960.001.01718"
+             LABEL="Design for lanterns -- detail drawings : No. 20."/>
+</mets:structMap>
