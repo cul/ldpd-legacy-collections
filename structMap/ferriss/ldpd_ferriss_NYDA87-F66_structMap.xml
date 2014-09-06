@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mets:structMap xmlns:mets="http://www.loc.gov/METS/" LABEL="ldpd.ferriss.NYDA87-F66">
+   <mets:div ORDER="1"
+             CONTENTIDS="NYDA.1000.001.00032"
+             LABEL="Columbia University, School of International and Public Affairs and Casa Italiana."/>
+   <mets:div ORDER="2"
+             CONTENTIDS="NYDA.1000.001.00033"
+             LABEL="Columbia University, Law School."/>
+   <mets:div ORDER="3"
+             CONTENTIDS="NYDA.1000.001.00034"
+             LABEL="Columbia University, proposed East Campus building."/>
+</mets:structMap>

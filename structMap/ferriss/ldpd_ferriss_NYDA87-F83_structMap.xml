@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mets:structMap xmlns:mets="http://www.loc.gov/METS/" LABEL="ldpd.ferriss.NYDA87-F83">
+   <mets:div ORDER="1"
+             CONTENTIDS="NYDA.1000.001.00022"
+             LABEL="Perspective with airplane /"/>
+   <mets:div ORDER="2"
+             CONTENTIDS="NYDA.1000.001.00023"
+             LABEL="Airplane in hanger /"/>
+   <mets:div ORDER="3"
+             CONTENTIDS="NYDA.1000.001.00024"
+             LABEL="Airplane in hanger"/>
+   <mets:div ORDER="4"
+             CONTENTIDS="NYDA.1000.001.00025"
+             LABEL="Airplane in hanger /"/>
+   <mets:div ORDER="5"
+             CONTENTIDS="NYDA.1000.001.00026"
+             LABEL="Airplanes with boarding passengers /"/>
+   <mets:div ORDER="6"
+             CONTENTIDS="NYDA.1000.001.00027"
+             LABEL="Airplane with boarding passengers /"/>
+</mets:structMap>

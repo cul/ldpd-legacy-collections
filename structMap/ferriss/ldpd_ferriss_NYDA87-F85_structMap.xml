@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mets:structMap xmlns:mets="http://www.loc.gov/METS/" LABEL="ldpd.ferriss.NYDA87-F85">
+   <mets:div ORDER="1" CONTENTIDS="NYDA.1000.001.00152" LABEL="Perspective,"/>
+   <mets:div ORDER="2"
+             CONTENTIDS="NYDA.1000.001.00132"
+             LABEL="4 steps down from Subway level of bldg. to Subway station level."/>
+   <mets:div ORDER="3" CONTENTIDS="NYDA.1000.001.00133" LABEL="Sketch"/>
+   <mets:div ORDER="4" CONTENTIDS="NYDA.1000.001.00134" LABEL="Perspective"/>
+   <mets:div ORDER="5" CONTENTIDS="NYDA.1000.001.00135" LABEL="Sketch"/>
+   <mets:div ORDER="6" CONTENTIDS="NYDA.1000.001.00136" LABEL="Sketch"/>
+   <mets:div ORDER="7" CONTENTIDS="NYDA.1000.001.00137" LABEL="Sketch."/>
+   <mets:div ORDER="8" CONTENTIDS="NYDA.1000.001.00138" LABEL="Sketch"/>
+   <mets:div ORDER="9" CONTENTIDS="NYDA.1000.001.00139" LABEL="Sketch"/>
+   <mets:div ORDER="10" CONTENTIDS="NYDA.1000.001.00140" LABEL="Sketch."/>
+   <mets:div ORDER="11"
+             CONTENTIDS="NYDA.1000.001.00141"
+             LABEL="Plan1 drawing : pencil on paper ; 20.4 x 12.8 cm. (8 x 5 1/8 in.)"/>
+   <mets:div ORDER="12"
+             CONTENTIDS="NYDA.1000.001.00142. "
+             LABEL="Cross section looking east."/>
+   <mets:div ORDER="13"
+             CONTENTIDS="NYDA.1000.001.00143"
+             LABEL="From behind the Duffy Statue on L.L. N or S side of 49 : site sketch"/>
+   <mets:div ORDER="14"
+             CONTENTIDS="NYDA.1000.001.00144"
+             LABEL="55th and 7th Ave N-W Cor ; Bdy and 52 N-W Corner ; N. facade of Tower ? wholly visable from 7th and 50 NW Corner : site sketch"/>
+   <mets:div ORDER="15"
+             CONTENTIDS="NYDA.1000.001.00145"
+             LABEL="Site plan with dimensions"/>
+   <mets:div ORDER="16"
+             CONTENTIDS="NYDA.1000.001.00146"
+             LABEL="N facade of corner? wholly visible from S-W Cor. Bdy and 51st, entire bldg visible from S-E Cor Bay and 48 : site sketch"/>
+</mets:structMap>

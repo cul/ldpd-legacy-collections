@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mets:structMap xmlns:mets="http://www.loc.gov/METS/" LABEL="ldpd.ferriss.NYDA87-F595">
+   <mets:div ORDER="1"
+             CONTENTIDS="NYDA.1000.001.00284"
+             LABEL="Perspective drawing, General Assembly Building : study #159,"/>
+   <mets:div ORDER="2"
+             CONTENTIDS="NYDA.1000.001.00285"
+             LABEL="Perspective drawing, Secretariat Court : study #147."/>
+   <mets:div ORDER="3"
+             CONTENTIDS="NYDA.1000.001.00286"
+             LABEL="Perspective drawing, conference area : study #171,"/>
+</mets:structMap>

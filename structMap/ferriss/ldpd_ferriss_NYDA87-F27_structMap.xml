@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mets:structMap xmlns:mets="http://www.loc.gov/METS/" LABEL="ldpd.ferriss.NYDA87-F27">
+   <mets:div ORDER="1"
+             CONTENTIDS="NYDA.1000.001.00005R"
+             LABEL="Dawn on Seventh Avenue."/>
+   <mets:div ORDER="2"
+             CONTENTIDS="NYDA.1000.001.00005V"
+             LABEL="Miscellaneous sketch plan."/>
+</mets:structMap>

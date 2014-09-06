@@ -1,19 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<MODS:mods xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
-           xmlns:MODS="http://www.loc.gov/mods/v3"
+<MODS:mods xmlns:MODS="http://www.loc.gov/mods/v3"
+           xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
            xmlns:xlink="http://www.w3.org/1999/xlink"
-           xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-4.xsd"
-           version="3.4">
-   <MODS:name type="personal">
-      <MODS:namePart>Ferriss, Hugh, 1889-1962</MODS:namePart>
-   </MODS:name>
-   <MODS:titleInfo type="uniform">
-      <!--ELEMENT  MODS:title  SPACE-NORMALIZED-->
-<MODS:title>Shasta Dam (Calif.)</MODS:title>
-   </MODS:titleInfo>
+           xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd"
+           version="3.5">
+   <MODS:identifier type="local">NYDA.1000.001.00119</MODS:identifier>
    <MODS:titleInfo>
-      <!--ELEMENT  MODS:title  SPACE-NORMALIZED-->
-<MODS:title>Preliminary for drwg. of dam from Power in buildings.</MODS:title>
+      <MODS:title/>
    </MODS:titleInfo>
    <MODS:originInfo>
       <MODS:dateCreated>[1943]</MODS:dateCreated>
@@ -28,37 +21,19 @@
    </MODS:physicalDescription>
    <MODS:typeOfResource>still image</MODS:typeOfResource>
    <MODS:note>Digital image created from an analog slide.</MODS:note>
-   <MODS:accessCondition type="useAndReproduction">Columbia Libraries Staff Use
-                        Only</MODS:accessCondition>
-   <MODS:relatedItem displayLabel="Project" type="host">
-      <MODS:titleInfo>
-         <!--ELEMENT  MODS:title  SPACE-NORMALIZED-->
-<MODS:title>Hugh Ferriss Architectural Drawings</MODS:title>
-         <MODS:location>
-            <url>http://library.columbia.edu/indiv/avery/da/collections/ferriss.html</url>
-         </MODS:location>
-      </MODS:titleInfo>
-   </MODS:relatedItem>
+   <MODS:accessCondition type="useAndReproduction">No known restrictions.</MODS:accessCondition>
    <MODS:location>
       <MODS:physicalLocation authority="marcorg">NNC-A</MODS:physicalLocation>
-      <MODS:physicalLocation>Avery Architectural &amp; Fine Arts Library, Columbia
-                    University</MODS:physicalLocation>
-      <!--ELEMENT  MODS:shelfLocator  trailing punctuation removed-->
-<MODS:shelfLocator>NYDA.1000.001.00119</MODS:shelfLocator>
-      <MODS:url access="object in context" usage="primary display">http://www.columbia.edu/cu/libraries/inside/units/ldpd/avery/html/</MODS:url>
+      <MODS:physicalLocation>Avery Architectural &amp; Fine Arts Library, Columbia University</MODS:physicalLocation>
+      <MODS:shelfLocator>NYDA.1000.001.00119.</MODS:shelfLocator>
       <MODS:holdingSimple>
          <MODS:copyInformation>
             <MODS:subLocation>Drawings &amp; Archives</MODS:subLocation>
          </MODS:copyInformation>
       </MODS:holdingSimple>
    </MODS:location>
-   <!--ELEMENT  MODS:identifier  trailing punctuation removed-->
-<MODS:identifier type="local">NYDA.1000.001.00119</MODS:identifier>
-   <!--ELEMENT  MODS:identifier  trailing punctuation removed-->
-<MODS:identifier type="CLIO">3460322</MODS:identifier>
    <MODS:recordInfo>
       <MODS:recordContentSource>NNC</MODS:recordContentSource>
-      <MODS:recordOrigin>Cataloging by project AVIADOR staff, edited to conform to MODS,
-                    version 3.4.</MODS:recordOrigin>
+      <MODS:recordOrigin>Cataloging by project AVIADOR staff, edited to conform to MODS, version 3.5.</MODS:recordOrigin>
    </MODS:recordInfo>
 </MODS:mods>

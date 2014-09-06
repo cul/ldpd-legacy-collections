@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mets:structMap xmlns:mets="http://www.loc.gov/METS/" LABEL="ldpd.ferriss.NYDA87-F35">
+   <mets:div ORDER="1"
+             CONTENTIDS="NYDA.1000.001.00092"
+             LABEL="Plan and perspective : [Drwg.] #2."/>
+   <mets:div ORDER="2"
+             CONTENTIDS="NYDA.1000.001.00093"
+             LABEL="Plan and perspective : [Drwg.] #4."/>
+   <mets:div ORDER="3"
+             CONTENTIDS="NYDA.1000.001.00094"
+             LABEL="Plan and perspective : [Drwg.] #6."/>
+   <mets:div ORDER="4"
+             CONTENTIDS="NYDA.1000.001.00095"
+             LABEL="Plan and perspective : [Drwg.] #8."/>
+   <mets:div ORDER="5"
+             CONTENTIDS="NYDA.1000.001.00096"
+             LABEL="Plan and perspective : [Drwg.] #9."/>
+   <mets:div ORDER="6" CONTENTIDS="NYDA.1000.001.00097" LABEL="Plan"/>
+   <mets:div ORDER="7" CONTENTIDS="NYDA.1000.001.00098" LABEL="Site plan"/>
+   <mets:div ORDER="8"
+             CONTENTIDS="NYDA.1000.001.00099"
+             LABEL="Perspective : [Drwg.] #2."/>
+   <mets:div ORDER="9"
+             CONTENTIDS="NYDA.1000.001.00100"
+             LABEL="Bird's-eye perspective"/>
+   <mets:div ORDER="10"
+             CONTENTIDS="NYDA.1000.001.00101"
+             LABEL="Bird's-eye perspective : [Drwg.] #3-A."/>
+   <mets:div ORDER="11"
+             CONTENTIDS="NYDA.1000.001.00102"
+             LABEL="Bird's-eye perspective : [Drwg. no.]4."/>
+   <mets:div ORDER="12"
+             CONTENTIDS="NYDA.1000.001.00103"
+             LABEL="Perspective : [Drwg. no.] 5."/>
+   <mets:div ORDER="13"
+             CONTENTIDS="NYDA.1000.001.00104"
+             LABEL="Perspective : [Drwg. no.] 6."/>
+   <mets:div ORDER="14"
+             CONTENTIDS="NYDA.1000.001.00105"
+             LABEL="Perspective : [Drwg. no.] 7,"/>
+   <mets:div ORDER="15"
+             CONTENTIDS="NYDA.1000.001.00106"
+             LABEL="Perspective drawing : [Drwg.] #8,"/>
+   <mets:div ORDER="16"
+             CONTENTIDS="NYDA.1000.001.00107"
+             LABEL="Perspective : [Drwg.] #9."/>
+   <mets:div ORDER="17" CONTENTIDS="NYDA.1000.001.00108" LABEL="Perspective"/>
+   <mets:div ORDER="18" CONTENTIDS="NYDA.1000.001.00109" LABEL="Perspective"/>
+   <mets:div ORDER="19"
+             CONTENTIDS="NYDA.1000.001.00110"
+             LABEL="Perspective : [Drwg.] #9,"/>
+</mets:structMap>

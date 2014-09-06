@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mets:structMap xmlns:mets="http://www.loc.gov/METS/" LABEL="ldpd.ferriss.NYDA87-F99">
+   <mets:div ORDER="1"
+             CONTENTIDS="NYDA.1000.001.00170"
+             LABEL="Existing conditions ; Park Ave as it could be rebuilt under existing zoning resolution ; Park Ave as it could be rebuilt under proposed zoning resolution ..."/>
+   <mets:div ORDER="2" CONTENTIDS="NYDA.1000.001.00171" LABEL="Park Ave today."/>
+   <mets:div ORDER="3"
+             CONTENTIDS="NYDA.1000.001.00172"
+             LABEL="B-1 200 x 600 lot in C5-2 district."/>
+   <mets:div ORDER="4"
+             CONTENTIDS="NYDA.1000.001.00173"
+             LABEL="Perspective, plan &amp; elevations of an unknown building"/>
+   <mets:div ORDER="5" CONTENTIDS="NYDA.1000.001.00174" LABEL="A-1 ; A-2."/>
+   <mets:div ORDER="6" CONTENTIDS="NYDA.1000.001.00175" LABEL="A-1916."/>
+   <mets:div ORDER="7"
+             CONTENTIDS="NYDA.1000.001.00176"
+             LABEL="A-4 : perspective, plans &amp; elevations."/>
+   <mets:div ORDER="8"
+             CONTENTIDS="NYDA.1000.001.00177"
+             LABEL="A-3 : &#34;tower provision + bonus for plaza&#34;."/>
+   <mets:div ORDER="9" CONTENTIDS="NYDA.1000.001.00179" LABEL="Zoning C-55"/>
+</mets:structMap>

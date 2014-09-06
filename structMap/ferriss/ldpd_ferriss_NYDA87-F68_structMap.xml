@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mets:structMap xmlns:mets="http://www.loc.gov/METS/" LABEL="ldpd.ferriss.NYDA87-F68">
+   <mets:div ORDER="1"
+             CONTENTIDS="NYDA.1000.001.00217"
+             LABEL="Perspective of building at N. end of complex with river in foreground : [Drwg. no.] 1,"/>
+   <mets:div ORDER="2"
+             CONTENTIDS="NYDA.1000.001.00218"
+             LABEL="Perspective looking south,"/>
+   <mets:div ORDER="3"
+             CONTENTIDS="NYDA.1000.001.00219"
+             LABEL="Perspective of north wall /"/>
+   <mets:div ORDER="4"
+             CONTENTIDS="NYDA.1000.001.00220"
+             LABEL="Perspective view of north entrance,"/>
+   <mets:div ORDER="5"
+             CONTENTIDS="NYDA.1000.001.00221"
+             LABEL="Perspective view of north entrance"/>
+</mets:structMap>

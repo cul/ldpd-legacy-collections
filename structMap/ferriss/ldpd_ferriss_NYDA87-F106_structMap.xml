@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mets:structMap xmlns:mets="http://www.loc.gov/METS/" LABEL="ldpd.ferriss.NYDA87-F106">
+   <mets:div ORDER="1"
+             CONTENTIDS="NYDA.1000.001.00074"
+             LABEL="Bird's-eye ... at Idlewild."/>
+   <mets:div ORDER="2"
+             CONTENTIDS="NYDA.1000.001.00075"
+             LABEL="Pan Am Terminal, Idlewild : plan and perspective."/>
+   <mets:div ORDER="3"
+             CONTENTIDS="NYDA.1000.001.00076"
+             LABEL="Pan Am terminal, Idlewild."/>
+   <mets:div ORDER="4"
+             CONTENTIDS="NYDA.1000.001.00077"
+             LABEL="Perspective of Pam Am Terminal with plane"/>
+   <mets:div ORDER="5"
+             CONTENTIDS="NYDA.1000.001.00078"
+             LABEL="Pan Am Terminal - Idlewild."/>
+</mets:structMap>

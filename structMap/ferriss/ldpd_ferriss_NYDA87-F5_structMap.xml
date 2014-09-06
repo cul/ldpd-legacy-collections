@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mets:structMap xmlns:mets="http://www.loc.gov/METS/" LABEL="ldpd.ferriss.NYDA87-F5">
+   <mets:div ORDER="1"
+             CONTENTIDS="NYDA.1000.001.00082"
+             LABEL="Bird's-eye perspective"/>
+   <mets:div ORDER="2"
+             CONTENTIDS="NYDA.1000.001.00083"
+             LABEL="Bird's eye perspective"/>
+   <mets:div ORDER="3"
+             CONTENTIDS="NYDA.1000.001.00084"
+             LABEL="Bird's eye Perspective"/>
+   <mets:div ORDER="4" CONTENTIDS="NYDA.1000.001.00085" LABEL="Perspective"/>
+   <mets:div ORDER="5"
+             CONTENTIDS="NYDA.1000.001.00086"
+             LABEL="Bird's eye perspective"/>
+   <mets:div ORDER="6"
+             CONTENTIDS="NYDA.1000.001.00087"
+             LABEL="Bird's eye perspective"/>
+   <mets:div ORDER="7"
+             CONTENTIDS="NYDA.1000.001.00088"
+             LABEL="Bird's eye perspective"/>
+   <mets:div ORDER="8" CONTENTIDS="NYDA.1000.001.00089" LABEL="Perspective"/>
+</mets:structMap>

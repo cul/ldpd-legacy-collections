@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mets:structMap xmlns:mets="http://www.loc.gov/METS/" LABEL="ldpd.ferriss.NYDA87-F582">
+   <mets:div ORDER="1"
+             CONTENTIDS="NYDA.1000.001.00281"
+             LABEL="Perspective drawing : the &#34;floating&#34; building, United Nations"/>
+   <mets:div ORDER="2"
+             CONTENTIDS="NYDA.1000.001.00282"
+             LABEL="Perspective drawing, &#34;floating&#34; building, United Nations : study #133."/>
+   <mets:div ORDER="3"
+             CONTENTIDS="NYDA.1000.001.00283"
+             LABEL="Perspective drawing, &#34;floating&#34; building, United Nations"/>
+</mets:structMap>

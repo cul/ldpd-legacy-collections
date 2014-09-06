@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mets:structMap xmlns:mets="http://www.loc.gov/METS/" LABEL="ldpd.ferriss.NYDA87-F16">
+   <mets:div ORDER="1"
+             CONTENTIDS="NYDA.1000.001.00066"
+             LABEL="Presbyterian Church, Washington, D.C. : perspective in color /"/>
+   <mets:div ORDER="2"
+             CONTENTIDS="NYDA.1000.001.00067"
+             LABEL="Photoreproduction of a perspective drawing /"/>
+   <mets:div ORDER="3"
+             CONTENTIDS="NYDA.1000.001.00068"
+             LABEL="National Presbyterian Church /"/>
+</mets:structMap>

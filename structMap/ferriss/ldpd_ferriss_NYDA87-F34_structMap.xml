@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mets:structMap xmlns:mets="http://www.loc.gov/METS/" LABEL="ldpd.ferriss.NYDA87-F34">
+   <mets:div ORDER="1"
+             CONTENTIDS="NYDA.1000.001.00111"
+             LABEL="F.D. Roosevelt Drive overpass in construction."/>
+   <mets:div ORDER="2"
+             CONTENTIDS="NYDA.1000.001.00112"
+             LABEL="F.D. Roosevelt Drive overpass, completion."/>
+</mets:structMap>

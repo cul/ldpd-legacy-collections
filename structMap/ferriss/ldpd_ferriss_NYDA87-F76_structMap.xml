@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mets:structMap xmlns:mets="http://www.loc.gov/METS/" LABEL="ldpd.ferriss.NYDA87-F76">
+   <mets:div ORDER="1" CONTENTIDS="NYDA.1000.001.00128" LABEL="Perspective,"/>
+   <mets:div ORDER="2" CONTENTIDS="NYDA.1000.001.00129" LABEL="Perspective,"/>
+   <mets:div ORDER="3"
+             CONTENTIDS="NYDA.1000.001.00130"
+             LABEL="Bird's-eye perspective,"/>
+   <mets:div ORDER="4" CONTENTIDS="NYDA.1000.001.00131" LABEL="N. of 44th,"/>
+</mets:structMap>
