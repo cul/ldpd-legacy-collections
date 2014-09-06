@@ -5,7 +5,7 @@
            xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd"
            version="3.5">
    <MODS:identifier type="local">ldpd.ferriss.NYDA87-F114</MODS:identifier>
-   <MODS:identifier type="CLIO">3459866</MODS:identifier>
+   <MODS:identifier type="CLIO">CLIO_3459866</MODS:identifier>
    <MODS:name type="personal">
       <MODS:namePart>Ferriss, Hugh, </MODS:namePart>
    </MODS:name>

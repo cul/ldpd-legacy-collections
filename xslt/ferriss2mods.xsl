@@ -122,7 +122,7 @@
             version="3.5">
 
             <MODS:identifier type="local">ldpd.ferriss.<xsl:value-of select="$item_id"/></MODS:identifier>
-            <MODS:identifier type="CLIO"><xsl:value-of select="//marc:controlfield[@tag = '001']"/></MODS:identifier>
+            <MODS:identifier type="CLIO"><xsl:text>CLIO_</xsl:text><xsl:value-of select="//marc:controlfield[@tag = '001']"/></MODS:identifier>
             <xsl:for-each select="//marc:datafield[@tag = '100'][@ind1 = '1']/*">
                 <MODS:name type="personal">
                     <MODS:namePart>
