@@ -10,7 +10,8 @@
    </MODS:titleInfo>
    <MODS:originInfo>
       <MODS:dateCreated>undated</MODS:dateCreated>
-      <MODS:dateCreated keyDate="yes">0000-00-00</MODS:dateCreated>
+      <MODS:dateCreated encoding="w3cdtf" keyDate="yes" point="start">1906</MODS:dateCreated>
+      <MODS:dateCreated encoding="w3cdtf" point="end">1980</MODS:dateCreated>
    </MODS:originInfo>
    <MODS:physicalDescription>
       <MODS:extent>1 sheet</MODS:extent>

@@ -134,6 +134,31 @@
             </xsl:choose>
         </xsl:for-each>
     </xsl:template>
+    <xsl:template name="defaultDateRange" xmlns:MODS="http://www.loc.gov/mods/v3">
+        <xsl:param name="collection_id" />
+        <xsl:variable name="begin">
+            <xsl:choose>
+                <xsl:when test="$collection_id = 'ggva'">
+                    <xsl:text>1896</xsl:text>
+                </xsl:when>
+                <xsl:when test="$collection_id = 'ferriss'">
+                    <xsl:text>1906</xsl:text>
+                </xsl:when>
+            </xsl:choose>
+        </xsl:variable>
+        <xsl:variable name="end">
+            <xsl:choose>
+                <xsl:when test="$collection_id = 'ggva'">
+                    <xsl:text>1963</xsl:text>
+                </xsl:when>
+                <xsl:when test="$collection_id = 'ferriss'">
+                    <xsl:text>1980</xsl:text>
+                </xsl:when>
+            </xsl:choose>
+        </xsl:variable>
+        <MODS:dateCreated encoding="w3cdtf" keyDate="yes" point="start"><xsl:value-of select="$begin" /></MODS:dateCreated>
+        <MODS:dateCreated encoding="w3cdtf" point="end"><xsl:value-of select="$end" /></MODS:dateCreated>
+    </xsl:template>
     <xsl:template name="structMap">
         <xsl:param name="item_id"/>
         <mets:structMap xmlns:mets="http://www.loc.gov/METS/" LABEL="ldpd.{$collection_id}.{$item_id}">
@@ -234,9 +259,9 @@
                 <!--008 07-10-->
                 <xsl:choose>
                     <xsl:when test="substring(//marc:controlfield[@tag = '008'], 7, 1) = 'n'">
-                        <MODS:dateCreated keyDate="yes">
-                            <xsl:text>0000-00-00</xsl:text>
-                        </MODS:dateCreated>
+                        <xsl:call-template name="defaultDateRange">
+                            <xsl:with-param name="collection_id" select="$collection_id" />
+                        </xsl:call-template>
                     </xsl:when>
                     <xsl:when
                         test="contains(substring(//marc:controlfield[@tag = '008'], 12, 4), '1') ">
@@ -375,9 +400,9 @@
                 <!--008 07-10-->
                 <xsl:choose>
                     <xsl:when test="substring(//marc:controlfield[@tag = '008'], 7, 1) = 'n'">
-                        <MODS:dateCreated keyDate="yes">
-                            <xsl:text>0000-00-00</xsl:text>
-                        </MODS:dateCreated>
+                        <xsl:call-template name="defaultDateRange">
+                            <xsl:with-param name="collection_id" select="$collection_id" />
+                        </xsl:call-template>
                     </xsl:when>
                     <xsl:when
                         test="contains(substring(//marc:controlfield[@tag = '008'], 12, 4), '1') ">
