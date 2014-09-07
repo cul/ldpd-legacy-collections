@@ -9,7 +9,7 @@
       <MODS:title/>
    </MODS:titleInfo>
    <MODS:originInfo>
-      <MODS:dateCreated/>
+      <MODS:dateCreated>[undated]</MODS:dateCreated>
       <MODS:dateCreated keyDate="yes">0000-00-00</MODS:dateCreated>
    </MODS:originInfo>
    <MODS:physicalDescription>

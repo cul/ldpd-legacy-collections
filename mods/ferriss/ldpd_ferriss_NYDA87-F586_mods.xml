@@ -6,9 +6,6 @@
            version="3.5">
    <MODS:identifier type="local">ldpd.ferriss.NYDA87-F586</MODS:identifier>
    <MODS:identifier type="CLIO">CLIO_3460384</MODS:identifier>
-   <MODS:titleInfo type="uniform">
-      <MODS:title/>
-   </MODS:titleInfo>
    <MODS:titleInfo>
       <MODS:title>Unidentified house</MODS:title>
    </MODS:titleInfo>

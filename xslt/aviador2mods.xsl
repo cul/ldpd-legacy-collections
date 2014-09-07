@@ -114,6 +114,26 @@
             </xsl:otherwise>
         </xsl:choose>
     </xsl:template>
+    <xsl:template name="publicationDate" xmlns:MODS="http://www.loc.gov/mods/v3">
+        <xsl:for-each select="//marc:datafield[@tag = '260']">
+            <xsl:choose>
+                <xsl:when test="./marc:subfield[@code='c']">
+                    <MODS:dateCreated>
+                        <!--260 $c -->
+                        <xsl:value-of select="./marc:subfield[@code = 'c']"
+                        />
+                    </MODS:dateCreated>
+                </xsl:when>
+                <xsl:when test="./marc:subfield[@code='a']">
+                    <MODS:dateCreated>
+                        <!--260 $c -->
+                        <xsl:value-of select="./marc:subfield[@code = 'a']"
+                        />
+                    </MODS:dateCreated>
+                </xsl:when>
+            </xsl:choose>
+        </xsl:for-each>
+    </xsl:template>
     <xsl:template name="structMap">
         <xsl:param name="item_id"/>
         <mets:structMap xmlns:mets="http://www.loc.gov/METS/" LABEL="ldpd.{$collection_id}.{$item_id}">
@@ -189,19 +209,19 @@
                 </MODS:name>
             </xsl:for-each>
 
-            <MODS:titleInfo type="uniform">
-                <MODS:title>
-                    <xsl:for-each select="//marc:datafield[@tag = '240']">
-                        <xsl:for-each select="child::marc:subfield">
+            <xsl:if test="//marc:datafield[@tag = '240']">
+                <MODS:titleInfo type="uniform">
+                    <MODS:title>
+                        <xsl:for-each select="//marc:datafield[@tag = '240']/marc:subfield">
                             <xsl:call-template name="subfields">
                                 <xsl:with-param name="strip">
                                     <xsl:text>yes</xsl:text>
                                 </xsl:with-param>
                             </xsl:call-template>
                         </xsl:for-each>
-                    </xsl:for-each>
-                </MODS:title>
-            </MODS:titleInfo>
+                    </MODS:title>
+                </MODS:titleInfo>
+            </xsl:if>
             <MODS:titleInfo>
                 <MODS:title>
                     <!-- 245 $a -->
@@ -210,12 +230,7 @@
                 </MODS:title>
             </MODS:titleInfo>
             <MODS:originInfo>
-                <MODS:dateCreated>
-                    <!--260 $c -->
-                    <xsl:value-of select="//marc:datafield[@tag = '260']/marc:subfield[@code = 'c']"
-                    />
-                </MODS:dateCreated>
-
+                <xsl:call-template name="publicationDate" />
                 <!--008 07-10-->
                 <xsl:choose>
                     <xsl:when test="substring(//marc:controlfield[@tag = '008'], 7, 1) = 'n'">
@@ -355,11 +370,7 @@
                 </MODS:title>
             </MODS:titleInfo>
             <MODS:originInfo>
-                <MODS:dateCreated>
-                    <!--260 $c -->
-                    <xsl:value-of select="//marc:datafield[@tag = '260']/marc:subfield[@code = 'c']"
-                    />
-                </MODS:dateCreated>
+                <xsl:call-template name="publicationDate" />
 
                 <!--008 07-10-->
                 <xsl:choose>
