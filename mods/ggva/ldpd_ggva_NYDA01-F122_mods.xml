@@ -7,7 +7,7 @@
    <MODS:identifier type="local">ldpd.ggva.NYDA01-F122</MODS:identifier>
    <MODS:identifier type="CLIO">CLIO_3464638</MODS:identifier>
    <MODS:name type="personal">
-      <MODS:namePart>Hulbert, Leroy.</MODS:namePart>
+      <MODS:namePart>Hulbert, Leroy</MODS:namePart>
    </MODS:name>
    <MODS:titleInfo type="uniform">
       <MODS:title>Mortimer Fleishhacker house (Woodside, Calif.)</MODS:title>
@@ -27,22 +27,15 @@
       <MODS:form authority="marcform">electronic</MODS:form>
    </MODS:physicalDescription>
    <MODS:typeOfResource>still image</MODS:typeOfResource>
-   <MODS:note type="ownership">
-    Gift made possible by Harwell Hamilton Harris. Accession number 1987.003.
-  </MODS:note>
-   <MODS:accessCondition type="useAndReproduction">No known restrictions.</MODS:accessCondition>
-   <MODS:relatedItem displayLabel="Collection" type="host">
-      <MODS:titleInfo>
-         <MODS:title>Greene &amp; Greene architectural records and papers</MODS:title>
-      </MODS:titleInfo>
-   </MODS:relatedItem>
+   <MODS:note type="ownership">Gift made possible by Harwell Hamilton Harris. Accession number 1987.003</MODS:note>
+   <MODS:accessCondition type="useAndReproduction">Columbia Libraries Staff Use Only</MODS:accessCondition>
    <MODS:relatedItem displayLabel="Project" type="host">
       <MODS:titleInfo>
          <MODS:title>Greene &amp; Greene Project</MODS:title>
+         <MODS:location>
+            <url>http://www.columbia.edu/cgi-bin/cul/resolve?clio4278328</url>
+         </MODS:location>
       </MODS:titleInfo>
-      <MODS:location>
-         <url>http://www.columbia.edu/cgi-bin/cul/resolve?clio4278328</url>
-      </MODS:location>
    </MODS:relatedItem>
    <MODS:location>
       <MODS:physicalLocation authority="marcorg">NNC-A</MODS:physicalLocation>

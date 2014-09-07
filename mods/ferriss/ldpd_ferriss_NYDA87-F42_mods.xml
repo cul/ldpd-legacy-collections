@@ -7,10 +7,8 @@
    <MODS:identifier type="local">ldpd.ferriss.NYDA87-F42</MODS:identifier>
    <MODS:identifier type="CLIO">CLIO_3460200</MODS:identifier>
    <MODS:name type="personal">
-      <MODS:namePart>Ferriss, Hugh, </MODS:namePart>
-   </MODS:name>
-   <MODS:name type="personal">
-      <MODS:namePart>1889-1962.</MODS:namePart>
+      <MODS:namePart>Ferriss, Hugh,</MODS:namePart>
+      <MODS:namePart type="date">1889-1962</MODS:namePart>
    </MODS:name>
    <MODS:titleInfo type="uniform">
       <MODS:title>Shelton Towers Hotel (New York, N.Y.)</MODS:title>
@@ -33,7 +31,7 @@
    <MODS:accessCondition type="useAndReproduction">Columbia Libraries Staff Use Only</MODS:accessCondition>
    <MODS:relatedItem displayLabel="Collection" type="host">
       <MODS:titleInfo>
-         <MODS:title>Greene &amp; Greene architectural records and papers</MODS:title>
+         <MODS:title>The Hugh Ferriss collection</MODS:title>
       </MODS:titleInfo>
    </MODS:relatedItem>
    <MODS:relatedItem displayLabel="Project" type="host">

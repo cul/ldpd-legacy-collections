@@ -7,10 +7,8 @@
    <MODS:identifier type="local">ldpd.ferriss.NYDA87-F107</MODS:identifier>
    <MODS:identifier type="CLIO">CLIO_3459858</MODS:identifier>
    <MODS:name type="corporate">
-      <MODS:namePart>Cranbrook Academy of Art. </MODS:namePart>
-   </MODS:name>
-   <MODS:name type="corporate">
-      <MODS:namePart>Museum.</MODS:namePart>
+      <MODS:namePart>Cranbrook Academy of Art.</MODS:namePart>
+      <MODS:namePart>Museum</MODS:namePart>
    </MODS:name>
    <MODS:titleInfo type="uniform">
       <MODS:title/>
@@ -34,7 +32,7 @@
    <MODS:accessCondition type="useAndReproduction">Columbia Libraries Staff Use Only</MODS:accessCondition>
    <MODS:relatedItem displayLabel="Collection" type="host">
       <MODS:titleInfo>
-         <MODS:title>Greene &amp; Greene architectural records and papers</MODS:title>
+         <MODS:title>The Hugh Ferriss collection</MODS:title>
       </MODS:titleInfo>
    </MODS:relatedItem>
    <MODS:relatedItem displayLabel="Project" type="host">

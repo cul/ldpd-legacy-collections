@@ -7,7 +7,7 @@
    <MODS:identifier type="local">ldpd.ggva.NYDA89-F728</MODS:identifier>
    <MODS:identifier type="CLIO">CLIO_3462481</MODS:identifier>
    <MODS:name type="corporate">
-      <MODS:namePart>Greene &amp; Greene.</MODS:namePart>
+      <MODS:namePart>Greene &amp; Greene</MODS:namePart>
    </MODS:name>
    <MODS:titleInfo type="uniform">
       <MODS:title>Charles S. Witbeck house (Santa Monica, Calif.)</MODS:title>
@@ -27,22 +27,20 @@
       <MODS:form authority="marcform">electronic</MODS:form>
    </MODS:physicalDescription>
    <MODS:typeOfResource>still image</MODS:typeOfResource>
-   <MODS:note type="ownership">
-    Gift of Jean Murray Bangs (Mrs. Harwell Hamilton Harris), 1960; formerly the collection of Charles Sumner Greene.
-  </MODS:note>
-   <MODS:accessCondition type="useAndReproduction">No known restrictions.</MODS:accessCondition>
+   <MODS:note type="ownership">Gift of Jean Murray Bangs (Mrs. Harwell Hamilton Harris), 1960; formerly the collection of Charles Sumner Greene</MODS:note>
+   <MODS:accessCondition type="useAndReproduction">Columbia Libraries Staff Use Only</MODS:accessCondition>
    <MODS:relatedItem displayLabel="Collection" type="host">
       <MODS:titleInfo>
-         <MODS:title>Greene &amp; Greene architectural records and papers</MODS:title>
+         <MODS:title>The Greene &amp; Greene collection of architectural drawings</MODS:title>
       </MODS:titleInfo>
    </MODS:relatedItem>
    <MODS:relatedItem displayLabel="Project" type="host">
       <MODS:titleInfo>
          <MODS:title>Greene &amp; Greene Project</MODS:title>
+         <MODS:location>
+            <url>http://www.columbia.edu/cgi-bin/cul/resolve?clio4278328</url>
+         </MODS:location>
       </MODS:titleInfo>
-      <MODS:location>
-         <url>http://www.columbia.edu/cgi-bin/cul/resolve?clio4278328</url>
-      </MODS:location>
    </MODS:relatedItem>
    <MODS:location>
       <MODS:physicalLocation authority="marcorg">NNC-A</MODS:physicalLocation>
