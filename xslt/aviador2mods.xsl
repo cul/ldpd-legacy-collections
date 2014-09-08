@@ -62,6 +62,30 @@
         <xsl:variable name="form"><xsl:value-of select="lower-case(string-join(//marc:datafield[@tag = '655']/marc:subfield[@code = 'a'],' '))" /></xsl:variable>
         <xsl:value-of select="matches($form,'photograph') and not(matches($form,'drawing'))" />
     </xsl:variable>
+    <xsl:variable name="arch_geo_ref">
+        <xsl:variable name="geo_subject"><xsl:value-of select="lower-case(string-join(//marc:datafield[@tag = '651']/marc:subfield[@code = 'a'],' '))" /></xsl:variable>
+        <xsl:variable name="local_subject"><xsl:value-of select="lower-case(string-join(//marc:datafield[starts-with(@tag, '69')]/marc:subfield[@code = 'a'],' '))" /></xsl:variable>
+        <xsl:choose>
+            <xsl:when test="contains($geo_subject, 'calif.') or contains($local_subject, 'calif.')">
+                <xsl:text>--California</xsl:text>
+            </xsl:when>
+            <xsl:when test="contains($geo_subject, 'pasadena (ca.)') or contains($local_subject, 'pasadena (ca.)')">
+                <xsl:text>--California</xsl:text>
+            </xsl:when>
+            <xsl:when test="contains($geo_subject, '(fla.)') or contains($local_subject, '(fla.)')">
+                <xsl:text>--Florida</xsl:text>
+            </xsl:when>
+            <xsl:when test="contains($geo_subject, '(ill.)') or contains($local_subject, '(ill.)')">
+                <xsl:text>--Illinois</xsl:text>
+            </xsl:when>
+            <xsl:when test="contains($geo_subject, '(n.j.)') or contains($local_subject, '(n.j.)')">
+                <xsl:text>--New Jersey</xsl:text>
+            </xsl:when>
+            <xsl:when test="contains($geo_subject, 'vancouver (b') or contains($local_subject, 'vancouver (b')">
+                <xsl:text>--British Columbia</xsl:text>
+            </xsl:when>
+        </xsl:choose>            
+    </xsl:variable>
     <xsl:template match="/">
         <xsl:for-each select="//marc:datafield[@tag = '035']/marc:subfield[@code = 'a']">
             <xsl:if test="starts-with(.,'(CStRLIN)')">
@@ -416,6 +440,14 @@
                     </MODS:topic>
                 </MODS:subject>
             </xsl:for-each>
+            <xsl:if test="$collection_id = 'ggva'">
+                <MODS:subject authority="lcsh">
+                    <MODS:topic>Buildings</MODS:topic>
+                </MODS:subject>
+                <MODS:subject authority="lcsh">
+                    <MODS:topic>Architecture<xsl:value-of select="$arch_geo_ref" /></MODS:topic>
+                </MODS:subject>
+            </xsl:if>
             <MODS:relatedItem displayLabel="Project" type="host">
                 <MODS:titleInfo>
                     <MODS:title>

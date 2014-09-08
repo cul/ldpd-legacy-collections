@@ -32,6 +32,12 @@
    <MODS:subject authority="aat">
       <MODS:topic>Architectural furniture</MODS:topic>
    </MODS:subject>
+   <MODS:subject authority="lcsh">
+      <MODS:topic>Buildings</MODS:topic>
+   </MODS:subject>
+   <MODS:subject authority="lcsh">
+      <MODS:topic>Architecture</MODS:topic>
+   </MODS:subject>
    <MODS:relatedItem displayLabel="Project" type="host">
       <MODS:titleInfo>
          <MODS:title>Greene &amp; Greene Project</MODS:title>
