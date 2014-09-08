@@ -540,9 +540,11 @@
                     <xsl:value-of select="."/>
                 </MODS:note>
             </xsl:for-each>
-            <MODS:note>
-                <xsl:text>Digital image created from an analog slide.</xsl:text>
-            </MODS:note>
+            <xsl:if test="$is_photograph = false()">
+                <MODS:note>
+                    <xsl:text>Digital image created from an analog slide.</xsl:text>
+                </MODS:note>
+            </xsl:if>
             <MODS:accessCondition type="useAndReproduction">No known restrictions.</MODS:accessCondition>
             <MODS:location>
                 <MODS:physicalLocation authority="marcorg">NNC-A</MODS:physicalLocation>
