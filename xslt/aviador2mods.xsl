@@ -340,6 +340,31 @@
                     </MODS:titleInfo>
                 </MODS:relatedItem>
             </xsl:for-each>
+            <xsl:for-each select="//marc:datafield[@tag = '650']">
+                <MODS:subject>
+                    <xsl:if test="@ind2='0'">
+                        <xsl:attribute name="authority">lcsh</xsl:attribute>
+                    </xsl:if>
+                    <xsl:if test="./marc:subfield[@code='2']">
+                        <xsl:attribute name="authority"><xsl:value-of select="./marc:subfield[@code='2']" /></xsl:attribute>
+                    </xsl:if>
+                    <MODS:topic>
+                        <xsl:for-each select="./marc:subfield[not(number(@code))]">
+                            <xsl:if test="position() >  1">
+                                <xsl:text>--</xsl:text>
+                            </xsl:if>
+                            <xsl:choose>
+                                <xsl:when test="ends-with(.,'.')">
+                                    <xsl:value-of select="substring(.,0,string-length(.))" />
+                                </xsl:when>
+                                <xsl:otherwise>
+                                    <xsl:value-of select="." />
+                                </xsl:otherwise>
+                            </xsl:choose>
+                        </xsl:for-each>
+                    </MODS:topic>
+                </MODS:subject>
+            </xsl:for-each>
             <MODS:relatedItem displayLabel="Project" type="host">
                 <MODS:titleInfo>
                     <MODS:title>

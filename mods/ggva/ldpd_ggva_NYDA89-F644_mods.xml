@@ -34,6 +34,27 @@
          <MODS:title>The Greene &amp; Greene collection of architectural drawings</MODS:title>
       </MODS:titleInfo>
    </MODS:relatedItem>
+   <MODS:subject authority="aat">
+      <MODS:topic>Houses</MODS:topic>
+   </MODS:subject>
+   <MODS:subject authority="aat">
+      <MODS:topic>Entrances</MODS:topic>
+   </MODS:subject>
+   <MODS:subject authority="aat">
+      <MODS:topic>Alterations</MODS:topic>
+   </MODS:subject>
+   <MODS:subject authority="aat">
+      <MODS:topic>Laundry rooms</MODS:topic>
+   </MODS:subject>
+   <MODS:subject authority="aat">
+      <MODS:topic>Additions</MODS:topic>
+   </MODS:subject>
+   <MODS:subject authority="aat">
+      <MODS:topic>Outbuildings</MODS:topic>
+   </MODS:subject>
+   <MODS:subject authority="lcsh">
+      <MODS:topic>Architecture--United States--Designs and plans</MODS:topic>
+   </MODS:subject>
    <MODS:relatedItem displayLabel="Project" type="host">
       <MODS:titleInfo>
          <MODS:title>Greene &amp; Greene Project</MODS:title>

@@ -37,6 +37,9 @@
          <MODS:title>The Hugh Ferriss collection</MODS:title>
       </MODS:titleInfo>
    </MODS:relatedItem>
+   <MODS:subject authority="lcsh">
+      <MODS:topic>Airplanes, Military</MODS:topic>
+   </MODS:subject>
    <MODS:relatedItem displayLabel="Project" type="host">
       <MODS:titleInfo>
          <MODS:title>Hugh Ferriss Architectural Drawings</MODS:title>

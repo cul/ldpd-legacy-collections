@@ -29,6 +29,21 @@
    <MODS:typeOfResource>still image</MODS:typeOfResource>
    <MODS:note type="ownership">Gift of Jean Murray Bangs (Mrs. Harwell Hamilton Harris), 1960; formerly the collection of Charles Sumner Greene</MODS:note>
    <MODS:accessCondition type="useAndReproduction">Columbia Libraries Staff Use Only</MODS:accessCondition>
+   <MODS:subject authority="aat">
+      <MODS:topic>Houses</MODS:topic>
+   </MODS:subject>
+   <MODS:subject authority="lctgm">
+      <MODS:topic>Storehouses</MODS:topic>
+   </MODS:subject>
+   <MODS:subject authority="aat">
+      <MODS:topic>Corrals</MODS:topic>
+   </MODS:subject>
+   <MODS:subject authority="aat">
+      <MODS:topic>Chicken houses</MODS:topic>
+   </MODS:subject>
+   <MODS:subject authority="lcsh">
+      <MODS:topic>Architecture--United States--Designs and plans</MODS:topic>
+   </MODS:subject>
    <MODS:relatedItem displayLabel="Project" type="host">
       <MODS:titleInfo>
          <MODS:title>Greene &amp; Greene Project</MODS:title>

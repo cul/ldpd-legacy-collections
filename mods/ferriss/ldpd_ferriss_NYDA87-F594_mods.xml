@@ -34,6 +34,12 @@
          <MODS:title>The Hugh Ferriss architectural drawings and papers</MODS:title>
       </MODS:titleInfo>
    </MODS:relatedItem>
+   <MODS:subject authority="aat">
+      <MODS:topic>Air transportation buildings</MODS:topic>
+   </MODS:subject>
+   <MODS:subject authority="lcsh">
+      <MODS:topic>Architecture--United States--Designs and plans</MODS:topic>
+   </MODS:subject>
    <MODS:relatedItem displayLabel="Project" type="host">
       <MODS:titleInfo>
          <MODS:title>Hugh Ferriss Architectural Drawings</MODS:title>

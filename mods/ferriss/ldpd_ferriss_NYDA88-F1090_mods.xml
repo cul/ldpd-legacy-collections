@@ -32,6 +32,12 @@
    <MODS:typeOfResource>still image</MODS:typeOfResource>
    <MODS:note type="ownership">Gift of Ferdinand Eiseman, 1987</MODS:note>
    <MODS:accessCondition type="useAndReproduction">Columbia Libraries Staff Use Only</MODS:accessCondition>
+   <MODS:subject authority="aat">
+      <MODS:topic>Office buildings</MODS:topic>
+   </MODS:subject>
+   <MODS:subject authority="lcsh">
+      <MODS:topic>Architecture--United States--Designs and plans</MODS:topic>
+   </MODS:subject>
    <MODS:relatedItem displayLabel="Project" type="host">
       <MODS:titleInfo>
          <MODS:title>Hugh Ferriss Architectural Drawings</MODS:title>
