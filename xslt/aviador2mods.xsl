@@ -300,6 +300,11 @@
                     </xsl:for-each>
                 </MODS:name>
             </xsl:for-each>
+            <xsl:if test="$is_photograph = true() and count(//marc:datafield[@tag = '110'][@ind1 = '2']) = 0 and contains(string-join(//marc:datafield[@tag = '710'][@ind1 = '2'], ' '),'Greene &amp; Greene')">
+                <MODS:name type="corporate">
+                    <MODS:namePart>Greene &amp; Greene</MODS:namePart>
+                </MODS:name>
+            </xsl:if>
 
             <xsl:if test="//marc:datafield[@tag = '240']">
                 <MODS:titleInfo type="uniform">

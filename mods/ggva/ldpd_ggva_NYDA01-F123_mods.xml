@@ -9,6 +9,9 @@
    <MODS:name type="personal">
       <MODS:namePart>Hulbert, Leroy</MODS:namePart>
    </MODS:name>
+   <MODS:name type="corporate">
+      <MODS:namePart>Greene &amp; Greene</MODS:namePart>
+   </MODS:name>
    <MODS:titleInfo type="uniform">
       <MODS:title>Freeman A. Ford house (Pasadena, Calif.)</MODS:title>
    </MODS:titleInfo>
