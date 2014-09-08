@@ -91,7 +91,6 @@
                 </xsl:call-template>
             </xsl:result-document>
         </xsl:for-each>
-
     </xsl:template>
     <xsl:template name="subfields">
         <xsl:param name="strip"/>
@@ -172,6 +171,46 @@
             </xsl:choose>
         </xsl:variable>
         <MODS:note type="date"><xsl:value-of select="$note" /></MODS:note>
+    </xsl:template>
+    <xsl:template name="extent" xmlns:MODS="http://www.loc.gov/mods/v3">
+        <xsl:variable name="unit">
+            <xsl:choose>
+                <xsl:when test="count(//marc:datafield[@tag = '655']/marc:subfield[@code='a']) = 1">
+                    <xsl:choose>
+                        <xsl:when test="ends-with(//marc:datafield[@tag = '655']/marc:subfield[@code='a'],'.')">
+                            <xsl:value-of select="substring(//marc:datafield[@tag = '655']/marc:subfield[@code='a'],0,string-length(//marc:datafield[@tag = '655']/marc:subfield[@code='a']))" />
+                        </xsl:when>
+                        <xsl:otherwise>
+                            <xsl:value-of select="//marc:datafield[@tag = '655']/marc:subfield[@code='a']" />
+                        </xsl:otherwise>
+                    </xsl:choose>
+                </xsl:when>
+                <xsl:when test="count(//marc:datafield[@tag = '789']) &gt; 1"><xsl:text>sheets</xsl:text></xsl:when>
+                <xsl:otherwise><xsl:text>sheet</xsl:text></xsl:otherwise>
+            </xsl:choose>
+        </xsl:variable>
+        <xsl:choose>
+            <xsl:when test="count(//marc:datafield[@tag = '300']/marc:subfield[@code='a']) = 1">
+                <xsl:variable name="extent" select="string-join((//marc:datafield[@tag = '300']/marc:subfield[@code='a'],//marc:datafield[@tag = '300']/marc:subfield[@code='f']),' ')" />
+                <xsl:choose>
+                    <xsl:when test="ends-with($extent,' ;')">
+                        <MODS:extent><xsl:value-of select="substring($extent,0,string-length($extent)-1)" /></MODS:extent>
+                    </xsl:when>
+                    <xsl:when test="ends-with($extent,' :')">
+                        <MODS:extent><xsl:value-of select="substring($extent,0,string-length($extent)-1)" /></MODS:extent>
+                    </xsl:when>
+                    <xsl:otherwise>
+                        <MODS:extent><xsl:value-of select="$extent" /></MODS:extent>
+                    </xsl:otherwise>
+                </xsl:choose>
+            </xsl:when>
+            <xsl:when test="count(//marc:datafield[@tag = '789']) &gt; 1">
+                <MODS:extent><xsl:value-of select="string-join((string(count(//marc:datafield[@tag = '789'])),lower-case($unit)),' ')" /></MODS:extent>
+            </xsl:when>
+            <xsl:otherwise>
+                <MODS:extent>1 <xsl:value-of select="lower-case($unit)" /></MODS:extent>
+            </xsl:otherwise>
+        </xsl:choose>
     </xsl:template>
     <xsl:template name="structMap">
         <xsl:param name="item_id"/>
@@ -302,14 +341,7 @@
                 </xsl:call-template>
             </xsl:if>
             <MODS:physicalDescription>
-                <xsl:choose>
-                    <xsl:when test="count(//marc:datafield[@tag = '789']) &gt; 1">
-                        <MODS:extent><xsl:value-of select="count(//marc:datafield[@tag = '789'])" /> sheets</MODS:extent>
-                    </xsl:when>
-                    <xsl:otherwise>
-                        <MODS:extent>1 sheet</MODS:extent>
-                    </xsl:otherwise>
-                </xsl:choose>
+                <xsl:call-template name="extent" />
                 <MODS:form authority="gmgpc">architectural drawings</MODS:form>
                 <MODS:digitalOrigin>reformatted digital</MODS:digitalOrigin>
                 <MODS:reformattingQuality>access</MODS:reformattingQuality>
