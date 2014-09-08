@@ -57,7 +57,11 @@
                 <xsl:text>http://library.columbia.edu/indiv/avery/da/collections/ferriss.html</xsl:text>
             </xsl:otherwise>
         </xsl:choose>
-    </xsl:param> 
+    </xsl:param>
+    <xsl:variable name="is_photograph">
+        <xsl:variable name="form"><xsl:value-of select="lower-case(string-join(//marc:datafield[@tag = '655']/marc:subfield[@code = 'a'],' '))" /></xsl:variable>
+        <xsl:value-of select="matches($form,'photograph') and not(matches($form,'drawing'))" />
+    </xsl:variable>
     <xsl:template match="/">
         <xsl:for-each select="//marc:datafield[@tag = '035']/marc:subfield[@code = 'a']">
             <xsl:if test="starts-with(.,'(CStRLIN)')">
@@ -212,6 +216,16 @@
             </xsl:otherwise>
         </xsl:choose>
     </xsl:template>
+    <xsl:template name="physical_description_form" xmlns:MODS="http://www.loc.gov/mods/v3">
+        <xsl:choose>
+            <xsl:when test="$is_photograph = true()">
+                <MODS:form authority="gmgpc">photographs</MODS:form>
+            </xsl:when>
+            <xsl:otherwise>
+                <MODS:form authority="gmgpc">architectural drawings</MODS:form>
+            </xsl:otherwise>
+        </xsl:choose>
+    </xsl:template>
     <xsl:template name="structMap">
         <xsl:param name="item_id"/>
         <mets:structMap xmlns:mets="http://www.loc.gov/METS/" LABEL="ldpd.{$collection_id}.{$item_id}">
@@ -342,7 +356,7 @@
             </xsl:if>
             <MODS:physicalDescription>
                 <xsl:call-template name="extent" />
-                <MODS:form authority="gmgpc">architectural drawings</MODS:form>
+                <xsl:call-template name="physical_description_form" />
                 <MODS:digitalOrigin>reformatted digital</MODS:digitalOrigin>
                 <MODS:reformattingQuality>access</MODS:reformattingQuality>
                 <MODS:form authority="marcform">electronic</MODS:form>
@@ -506,7 +520,7 @@
             </xsl:if>
             <MODS:physicalDescription>
                 <MODS:extent>1 sheet</MODS:extent>
-                <MODS:form authority="gmgpc">architectural drawings</MODS:form>
+                <xsl:call-template name="physical_description_form" />
                 <MODS:digitalOrigin>reformatted digital</MODS:digitalOrigin>
                 <MODS:reformattingQuality>access</MODS:reformattingQuality>
                 <MODS:form authority="marcform">electronic</MODS:form>
