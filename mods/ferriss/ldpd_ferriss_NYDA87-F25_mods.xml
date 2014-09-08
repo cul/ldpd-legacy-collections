@@ -40,6 +40,9 @@
    <MODS:subject authority="lcsh">
       <MODS:topic>Airplanes, Military</MODS:topic>
    </MODS:subject>
+   <MODS:subject authority="aat">
+      <MODS:topic>Airplanes</MODS:topic>
+   </MODS:subject>
    <MODS:relatedItem displayLabel="Project" type="host">
       <MODS:titleInfo>
          <MODS:title>Hugh Ferriss Architectural Drawings</MODS:title>
