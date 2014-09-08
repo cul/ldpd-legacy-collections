@@ -159,6 +159,20 @@
         <MODS:dateCreated encoding="w3cdtf" keyDate="yes" point="start"><xsl:value-of select="$begin" /></MODS:dateCreated>
         <MODS:dateCreated encoding="w3cdtf" point="end"><xsl:value-of select="$end" /></MODS:dateCreated>
     </xsl:template>
+    <xsl:template name="defaultDateNote" xmlns:MODS="http://www.loc.gov/mods/v3">
+        <xsl:param name="collection_id" />
+        <xsl:variable name="note">
+            <xsl:choose>
+                <xsl:when test="$collection_id = 'ggva'">
+                    <xsl:text>Date based on the earliest and latest dates of the Greene &amp; Greene architectural records and papers.</xsl:text>
+                </xsl:when>
+                <xsl:when test="$collection_id = 'ferriss'">
+                    <xsl:text>Date based on the earliest and latest dates of the Hugh Ferriss architectural drawings and papers collection.</xsl:text>
+                </xsl:when>
+            </xsl:choose>
+        </xsl:variable>
+        <MODS:note type="date"><xsl:value-of select="$note" /></MODS:note>
+    </xsl:template>
     <xsl:template name="structMap">
         <xsl:param name="item_id"/>
         <mets:structMap xmlns:mets="http://www.loc.gov/METS/" LABEL="ldpd.{$collection_id}.{$item_id}">
@@ -282,6 +296,11 @@
                     </xsl:otherwise>
                 </xsl:choose>
             </MODS:originInfo>
+            <xsl:if test="substring(//marc:controlfield[@tag = '008'], 7, 1) = 'n'">
+                <xsl:call-template name="defaultDateNote">
+                    <xsl:with-param name="collection_id" select="$collection_id" />
+                </xsl:call-template>
+            </xsl:if>
             <MODS:physicalDescription>
                 <xsl:choose>
                     <xsl:when test="count(//marc:datafield[@tag = '789']) &gt; 1">
@@ -423,6 +442,11 @@
                     </xsl:otherwise>
                 </xsl:choose>
             </MODS:originInfo>
+            <xsl:if test="substring(//marc:controlfield[@tag = '008'], 7, 1) = 'n'">
+                <xsl:call-template name="defaultDateNote">
+                    <xsl:with-param name="collection_id" select="$collection_id" />
+                </xsl:call-template>
+            </xsl:if>
             <MODS:physicalDescription>
                 <MODS:extent>1 sheet</MODS:extent>
                 <MODS:form authority="gmgpc">architectural drawings</MODS:form>
