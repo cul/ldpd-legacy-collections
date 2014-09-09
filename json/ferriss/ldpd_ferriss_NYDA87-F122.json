@@ -1,0 +1,10 @@
+{
+ "id":"ldpd.ferriss.NYDA87-F122",
+ "descMetadata":"/mods/ferriss/ldpd_ferriss_NYDA87-F122_mods.xml",
+ "structMetadata":"/structMap/ferriss/ldpd_ferriss_NYDA87-F122_structMap.xml",
+ "members":[
+ {"id":"NYDA.1000.001.00147","descMetadata":"/mods/ferriss/NYDA_1000_001_00147_mods.xml"},
+ {"id":"NYDA.1000.001.00148","descMetadata":"/mods/ferriss/NYDA_1000_001_00148_mods.xml"},
+ {"id":"NYDA.1000.001.00149","descMetadata":"/mods/ferriss/NYDA_1000_001_00149_mods.xml"}
+ ]
+}

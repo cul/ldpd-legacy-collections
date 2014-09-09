@@ -1,0 +1,28 @@
+{
+ "id":"ldpd.ggva.NYDA89-F652",
+ "descMetadata":"/mods/ggva/ldpd_ggva_NYDA89-F652_mods.xml",
+ "structMetadata":"/structMap/ggva/ldpd_ggva_NYDA89-F652_structMap.xml",
+ "members":[
+ {"id":"NYDA.1960.001.00094","descMetadata":"/mods/ggva/NYDA_1960_001_00094_mods.xml"},
+ {"id":"NYDA.1960.001.00095","descMetadata":"/mods/ggva/NYDA_1960_001_00095_mods.xml"},
+ {"id":"NYDA.1960.001.00096","descMetadata":"/mods/ggva/NYDA_1960_001_00096_mods.xml"},
+ {"id":"NYDA.1960.001.00097","descMetadata":"/mods/ggva/NYDA_1960_001_00097_mods.xml"},
+ {"id":"NYDA.1960.001.00098","descMetadata":"/mods/ggva/NYDA_1960_001_00098_mods.xml"},
+ {"id":"NYDA.1960.001.00099","descMetadata":"/mods/ggva/NYDA_1960_001_00099_mods.xml"},
+ {"id":"NYDA.1960.001.00100","descMetadata":"/mods/ggva/NYDA_1960_001_00100_mods.xml"},
+ {"id":"NYDA.1960.001.00101","descMetadata":"/mods/ggva/NYDA_1960_001_00101_mods.xml"},
+ {"id":"NYDA.1960.001.00102","descMetadata":"/mods/ggva/NYDA_1960_001_00102_mods.xml"},
+ {"id":"NYDA.1960.001.00103","descMetadata":"/mods/ggva/NYDA_1960_001_00103_mods.xml"},
+ {"id":"NYDA.1960.001.00104","descMetadata":"/mods/ggva/NYDA_1960_001_00104_mods.xml"},
+ {"id":"NYDA.1960.001.00105","descMetadata":"/mods/ggva/NYDA_1960_001_00105_mods.xml"},
+ {"id":"NYDA.1960.001.00106","descMetadata":"/mods/ggva/NYDA_1960_001_00106_mods.xml"},
+ {"id":"NYDA.1960.001.00107","descMetadata":"/mods/ggva/NYDA_1960_001_00107_mods.xml"},
+ {"id":"NYDA.1960.001.00108","descMetadata":"/mods/ggva/NYDA_1960_001_00108_mods.xml"},
+ {"id":"NYDA.1960.001.00109","descMetadata":"/mods/ggva/NYDA_1960_001_00109_mods.xml"},
+ {"id":"NYDA.1960.001.00110","descMetadata":"/mods/ggva/NYDA_1960_001_00110_mods.xml"},
+ {"id":"NYDA.1960.001.00111","descMetadata":"/mods/ggva/NYDA_1960_001_00111_mods.xml"},
+ {"id":"NYDA.1960.001.00112","descMetadata":"/mods/ggva/NYDA_1960_001_00112_mods.xml"},
+ {"id":"NYDA.1960.001.00113","descMetadata":"/mods/ggva/NYDA_1960_001_00113_mods.xml"},
+ {"id":"NYDA.1960.001.00114","descMetadata":"/mods/ggva/NYDA_1960_001_00114_mods.xml"}
+ ]
+}

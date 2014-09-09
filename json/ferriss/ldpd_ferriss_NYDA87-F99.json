@@ -1,0 +1,16 @@
+{
+ "id":"ldpd.ferriss.NYDA87-F99",
+ "descMetadata":"/mods/ferriss/ldpd_ferriss_NYDA87-F99_mods.xml",
+ "structMetadata":"/structMap/ferriss/ldpd_ferriss_NYDA87-F99_structMap.xml",
+ "members":[
+ {"id":"NYDA.1000.001.00170","descMetadata":"/mods/ferriss/NYDA_1000_001_00170_mods.xml"},
+ {"id":"NYDA.1000.001.00171","descMetadata":"/mods/ferriss/NYDA_1000_001_00171_mods.xml"},
+ {"id":"NYDA.1000.001.00172","descMetadata":"/mods/ferriss/NYDA_1000_001_00172_mods.xml"},
+ {"id":"NYDA.1000.001.00173","descMetadata":"/mods/ferriss/NYDA_1000_001_00173_mods.xml"},
+ {"id":"NYDA.1000.001.00174","descMetadata":"/mods/ferriss/NYDA_1000_001_00174_mods.xml"},
+ {"id":"NYDA.1000.001.00175","descMetadata":"/mods/ferriss/NYDA_1000_001_00175_mods.xml"},
+ {"id":"NYDA.1000.001.00176","descMetadata":"/mods/ferriss/NYDA_1000_001_00176_mods.xml"},
+ {"id":"NYDA.1000.001.00177","descMetadata":"/mods/ferriss/NYDA_1000_001_00177_mods.xml"},
+ {"id":"NYDA.1000.001.00179","descMetadata":"/mods/ferriss/NYDA_1000_001_00179_mods.xml"}
+ ]
+}

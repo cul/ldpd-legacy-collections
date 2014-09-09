@@ -1,0 +1,13 @@
+{
+ "id":"ldpd.ggva.NYDA89-F459",
+ "descMetadata":"/mods/ggva/ldpd_ggva_NYDA89-F459_mods.xml",
+ "structMetadata":"/structMap/ggva/ldpd_ggva_NYDA89-F459_structMap.xml",
+ "members":[
+ {"id":"NYDA.1960.001.00960","descMetadata":"/mods/ggva/NYDA_1960_001_00960_mods.xml"},
+ {"id":"NYDA.1960.001.04504","descMetadata":"/mods/ggva/NYDA_1960_001_04504_mods.xml"},
+ {"id":"NYDA.1960.001.00961","descMetadata":"/mods/ggva/NYDA_1960_001_00961_mods.xml"},
+ {"id":"NYDA.1960.001.00962","descMetadata":"/mods/ggva/NYDA_1960_001_00962_mods.xml"},
+ {"id":"NYDA.1960.001.00963","descMetadata":"/mods/ggva/NYDA_1960_001_00963_mods.xml"},
+ {"id":"NYDA.1960.001.00964","descMetadata":"/mods/ggva/NYDA_1960_001_00964_mods.xml"}
+ ]
+}

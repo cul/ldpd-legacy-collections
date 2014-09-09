@@ -1,0 +1,30 @@
+{
+ "id":"ldpd.ferriss.NYDA87-F78",
+ "descMetadata":"/mods/ferriss/ldpd_ferriss_NYDA87-F78_mods.xml",
+ "structMetadata":"/structMap/ferriss/ldpd_ferriss_NYDA87-F78_structMap.xml",
+ "members":[
+ {"id":"NYDA.1000.001.00194","descMetadata":"/mods/ferriss/NYDA_1000_001_00194_mods.xml"},
+ {"id":"NYDA.1000.001.00195","descMetadata":"/mods/ferriss/NYDA_1000_001_00195_mods.xml"},
+ {"id":"NYDA.1000.001.00196","descMetadata":"/mods/ferriss/NYDA_1000_001_00196_mods.xml"},
+ {"id":"NYDA.1000.001.00197","descMetadata":"/mods/ferriss/NYDA_1000_001_00197_mods.xml"},
+ {"id":"NYDA.1000.001.00198","descMetadata":"/mods/ferriss/NYDA_1000_001_00198_mods.xml"},
+ {"id":"NYDA.1000.001.00199","descMetadata":"/mods/ferriss/NYDA_1000_001_00199_mods.xml"},
+ {"id":"NYDA.1000.001.00200","descMetadata":"/mods/ferriss/NYDA_1000_001_00200_mods.xml"},
+ {"id":"NYDA.1000.001.00201","descMetadata":"/mods/ferriss/NYDA_1000_001_00201_mods.xml"},
+ {"id":"NYDA.1000.001.00202","descMetadata":"/mods/ferriss/NYDA_1000_001_00202_mods.xml"},
+ {"id":"NYDA.1000.001.00203","descMetadata":"/mods/ferriss/NYDA_1000_001_00203_mods.xml"},
+ {"id":"NYDA.1000.001.00204","descMetadata":"/mods/ferriss/NYDA_1000_001_00204_mods.xml"},
+ {"id":"NYDA.1000.001.00205","descMetadata":"/mods/ferriss/NYDA_1000_001_00205_mods.xml"},
+ {"id":"NYDA.1000.001.00206","descMetadata":"/mods/ferriss/NYDA_1000_001_00206_mods.xml"},
+ {"id":"NYDA.1000.001.00207","descMetadata":"/mods/ferriss/NYDA_1000_001_00207_mods.xml"},
+ {"id":"NYDA.1000.001.00208","descMetadata":"/mods/ferriss/NYDA_1000_001_00208_mods.xml"},
+ {"id":"NYDA.1000.001.00209","descMetadata":"/mods/ferriss/NYDA_1000_001_00209_mods.xml"},
+ {"id":"NYDA.1000.001.00210","descMetadata":"/mods/ferriss/NYDA_1000_001_00210_mods.xml"},
+ {"id":"NYDA.1000.001.00211","descMetadata":"/mods/ferriss/NYDA_1000_001_00211_mods.xml"},
+ {"id":"NYDA.1000.001.00212","descMetadata":"/mods/ferriss/NYDA_1000_001_00212_mods.xml"},
+ {"id":"NYDA.1000.001.00213","descMetadata":"/mods/ferriss/NYDA_1000_001_00213_mods.xml"},
+ {"id":"NYDA.1000.001.00214","descMetadata":"/mods/ferriss/NYDA_1000_001_00214_mods.xml"},
+ {"id":"NYDA.1000.001.00215","descMetadata":"/mods/ferriss/NYDA_1000_001_00215_mods.xml"},
+ {"id":"NYDA.1000.001.00216","descMetadata":"/mods/ferriss/NYDA_1000_001_00216_mods.xml"}
+ ]
+}

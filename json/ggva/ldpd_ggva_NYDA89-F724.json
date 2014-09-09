@@ -1,0 +1,28 @@
+{
+ "id":"ldpd.ggva.NYDA89-F724",
+ "descMetadata":"/mods/ggva/ldpd_ggva_NYDA89-F724_mods.xml",
+ "structMetadata":"/structMap/ggva/ldpd_ggva_NYDA89-F724_structMap.xml",
+ "members":[
+ {"id":"NYDA.1960.001.04399","descMetadata":"/mods/ggva/NYDA_1960_001_04399_mods.xml"},
+ {"id":"NYDA.1960.001.04400","descMetadata":"/mods/ggva/NYDA_1960_001_04400_mods.xml"},
+ {"id":"NYDA.1960.001.04401","descMetadata":"/mods/ggva/NYDA_1960_001_04401_mods.xml"},
+ {"id":"NYDA.1960.001.04402","descMetadata":"/mods/ggva/NYDA_1960_001_04402_mods.xml"},
+ {"id":"NYDA.1960.001.04403","descMetadata":"/mods/ggva/NYDA_1960_001_04403_mods.xml"},
+ {"id":"NYDA.1960.001.04404","descMetadata":"/mods/ggva/NYDA_1960_001_04404_mods.xml"},
+ {"id":"NYDA.1960.001.04405","descMetadata":"/mods/ggva/NYDA_1960_001_04405_mods.xml"},
+ {"id":"NYDA.1960.001.04406","descMetadata":"/mods/ggva/NYDA_1960_001_04406_mods.xml"},
+ {"id":"NYDA.1960.001.04407","descMetadata":"/mods/ggva/NYDA_1960_001_04407_mods.xml"},
+ {"id":"NYDA.1960.001.04408","descMetadata":"/mods/ggva/NYDA_1960_001_04408_mods.xml"},
+ {"id":"NYDA.1960.001.04409","descMetadata":"/mods/ggva/NYDA_1960_001_04409_mods.xml"},
+ {"id":"NYDA.1960.001.04410","descMetadata":"/mods/ggva/NYDA_1960_001_04410_mods.xml"},
+ {"id":"NYDA.1960.001.04411","descMetadata":"/mods/ggva/NYDA_1960_001_04411_mods.xml"},
+ {"id":"NYDA.1960.001.04412","descMetadata":"/mods/ggva/NYDA_1960_001_04412_mods.xml"},
+ {"id":"NYDA.1960.001.04413","descMetadata":"/mods/ggva/NYDA_1960_001_04413_mods.xml"},
+ {"id":"NYDA.1960.001.04414","descMetadata":"/mods/ggva/NYDA_1960_001_04414_mods.xml"},
+ {"id":"NYDA.1960.001.04415","descMetadata":"/mods/ggva/NYDA_1960_001_04415_mods.xml"},
+ {"id":"NYDA.1960.001.04416","descMetadata":"/mods/ggva/NYDA_1960_001_04416_mods.xml"},
+ {"id":"NYDA.1960.001.04417","descMetadata":"/mods/ggva/NYDA_1960_001_04417_mods.xml"},
+ {"id":"NYDA.1960.001.04418R","descMetadata":"/mods/ggva/NYDA_1960_001_04418R_mods.xml"},
+ {"id":"NYDA.1960.001.04418V","descMetadata":"/mods/ggva/NYDA_1960_001_04418V_mods.xml"}
+ ]
+}

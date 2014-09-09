@@ -1,0 +1,9 @@
+{
+ "id":"ldpd.ferriss.NYDA87-F33",
+ "descMetadata":"/mods/ferriss/ldpd_ferriss_NYDA87-F33_mods.xml",
+ "structMetadata":"/structMap/ferriss/ldpd_ferriss_NYDA87-F33_structMap.xml",
+ "members":[
+ {"id":"NYDA.1000.001.00125","descMetadata":"/mods/ferriss/NYDA_1000_001_00125_mods.xml"},
+ {"id":"NYDA.1000.001.00126","descMetadata":"/mods/ferriss/NYDA_1000_001_00126_mods.xml"}
+ ]
+}

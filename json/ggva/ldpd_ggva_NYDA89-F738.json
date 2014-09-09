@@ -1,0 +1,10 @@
+{
+ "id":"ldpd.ggva.NYDA89-F738",
+ "descMetadata":"/mods/ggva/ldpd_ggva_NYDA89-F738_mods.xml",
+ "structMetadata":"/structMap/ggva/ldpd_ggva_NYDA89-F738_structMap.xml",
+ "members":[
+ {"id":"NYDA.1960.001.03416","descMetadata":"/mods/ggva/NYDA_1960_001_03416_mods.xml"},
+ {"id":"NYDA.1960.001.03417","descMetadata":"/mods/ggva/NYDA_1960_001_03417_mods.xml"},
+ {"id":"NYDA.1960.001.03418","descMetadata":"/mods/ggva/NYDA_1960_001_03418_mods.xml"}
+ ]
+}
