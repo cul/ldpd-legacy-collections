@@ -71,10 +71,10 @@
    <MODS:relatedItem displayLabel="Project" type="host">
       <MODS:titleInfo>
          <MODS:title>Greene &amp; Greene Project</MODS:title>
-         <MODS:location>
-            <url>http://www.columbia.edu/cgi-bin/cul/resolve?clio4278328</url>
-         </MODS:location>
       </MODS:titleInfo>
+      <MODS:location>
+         <url>http://www.columbia.edu/cgi-bin/cul/resolve?clio4278328</url>
+      </MODS:location>
    </MODS:relatedItem>
    <MODS:location>
       <MODS:physicalLocation authority="marcorg">NNC-A</MODS:physicalLocation>

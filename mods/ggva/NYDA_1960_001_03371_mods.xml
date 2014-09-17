@@ -26,7 +26,7 @@
    <MODS:location>
       <MODS:physicalLocation authority="marcorg">NNC-A</MODS:physicalLocation>
       <MODS:physicalLocation>Avery Architectural &amp; Fine Arts Library, Columbia University</MODS:physicalLocation>
-      <MODS:shelfLocator>NYDA.1960.001.03371</MODS:shelfLocator>
+      <MODS:shelfLocator>NYDA.1960.001.03371.</MODS:shelfLocator>
       <MODS:holdingSimple>
          <MODS:copyInformation>
             <MODS:subLocation>Drawings &amp; Archives</MODS:subLocation>

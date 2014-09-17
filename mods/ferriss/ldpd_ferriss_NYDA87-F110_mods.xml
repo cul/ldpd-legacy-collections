@@ -40,10 +40,10 @@
    <MODS:relatedItem displayLabel="Project" type="host">
       <MODS:titleInfo>
          <MODS:title>Hugh Ferriss Architectural Drawings</MODS:title>
-         <MODS:location>
-            <url>http://library.columbia.edu/indiv/avery/da/collections/ferriss.html</url>
-         </MODS:location>
       </MODS:titleInfo>
+      <MODS:location>
+         <url>http://library.columbia.edu/indiv/avery/da/collections/ferriss.html</url>
+      </MODS:location>
    </MODS:relatedItem>
    <MODS:location>
       <MODS:physicalLocation authority="marcorg">NNC-A</MODS:physicalLocation>
