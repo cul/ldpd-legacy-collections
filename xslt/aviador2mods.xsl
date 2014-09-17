@@ -41,7 +41,7 @@
     <xsl:param name="project">
         <xsl:choose>
             <xsl:when test="$collection_id = 'ggva'">
-                <xsl:text>Greene &amp; Greene Project</xsl:text>
+                <xsl:text>Greene &amp; Greene Architectural Records and Papers Collection</xsl:text>
             </xsl:when>
             <xsl:otherwise>
                 <xsl:text>Hugh Ferriss Architectural Drawings</xsl:text>
@@ -510,9 +510,13 @@
             </MODS:identifier>
             <MODS:titleInfo>
                 <MODS:title>
-                    <!-- 245 $a -->
-                    <xsl:value-of
-                        select="translate(//marc:datafield[@tag = '245']/marc:subfield[@code = 'a'], '][', '')"/>
+                    <xsl:for-each select="//marc:datafield[@tag = '240']/marc:subfield">
+                        <xsl:call-template name="subfields">
+                            <xsl:with-param name="strip">
+                                <xsl:text>yes</xsl:text>
+                            </xsl:with-param>
+                        </xsl:call-template>
+                    </xsl:for-each>
                 </MODS:title>
             </MODS:titleInfo>
             <MODS:titleInfo type="alternative">
