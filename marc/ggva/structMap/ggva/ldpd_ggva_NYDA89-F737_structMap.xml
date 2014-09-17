@@ -1,9 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<mets:structMap xmlns:mets="http://www.loc.gov/METS/" LABEL="ldpd.ggva.NYDA89-F737">
-   <mets:div ORDER="1"
-             CONTENTIDS="NYDA.1960.001.03334"
-             LABEL="Plan ; east elevation ; north elevation ; front and side details of medicine case in bathroom ; detail of batten door (battens on both sides) ; detail of shingled ridge ; section through wall with exterior and interior elevations of window ; detail of lattice in gable ends : Sheet no. 1."/>
-   <mets:div ORDER="2"
-             CONTENTIDS="NYDA.1960.001.03335"
-             LABEL="Plan ; east elevation ; north elevation ; front and side details of medicine case in bathroom ; detail of batten door (battens on both sides) ; detail of shingled ridge ; section through wall with exterior and interior elevations of window ; detail of lattice in gable ends : Sheet no. 1."/>
-</mets:structMap>

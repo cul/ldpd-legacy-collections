@@ -1,9 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<mets:structMap xmlns:mets="http://www.loc.gov/METS/" LABEL="ldpd.ggva.NYDA89-F739">
-   <mets:div ORDER="1"
-             CONTENTIDS="NYDA.1960.001.03439"
-             LABEL="Plan of loft, main floor plan : No. 1."/>
-   <mets:div ORDER="2"
-             CONTENTIDS="NYDA.1960.001.03440"
-             LABEL="South elevation, east elevation with section through wall, west elevation with plan showing cornice projections on N.E. corner : No. 2."/>
-</mets:structMap>

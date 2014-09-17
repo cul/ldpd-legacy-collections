@@ -1,9 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<mets:structMap xmlns:mets="http://www.loc.gov/METS/" LABEL="ldpd.ggva.NYDA89-F382">
-   <mets:div ORDER="1"
-             CONTENTIDS="NYDA.1960.001.01374"
-             LABEL="Plan of garage and yard ; section on line X-X (see north elevation) ; elev. of gate ; south elevation ; east elevation ; detail of lintels over window &amp; door openings ; detail of wall plate, etc. ; north elevation ; west elevation : Sheet no. 1."/>
-   <mets:div ORDER="2"
-             CONTENTIDS="NYDA.1960.001.01375"
-             LABEL="Plan of garage and yard ; section on line X-X (see north elevation) ; elev. of gate ; south elevation ; east elevation ; detail of lintels over window &amp; door openings ; detail of wall plate, etc. ; north elevation ; west elevation : Sheet no. 1."/>
-</mets:structMap>

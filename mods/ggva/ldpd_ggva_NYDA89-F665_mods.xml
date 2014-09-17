@@ -10,10 +10,10 @@
       <MODS:namePart>Greene, Henry Mather,</MODS:namePart>
       <MODS:namePart type="date">1870-1954</MODS:namePart>
    </MODS:name>
-   <MODS:titleInfo type="uniform">
+   <MODS:titleInfo>
       <MODS:title>Kate A. Kelly house (Hollywood, Los Angeles, Calif.).Alterations and additions</MODS:title>
    </MODS:titleInfo>
-   <MODS:titleInfo>
+   <MODS:titleInfo type="alternative">
       <MODS:title>Alterations &amp; additions to residence, 2550 Aberdeen Ave., Hollywood, Los Angeles, Calif. for Mrs. Kate A. Kelly sic</MODS:title>
    </MODS:titleInfo>
    <MODS:originInfo>
@@ -50,11 +50,11 @@
    </MODS:subject>
    <MODS:relatedItem displayLabel="Project" type="host">
       <MODS:titleInfo>
-         <MODS:title>Greene &amp; Greene Project</MODS:title>
-         <MODS:location>
-            <url>http://www.columbia.edu/cgi-bin/cul/resolve?clio4278328</url>
-         </MODS:location>
+         <MODS:title>Greene &amp; Greene Architectural Records and Papers Collection</MODS:title>
       </MODS:titleInfo>
+      <MODS:location>
+         <MODS:url>http://www.columbia.edu/cgi-bin/cul/resolve?clio4278328</MODS:url>
+      </MODS:location>
    </MODS:relatedItem>
    <MODS:location>
       <MODS:physicalLocation authority="marcorg">NNC-A</MODS:physicalLocation>

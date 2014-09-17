@@ -16,7 +16,7 @@
         </xd:desc>
     </xd:doc>
     <xsl:param name="resultPath">
-        <xsl:text>mods/</xsl:text>
+        <xsl:text>../../mods/</xsl:text>
     </xsl:param>
     <xsl:param name="collection_id">
         <xsl:choose>
@@ -105,7 +105,7 @@
                 </xsl:result-document>
                 <xsl:if test="count(//marc:datafield[@tag = '789']) > 1">
                     <xsl:result-document
-                        href="structMap/{$collection_id}/ldpd_{$collection_id}_{translate($item_id, '.', '_')}_structMap.xml">
+                        href="../../structMap/{$collection_id}/ldpd_{$collection_id}_{translate($item_id, '.', '_')}_structMap.xml">
                         <xsl:call-template name="structMap">
                             <xsl:with-param name="item_id" select="$item_id"/>
                         </xsl:call-template>

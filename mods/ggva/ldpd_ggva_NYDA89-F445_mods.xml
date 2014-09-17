@@ -6,7 +6,7 @@
            version="3.5">
    <MODS:identifier type="local">ldpd.ggva.NYDA89-F445</MODS:identifier>
    <MODS:identifier type="CLIO">CLIO_3462168</MODS:identifier>
-   <MODS:titleInfo>
+   <MODS:titleInfo type="alternative">
       <MODS:title>F.G. Denison, 341 So. Mariposa Avenue, survey of lots 15 &amp; 16, block 57 of Beverly Hills, Calif.</MODS:title>
    </MODS:titleInfo>
    <MODS:originInfo>
@@ -37,11 +37,11 @@
    </MODS:subject>
    <MODS:relatedItem displayLabel="Project" type="host">
       <MODS:titleInfo>
-         <MODS:title>Greene &amp; Greene Project</MODS:title>
-         <MODS:location>
-            <url>http://www.columbia.edu/cgi-bin/cul/resolve?clio4278328</url>
-         </MODS:location>
+         <MODS:title>Greene &amp; Greene Architectural Records and Papers Collection</MODS:title>
       </MODS:titleInfo>
+      <MODS:location>
+         <MODS:url>http://www.columbia.edu/cgi-bin/cul/resolve?clio4278328</MODS:url>
+      </MODS:location>
    </MODS:relatedItem>
    <MODS:location>
       <MODS:physicalLocation authority="marcorg">NNC-A</MODS:physicalLocation>
