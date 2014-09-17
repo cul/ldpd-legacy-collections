@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mets:structMap xmlns:mets="http://www.loc.gov/METS/" LABEL="ldpd.ferriss.NYDA87-F60">
+   <mets:div ORDER="1"
+             CONTENTIDS="NYDA.1000.001.00113"
+             LABEL="C-3 : bird's-eye perspective"/>
+   <mets:div ORDER="2"
+             CONTENTIDS="NYDA.1000.001.00114"
+             LABEL="Perspective of plaza"/>
+   <mets:div ORDER="3"
+             CONTENTIDS="NYDA.1000.001.00115"
+             LABEL="Site plan with perspective"/>
+   <mets:div ORDER="4"
+             CONTENTIDS="NYDA.1000.001.00116"
+             LABEL="Bird's-eye perspective"/>
+   <mets:div ORDER="5"
+             CONTENTIDS="NYDA.1000.001.00117"
+             LABEL="Perspective of entrance"/>
+   <mets:div ORDER="6"
+             CONTENTIDS="NYDA.1000.001.00118"
+             LABEL="Schine Center, Murris sic Lapidus, Archt."/>
+</mets:structMap>

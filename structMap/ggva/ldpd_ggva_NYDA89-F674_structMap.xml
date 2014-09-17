@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mets:structMap xmlns:mets="http://www.loc.gov/METS/" LABEL="ldpd.ggva.NYDA89-F674">
+   <mets:div ORDER="1"
+             CONTENTIDS="NYDA.1960.001.01667"
+             LABEL="Partial site plan showing driveway, oval lawn and foundation plan of garage and outbuildings ; ground floor plan of garage and outbuildings (cement floor) : Sheet no. 1."/>
+   <mets:div ORDER="2"
+             CONTENTIDS="NYDA.1960.001.01668"
+             LABEL="Partial site plan showing driveway, oval lawn and foundation plan of garage and outbuildings ; ground floor plan of garage and outbuildings (cement floor) : Sheet no. 1."/>
+   <mets:div ORDER="3"
+             CONTENTIDS="NYDA.1960.001.01669"
+             LABEL="Roof plan, south elevation, east elevation, north elevation, west elevation : Sheet no. 2."/>
+   <mets:div ORDER="4"
+             CONTENTIDS="NYDA.1960.001.01670"
+             LABEL="Roof plan, south elevation, east elevation, north elevation, west elevation : Sheet no. 2."/>
+   <mets:div ORDER="5"
+             CONTENTIDS="NYDA.1960.001.01671"
+             LABEL="Details of brick garage -- part elevation ; sections through south wall and east wall ; details of sandbox and pit ; plan of southwest corner showing footings ; section through vents in north wall : Sheet no. 3."/>
+   <mets:div ORDER="6"
+             CONTENTIDS="NYDA.1960.001.01672"
+             LABEL="Details of brick garage -- part elevation ; sections through south wall and east wall ; details of sandbox and pit ; plan of southwest corner showing footings ; section through vents in north wall : Sheet no. 3."/>
+   <mets:div ORDER="7"
+             CONTENTIDS="NYDA.1960.001.01673"
+             LABEL="Section thru outbuildings ; 3/4&#34; scale detail showing panel under sidelights : Sheet no. 4."/>
+   <mets:div ORDER="8"
+             CONTENTIDS="NYDA.1960.001.01674"
+             LABEL="Sect'n thru south wall of wood garage ; sect'n thru west wall of brick garage ; details of rough work ; part elev. of wood garage with section on LC and section &#34;A-A&#34; ; 3/4&#34; scale detail showing panel, under sidelights ; section thru outbuildings : Sheet no. 4."/>
+</mets:structMap>

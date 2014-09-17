@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mets:structMap xmlns:mets="http://www.loc.gov/METS/" LABEL="ldpd.ggva.NYDA89-F741">
+   <mets:div ORDER="1"
+             CONTENTIDS="NYDA.1960.001.01871"
+             LABEL="Second floor plan."/>
+   <mets:div ORDER="2" CONTENTIDS="NYDA.1960.001.01872" LABEL="West elevation."/>
+   <mets:div ORDER="3"
+             CONTENTIDS="NYDA.1960.001.01873"
+             LABEL="Illegible elevation, west elevation : Drawing no. 1,"/>
+   <mets:div ORDER="4"
+             CONTENTIDS="NYDA.1960.001.01874"
+             LABEL="Sketch of unidentified partial elevation"/>
+</mets:structMap>

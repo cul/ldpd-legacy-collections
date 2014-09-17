@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mets:structMap xmlns:mets="http://www.loc.gov/METS/" LABEL="ldpd.ggva.NYDA89-F436">
+   <mets:div ORDER="1"
+             CONTENTIDS="NYDA.1960.001.00483"
+             LABEL="Foundation plan ; detail drawings of chimney footings, wall footings, pier footings : No. 1."/>
+   <mets:div ORDER="2"
+             CONTENTIDS="NYDA.1960.001.00484"
+             LABEL="First floor plan : No. 2."/>
+   <mets:div ORDER="3"
+             CONTENTIDS="NYDA.1960.001.00485"
+             LABEL="West elevation with sections through wall, second floor plan : No.3."/>
+   <mets:div ORDER="4"
+             CONTENTIDS="NYDA.1960.001.00486"
+             LABEL="South elevation with section through wall : No. 4."/>
+   <mets:div ORDER="5"
+             CONTENTIDS="NYDA.1960.001.00487"
+             LABEL="Alterations and additions -- partial ground plan, partial cellar plan, section at A-B : 1 /"/>
+   <mets:div ORDER="6"
+             CONTENTIDS="NYDA.1960.001.00488"
+             LABEL="Alterations and additions -- partial end elevation : 2 /"/>
+</mets:structMap>

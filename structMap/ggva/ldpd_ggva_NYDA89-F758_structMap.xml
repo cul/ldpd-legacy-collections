@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mets:structMap xmlns:mets="http://www.loc.gov/METS/" LABEL="ldpd.ggva.NYDA89-F758">
+   <mets:div ORDER="1"
+             CONTENTIDS="NYDA.1960.001.01875"
+             LABEL="Plan of grounds showing layout of garden, side elevation of grounds, front elevation of grounds, front elevation of garage and pergolas, unidentified rough sketch"/>
+   <mets:div ORDER="2"
+             CONTENTIDS="NYDA.1960.001.01876"
+             LABEL="Revised plan of rear portion of grounds showing garden layout, front elevation of garage and neighboring structures"/>
+   <mets:div ORDER="3"
+             CONTENTIDS="NYDA.1960.001.01877"
+             LABEL="Plan of grounds showing layout of garden ; elevation of grounds looking north from driveway ; trellis details ; bird house details ; elevation of garage and neighboring structures at east end of house looking east : Sheet no. 1."/>
+   <mets:div ORDER="4"
+             CONTENTIDS="NYDA.1960.001.01878"
+             LABEL="Unidentified rough sketches"/>
+   <mets:div ORDER="5"
+             CONTENTIDS="NYDA.1960.001.01879"
+             LABEL="Full size details of cuts for beams : Sheet no. 2."/>
+   <mets:div ORDER="6"
+             CONTENTIDS="NYDA.1960.001.03295"
+             LABEL="Sprinkler layout for front yard -- plan, cross-sectional elevation : Sheet no. 3 /"/>
+   <mets:div ORDER="7"
+             CONTENTIDS="NYDA.1960.001.03296"
+             LABEL="Plan of second floor."/>
+   <mets:div ORDER="8"
+             CONTENTIDS="NYDA.1960.001.03297"
+             LABEL="Plan of front corner of property, view along south line, view along front line."/>
+   <mets:div ORDER="9"
+             CONTENTIDS="NYDA.1960.001.03298"
+             LABEL="Partial elevation of house, plan of same area"/>
+   <mets:div ORDER="10"
+             CONTENTIDS="NYDA.1960.001.03299"
+             LABEL="Section through outside door frame."/>
+   <mets:div ORDER="11"
+             CONTENTIDS="NYDA.1960.001.03300"
+             LABEL="Section A-A, section B-B, section C-C."/>
+   <mets:div ORDER="12" CONTENTIDS="NYDA.1960.001.03301" LABEL="Section D-D."/>
+</mets:structMap>

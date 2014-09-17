@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mets:structMap xmlns:mets="http://www.loc.gov/METS/" LABEL="ldpd.ggva.NYDA89-F610">
+   <mets:div ORDER="1"
+             CONTENTIDS="NYDA.1960.001.02782"
+             LABEL="Interior perspective drawing of office"/>
+   <mets:div ORDER="2"
+             CONTENTIDS="NYDA.1960.001.02783"
+             LABEL="Perspective drawings of wall and chair."/>
+   <mets:div ORDER="3"
+             CONTENTIDS="NYDA.1960.001.02784"
+             LABEL="Plan of office : #1."/>
+   <mets:div ORDER="4"
+             CONTENTIDS="NYDA.1960.001.02785"
+             LABEL="Plan of office, scheme no. 2 (revised),"/>
+   <mets:div ORDER="5"
+             CONTENTIDS="NYDA.1960.001.02786"
+             LABEL="Plan of office, scheme #2."/>
+   <mets:div ORDER="6"
+             CONTENTIDS="NYDA.1960.001.02787"
+             LABEL="Plan of office, scheme no. 3."/>
+   <mets:div ORDER="7"
+             CONTENTIDS="NYDA.1960.001.02788"
+             LABEL="Plan of office, scheme #3."/>
+   <mets:div ORDER="8" CONTENTIDS="NYDA.1960.001.02789" LABEL="Plan of office"/>
+   <mets:div ORDER="9"
+             CONTENTIDS="NYDA.1960.001.02790"
+             LABEL="Scale and full size details of office in roof portico? -- floor plan, reflected ceiling plan, elevation looking east, elevation looking south, elevation looking west, elevation looking north, F.S. section profiles /"/>
+   <mets:div ORDER="10"
+             CONTENTIDS="NYDA.1960.001.02791"
+             LABEL="Sketches of desk and chair"/>
+   <mets:div ORDER="11"
+             CONTENTIDS="NYDA.1960.001.02792"
+             LABEL="Sketches of desk and chair."/>
+   <mets:div ORDER="12"
+             CONTENTIDS="NYDA.1960.001.02793R"
+             LABEL="Sketches of details of desk"/>
+   <mets:div ORDER="13"
+             CONTENTIDS="NYDA.1960.001.02793V"
+             LABEL="Sketches of details of desk"/>
+   <mets:div ORDER="14"
+             CONTENTIDS="NYDA.1960.001.02794"
+             LABEL="Sketches of details of desk"/>
+   <mets:div ORDER="15"
+             CONTENTIDS="NYDA.1960.001.02795"
+             LABEL="Detail drawings of model ship for mantel, chandelier"/>
+</mets:structMap>

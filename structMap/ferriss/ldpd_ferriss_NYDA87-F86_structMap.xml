@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mets:structMap xmlns:mets="http://www.loc.gov/METS/" LABEL="ldpd.ferriss.NYDA87-F86">
+   <mets:div ORDER="1"
+             CONTENTIDS="NYDA.1000.001.00181"
+             LABEL="Scheme #13 Drwg # 14 : bird's-eye perspective looking south east : Drwg. no. 14,"/>
+   <mets:div ORDER="2"
+             CONTENTIDS="NYDA.1000.001.00182"
+             LABEL="Perspective looking southeast/"/>
+   <mets:div ORDER="3"
+             CONTENTIDS="NYDA.1000.001.00183"
+             LABEL="Perspective looking south toward domed building : Drwg #40,"/>
+   <mets:div ORDER="4"
+             CONTENTIDS="NYDA.1000.001.00184"
+             LABEL="Bird's-eye perspective looking south : Drwg #59."/>
+   <mets:div ORDER="5"
+             CONTENTIDS="NYDA.1000.001.00185"
+             LABEL="Perspective of north entrance and pool : [Drwg.] #143,"/>
+   <mets:div ORDER="6"
+             CONTENTIDS="NYDA.1000.001.00186"
+             LABEL="Perspective of north entrance /"/>
+   <mets:div ORDER="7"
+             CONTENTIDS="NYDA.1000.001.00187R"
+             LABEL="View from First Ave., delegate entrance in center : close-up view : Drwg. no. 146,"/>
+   <mets:div ORDER="8" CONTENTIDS="NYDA.1000.001.00187V" LABEL="TEMP."/>
+   <mets:div ORDER="9"
+             CONTENTIDS="NYDA.1000.001.00188R"
+             LABEL="U.N. Headquarters seen from the East River : perspectiveblown up : [Drwg. no.] 148,"/>
+   <mets:div ORDER="10"
+             CONTENTIDS="NYDA.1000.001.00188V"
+             LABEL="The U.N. headquarters seen from the East River perspective sketch"/>
+   <mets:div ORDER="11"
+             CONTENTIDS="NYDA.1000.001.00189R"
+             LABEL="Porch on waterfront : [Drwg. no.] 151,"/>
+   <mets:div ORDER="12"
+             CONTENTIDS="NYDA.1000.001.00189V"
+             LABEL="Delegate Lounge, overlooking the East River."/>
+   <mets:div ORDER="13"
+             CONTENTIDS="NYDA.1000.001.00190"
+             LABEL="Perspective of north entrance : [Drawg. no.] 152."/>
+   <mets:div ORDER="14"
+             CONTENTIDS="NYDA.1000.001.00191"
+             LABEL="Perspective : preliminary for Power in buildings, 42 : [Drwg. no.] 154,"/>
+   <mets:div ORDER="15"
+             CONTENTIDS="NYDA.1000.001.00192"
+             LABEL="Perspective drawing, United Nations Plaza : [Drwg. no.] 155,"/>
+   <mets:div ORDER="16"
+             CONTENTIDS="NYDA.1000.001.00193"
+             LABEL="Preliminary study, United Nations Headquaters : north elevation : [Drwg] #156 /"/>
+</mets:structMap>

@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mets:structMap xmlns:mets="http://www.loc.gov/METS/" LABEL="ldpd.ggva.NYDA89-F675">
+   <mets:div ORDER="1"
+             CONTENTIDS="NYDA.1960.001.01684"
+             LABEL="Foundation plan ; sections of walls, piers and chimneys : Sheet no. 12,"/>
+   <mets:div ORDER="2"
+             CONTENTIDS="NYDA.1960.001.01685"
+             LABEL="First floor plan : Sheet no. 2,"/>
+   <mets:div ORDER="3"
+             CONTENTIDS="NYDA.1960.001.01686"
+             LABEL="Second floor plan : Sheet no. 3."/>
+   <mets:div ORDER="4"
+             CONTENTIDS="NYDA.1960.001.01687"
+             LABEL="Attic plan : Sheet no. 4,"/>
+   <mets:div ORDER="5"
+             CONTENTIDS="NYDA.1960.001.01688"
+             LABEL="Rear elevation (south) ; front elevation (north) : Sheet no. 5,"/>
+   <mets:div ORDER="6"
+             CONTENTIDS="NYDA.1960.001.01689"
+             LABEL="East elevation, west elevation : Sheet no. 6,"/>
+   <mets:div ORDER="7"
+             CONTENTIDS="NYDA.1960.001.01690"
+             LABEL="Typical wall section with exterior and interior elevations of windows, detail of vent in gable ends, elevation of vents, details of shingle ridge ; elevations of stairs in hall and west side of dining room : Sheet no. 7,"/>
+   <mets:div ORDER="8"
+             CONTENTIDS="NYDA.1960.001.01691"
+             LABEL="Inch scale and full size details of doors : Sheet no. 10,"/>
+   <mets:div ORDER="9"
+             CONTENTIDS="NYDA.1960.001.01692"
+             LABEL="Inch scale and full size details of sash : Sheet no. 11,"/>
+</mets:structMap>

@@ -1,19 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<MODS:mods xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
-           xmlns:MODS="http://www.loc.gov/mods/v3"
+<MODS:mods xmlns:MODS="http://www.loc.gov/mods/v3"
+           xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
            xmlns:xlink="http://www.w3.org/1999/xlink"
-           xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-4.xsd"
-           version="3.4">
-   <MODS:name type="personal">
-      <MODS:namePart>Greene, Henry Mather, 1870-1954</MODS:namePart>
-   </MODS:name>
-   <MODS:titleInfo type="uniform">
-      <!--ELEMENT  MODS:title  SPACE-NORMALIZED-->
-<MODS:title>Estelle Strasburg house (Covina, Calif.)</MODS:title>
-   </MODS:titleInfo>
+           xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd"
+           version="3.5">
+   <MODS:identifier type="local">NYDA.1960.001.03777</MODS:identifier>
    <MODS:titleInfo>
-      <!--ELEMENT  MODS:title  SPACE-NORMALIZED-->
-<MODS:title>Residence for Mrs Edward Strasburg, 225 Adams Park Drive West, Covina, Calif., Front elevation (east), scheme 3.</MODS:title>
+      <MODS:title>Front elevation (east), scheme 3.</MODS:title>
    </MODS:titleInfo>
    <MODS:originInfo>
       <MODS:dateCreated>1929.</MODS:dateCreated>
@@ -27,41 +20,20 @@
       <MODS:form authority="marcform">electronic</MODS:form>
    </MODS:physicalDescription>
    <MODS:typeOfResource>still image</MODS:typeOfResource>
-   <MODS:note type="ownership">
-    Gift of Jean Murray Bangs (Mrs. Harwell Hamilton Harris), 1960; formerly the collection of Charles Sumner Greene.
-  </MODS:note>
    <MODS:note>Digital image created from an analog slide.</MODS:note>
-   <MODS:accessCondition type="useAndReproduction">No known
-                        restrictions.</MODS:accessCondition>
-   <MODS:relatedItem displayLabel="Project" type="host">
-      <MODS:titleInfo>
-         <!--ELEMENT  MODS:title  SPACE-NORMALIZED-->
-<MODS:title>Greene &amp; Greene Project</MODS:title>
-      </MODS:titleInfo>
-      <MODS:location>
-         <url>http://www.columbia.edu/cgi-bin/cul/resolve?clio4278328</url>
-      </MODS:location>
-   </MODS:relatedItem>
+   <MODS:accessCondition type="useAndReproduction">No known restrictions.</MODS:accessCondition>
    <MODS:location>
       <MODS:physicalLocation authority="marcorg">NNC-A</MODS:physicalLocation>
-      <MODS:physicalLocation>Avery Architectural &amp; Fine Arts Library, Columbia
-                    University</MODS:physicalLocation>
-      <!--ELEMENT  MODS:shelfLocator  trailing punctuation removed-->
-<MODS:shelfLocator>NYDA.1960.001.03777</MODS:shelfLocator>
-      <MODS:url access="object in context" usage="primary display">http://www.columbia.edu/cu/lweb/eresources/archives/avery/greene/images/index.html</MODS:url>
+      <MODS:physicalLocation>Avery Architectural &amp; Fine Arts Library, Columbia University</MODS:physicalLocation>
+      <MODS:shelfLocator>NYDA.1960.001.03777.</MODS:shelfLocator>
       <MODS:holdingSimple>
          <MODS:copyInformation>
             <MODS:subLocation>Drawings &amp; Archives</MODS:subLocation>
          </MODS:copyInformation>
       </MODS:holdingSimple>
    </MODS:location>
-   <!--ELEMENT  MODS:identifier  trailing punctuation removed-->
-<MODS:identifier type="local">NYDA.1960.001.03777</MODS:identifier>
-   <!--ELEMENT  MODS:identifier  trailing punctuation removed-->
-<MODS:identifier type="CLIO">3462550</MODS:identifier>
    <MODS:recordInfo>
       <MODS:recordContentSource>NNC</MODS:recordContentSource>
-      <MODS:recordOrigin>Cataloging by project AVIADOR staff, edited to conform to MODS,
-                    version 3.4.</MODS:recordOrigin>
+      <MODS:recordOrigin>Cataloging by project AVIADOR staff, edited to conform to MODS, version 3.5.</MODS:recordOrigin>
    </MODS:recordInfo>
 </MODS:mods>

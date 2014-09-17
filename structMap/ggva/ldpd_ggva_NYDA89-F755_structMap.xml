@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mets:structMap xmlns:mets="http://www.loc.gov/METS/" LABEL="ldpd.ggva.NYDA89-F755">
+   <mets:div ORDER="1"
+             CONTENTIDS="NYDA.1960.001.03430"
+             LABEL="Foundation plan ; detail of pier footings, section through wall footing, chimney footings detail, kitchen chimney detail : Sheet no. 1."/>
+   <mets:div ORDER="2"
+             CONTENTIDS="NYDA.1960.001.03431"
+             LABEL="First floor plan ; detail of dining room bay : Sheet no. 2."/>
+   <mets:div ORDER="3"
+             CONTENTIDS="NYDA.1960.001.03432"
+             LABEL="2nd floor plan : Sheet no. 3."/>
+   <mets:div ORDER="4"
+             CONTENTIDS="NYDA.1960.001.03433"
+             LABEL="Front elevation ; interior elevations -- north side of Dr.'s reception room, west end of living room, section through fireplace, the stairs looking west, west end of Dr.'s reception rm. : Sheet no. 4."/>
+   <mets:div ORDER="5"
+             CONTENTIDS="NYDA.1960.001.03434"
+             LABEL="North elevation ; details of hood over office doors -- side, front ; details of signboard letters incised on both sides of board : Sheet no. 5."/>
+   <mets:div ORDER="6"
+             CONTENTIDS="NYDA.1960.001.03435"
+             LABEL="West elevation ; interior elevation showing screened porch, kitchen, dining room, and north side of living room : Sheet no. 6."/>
+   <mets:div ORDER="7"
+             CONTENTIDS="NYDA.1960.001.03436"
+             LABEL="South elevation ; Detail drawings -- west wall, no. lattice for west side, south wall, doors, section through eaves, coat closet door in living room, front door : Sheet no. 7."/>
+   <mets:div ORDER="8"
+             CONTENTIDS="NYDA.1960.001.03437"
+             LABEL="1 1/2 inch scale details -- walls, windows, gables, door frames : Sheet no. 8."/>
+   <mets:div ORDER="2"
+             CONTENTIDS="NYDA.1960.001.03438"
+             LABEL="Elevations of lantern : No. 19,"/>
+</mets:structMap>

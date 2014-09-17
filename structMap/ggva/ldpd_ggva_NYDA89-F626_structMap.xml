@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mets:structMap xmlns:mets="http://www.loc.gov/METS/" LABEL="ldpd.ggva.NYDA89-F626">
+   <mets:div ORDER="1"
+             CONTENTIDS="NYDA.1960.001.00191"
+             LABEL="West elevation, second floor plan : Sheet no. 1."/>
+   <mets:div ORDER="2"
+             CONTENTIDS="NYDA.1960.001.00192"
+             LABEL="West elevation, second floor plan : Sheet no. 1."/>
+   <mets:div ORDER="3"
+             CONTENTIDS="NYDA.1960.001.00193"
+             LABEL="North elevation, transverse section A-A, details of construction about I beam, detail drawings of flower boxes and door jamb (inside) : Sheet 2."/>
+   <mets:div ORDER="4"
+             CONTENTIDS="NYDA.1960.001.00194"
+             LABEL="North elevation, transverse section A-A, details of construction about I beam, detail drawings of flower boxes and door jamb (inside) : Sheet 2."/>
+   <mets:div ORDER="5"
+             CONTENTIDS="NYDA.1960.001.00195"
+             LABEL="Bathroom addition to bedroom no. 1 in garage -- south elevation, west elevation, plan, section A-A, elevation of doors of closet : Sheet no. 3."/>
+   <mets:div ORDER="6"
+             CONTENTIDS="NYDA.1960.001.00196"
+             LABEL="Bathroom addition to bedroom no. 1 in garage -- south elevation, west elevation, plan, section A-A, elevation of doors to closet : Sheet no. 3."/>
+   <mets:div ORDER="7"
+             CONTENTIDS="NYDA.1960.001.00197"
+             LABEL="Bathroom addition -- sketch of south elevation and section A-A"/>
+   <mets:div ORDER="8"
+             CONTENTIDS="NYDA.1960.001.00198"
+             LABEL="Bathroom addition to bedroom no. 1 -- south elevation, west elevation, plan, alternative paln."/>
+</mets:structMap>

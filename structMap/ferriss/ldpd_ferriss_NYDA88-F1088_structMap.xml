@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mets:structMap xmlns:mets="http://www.loc.gov/METS/" LABEL="ldpd.ferriss.NYDA88-F1088">
+   <mets:div ORDER="1"
+             CONTENTIDS="NYDA.1987.005.00002"
+             LABEL="Perspective view of complex looking towards domed structure (Opera House?) with setting sun viewed through covered walkway /"/>
+   <mets:div ORDER="2"
+             CONTENTIDS="NYDA.1987.005.00003"
+             LABEL="Perspective view of open plaza with sculpture, sunken areas, and fountain, looking through covered walkway towards domed structure (Opera House?) /"/>
+   <mets:div ORDER="3"
+             CONTENTIDS="NYDA.1987.005.00004"
+             LABEL="Bird's-eye perspective view of entire complex : rough sketch /"/>
+   <mets:div ORDER="4"
+             CONTENTIDS="NYDA.1987.005.00005"
+             LABEL="Perspective view of plaza with sculpture and sunken areas, looking towards fountain and domed structure, viewed through decorative, open arcade,"/>
+   <mets:div ORDER="5"
+             CONTENTIDS="NYDA.1987.005.00006"
+             LABEL="Perspective view of domed structure (Opera House?) viewed from landscaped park across pond,"/>
+   <mets:div ORDER="6"
+             CONTENTIDS="NYDA.1987.005.00007"
+             LABEL="Bird's eye perspective view of entire complex, showing surrounding streets : rough sketch,"/>
+</mets:structMap>

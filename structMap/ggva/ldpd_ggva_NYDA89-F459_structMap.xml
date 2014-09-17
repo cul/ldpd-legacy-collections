@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mets:structMap xmlns:mets="http://www.loc.gov/METS/" LABEL="ldpd.ggva.NYDA89-F459">
+   <mets:div ORDER="1"
+             CONTENTIDS="NYDA.1960.001.00960"
+             LABEL="North elevation, east elevation, plan, interior elevation of north side."/>
+   <mets:div ORDER="2"
+             CONTENTIDS="NYDA.1960.001.04504"
+             LABEL="Sections showing relative heights of gables, south elev. from east terrace, drawing showing revised roof from east elevation."/>
+   <mets:div ORDER="3"
+             CONTENTIDS="NYDA.1960.001.00961"
+             LABEL="Floor plan ; exterior elevations -- east elevation, north elevation, south elevation ; interior elevations -- north side of room, elev. beam, south side of room, west end : Sheet no. 1."/>
+   <mets:div ORDER="4"
+             CONTENTIDS="NYDA.1960.001.00962"
+             LABEL="Sash -- elev. at bottom, sections, plan : Sheet no. 2."/>
+   <mets:div ORDER="5"
+             CONTENTIDS="NYDA.1960.001.00963"
+             LABEL="Full size details of window &amp; door frames -- sill, F.S.D. head of sliding door (jamb same), F.S.D. muntin, meeting stile, F.S.D. door to hall : Sh. no. 3."/>
+   <mets:div ORDER="6"
+             CONTENTIDS="NYDA.1960.001.00964"
+             LABEL="Full size section through doors"/>
+</mets:structMap>

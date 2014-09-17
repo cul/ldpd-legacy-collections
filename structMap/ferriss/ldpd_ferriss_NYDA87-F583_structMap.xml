@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mets:structMap xmlns:mets="http://www.loc.gov/METS/" LABEL="ldpd.ferriss.NYDA87-F583">
+   <mets:div ORDER="1"
+             CONTENTIDS="NYDA.1000.001.00154"
+             LABEL="Building of a battleship : the Assembling Room perspective drawing /"/>
+   <mets:div ORDER="2"
+             CONTENTIDS="NYDA.1000.001.00155"
+             LABEL="Building of a battleship perspective drawing of ship in wet dock /"/>
+</mets:structMap>

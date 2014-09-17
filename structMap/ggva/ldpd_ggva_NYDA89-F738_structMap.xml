@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mets:structMap xmlns:mets="http://www.loc.gov/METS/" LABEL="ldpd.ggva.NYDA89-F738">
+   <mets:div ORDER="1"
+             CONTENTIDS="NYDA.1960.001.03416"
+             LABEL="Plan of addition : Sheet no. 1."/>
+   <mets:div ORDER="2"
+             CONTENTIDS="NYDA.1960.001.03417"
+             LABEL="Exterior elevation of addition : Sheet no. 2."/>
+   <mets:div ORDER="3"
+             CONTENTIDS="NYDA.1960.001.03418"
+             LABEL="Plan of tiled floor area, with interior elevations -- east, south, west."/>
+</mets:structMap>

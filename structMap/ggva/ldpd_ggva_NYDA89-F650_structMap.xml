@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mets:structMap xmlns:mets="http://www.loc.gov/METS/" LABEL="ldpd.ggva.NYDA89-F650">
+   <mets:div ORDER="1"
+             CONTENTIDS="NYDA.1960.001.01693"
+             LABEL="Details for concrete floor section on front porch -- plan below slab, plan above slab, part section A-A with section of joist, part section B-B with section at front door : Sheet no. 1."/>
+   <mets:div ORDER="2"
+             CONTENTIDS="NYDA.1960.001.01694"
+             LABEL="Details for conrete floor section on front porch -- plan below slab, plan above slab, part section A-A with section of joist, part section B-B with section at front door : Sheet no. 1."/>
+   <mets:div ORDER="3"
+             CONTENTIDS="NYDA.1960.001.01695"
+             LABEL="Details for concrete floor section on front porch -- plan below slab, plan above slab, part section A-A with section of joist, part section B-B with section at front door : Sheet no. 1 (revised)."/>
+   <mets:div ORDER="4"
+             CONTENTIDS="NYDA.1960.001.01696"
+             LABEL="Details for concrete floor section on front porch -- plan below slab, plan above slab, part section A-A, part section B-B with section at front door : Sheet no. 1 (2nd revision)."/>
+   <mets:div ORDER="5"
+             CONTENTIDS="NYDA.1960.001.01697"
+             LABEL="Details for concrete floor section on front porch -- part section A-A, part of section at front door : Sheet no. 1 (2nd revision)."/>
+   <mets:div ORDER="6"
+             CONTENTIDS="NYDA.1960.001.01698"
+             LABEL="Details for concrete floor section -- foundation plan, ground floor plan, section A-A, section B-B."/>
+   <mets:div ORDER="7"
+             CONTENTIDS="NYDA.1960.001.01699"
+             LABEL="Details for concrete floor section -- foundation plan, ground floor plan, section A-A, section B-B."/>
+</mets:structMap>

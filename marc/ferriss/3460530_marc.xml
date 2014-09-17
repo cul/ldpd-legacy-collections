@@ -57,6 +57,10 @@
     <subfield code="a">Date approximated from "A list of commissions completed to Dec. 31, 1945" in Ferriss Archival Papers which states: "Original proposed, published and submitted to Washington by the late George J. Atwell, in 1943".</subfield>
   </datafield>
   <datafield tag="650" ind1=" " ind2="7">
+    <subfield code="a">Airplanes.</subfield>
+    <subfield code="2">aat</subfield>
+  </datafield>
+  <datafield tag="650" ind1=" " ind2="7">
     <subfield code="a">Bomb shelters.</subfield>
     <subfield code="2">aat</subfield>
   </datafield>
@@ -84,11 +88,6 @@
   </datafield>
   <datafield tag="691" ind1=" " ind2="4">
     <subfield code="a">Hudson River (N.Y. and N.J.)</subfield>
-  </datafield>
-  <datafield tag="650" ind1=" " ind2="0">
-    <subfield code="a">Architecture</subfield>
-    <subfield code="z">United States</subfield>
-    <subfield code="v">Designs and plans.</subfield>
   </datafield>
   <datafield tag="700" ind1="1" ind2=" ">
     <subfield code="a">Atwell, George J.</subfield>
@@ -125,7 +124,7 @@
     <subfield code="i">NYDA.1000.001.00023.</subfield>
     <subfield code="t">[Airplane in hanger] /</subfield>
     <subfield code="c">Hugh Ferriss.</subfield>
-    <subfield code="p">Ccharcoal with white (crayon?) on paper ; 42.6 x 61.6 cm. (16 5/8 x 23 7/8 in.)</subfield>
+    <subfield code="p">Charcoal with white (crayon?) on paper ; 42.6 x 61.6 cm. (16 5/8 x 23 7/8 in.)</subfield>
     <subfield code="o">Signed, lower left.</subfield>
   </datafield>
   <datafield tag="789" ind1="0" ind2=" ">

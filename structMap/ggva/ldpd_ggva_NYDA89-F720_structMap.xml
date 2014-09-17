@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mets:structMap xmlns:mets="http://www.loc.gov/METS/" LABEL="ldpd.ggva.NYDA89-F720">
+   <mets:div ORDER="1"
+             CONTENTIDS="NYDA.1960.001.04043"
+             LABEL="Plot i.e. site plan : Sheet no. 1."/>
+   <mets:div ORDER="2"
+             CONTENTIDS="NYDA.1960.001.04044"
+             LABEL="First floor plan ; second floor plan ; window detail in section and elevations ; detail of verge boards ; garage door detail -- elevation, plan : Sheet no. 2."/>
+   <mets:div ORDER="3"
+             CONTENTIDS="NYDA.1960.001.04045"
+             LABEL="North elevation ; east elevation ; south elevation ; detail of bracket, section thru footing, section A-A : Sheet no. 3."/>
+   <mets:div ORDER="4"
+             CONTENTIDS="NYDA.1960.001.04046"
+             LABEL="One story garage -- south elevation ; east elevation ; plan ; section thru footing ; garage door detail (other doors similar) -- elevation, plan ; window detail in section and elevations ; plot plan : Sheet no. [5]."/>
+   <mets:div ORDER="5"
+             CONTENTIDS="NYDA.1960.001.04047"
+             LABEL="First floor plan ; section A-A ; section through footing ; south elevation ; east elevation."/>
+   <mets:div ORDER="6"
+             CONTENTIDS="NYDA.1960.001.04048"
+             LABEL="Plot i.e. site plan : Sheet no. 1."/>
+   <mets:div ORDER="7"
+             CONTENTIDS="NYDA.1960.001.04049"
+             LABEL="First floor plan ; second floor plan ; window detail in section and elevations ; detail of verge boards ; garage door detail -- elevation, plan : Sheet no. 2."/>
+   <mets:div ORDER="8"
+             CONTENTIDS="NYDA.1960.001.04050"
+             LABEL="North elevation ; east elevation ; south elevation ; detail of bracket, section thru footing, section A-A : Sheet no. 3."/>
+   <mets:div ORDER="9"
+             CONTENTIDS="NYDA.1960.001.04051"
+             LABEL="One story garage -- south elevation ; east elevation ; plan ; section thru footing ; garage door detail (other doors similar) -- elevation, plan ; window detail in section and elevations ; plot plan : S[heet no.] 5."/>
+</mets:structMap>

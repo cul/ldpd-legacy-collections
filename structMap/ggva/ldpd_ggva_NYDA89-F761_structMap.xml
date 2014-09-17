@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mets:structMap xmlns:mets="http://www.loc.gov/METS/" LABEL="ldpd.ggva.NYDA89-F761">
+   <mets:div ORDER="1"
+             CONTENTIDS="NYDA.1960.001.03242"
+             LABEL="Perspective sketch of rocking chair."/>
+   <mets:div ORDER="2"
+             CONTENTIDS="NYDA.1960.001.03243"
+             LABEL="Details of kitchen sink -- section, elevation, plan, F.S. section thro' sink (showing construction), section thro' window stool : Sheet no. 1."/>
+   <mets:div ORDER="3" CONTENTIDS="NYDA.1960.001.03244" LABEL="Lantern details"/>
+   <mets:div ORDER="4"
+             CONTENTIDS="NYDA.1960.001.03245"
+             LABEL="Perspective drawing of one of the rocking chairs in drawing room : Sheet no. 3."/>
+   <mets:div ORDER="5"
+             CONTENTIDS="NYDA.1960.001.03246"
+             LABEL="Chaise longue in own bedroom -- plan, side elevation, front elevation : Sheet no. 4."/>
+   <mets:div ORDER="6"
+             CONTENTIDS="NYDA.1960.001.03247"
+             LABEL="Details of bedroom chair : Sheet no. 4."/>
+   <mets:div ORDER="7"
+             CONTENTIDS="NYDA.1960.001.03248"
+             LABEL="Plan of front hall : Sheet no. 5."/>
+   <mets:div ORDER="8"
+             CONTENTIDS="NYDA.1960.001.03249"
+             LABEL="Living room rockers changed to straight chairs -- side view and plan of bottom : Sheet no. 6."/>
+   <mets:div ORDER="9"
+             CONTENTIDS="NYDA.1960.001.03250"
+             LABEL="Rockers changed to straight chair -- side view and plan of bottom."/>
+   <mets:div ORDER="10"
+             CONTENTIDS="NYDA.1960.001.03251"
+             LABEL="Rocking chairs in drawing room -- side elevation"/>
+   <mets:div ORDER="11"
+             CONTENTIDS="NYDA.1960.001.03252"
+             LABEL="Rocking chairs in drawing room -- side elevation"/>
+   <mets:div ORDER="12"
+             CONTENTIDS="NYDA.1960.001.03253"
+             LABEL="Side and front view of straight bottoms for rocking chairs"/>
+   <mets:div ORDER="13"
+             CONTENTIDS="NYDA.1960.001.03254"
+             LABEL="Flap (shows rockers removed) -- perspective drawing of straight bottom for rocking chair."/>
+</mets:structMap>

@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mets:structMap xmlns:mets="http://www.loc.gov/METS/" LABEL="ldpd.ferriss.NYDA87-F47">
+   <mets:div ORDER="1"
+             CONTENTIDS="NYDA.1000.001.00222"
+             LABEL="Study : persepctive,"/>
+   <mets:div ORDER="2" CONTENTIDS="NYDA.1000.001.00223" LABEL="Perspective /"/>
+   <mets:div ORDER="3"
+             CONTENTIDS="NYDA.1000.001.00224"
+             LABEL="Perspective : [Drwg. no.] 7."/>
+</mets:structMap>

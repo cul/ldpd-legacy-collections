@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mets:structMap xmlns:mets="http://www.loc.gov/METS/" LABEL="ldpd.ggva.NYDA89-F689">
+   <mets:div ORDER="1"
+             CONTENTIDS="NYDA.1960.001.02734"
+             LABEL="Topographical map of a portion of lots 14 and 15 and lot H and portions of Arroyo Wood lots 9 and 10 in city of Pasadena, Cal. /"/>
+   <mets:div ORDER="2"
+             CONTENTIDS="NYDA.1960.001.02735"
+             LABEL="Topographical map of a portion of lots 14 and 15 and lot H and portions of Arroyo Wood lots 9 and 10 in city of Pasadena, Cal. /"/>
+   <mets:div ORDER="3"
+             CONTENTIDS="NYDA.1960.001.02736"
+             LABEL="Topographical map of a portion of lots 14 and 15 and lot H and portions of Arroyo Wood lots 9 and 10 in city of Pasadena, Cal. /"/>
+   <mets:div ORDER="4"
+             CONTENTIDS="NYDA.1960.001.02737"
+             LABEL="Topographical map of Mira Vista building sites"/>
+   <mets:div ORDER="5"
+             CONTENTIDS="NYDA.1960.001.02738"
+             LABEL="Sketch of site plan of Mira Vista."/>
+   <mets:div ORDER="6"
+             CONTENTIDS="NYDA.1960.001.02739"
+             LABEL="Mira Vista villa building sites -- plan."/>
+</mets:structMap>

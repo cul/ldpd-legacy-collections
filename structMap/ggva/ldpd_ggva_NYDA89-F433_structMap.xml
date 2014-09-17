@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mets:structMap xmlns:mets="http://www.loc.gov/METS/" LABEL="ldpd.ggva.NYDA89-F433">
+   <mets:div ORDER="1"
+             CONTENTIDS="NYDA.1960.001.00509"
+             LABEL="Foundation plan ; detail drawings of -- girder posts and footings, reception rm. chimney footing, section &#34;A-B&#34;, library chimney footing (some footing for dining room chimney) : Sheet no.1."/>
+   <mets:div ORDER="2"
+             CONTENTIDS="NYDA.1960.001.00510"
+             LABEL="Plan of ground floor ; plan of corner of bay ; 1/4 inch scale details of fireplaces -- library, reception hall, dining room (same detail in bedr'm #1 ; 1 inch scale detail of corner A of mantel in library : Sheet no.2."/>
+   <mets:div ORDER="3"
+             CONTENTIDS="NYDA.1960.001.00511"
+             LABEL="Front elevation, north elevation : Sheet no. 3."/>
+   <mets:div ORDER="4"
+             CONTENTIDS="NYDA.1960.001.00512"
+             LABEL="West elevation, east elevation : Sheet no. 4."/>
+   <mets:div ORDER="5"
+             CONTENTIDS="NYDA.1960.001.00513"
+             LABEL="1 1/2 inch scale details in sections and elevations of walls and roof : Sheet no. 5."/>
+   <mets:div ORDER="6"
+             CONTENTIDS="NYDA.1960.001.00514"
+             LABEL="Door details, inch scale and full size : Sheet no. 8,"/>
+   <mets:div ORDER="7"
+             CONTENTIDS="NYDA.1960.001.00515"
+             LABEL="1/8 inch scale detail of store house, chicken house and corral in plans, elevations and section : Sheet no. 6A,"/>
+   <mets:div ORDER="8"
+             CONTENTIDS="NYDA.1960.001.00516"
+             LABEL="Store house, chicken house &amp; corral -- plan, south elevation and east elevation of store house ; plan, section and 1 1/2 inch scale detail of fence of corral and chicken house"/>
+   <mets:div ORDER="9"
+             CONTENTIDS="NYDA.1960.001.00517"
+             LABEL="Plan showing new kitchen and adjacent rooms"/>
+   <mets:div ORDER="10"
+             CONTENTIDS="NYDA.1960.001.00518"
+             LABEL="Details in front and side elevations of lantern."/>
+   <mets:div ORDER="11"
+             CONTENTIDS="NYDA.1960.001.00519"
+             LABEL="Details in elevation of lantern."/>
+</mets:structMap>

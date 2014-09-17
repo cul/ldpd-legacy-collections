@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mets:structMap xmlns:mets="http://www.loc.gov/METS/" LABEL="ldpd.ggva.NYDA89-F746">
+   <mets:div ORDER="1"
+             CONTENTIDS="NYDA.1960.001.03329"
+             LABEL="Foundation plan ; section thro' porch rail, detail of piers, section thro' wall : No. 1."/>
+   <mets:div ORDER="2"
+             CONTENTIDS="NYDA.1960.001.03330"
+             LABEL="Second floor plan ; first floor plan ; detail of kitchen fuel gas vent : No. 2"/>
+   <mets:div ORDER="3"
+             CONTENTIDS="NYDA.1960.001.03331"
+             LABEL="Front elevation ; west elevation ; detail of front door, section thro' door : No. 3."/>
+   <mets:div ORDER="4"
+             CONTENTIDS="NYDA.1960.001.03332"
+             LABEL="South elevation ; north elevation : No. 4."/>
+   <mets:div ORDER="5"
+             CONTENTIDS="NYDA.1960.001.03333"
+             LABEL="Detail of double hung windows -- section through wall, inside elevation, outside elevation ; details of living room mantel ; full size stair details ; stair details (side view) : No. 5."/>
+   <mets:div ORDER="6"
+             CONTENTIDS="NYDA.1960.001.04181"
+             LABEL="Cement walk plan : No. 10,"/>
+</mets:structMap>

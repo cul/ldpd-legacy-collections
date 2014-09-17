@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mets:structMap xmlns:mets="http://www.loc.gov/METS/" LABEL="ldpd.ggva.NYDA89-F663">
+   <mets:div ORDER="1"
+             CONTENTIDS="NYDA.1960.001.04314"
+             LABEL="Front (west) elevation,"/>
+   <mets:div ORDER="2"
+             CONTENTIDS="NYDA.1960.001.04315"
+             LABEL="1st floor plan, unidentified sketch"/>
+   <mets:div ORDER="3" CONTENTIDS="NYDA.1960.001.04316" LABEL="2nd floor plan"/>
+   <mets:div ORDER="4"
+             CONTENTIDS="NYDA.1960.001.04317R"
+             LABEL="Sketches of first and second floor plans, rough sketch of elevation"/>
+   <mets:div ORDER="5"
+             CONTENTIDS="NYDA.1960.001.04317V"
+             LABEL="Unidentified sketches"/>
+   <mets:div ORDER="6"
+             CONTENTIDS="NYDA.1960.001.04318"
+             LABEL="Section through stairway"/>
+   <mets:div ORDER="7"
+             CONTENTIDS="NYDA.1960.001.04319"
+             LABEL="Sketch of elevation showing railing and pillar"/>
+</mets:structMap>

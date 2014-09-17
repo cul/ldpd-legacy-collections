@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mets:structMap xmlns:mets="http://www.loc.gov/METS/" LABEL="ldpd.ferriss.NYDA87-F122">
+   <mets:div ORDER="1"
+             CONTENTIDS="NYDA.1000.001.00147"
+             LABEL="&#34;c&#34; : photostat (24&#34;) made &amp; del.,"/>
+   <mets:div ORDER="2" CONTENTIDS="NYDA.1000.001.00148" LABEL="Perspective /"/>
+   <mets:div ORDER="3" CONTENTIDS="NYDA.1000.001.00149" LABEL="Perspective"/>
+</mets:structMap>

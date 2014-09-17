@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mets:structMap xmlns:mets="http://www.loc.gov/METS/" LABEL="ldpd.ggva.NYDA89-F787">
+   <mets:div ORDER="1"
+             CONTENTIDS="NYDA.1960.001.03543"
+             LABEL="Elevations of property -- looking west, looking north."/>
+   <mets:div ORDER="2"
+             CONTENTIDS="NYDA.1960.001.03544"
+             LABEL="Site plan showing layout of property."/>
+   <mets:div ORDER="3"
+             CONTENTIDS="NYDA.1960.001.03545"
+             LABEL="Partial site plan"/>
+   <mets:div ORDER="4"
+             CONTENTIDS="NYDA.1960.001.03546"
+             LABEL="Foundation plan ; detail drawings -- section A-A, section B-B, section C-C, piers."/>
+   <mets:div ORDER="5"
+             CONTENTIDS="NYDA.1960.001.03547"
+             LABEL="First floor plan."/>
+   <mets:div ORDER="6"
+             CONTENTIDS="NYDA.1960.001.03548"
+             LABEL="Second floor plan."/>
+   <mets:div ORDER="7" CONTENTIDS="NYDA.1960.001.03549" LABEL="Front elevation."/>
+   <mets:div ORDER="8" CONTENTIDS="NYDA.1960.001.03550" LABEL="Side elevation."/>
+   <mets:div ORDER="9" CONTENTIDS="NYDA.1960.001.03551" LABEL="Rear elevation."/>
+   <mets:div ORDER="10" CONTENTIDS="NYDA.1960.001.03552" LABEL="Side elevation."/>
+   <mets:div ORDER="11"
+             CONTENTIDS="NYDA.1960.001.03553"
+             LABEL="Interior details in elevations -- dining room, living room, den, reception hall, kitchen, pass pantry."/>
+   <mets:div ORDER="12"
+             CONTENTIDS="NYDA.1960.001.04549"
+             LABEL="Plan of garden : Shee[t] no. 1."/>
+   <mets:div ORDER="13"
+             CONTENTIDS="NYDA.1960.001.03554"
+             LABEL="Plan of garden ; arbor details : Sheet no. 3."/>
+   <mets:div ORDER="14"
+             CONTENTIDS="NYDA.1960.001.03555"
+             LABEL="Partial first floor plan ; partial foundation plan."/>
+   <mets:div ORDER="15"
+             CONTENTIDS="NYDA.1960.001.03556"
+             LABEL="Sketch of partial first floor plan."/>
+   <mets:div ORDER="16"
+             CONTENTIDS="NYDA.1960.001.03557"
+             LABEL="Partial 1st floor plan"/>
+   <mets:div ORDER="17" CONTENTIDS="NYDA.1960.001.03558" LABEL="2d floor plan"/>
+   <mets:div ORDER="18"
+             CONTENTIDS="NYDA.1960.001.03559"
+             LABEL="Details of bookshelves in west end of living room -- front elevation, section, full size details : Sheet no. 4."/>
+   <mets:div ORDER="19"
+             CONTENTIDS="NYDA.1960.001.03560"
+             LABEL="Doors added in living room -- beam detail (see revised beam detail), section, elevation, elevation outside, plan, 3/4&#34; detail of doors (two of these), full size details : Sheet no. 5."/>
+   <mets:div ORDER="20"
+             CONTENTIDS="NYDA.1960.001.03561"
+             LABEL="Doors added in living room -- beam detail (see revised detail), section, elevation, elevation outside, plan, 3/4&#34; detail of doors (two of these), full size details : Sheet no. 5."/>
+   <mets:div ORDER="21"
+             CONTENTIDS="NYDA.1960.001.03562"
+             LABEL="Garden wall, lattice and steps details -- plan of wall, elevation of wall and fence, section A-A, section B-B : Sheet no. 7."/>
+   <mets:div ORDER="22"
+             CONTENTIDS="NYDA.1960.001.03563"
+             LABEL="Flower garden planting plan : Sheet no. 9."/>
+   <mets:div ORDER="23" CONTENTIDS="NYDA.1960.001.03564" LABEL="North elevation"/>
+   <mets:div ORDER="24"
+             CONTENTIDS="NYDA.1960.001.03565"
+             LABEL="Partial north elevation, partial west elevation."/>
+   <mets:div ORDER="25" CONTENTIDS="NYDA.1960.001.03566" LABEL="West elevation."/>
+   <mets:div ORDER="26"
+             CONTENTIDS="NYDA.1960.001.03567"
+             LABEL="Sections through addition showing interior elevations -- south side, east side, north side, west side."/>
+   <mets:div ORDER="27"
+             CONTENTIDS="NYDA.1960.001.03568"
+             LABEL="Elevations of addition -- north side exterior, interior south end, interior east, interior north."/>
+   <mets:div ORDER="28"
+             CONTENTIDS="NYDA.1960.001.03569"
+             LABEL="Exterior elevation of north side of addition."/>
+   <mets:div ORDER="29"
+             CONTENTIDS="NYDA.1960.001.03570"
+             LABEL="Sketch of site plan"/>
+   <mets:div ORDER="30"
+             CONTENTIDS="NYDA.1960.001.03571R"
+             LABEL="Perspective sketch of corner of property, with trees"/>
+   <mets:div ORDER="31"
+             CONTENTIDS="NYDA.1960.001.03571V"
+             LABEL="Perspective sketch of garden"/>
+   <mets:div ORDER="32"
+             CONTENTIDS="NYDA.1960.001.03572"
+             LABEL="Sketch of site plan : #2."/>
+   <mets:div ORDER="33"
+             CONTENTIDS="NYDA.1960.001.03573"
+             LABEL="Sketch of site plan : #4."/>
+</mets:structMap>

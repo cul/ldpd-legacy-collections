@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mets:structMap xmlns:mets="http://www.loc.gov/METS/" LABEL="ldpd.ferriss.NYDA87-F584">
+   <mets:div ORDER="1"
+             CONTENTIDS="NYDA.1000.001.00276"
+             LABEL="Perspective drawing, preliminary study for United Nations : #42A,"/>
+   <mets:div ORDER="2"
+             CONTENTIDS="NYDA.1000.001.00277"
+             LABEL="Perspective drawing, preliminary study for United Nations : study #11."/>
+   <mets:div ORDER="3"
+             CONTENTIDS="NYDA.1000.001.00278"
+             LABEL="Perspective drawing, preliminary study for the United Nations : Study #62, Scheme 24,"/>
+   <mets:div ORDER="4"
+             CONTENTIDS="NYDA.1000.001.00279"
+             LABEL="Perspective drawing, preliminary study for United Nations"/>
+   <mets:div ORDER="5"
+             CONTENTIDS="NYDA.1000.001.00280"
+             LABEL="Perspective drawing, preliminary study for United Nations : study #32, drawing 56,"/>
+</mets:structMap>

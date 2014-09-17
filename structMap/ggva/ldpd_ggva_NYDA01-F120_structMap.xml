@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mets:structMap xmlns:mets="http://www.loc.gov/METS/" LABEL="ldpd.ggva.NYDA01-F120">
+   <mets:div ORDER="1"
+             CONTENTIDS="NYDA.1987.003.00150"
+             LABEL="South (front) elevation."/>
+   <mets:div ORDER="2"
+             CONTENTIDS="NYDA.1987.003.00151"
+             LABEL="North (garden) elevation."/>
+   <mets:div ORDER="3"
+             CONTENTIDS="NYDA.1987.003.00152"
+             LABEL="Entry hall and dining room."/>
+</mets:structMap>

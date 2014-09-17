@@ -1,0 +1,28 @@
+{
+ "id":"ldpd.ggva.NYDA89-F766",
+ "descMetadata":"/mods/ggva/ldpd_ggva_NYDA89-F766_mods.xml",
+ "structMetadata":"/structMap/ggva/ldpd_ggva_NYDA89-F766_structMap.xml",
+ "members":[
+ {"id":"NYDA.1960.001.03228","descMetadata":"/mods/ggva/NYDA_1960_001_03228_mods.xml"},
+ {"id":"NYDA.1960.001.03203","descMetadata":"/mods/ggva/NYDA_1960_001_03203_mods.xml"},
+ {"id":"NYDA.1960.001.03229","descMetadata":"/mods/ggva/NYDA_1960_001_03229_mods.xml"},
+ {"id":"NYDA.1960.001.01892","descMetadata":"/mods/ggva/NYDA_1960_001_01892_mods.xml"},
+ {"id":"NYDA.1960.001.01893","descMetadata":"/mods/ggva/NYDA_1960_001_01893_mods.xml"},
+ {"id":"NYDA.1960.001.01894","descMetadata":"/mods/ggva/NYDA_1960_001_01894_mods.xml"},
+ {"id":"NYDA.1960.001.03230","descMetadata":"/mods/ggva/NYDA_1960_001_03230_mods.xml"},
+ {"id":"NYDA.1960.001.03227","descMetadata":"/mods/ggva/NYDA_1960_001_03227_mods.xml"},
+ {"id":"NYDA.1960.001.03231","descMetadata":"/mods/ggva/NYDA_1960_001_03231_mods.xml"},
+ {"id":"NYDA.1960.001.03232","descMetadata":"/mods/ggva/NYDA_1960_001_03232_mods.xml"},
+ {"id":"NYDA.1960.001.03233","descMetadata":"/mods/ggva/NYDA_1960_001_03233_mods.xml"},
+ {"id":"NYDA.1960.001.03234","descMetadata":"/mods/ggva/NYDA_1960_001_03234_mods.xml"},
+ {"id":"NYDA.1960.001.03204","descMetadata":"/mods/ggva/NYDA_1960_001_03204_mods.xml"},
+ {"id":"NYDA.1960.001.03235","descMetadata":"/mods/ggva/NYDA_1960_001_03235_mods.xml"},
+ {"id":"NYDA.1960.001.03236","descMetadata":"/mods/ggva/NYDA_1960_001_03236_mods.xml"},
+ {"id":"NYDA.1960.001.03237","descMetadata":"/mods/ggva/NYDA_1960_001_03237_mods.xml"},
+ {"id":"NYDA.1960.001.03238R","descMetadata":"/mods/ggva/NYDA_1960_001_03238R_mods.xml"},
+ {"id":"NYDA.1960.001.03238V","descMetadata":"/mods/ggva/NYDA_1960_001_03238V_mods.xml"},
+ {"id":"NYDA.1960.001.03239","descMetadata":"/mods/ggva/NYDA_1960_001_03239_mods.xml"},
+ {"id":"NYDA.1960.001.03240","descMetadata":"/mods/ggva/NYDA_1960_001_03240_mods.xml"},
+ {"id":"NYDA.1960.001.03241","descMetadata":"/mods/ggva/NYDA_1960_001_03241_mods.xml"}
+ ]
+}

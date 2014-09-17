@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mets:structMap xmlns:mets="http://www.loc.gov/METS/" LABEL="ldpd.ferriss.NYDA87-F17">
+   <mets:div ORDER="1" CONTENTIDS="NYDA.1000.001.00069" LABEL="Perspective"/>
+   <mets:div ORDER="2" CONTENTIDS="NYDA.1000.001.00070" LABEL="Sketch"/>
+   <mets:div ORDER="3" CONTENTIDS="NYDA.1000.001.00071" LABEL="Perspective"/>
+   <mets:div ORDER="4" CONTENTIDS="NYDA.1000.001.00072" LABEL="Perspective"/>
+   <mets:div ORDER="5" CONTENTIDS="NYDA.1000.001.00073" LABEL="Perspective"/>
+</mets:structMap>

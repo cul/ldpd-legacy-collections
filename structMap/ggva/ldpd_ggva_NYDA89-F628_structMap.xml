@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mets:structMap xmlns:mets="http://www.loc.gov/METS/" LABEL="ldpd.ggva.NYDA89-F628">
+   <mets:div ORDER="1"
+             CONTENTIDS="NYDA.1960.001.02528"
+             LABEL="First floor plan : Sheet no. 1."/>
+   <mets:div ORDER="2"
+             CONTENTIDS="NYDA.1960.001.02529"
+             LABEL="Sketch of first floor plan"/>
+   <mets:div ORDER="3"
+             CONTENTIDS="NYDA.1960.001.02530"
+             LABEL="Second floor plan : Sheet no.2."/>
+   <mets:div ORDER="4"
+             CONTENTIDS="NYDA.1960.001.02531"
+             LABEL="Sketch of second floor plan,"/>
+   <mets:div ORDER="5"
+             CONTENTIDS="NYDA.1960.001.02532"
+             LABEL="Sketch of second floor plan"/>
+   <mets:div ORDER="6"
+             CONTENTIDS="NYDA.1960.001.02533"
+             LABEL="Sketch of second floor plan"/>
+   <mets:div ORDER="7"
+             CONTENTIDS="NYDA.1960.001.02534"
+             LABEL="Second floor plan (scheme #2) : unidetntified sketch"/>
+   <mets:div ORDER="8"
+             CONTENTIDS="NYDA.1960.001.02535"
+             LABEL="Front elevation : Sheet no. 3."/>
+   <mets:div ORDER="9"
+             CONTENTIDS="NYDA.1960.001.02536"
+             LABEL="Sketch of front elevation"/>
+   <mets:div ORDER="10"
+             CONTENTIDS="NYDA.1960.001.02537"
+             LABEL="Sketch of portion of front with section through stairway"/>
+   <mets:div ORDER="11"
+             CONTENTIDS="NYDA.1960.001.02538"
+             LABEL="Sketches -- rear elev., roof plan."/>
+   <mets:div ORDER="12"
+             CONTENTIDS="NYDA.1960.001.02539"
+             LABEL="Store doors -- plan, part elev. : Sheet no. 4."/>
+   <mets:div ORDER="13"
+             CONTENTIDS="NYDA.1960.001.02540"
+             LABEL="Sketches -- elevation of door, section throughroof, unidentified sketch"/>
+   <mets:div ORDER="14"
+             CONTENTIDS="NYDA.1960.001.02541"
+             LABEL="Details -- side and front sections through beam on front ; illegible of joining of girders."/>
+</mets:structMap>

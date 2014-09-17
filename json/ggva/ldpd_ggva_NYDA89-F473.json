@@ -1,0 +1,20 @@
+{
+ "id":"ldpd.ggva.NYDA89-F473",
+ "descMetadata":"/mods/ggva/ldpd_ggva_NYDA89-F473_mods.xml",
+ "structMetadata":"/structMap/ggva/ldpd_ggva_NYDA89-F473_structMap.xml",
+ "members":[
+ {"id":"NYDA.1960.001.00246","descMetadata":"/mods/ggva/NYDA_1960_001_00246_mods.xml"},
+ {"id":"NYDA.1960.001.00247","descMetadata":"/mods/ggva/NYDA_1960_001_00247_mods.xml"},
+ {"id":"NYDA.1960.001.00248","descMetadata":"/mods/ggva/NYDA_1960_001_00248_mods.xml"},
+ {"id":"NYDA.1960.001.00249","descMetadata":"/mods/ggva/NYDA_1960_001_00249_mods.xml"},
+ {"id":"NYDA.1960.001.00250","descMetadata":"/mods/ggva/NYDA_1960_001_00250_mods.xml"},
+ {"id":"NYDA.1960.001.00251","descMetadata":"/mods/ggva/NYDA_1960_001_00251_mods.xml"},
+ {"id":"NYDA.1960.001.00252","descMetadata":"/mods/ggva/NYDA_1960_001_00252_mods.xml"},
+ {"id":"NYDA.1960.001.00253","descMetadata":"/mods/ggva/NYDA_1960_001_00253_mods.xml"},
+ {"id":"NYDA.1960.001.00254","descMetadata":"/mods/ggva/NYDA_1960_001_00254_mods.xml"},
+ {"id":"NYDA.1960.001.00255","descMetadata":"/mods/ggva/NYDA_1960_001_00255_mods.xml"},
+ {"id":"NYDA.1960.001.00256","descMetadata":"/mods/ggva/NYDA_1960_001_00256_mods.xml"},
+ {"id":"NYDA.1960.001.00257","descMetadata":"/mods/ggva/NYDA_1960_001_00257_mods.xml"},
+ {"id":"NYDA.1960.001.00258","descMetadata":"/mods/ggva/NYDA_1960_001_00258_mods.xml"}
+ ]
+}

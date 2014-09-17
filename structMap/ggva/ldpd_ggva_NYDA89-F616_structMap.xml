@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mets:structMap xmlns:mets="http://www.loc.gov/METS/" LABEL="ldpd.ggva.NYDA89-F616">
+   <mets:div ORDER="1"
+             CONTENTIDS="NYDA.1960.001.02567"
+             LABEL="Sun porch -- plan, elevations of west side, north side, east side : Sheet no. 1."/>
+   <mets:div ORDER="2"
+             CONTENTIDS="NYDA.1960.001.02568"
+             LABEL="Sun proch -- plan, elevations of  west side, north side"/>
+   <mets:div ORDER="3"
+             CONTENTIDS="NYDA.1960.001.02569"
+             LABEL="Elevation of east side of sun porch, unidentified detail sketch"/>
+   <mets:div ORDER="4"
+             CONTENTIDS="NYDA.1960.001.02570"
+             LABEL="Sun porch -- plan, elevations of west side, north side, east side ; various detail sketches."/>
+   <mets:div ORDER="5"
+             CONTENTIDS="NYDA.1960.001.02571"
+             LABEL="1&#34; scale &amp; full size details -- section and partial elevation of east side, part elevation of north side, half plan of flower box, F.S. detail of flower box, plan of A-A, full size details at A-A and B-B : Sheet no. 2."/>
+   <mets:div ORDER="6"
+             CONTENTIDS="NYDA.1960.001.02572"
+             LABEL="Full size details of flower box, unidentified sketch"/>
+   <mets:div ORDER="7"
+             CONTENTIDS="NYDA.1960.001.02573"
+             LABEL="Detail of cement work -- plan of west side of sun porch, section A-B : Sheet no. 3."/>
+   <mets:div ORDER="8"
+             CONTENTIDS="NYDA.1960.001.02574"
+             LABEL="Table for sun porch in front and end elevations : 4."/>
+   <mets:div ORDER="9"
+             CONTENTIDS="NYDA.1960.001.02575"
+             LABEL="Table in sun porch in front and end elevations : 4."/>
+   <mets:div ORDER="10"
+             CONTENTIDS="NYDA.1960.001.02576"
+             LABEL="Wrought iron grills for screen doors on sun porch -- F.S. details, section, elevation : 5."/>
+   <mets:div ORDER="11"
+             CONTENTIDS="NYDA.1960.001.02577"
+             LABEL="Driveway gates -- plan, elevation : 6."/>
+   <mets:div ORDER="12"
+             CONTENTIDS="NYDA.1960.001.02578"
+             LABEL="Section, elevation and plan of flower boxes"/>
+</mets:structMap>

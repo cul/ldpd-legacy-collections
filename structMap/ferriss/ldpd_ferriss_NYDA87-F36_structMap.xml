@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mets:structMap xmlns:mets="http://www.loc.gov/METS/" LABEL="ldpd.ferriss.NYDA87-F36">
+   <mets:div ORDER="1"
+             CONTENTIDS="NYDA.1000.001.00037"
+             LABEL="Bird's-eye view : 1st study at final size /"/>
+   <mets:div ORDER="2"
+             CONTENTIDS="NYDA.1000.001.00038"
+             LABEL="Perspective drawings"/>
+   <mets:div ORDER="3"
+             CONTENTIDS="NYDA.1000.001.00039"
+             LABEL="Aerial perspective of site, rough sketch : number 15."/>
+   <mets:div ORDER="4"
+             CONTENTIDS="NYDA.1000.001.00040"
+             LABEL="Perspective drawing /"/>
+   <mets:div ORDER="5"
+             CONTENTIDS="NYDA.1000.001.00041"
+             LABEL="Perspective drawing with arch structures"/>
+   <mets:div ORDER="6"
+             CONTENTIDS="NYDA.1000.001.00260"
+             LABEL="Site plan and preliminary perspective"/>
+   <mets:div ORDER="7"
+             CONTENTIDS="NYDA.1000.001.00042"
+             LABEL="Partial sketch of hemisphere structure and support rigging"/>
+   <mets:div ORDER="8"
+             CONTENTIDS="NYDA.1000.001.00043"
+             LABEL="&#34;Positive Photostat&#34; : perspective drawing with color"/>
+   <mets:div ORDER="9"
+             CONTENTIDS="NYDA.1000.001.00044"
+             LABEL="Perspective of building entrance"/>
+</mets:structMap>

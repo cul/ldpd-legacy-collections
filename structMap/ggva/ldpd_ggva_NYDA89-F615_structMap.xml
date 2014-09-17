@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mets:structMap xmlns:mets="http://www.loc.gov/METS/" LABEL="ldpd.ggva.NYDA89-F615">
+   <mets:div ORDER="1"
+             CONTENTIDS="NYDA.1960.001.02542"
+             LABEL="Foundation plan ; details of chimney footings, wall footings, post footings : No. 1."/>
+   <mets:div ORDER="2"
+             CONTENTIDS="NYDA.1960.001.02543"
+             LABEL="First floor plan : No. 2."/>
+   <mets:div ORDER="3"
+             CONTENTIDS="NYDA.1960.001.02544"
+             LABEL="Second floor plan :"/>
+   <mets:div ORDER="4"
+             CONTENTIDS="NYDA.1960.001.02545"
+             LABEL="South elevation with section through wall : No. 4."/>
+   <mets:div ORDER="5"
+             CONTENTIDS="NYDA.1960.001.02546"
+             LABEL="North elevation with section through wall : No. 5"/>
+   <mets:div ORDER="6"
+             CONTENTIDS="NYDA.1960.001.02547"
+             LABEL="East elevation ; west elevation : No. 6."/>
+   <mets:div ORDER="7"
+             CONTENTIDS="NYDA.1960.001.02548"
+             LABEL="Details -- fireplace in living room in elevation ; elevation, plan and section of fireplace in dining room ; section and front elevation of buffet in dining room (3 cupboards with doors &amp; 2 shelves each) ; section A-B through entire house, with plan of the buttress &amp; parapet from above (all flashed with galv'd iron) ; section thro' main wall : No. 7."/>
+   <mets:div ORDER="8"
+             CONTENTIDS="NYDA.1960.001.02549"
+             LABEL="1 1/2&#34; detail of furring of parapet walls : 8 ,"/>
+   <mets:div ORDER="9"
+             CONTENTIDS="NYDA.1960.001.02550"
+             LABEL="Elevations and full size sections of doors -- door between dining rm. and hall ; one half of sliding doors to dining rm. : 13."/>
+   <mets:div ORDER="10"
+             CONTENTIDS="NYDA.1960.001.02551"
+             LABEL="Sketch of site plan"/>
+   <mets:div ORDER="11"
+             CONTENTIDS="NYDA.1960.001.02552R"
+             LABEL="Rough sketch of site plan showing grade levels ,"/>
+   <mets:div ORDER="12"
+             CONTENTIDS="NYDA.1960.001.02552V"
+             LABEL="Rough sketch showing profile of grade"/>
+</mets:structMap>

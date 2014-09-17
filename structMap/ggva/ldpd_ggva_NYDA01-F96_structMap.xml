@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mets:structMap xmlns:mets="http://www.loc.gov/METS/" LABEL="ldpd.ggva.NYDA01-F96">
+   <mets:div ORDER="1"
+             CONTENTIDS="NYDA.1987.003.00002"
+             LABEL="View from garden to rear elevation of main residence."/>
+   <mets:div ORDER="2"
+             CONTENTIDS="NYDA.1987.003.00003"
+             LABEL="View from garden to rear elevation of main residence."/>
+   <mets:div ORDER="3"
+             CONTENTIDS="NYDA.1987.003.00004"
+             LABEL="View from garden showing right side of rear elevation of main residence."/>
+   <mets:div ORDER="4" CONTENTIDS="NYDA.1987.003.00005" LABEL="Rear pergola."/>
+   <mets:div ORDER="5" CONTENTIDS="NYDA.1987.003.00006" LABEL="Pergola."/>
+   <mets:div ORDER="6"
+             CONTENTIDS="NYDA.1987.003.00007"
+             LABEL="View from garden of outbuildings and rear elevation of main residence."/>
+   <mets:div ORDER="7"
+             CONTENTIDS="NYDA.1987.003.00008"
+             LABEL="Outbuildings and rear elevation of main residence,detail."/>
+   <mets:div ORDER="8"
+             CONTENTIDS="NYDA.1987.003.00009"
+             LABEL="Entry hall, view toward leaded art-glass doors."/>
+   <mets:div ORDER="9"
+             CONTENTIDS="NYDA.1987.003.00010"
+             LABEL="Entry hall, view with staircase."/>
+   <mets:div ORDER="10"
+             CONTENTIDS="NYDA.1987.003.00011"
+             LABEL="Living room, looking north."/>
+   <mets:div ORDER="11"
+             CONTENTIDS="NYDA.1987.003.00012"
+             LABEL="Living room, looking east."/>
+   <mets:div ORDER="12"
+             CONTENTIDS="NYDA.1987.003.00013"
+             LABEL="Living room music cabinet."/>
+   <mets:div ORDER="13"
+             CONTENTIDS="NYDA.1987.003.00014"
+             LABEL="Dining room and breakfast room."/>
+   <mets:div ORDER="14"
+             CONTENTIDS="NYDA.1987.003.00015"
+             LABEL="Dining room sideboard."/>
+</mets:structMap>
