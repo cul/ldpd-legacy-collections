@@ -291,6 +291,9 @@
             </xsl:for-each>
         </mets:structMap>
     </xsl:template>
+    
+    <!-- item: record for primary entity being described/group of image assets (i.e., the G&G "project" -->
+    
     <xsl:template name="item">
         <xsl:param name="item_id"/>
 
@@ -484,6 +487,8 @@
             </MODS:recordInfo>
         </MODS:mods>
     </xsl:template>
+    
+    <!-- asset: record for individual image -->
     <xsl:template name="asset">
         <xsl:param name="part_id"/>
 
@@ -504,6 +509,13 @@
                 </xsl:choose>
             </MODS:identifier>
             <MODS:titleInfo>
+                <MODS:title>
+                    <!-- 245 $a -->
+                    <xsl:value-of
+                        select="translate(//marc:datafield[@tag = '245']/marc:subfield[@code = 'a'], '][', '')"/>
+                </MODS:title>
+            </MODS:titleInfo>
+            <MODS:titleInfo type="alternative">
                 <MODS:title>
                     <!-- 789 0_ $t $n -->
                     <xsl:for-each
