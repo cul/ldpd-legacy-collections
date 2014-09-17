@@ -453,10 +453,10 @@
                     <MODS:title>
                         <xsl:value-of select="$project" />
                     </MODS:title>
-                    <MODS:location>
-                        <url><xsl:value-of select="$project_url" /></url>
-                    </MODS:location>
                 </MODS:titleInfo>
+                <MODS:location>
+                    <url><xsl:value-of select="$project_url" /></url>
+                </MODS:location>
             </MODS:relatedItem>
             <MODS:location>
                 <MODS:physicalLocation authority="marcorg">NNC-A</MODS:physicalLocation>
