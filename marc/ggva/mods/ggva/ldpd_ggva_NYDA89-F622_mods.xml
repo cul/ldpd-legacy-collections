@@ -9,10 +9,10 @@
    <MODS:name type="corporate">
       <MODS:namePart>Greene &amp; Greene</MODS:namePart>
    </MODS:name>
-   <MODS:titleInfo type="uniform">
+   <MODS:titleInfo>
       <MODS:title>Pasadena Ice Company plant (Pasadena, Calif.).East freezing room.Addition</MODS:title>
    </MODS:titleInfo>
-   <MODS:titleInfo>
+   <MODS:titleInfo type="alternative">
       <MODS:title>East freezing r'm addition, Pasadena Ice Co., Pasadena, Calif..</MODS:title>
    </MODS:titleInfo>
    <MODS:originInfo>
@@ -55,10 +55,10 @@
    <MODS:relatedItem displayLabel="Project" type="host">
       <MODS:titleInfo>
          <MODS:title>Greene &amp; Greene Architectural Records and Papers Collection</MODS:title>
-         <MODS:location>
-            <url>http://www.columbia.edu/cgi-bin/cul/resolve?clio4278328</url>
-         </MODS:location>
       </MODS:titleInfo>
+      <MODS:location>
+         <MODS:url>http://www.columbia.edu/cgi-bin/cul/resolve?clio4278328</MODS:url>
+      </MODS:location>
    </MODS:relatedItem>
    <MODS:location>
       <MODS:physicalLocation authority="marcorg">NNC-A</MODS:physicalLocation>

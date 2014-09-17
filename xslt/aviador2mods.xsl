@@ -180,8 +180,8 @@
                     </MODS:title>
                 </MODS:titleInfo>
             </xsl:if>
-            <MODS:titleInfo>
-                <MODS:title type="alternative">
+            <MODS:titleInfo type="alternative">
+                <MODS:title>
                     <!-- 245 $a -->
                     <xsl:value-of
                         select="translate(//marc:datafield[@tag = '245']/marc:subfield[@code = 'a'], '][', '')"/>
@@ -292,7 +292,7 @@
                     </MODS:title>
                 </MODS:titleInfo>
                 <MODS:location>
-                    <url><xsl:value-of select="$project_url" /></url>
+                    <MODS:url><xsl:value-of select="$project_url" /></MODS:url>
                 </MODS:location>
             </MODS:relatedItem>
             <MODS:location>
