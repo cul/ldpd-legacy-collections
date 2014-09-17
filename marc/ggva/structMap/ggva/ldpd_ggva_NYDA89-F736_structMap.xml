@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mets:structMap xmlns:mets="http://www.loc.gov/METS/" LABEL="ldpd.ggva.NYDA89-F736">
+   <mets:div ORDER="1"
+             CONTENTIDS="NYDA.1960.001.03345"
+             LABEL="Front (or east) elevation, north elevation, west elevation, south elevation : No. 1,"/>
+   <mets:div ORDER="2"
+             CONTENTIDS="NYDA.1960.001.03346"
+             LABEL="Main floor plan, foundation plan ; sections through walls ; front elevation and section of case in laboratory ; detail of wrought iron sign board ; front elevation and section of louvres in gables ; front and side elevation of consulting r'm mantel ; front and side elevations of reception r'm mantel ; front and side elevations of bookcase ; detail of wall showing footing ; detail of chimney footing : No. 2."/>
+</mets:structMap>

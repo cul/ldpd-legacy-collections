@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mets:structMap xmlns:mets="http://www.loc.gov/METS/" LABEL="ldpd.ggva.NYDA89-F703">
+   <mets:div ORDER="1"
+             CONTENTIDS="NYDA.1960.001.04392"
+             LABEL="Site plan of grounds ; Brent Avenue elevation showing coping wall ; section and elevation of wall ; Oxley Street elevation showing coping wall and fence ; 1/2 inch details of fence on Oxley St."/>
+   <mets:div ORDER="2"
+             CONTENTIDS="NYDA.1960.001.04393"
+             LABEL="Foundation plan ; detail of chimney footing ; details of foundation vents -- elevation of corner, section : 1."/>
+   <mets:div ORDER="3"
+             CONTENTIDS="NYDA.1960.001.04394"
+             LABEL="Main floor plan ; section B-B : 2."/>
+   <mets:div ORDER="4"
+             CONTENTIDS="NYDA.1960.001.04395"
+             LABEL="West elevation ; east elevation ; section thro' wall with inside elevation and outside elevation of sash ; detail of casement windows : 3."/>
+   <mets:div ORDER="5"
+             CONTENTIDS="NYDA.1960.001.04396"
+             LABEL="South elevation ; north elevation ; plan of corner A : 4."/>
+   <mets:div ORDER="6"
+             CONTENTIDS="NYDA.1960.001.04397"
+             LABEL="Details of china case in dining room ; screen porch details ; detail of gable screens ; porch details ; interior elevations -- north side of living room, north side of dining room, south side of dining room : 5."/>
+   <mets:div ORDER="7"
+             CONTENTIDS="NYDA.1960.001.04398"
+             LABEL="One inch scale details of living room fireplace -- elevation, section, plan : 9."/>
+</mets:structMap>

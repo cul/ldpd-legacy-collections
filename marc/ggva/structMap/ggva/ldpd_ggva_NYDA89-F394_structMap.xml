@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mets:structMap xmlns:mets="http://www.loc.gov/METS/" LABEL="ldpd.ggva.NYDA89-F394">
+   <mets:div ORDER="1"
+             CONTENTIDS="NYDA.1960.001.01287"
+             LABEL="Foundation plan, section &#34;A-A&#34;, piers &#34;C&#34;, piers &#34;B&#34; : No. 1."/>
+   <mets:div ORDER="2"
+             CONTENTIDS="NYDA.1960.001.01288"
+             LABEL="First floor plan, detail at A showing plan of corner : No. 2."/>
+   <mets:div ORDER="3"
+             CONTENTIDS="NYDA.1960.001.01289"
+             LABEL="Second floor plan ; mantel in bedroom 4 -- side elevation, front elevation ; mantel in bedroom 5 -- side elevation, front elevation : No. 3."/>
+   <mets:div ORDER="4"
+             CONTENTIDS="NYDA.1960.001.01290"
+             LABEL="Elevation of windows, partial second floor plan, unidentified rough sketch"/>
+   <mets:div ORDER="5"
+             CONTENTIDS="NYDA.1960.001.01291"
+             LABEL="North elevation, west elevation : No. 4."/>
+   <mets:div ORDER="6"
+             CONTENTIDS="NYDA.1960.001.01292"
+             LABEL="South elevation, east elevation : No. 5."/>
+   <mets:div ORDER="7"
+             CONTENTIDS="NYDA.1960.001.01293"
+             LABEL="Section ; elevation of screen at front of stairs ; dining room mantel -- side and front elevation ; living rm. mantel in front elevation : No. 6."/>
+</mets:structMap>

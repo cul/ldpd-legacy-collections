@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mets:structMap xmlns:mets="http://www.loc.gov/METS/" LABEL="ldpd.ggva.NYDA89-F470">
+   <mets:div ORDER="1"
+             CONTENTIDS="NYDA.1960.001.00704"
+             LABEL="South elevation, plan : No. 1."/>
+   <mets:div ORDER="2"
+             CONTENTIDS="NYDA.1960.001.00705"
+             LABEL="South elevation, plan : No. 1."/>
+   <mets:div ORDER="3"
+             CONTENTIDS="NYDA.1960.001.00706"
+             LABEL="Typical wall section showing flooring and rafters ; elevation outside and elevation inside of wall ; door details in elevation and section : No. 2."/>
+   <mets:div ORDER="4"
+             CONTENTIDS="NYDA.1960.001.00707"
+             LABEL="Typical wall section showing flooring and rafters ; elevation outside and elevation inside of wall ; door details in elevation and section : No. 2."/>
+   <mets:div ORDER="5"
+             CONTENTIDS="NYDA.1960.001.00708"
+             LABEL="Full size details of battens -- inside finish, outside finish : No. 3,"/>
+   <mets:div ORDER="6"
+             CONTENTIDS="NYDA.1960.001.00709"
+             LABEL="Wooden bench details -- side and front elevations, plan, full size details, rough sketch of side elevation."/>
+   <mets:div ORDER="7"
+             CONTENTIDS="NYDA.1960.001.00710"
+             LABEL="Wooden table details -- side and end elevations, detail drawings of joints."/>
+</mets:structMap>

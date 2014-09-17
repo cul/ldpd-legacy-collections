@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mets:structMap xmlns:mets="http://www.loc.gov/METS/" LABEL="ldpd.ggva.NYDA89-F669">
+   <mets:div ORDER="1"
+             CONTENTIDS="NYDA.1960.001.02150"
+             LABEL="Plan, section, elevation of back of window, unidentified detail sketch : Sheet no. 1."/>
+   <mets:div ORDER="2"
+             CONTENTIDS="NYDA.1960.001.02151"
+             LABEL="1/4 plan and half section through dome : Sheet no. 2."/>
+   <mets:div ORDER="3" CONTENTIDS="NYDA.1960.001.02152" LABEL="Sketch of plan"/>
+   <mets:div ORDER="4"
+             CONTENTIDS="NYDA.1960.001.02153"
+             LABEL="Plan, section, and elevation of back of window before addition ; sketch of plan of dome"/>
+   <mets:div ORDER="5"
+             CONTENTIDS="NYDA.1960.001.02228"
+             LABEL="Section through window, section through dome support,"/>
+</mets:structMap>

@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mets:structMap xmlns:mets="http://www.loc.gov/METS/" LABEL="ldpd.ggva.NYDA89-F449">
+   <mets:div ORDER="1"
+             CONTENTIDS="NYDA.1960.001.01002"
+             LABEL="Foundation plan ; 1/2 inch details of chimney footings, general wall section through foundation, and post footings : No. 1."/>
+   <mets:div ORDER="2"
+             CONTENTIDS="NYDA.1960.001.01003"
+             LABEL="1st floor plan : No.2."/>
+   <mets:div ORDER="3"
+             CONTENTIDS="NYDA.1960.001.01004"
+             LABEL="1st floor plan : No. 2."/>
+   <mets:div ORDER="4"
+             CONTENTIDS="NYDA.1960.001.01005"
+             LABEL="2nd floor plan : No. 3."/>
+   <mets:div ORDER="5"
+             CONTENTIDS="NYDA.1960.001.01006"
+             LABEL="2nd floor plan : No. 3."/>
+   <mets:div ORDER="6"
+             CONTENTIDS="NYDA.1960.001.01007"
+             LABEL="Front elevation : No. 4."/>
+   <mets:div ORDER="7"
+             CONTENTIDS="NYDA.1960.001.01008"
+             LABEL="East elevation : No. 5."/>
+   <mets:div ORDER="8"
+             CONTENTIDS="NYDA.1960.001.01009"
+             LABEL="North elevation : No. 6."/>
+   <mets:div ORDER="9"
+             CONTENTIDS="NYDA.1960.001.01010"
+             LABEL="West elevation : No. 7."/>
+   <mets:div ORDER="10"
+             CONTENTIDS="NYDA.1960.001.01011"
+             LABEL="Section transverse : No. 8."/>
+   <mets:div ORDER="11"
+             CONTENTIDS="NYDA.1960.001.01012"
+             LABEL="Interior details in elevations -- dining room, hall, living room, nook in study ; 1 1/2 inch scale detail of typical wall section, elevation inside and elevation outside for windows : No. 9."/>
+   <mets:div ORDER="12"
+             CONTENTIDS="NYDA.1960.001.01013"
+             LABEL="Full size and 1/8 inch details of medicine case and portier poles : No. 10,"/>
+</mets:structMap>

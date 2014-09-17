@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mets:structMap xmlns:mets="http://www.loc.gov/METS/" LABEL="ldpd.ggva.NYDA89-F744">
+   <mets:div ORDER="1"
+             CONTENTIDS="NYDA.1960.001.03502"
+             LABEL="Foundation plan ; section and elevation of latticed opening ; detail of wall footings : Sheet no. 1."/>
+   <mets:div ORDER="2"
+             CONTENTIDS="NYDA.1960.001.03503"
+             LABEL="Floor plan ; alternative plan of servant's wing (submit separate figure for this plan if used instead of one drawn above) : Sheet no. 2."/>
+   <mets:div ORDER="3"
+             CONTENTIDS="NYDA.1960.001.03504"
+             LABEL="Front elevation ; rear elevation ; section and elevations of typical wall with window : Sheet no. 3."/>
+   <mets:div ORDER="4"
+             CONTENTIDS="NYDA.1960.001.03505"
+             LABEL="East elevation ; west elevation : Sheet no. 4."/>
+   <mets:div ORDER="5"
+             CONTENTIDS="NYDA.1960.001.03506"
+             LABEL="Details of gable ends ; details of front porch -- elevation, section ; elevations of fireplaces -- living room, dining room ; elevations and full size details of front door &amp; front screen door : Sheet no. 5."/>
+   <mets:div ORDER="6"
+             CONTENTIDS="NYDA.1960.001.03507"
+             LABEL="F.S. details of double hung windows -- head, jamb, meeting rails, sill ; F.S. details of casement windows -- head, jamb, sill : Sheet no. 6."/>
+</mets:structMap>

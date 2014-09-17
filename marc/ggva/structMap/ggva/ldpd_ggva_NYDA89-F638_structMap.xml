@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mets:structMap xmlns:mets="http://www.loc.gov/METS/" LABEL="ldpd.ggva.NYDA89-F638">
+   <mets:div ORDER="1" CONTENTIDS="NYDA.1960.001.00076" LABEL="East elevation."/>
+   <mets:div ORDER="2" CONTENTIDS="NYDA.1960.001.00077" LABEL="South elevation."/>
+   <mets:div ORDER="3" CONTENTIDS="NYDA.1960.001.00078" LABEL="West elevation."/>
+   <mets:div ORDER="4" CONTENTIDS="NYDA.1960.001.00079" LABEL="North elevation."/>
+   <mets:div ORDER="5"
+             CONTENTIDS="NYDA.1960.001.00080"
+             LABEL="Basement plan : 148."/>
+   <mets:div ORDER="6"
+             CONTENTIDS="NYDA.1960.001.00081"
+             LABEL="First floor plan."/>
+   <mets:div ORDER="7"
+             CONTENTIDS="NYDA.1960.001.00082"
+             LABEL="Second floor plan."/>
+   <mets:div ORDER="8"
+             CONTENTIDS="NYDA.1960.001.00083"
+             LABEL="Attic floor plan."/>
+   <mets:div ORDER="9"
+             CONTENTIDS="NYDA.1960.001.00084R"
+             LABEL="Outside details -- main cornice, brackets, dormer rake, rake for main cornice, dormer cornice, other entablature"/>
+   <mets:div ORDER="10"
+             CONTENTIDS="NYDA.1960.001.00084V"
+             LABEL="Rough sketches of joints"/>
+   <mets:div ORDER="11"
+             CONTENTIDS="NYDA.1960.001.00085"
+             LABEL="Outside details -- cornice on butler's pantry extension, part elevation of balustrade, main cornice above sleeping porch, balustrade &amp; cornice over bay windows, sleeping porch windows, cornice over staircase windows, sill &amp; seat for staircase window, mullion for sleeping porch windows."/>
+   <mets:div ORDER="12"
+             CONTENTIDS="NYDA.1960.001.00086"
+             LABEL="Details of window frames, etc. -- double hung windows in shingled walls, double hung windows in cement covered walls, mullion, French windows, wood grilles, basement windows."/>
+   <mets:div ORDER="13"
+             CONTENTIDS="NYDA.1960.001.00087"
+             LABEL="Main staircase -- elevation &amp; section, part plan, details of newel, balusters and handrail"/>
+   <mets:div ORDER="14"
+             CONTENTIDS="NYDA.1960.001.00088"
+             LABEL="Pantry drawings -- elevation looking north and elevation looking west of butler's pantry, elevation and section of kitchen pantry : Sheet A."/>
+   <mets:div ORDER="15"
+             CONTENTIDS="NYDA.1960.001.00089"
+             LABEL="Pantry details : Sheet B."/>
+   <mets:div ORDER="16"
+             CONTENTIDS="NYDA.1960.001.00090"
+             LABEL="Detail drawings -- half elevation of seat, etc. ; front entrance door ; veranda doors ; rear entry doors ; first, second &amp; third story doors ; half plan of seat ; seat &amp; arch details ; door details."/>
+   <mets:div ORDER="17"
+             CONTENTIDS="NYDA.1960.001.00091"
+             LABEL="Part elevation and section of trim for dining room ; part elevation with elevation &amp; section of trim for first &amp; second story halls ; details in sections of head &amp; jambs of trim for living room."/>
+   <mets:div ORDER="18"
+             CONTENTIDS="NYDA.1960.001.00092"
+             LABEL="Mantel, etc. in dining room -- front view i.e. elevation, end view, plan, details ; mantel, etc. in living room -- front view, end view, plan, details."/>
+</mets:structMap>

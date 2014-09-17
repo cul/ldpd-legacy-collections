@@ -10,6 +10,8 @@
             <xd:p><xd:b>Author:</xd:b> terry</xd:p>
             <xd:p><xd:b>Updated on:</xd:b> Sept, 2014</xd:p>
             <xd:p><xd:b>Author:</xd:b> barmintor</xd:p>
+            <xd:p><xd:b>Updated on:</xd:b> Sept, 2014</xd:p>
+            <xd:p><xd:b>Author:</xd:b> thc4</xd:p>
             <xd:p/>
         </xd:desc>
     </xd:doc>
@@ -86,6 +88,9 @@
             </xsl:when>
         </xsl:choose>            
     </xsl:variable>
+    
+    <!-- MAIN TEMPLATE -->
+    
     <xsl:template match="/">
         <xsl:for-each select="//marc:datafield[@tag = '035']/marc:subfield[@code = 'a']">
             <xsl:if test="starts-with(.,'(CStRLIN)')">
@@ -120,6 +125,368 @@
             </xsl:result-document>
         </xsl:for-each>
     </xsl:template>
+
+       
+    <!-- item: record for primary entity being described/group of image assets (i.e., the G&G "project" -->
+    <xsl:template name="item">
+        <xsl:param name="item_id"/>
+        
+        <MODS:mods xmlns:MODS="http://www.loc.gov/mods/v3"
+            xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+            xmlns:xlink="http://www.w3.org/1999/xlink"
+            xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd"
+            version="3.5">
+            
+            <MODS:identifier type="local">ldpd.<xsl:value-of select="$collection_id" />.<xsl:value-of select="$item_id"/></MODS:identifier>
+            <MODS:identifier type="CLIO"><xsl:text>CLIO_</xsl:text><xsl:value-of select="//marc:controlfield[@tag = '001']"/></MODS:identifier>
+            <xsl:for-each select="//marc:datafield[@tag = '100'][@ind1 = '1']">
+                <MODS:name type="personal">
+                    <xsl:for-each select="child::marc:subfield">
+                        <MODS:namePart>
+                            <xsl:if test="@code = 'd'">
+                                <xsl:attribute name="type"><xsl:text>date</xsl:text></xsl:attribute>
+                            </xsl:if>
+                            <xsl:call-template name="subfields"/>
+                        </MODS:namePart>
+                    </xsl:for-each>
+                </MODS:name>
+            </xsl:for-each>
+            
+            <xsl:for-each select="//marc:datafield[@tag = '110'][@ind1 = '2']">
+                <MODS:name type="corporate">
+                    <xsl:for-each select="child::marc:subfield">
+                        <MODS:namePart>
+                            <xsl:call-template name="subfields"/>
+                        </MODS:namePart>
+                    </xsl:for-each>
+                </MODS:name>
+            </xsl:for-each>
+            <xsl:if test="$is_photograph = true() and count(//marc:datafield[@tag = '110'][@ind1 = '2']) = 0 and contains(string-join(//marc:datafield[@tag = '710'][@ind1 = '2'], ' '),'Greene &amp; Greene')">
+                <MODS:name type="corporate">
+                    <MODS:namePart>Greene &amp; Greene</MODS:namePart>
+                </MODS:name>
+            </xsl:if>
+            
+            <xsl:if test="//marc:datafield[@tag = '240']">
+                <MODS:titleInfo>
+                    <MODS:title>
+                        <xsl:for-each select="//marc:datafield[@tag = '240']/marc:subfield">
+                            <xsl:call-template name="subfields">
+                                <xsl:with-param name="strip">
+                                    <xsl:text>yes</xsl:text>
+                                </xsl:with-param>
+                            </xsl:call-template>
+                        </xsl:for-each>
+                    </MODS:title>
+                </MODS:titleInfo>
+            </xsl:if>
+            <MODS:titleInfo>
+                <MODS:title type="alternative">
+                    <!-- 245 $a -->
+                    <xsl:value-of
+                        select="translate(//marc:datafield[@tag = '245']/marc:subfield[@code = 'a'], '][', '')"/>
+                </MODS:title>
+            </MODS:titleInfo>
+            <MODS:originInfo>
+                <xsl:call-template name="publicationDate" />
+                <!--008 07-10-->
+                <xsl:choose>
+                    <xsl:when test="substring(//marc:controlfield[@tag = '008'], 7, 1) = 'n'">
+                        <xsl:call-template name="defaultDateRange">
+                            <xsl:with-param name="collection_id" select="$collection_id" />
+                        </xsl:call-template>
+                    </xsl:when>
+                    <xsl:when
+                        test="contains(substring(//marc:controlfield[@tag = '008'], 12, 4), '1') ">
+                        <MODS:dateCreated encoding="w3cdtf" keyDate="yes" point="start">
+                            <xsl:value-of
+                                select="substring(//marc:controlfield[@tag = '008'], 8, 4) "/>
+                        </MODS:dateCreated>
+                        <MODS:dateCreated encoding="w3cdtf" point="end">
+                            <xsl:value-of
+                                select="substring(//marc:controlfield[@tag = '008'], 12, 4) "/>
+                        </MODS:dateCreated>
+                    </xsl:when>
+                    <xsl:otherwise>
+                        <MODS:dateCreated encoding="w3cdtf" keyDate="yes">
+                            <xsl:value-of
+                                select="substring(//marc:controlfield[@tag = '008'], 8, 4) "/>
+                        </MODS:dateCreated>
+                    </xsl:otherwise>
+                </xsl:choose>
+            </MODS:originInfo>
+            <xsl:if test="substring(//marc:controlfield[@tag = '008'], 7, 1) = 'n'">
+                <xsl:call-template name="defaultDateNote">
+                    <xsl:with-param name="collection_id" select="$collection_id" />
+                </xsl:call-template>
+            </xsl:if>
+            <MODS:physicalDescription>
+                <xsl:call-template name="extent" />
+                <xsl:call-template name="physical_description_form" />
+                <MODS:digitalOrigin>reformatted digital</MODS:digitalOrigin>
+                <MODS:reformattingQuality>access</MODS:reformattingQuality>
+                <MODS:form authority="marcform">electronic</MODS:form>
+            </MODS:physicalDescription>
+            <MODS:typeOfResource>still image</MODS:typeOfResource>
+            <xsl:for-each select="//marc:datafield[@tag = '561']">
+                <MODS:note type="ownership">
+                    <xsl:for-each select="child::*">
+                        <xsl:call-template name="subfields"/>
+                    </xsl:for-each>
+                </MODS:note>
+            </xsl:for-each>
+            <MODS:accessCondition type="useAndReproduction">Columbia Libraries Staff Use Only</MODS:accessCondition>
+            <xsl:for-each select="//marc:datafield[@tag = '799'][@ind1='4'][@ind2='3']/marc:subfield[@code='a']">
+                <MODS:relatedItem displayLabel="Collection" type="host">
+                    <MODS:titleInfo>
+                        <MODS:title>
+                            <xsl:choose>
+                                <xsl:when test="ends-with(.,'.')">
+                                    <xsl:value-of select="substring(.,0,string-length(.))" />
+                                </xsl:when>
+                                <xsl:otherwise>
+                                    <xsl:value-of select="."/>
+                                </xsl:otherwise>
+                            </xsl:choose>
+                        </MODS:title>
+                    </MODS:titleInfo>
+                </MODS:relatedItem>
+            </xsl:for-each>
+            <xsl:for-each select="//marc:datafield[@tag = '650']">
+                <MODS:subject>
+                    <xsl:if test="@ind2='0'">
+                        <xsl:attribute name="authority">lcsh</xsl:attribute>
+                    </xsl:if>
+                    <xsl:if test="./marc:subfield[@code='2']">
+                        <xsl:attribute name="authority"><xsl:value-of select="./marc:subfield[@code='2']" /></xsl:attribute>
+                    </xsl:if>
+                    <MODS:topic>
+                        <xsl:for-each select="./marc:subfield[not(number(@code))]">
+                            <xsl:if test="position() >  1">
+                                <xsl:text>--</xsl:text>
+                            </xsl:if>
+                            <xsl:choose>
+                                <xsl:when test="ends-with(.,'.')">
+                                    <xsl:value-of select="substring(.,0,string-length(.))" />
+                                </xsl:when>
+                                <xsl:otherwise>
+                                    <xsl:value-of select="." />
+                                </xsl:otherwise>
+                            </xsl:choose>
+                        </xsl:for-each>
+                    </MODS:topic>
+                </MODS:subject>
+            </xsl:for-each>
+            <xsl:if test="$collection_id = 'ggva'">
+                <MODS:subject authority="lcsh">
+                    <MODS:topic>Buildings</MODS:topic>
+                </MODS:subject>
+                <MODS:subject authority="lcsh">
+                    <MODS:topic>Architecture<xsl:value-of select="$arch_geo_ref" /></MODS:topic>
+                </MODS:subject>
+            </xsl:if>
+            <MODS:relatedItem displayLabel="Project" type="host">
+                <MODS:titleInfo>
+                    <MODS:title>
+                        <xsl:value-of select="$project" />
+                    </MODS:title>
+                </MODS:titleInfo>
+                <MODS:location>
+                    <url><xsl:value-of select="$project_url" /></url>
+                </MODS:location>
+            </MODS:relatedItem>
+            <MODS:location>
+                <MODS:physicalLocation authority="marcorg">NNC-A</MODS:physicalLocation>
+                <MODS:physicalLocation>Avery Architectural &amp; Fine Arts Library, Columbia University</MODS:physicalLocation>
+                <MODS:url access="object in context" usage="primary display">
+                    <xsl:choose>
+                        <xsl:when test="$collection_id = 'ggva'">
+                            <xsl:text>http://www.columbia.edu/cu/lweb/eresources/archives/avery/greene/images/images_</xsl:text><xsl:value-of select="$item_id" /><xsl:text>.html</xsl:text>
+                        </xsl:when>
+                        <xsl:otherwise>
+                            <xsl:text>http://www.columbia.edu/cu/libraries/inside/units/ldpd/avery/html/</xsl:text>
+                        </xsl:otherwise>
+                    </xsl:choose>
+                </MODS:url>
+                
+                <MODS:holdingSimple>
+                    <MODS:copyInformation>
+                        <MODS:subLocation>Drawings &amp; Archives</MODS:subLocation>
+                    </MODS:copyInformation>
+                </MODS:holdingSimple>
+            </MODS:location>
+            <MODS:recordInfo>
+                <MODS:recordContentSource>NNC</MODS:recordContentSource>
+                <MODS:recordOrigin>Cataloging by project AVIADOR staff, edited to conform to MODS, version 3.5.</MODS:recordOrigin>
+            </MODS:recordInfo>
+        </MODS:mods>
+    </xsl:template>
+
+    
+    <!-- asset: record for individual image -->
+    <xsl:template name="asset">
+        <xsl:param name="part_id"/>
+
+        <MODS:mods xmlns:MODS="http://www.loc.gov/mods/v3"
+            xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+            xmlns:xlink="http://www.w3.org/1999/xlink"
+            xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd"
+            version="3.5">
+
+            <MODS:identifier type="local">
+                <xsl:choose>
+                    <xsl:when test="ends-with($part_id,'.')">
+                        <xsl:value-of select="substring($part_id,0,string-length($part_id))"/>
+                    </xsl:when>
+                    <xsl:otherwise>
+                        <xsl:value-of select="$part_id"/>
+                    </xsl:otherwise>
+                </xsl:choose>
+            </MODS:identifier>
+            <MODS:titleInfo>
+                <MODS:title>
+                    <!-- 789 0_ $t $n -->
+                    <xsl:for-each
+                        select="//marc:datafield[@tag = '789'][@ind1 = '0'][child::marc:subfield[@code = 't']][child::marc:subfield[@code = 'i']  = $part_id]">
+                        <xsl:if test="position() > 1">
+                          <xsl:text>,&#160;</xsl:text>
+                        </xsl:if>
+                        <xsl:for-each select="child::marc:subfield[@code = 't']">
+                            <xsl:value-of select="translate(., '][', '')"/>
+                        </xsl:for-each>
+                        <xsl:for-each select="marc:subfield[@code = 'n']">
+                            <xsl:text>&#160;</xsl:text>
+                            <xsl:value-of select="."/>
+                        </xsl:for-each>
+                    </xsl:for-each>
+                </MODS:title>
+            </MODS:titleInfo>
+            <MODS:originInfo>
+                <xsl:call-template name="publicationDate" />
+
+                <!--008 07-10-->
+                <xsl:choose>
+                    <xsl:when test="substring(//marc:controlfield[@tag = '008'], 7, 1) = 'n'">
+                        <xsl:call-template name="defaultDateRange">
+                            <xsl:with-param name="collection_id" select="$collection_id" />
+                        </xsl:call-template>
+                    </xsl:when>
+                    <xsl:when
+                        test="contains(substring(//marc:controlfield[@tag = '008'], 12, 4), '1') ">
+                        <MODS:dateCreated encoding="w3cdtf" keyDate="yes" point="start">
+                            <xsl:value-of
+                                select="substring(//marc:controlfield[@tag = '008'], 8, 4) "/>
+                        </MODS:dateCreated>
+                        <MODS:dateCreated encoding="w3cdtf" point="end">
+                            <xsl:value-of
+                                select="substring(//marc:controlfield[@tag = '008'], 12, 4) "/>
+                        </MODS:dateCreated>
+                    </xsl:when>
+                    <xsl:otherwise>
+                        <MODS:dateCreated encoding="w3cdtf" keyDate="yes">
+                            <xsl:value-of
+                                select="substring(//marc:controlfield[@tag = '008'], 8, 4) "/>
+                        </MODS:dateCreated>
+                    </xsl:otherwise>
+                </xsl:choose>
+            </MODS:originInfo>
+            <xsl:if test="substring(//marc:controlfield[@tag = '008'], 7, 1) = 'n'">
+                <xsl:call-template name="defaultDateNote">
+                    <xsl:with-param name="collection_id" select="$collection_id" />
+                </xsl:call-template>
+            </xsl:if>
+            <MODS:physicalDescription>
+                <MODS:extent>1 sheet</MODS:extent>
+                <xsl:call-template name="physical_description_form" />
+                <MODS:digitalOrigin>reformatted digital</MODS:digitalOrigin>
+                <MODS:reformattingQuality>access</MODS:reformattingQuality>
+                <MODS:form authority="marcform">electronic</MODS:form>
+            </MODS:physicalDescription>
+            <MODS:typeOfResource>still image</MODS:typeOfResource>
+            <xsl:for-each
+                select="//marc:datafield[@tag = '789'][@ind1 = '0'][child::marc:subfield[@code = 'i'] = $part_id]/marc:subfield[@code = 'o']">
+                <MODS:note>
+                    <!--789 0_ $o -->
+                    <xsl:value-of select="."/>
+                </MODS:note>
+            </xsl:for-each>
+            <xsl:for-each
+                select="//marc:datafield[@tag = '789'][@ind1 = '0'][child::marc:subfield[@code = 'i']  = $part_id]/marc:subfield[@code = 'p']">
+                <MODS:note type="physical details">
+                    <!--789 0_ $p -->
+                    <xsl:value-of select="."/>
+                </MODS:note>
+            </xsl:for-each>
+            <xsl:if test="$is_photograph = false()">
+                <MODS:note>
+                    <xsl:text>Digital image created from an analog slide.</xsl:text>
+                </MODS:note>
+            </xsl:if>
+            <MODS:accessCondition type="useAndReproduction">No known restrictions.</MODS:accessCondition>
+            <MODS:location>
+                <MODS:physicalLocation authority="marcorg">NNC-A</MODS:physicalLocation>
+                <MODS:physicalLocation>Avery Architectural &amp; Fine Arts Library, Columbia University</MODS:physicalLocation>
+                <xsl:for-each
+                    select="//marc:datafield[@tag = '789'][@ind1 = '0'][child::marc:subfield[@code = 'i'] = $part_id]">
+                    <MODS:shelfLocator>
+                        <xsl:value-of select="child::marc:subfield[@code = 'i']"/>
+                    </MODS:shelfLocator>
+                </xsl:for-each>
+                <MODS:holdingSimple>
+                    <MODS:copyInformation>
+                        <MODS:subLocation>Drawings &amp; Archives</MODS:subLocation>
+                    </MODS:copyInformation>
+                </MODS:holdingSimple>
+            </MODS:location>
+            <MODS:recordInfo>
+                <MODS:recordContentSource>NNC</MODS:recordContentSource>
+                <MODS:recordOrigin>Cataloging by project AVIADOR staff, edited to conform to MODS, version 3.5.</MODS:recordOrigin>
+            </MODS:recordInfo>
+        </MODS:mods>
+    </xsl:template>
+    
+    <xsl:template name="structMap">
+        <xsl:param name="item_id"/>
+        <mets:structMap xmlns:mets="http://www.loc.gov/METS/" LABEL="ldpd.{$collection_id}.{$item_id}">
+            <xsl:attribute name="LABEL"><xsl:text>ldpd.</xsl:text><xsl:value-of select="$collection_id"/><xsl:text>.</xsl:text><xsl:value-of select="$item_id"/></xsl:attribute>
+            <xsl:for-each select="//marc:datafield[@tag = '789']">
+                <xsl:variable name="part_id">
+                    <xsl:value-of select="child::marc:subfield[@code = 'i']"/>
+                </xsl:variable>
+                <xsl:variable name="order">
+                    <xsl:choose>
+                        <xsl:when test="child::marc:subfield[@code = '1']">
+                            <xsl:value-of select="child::marc:subfield[@code = '1']"/>
+                        </xsl:when>
+                        <xsl:otherwise>
+                            <xsl:value-of select="child::marc:subfield[@code = 'l']"/>
+                        </xsl:otherwise>
+                    </xsl:choose>
+                </xsl:variable>
+                <mets:div>
+                    <xsl:attribute name="ORDER"><xsl:value-of select="translate($order,'][','')"/></xsl:attribute>
+                    <xsl:choose>
+                        <xsl:when test="ends-with($part_id,'.')">
+                            <xsl:attribute name="CONTENTIDS"><xsl:value-of select="substring($part_id,0,string-length($part_id))"/></xsl:attribute>
+                        </xsl:when>
+                        <xsl:otherwise>
+                            <xsl:attribute name="CONTENTIDS"><xsl:value-of select="$part_id"/></xsl:attribute>
+                        </xsl:otherwise>
+                    </xsl:choose>
+                    <xsl:attribute name="LABEL">
+                        <xsl:for-each select="child::marc:subfield[@code = 't']">
+                            <xsl:value-of select="translate(., '][', '')"/>
+                        </xsl:for-each>
+                        <xsl:for-each select="marc:subfield[@code = 'n']">
+                            <xsl:text>&#160;</xsl:text>
+                            <xsl:value-of select="."/>
+                        </xsl:for-each>
+                    </xsl:attribute>
+                </mets:div>
+            </xsl:for-each>
+        </mets:structMap>
+    </xsl:template>
+    <!-- NAMED TEMPLATES -->
     <xsl:template name="subfields">
         <xsl:param name="strip"/>
         <xsl:variable name="stripped">
@@ -249,375 +616,5 @@
                 <MODS:form authority="gmgpc">architectural drawings</MODS:form>
             </xsl:otherwise>
         </xsl:choose>
-    </xsl:template>
-    <xsl:template name="structMap">
-        <xsl:param name="item_id"/>
-        <mets:structMap xmlns:mets="http://www.loc.gov/METS/" LABEL="ldpd.{$collection_id}.{$item_id}">
-            <xsl:attribute name="LABEL"><xsl:text>ldpd.</xsl:text><xsl:value-of select="$collection_id"/><xsl:text>.</xsl:text><xsl:value-of select="$item_id"/></xsl:attribute>
-            <xsl:for-each select="//marc:datafield[@tag = '789']">
-                <xsl:variable name="part_id">
-                    <xsl:value-of select="child::marc:subfield[@code = 'i']"/>
-                </xsl:variable>
-                <xsl:variable name="order">
-                    <xsl:choose>
-                        <xsl:when test="child::marc:subfield[@code = '1']">
-                            <xsl:value-of select="child::marc:subfield[@code = '1']"/>
-                        </xsl:when>
-                        <xsl:otherwise>
-                            <xsl:value-of select="child::marc:subfield[@code = 'l']"/>
-                        </xsl:otherwise>
-                    </xsl:choose>
-                </xsl:variable>
-                <mets:div>
-                    <xsl:attribute name="ORDER"><xsl:value-of select="translate($order,'][','')"/></xsl:attribute>
-                    <xsl:choose>
-                        <xsl:when test="ends-with($part_id,'.')">
-                            <xsl:attribute name="CONTENTIDS"><xsl:value-of select="substring($part_id,0,string-length($part_id))"/></xsl:attribute>
-                        </xsl:when>
-                        <xsl:otherwise>
-                            <xsl:attribute name="CONTENTIDS"><xsl:value-of select="$part_id"/></xsl:attribute>
-                        </xsl:otherwise>
-                    </xsl:choose>
-                    <xsl:attribute name="LABEL">
-                        <xsl:for-each select="child::marc:subfield[@code = 't']">
-                            <xsl:value-of select="translate(., '][', '')"/>
-                        </xsl:for-each>
-                        <xsl:for-each select="marc:subfield[@code = 'n']">
-                            <xsl:text>&#160;</xsl:text>
-                            <xsl:value-of select="."/>
-                        </xsl:for-each>
-                    </xsl:attribute>
-                </mets:div>
-            </xsl:for-each>
-        </mets:structMap>
-    </xsl:template>
-    
-    <!-- item: record for primary entity being described/group of image assets (i.e., the G&G "project" -->
-    
-    <xsl:template name="item">
-        <xsl:param name="item_id"/>
-
-        <MODS:mods xmlns:MODS="http://www.loc.gov/mods/v3"
-            xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
-            xmlns:xlink="http://www.w3.org/1999/xlink"
-            xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd"
-            version="3.5">
-
-            <MODS:identifier type="local">ldpd.<xsl:value-of select="$collection_id" />.<xsl:value-of select="$item_id"/></MODS:identifier>
-            <MODS:identifier type="CLIO"><xsl:text>CLIO_</xsl:text><xsl:value-of select="//marc:controlfield[@tag = '001']"/></MODS:identifier>
-            <xsl:for-each select="//marc:datafield[@tag = '100'][@ind1 = '1']">
-                <MODS:name type="personal">
-                    <xsl:for-each select="child::marc:subfield">
-                        <MODS:namePart>
-                            <xsl:if test="@code = 'd'">
-                                <xsl:attribute name="type"><xsl:text>date</xsl:text></xsl:attribute>
-                            </xsl:if>
-                            <xsl:call-template name="subfields"/>
-                        </MODS:namePart>
-                    </xsl:for-each>
-                </MODS:name>
-            </xsl:for-each>
-            
-            <xsl:for-each select="//marc:datafield[@tag = '110'][@ind1 = '2']">
-                <MODS:name type="corporate">
-                    <xsl:for-each select="child::marc:subfield">
-                        <MODS:namePart>
-                            <xsl:call-template name="subfields"/>
-                        </MODS:namePart>
-                    </xsl:for-each>
-                </MODS:name>
-            </xsl:for-each>
-            <xsl:if test="$is_photograph = true() and count(//marc:datafield[@tag = '110'][@ind1 = '2']) = 0 and contains(string-join(//marc:datafield[@tag = '710'][@ind1 = '2'], ' '),'Greene &amp; Greene')">
-                <MODS:name type="corporate">
-                    <MODS:namePart>Greene &amp; Greene</MODS:namePart>
-                </MODS:name>
-            </xsl:if>
-
-            <xsl:if test="//marc:datafield[@tag = '240']">
-                <MODS:titleInfo type="uniform">
-                    <MODS:title>
-                        <xsl:for-each select="//marc:datafield[@tag = '240']/marc:subfield">
-                            <xsl:call-template name="subfields">
-                                <xsl:with-param name="strip">
-                                    <xsl:text>yes</xsl:text>
-                                </xsl:with-param>
-                            </xsl:call-template>
-                        </xsl:for-each>
-                    </MODS:title>
-                </MODS:titleInfo>
-            </xsl:if>
-            <MODS:titleInfo>
-                <MODS:title>
-                    <!-- 245 $a -->
-                    <xsl:value-of
-                        select="translate(//marc:datafield[@tag = '245']/marc:subfield[@code = 'a'], '][', '')"/>
-                </MODS:title>
-            </MODS:titleInfo>
-            <MODS:originInfo>
-                <xsl:call-template name="publicationDate" />
-                <!--008 07-10-->
-                <xsl:choose>
-                    <xsl:when test="substring(//marc:controlfield[@tag = '008'], 7, 1) = 'n'">
-                        <xsl:call-template name="defaultDateRange">
-                            <xsl:with-param name="collection_id" select="$collection_id" />
-                        </xsl:call-template>
-                    </xsl:when>
-                    <xsl:when
-                        test="contains(substring(//marc:controlfield[@tag = '008'], 12, 4), '1') ">
-                        <MODS:dateCreated encoding="w3cdtf" keyDate="yes" point="start">
-                            <xsl:value-of
-                                select="substring(//marc:controlfield[@tag = '008'], 8, 4) "/>
-                        </MODS:dateCreated>
-                        <MODS:dateCreated encoding="w3cdtf" point="end">
-                            <xsl:value-of
-                                select="substring(//marc:controlfield[@tag = '008'], 12, 4) "/>
-                        </MODS:dateCreated>
-                    </xsl:when>
-                    <xsl:otherwise>
-                        <MODS:dateCreated encoding="w3cdtf" keyDate="yes">
-                            <xsl:value-of
-                                select="substring(//marc:controlfield[@tag = '008'], 8, 4) "/>
-                        </MODS:dateCreated>
-                    </xsl:otherwise>
-                </xsl:choose>
-            </MODS:originInfo>
-            <xsl:if test="substring(//marc:controlfield[@tag = '008'], 7, 1) = 'n'">
-                <xsl:call-template name="defaultDateNote">
-                    <xsl:with-param name="collection_id" select="$collection_id" />
-                </xsl:call-template>
-            </xsl:if>
-            <MODS:physicalDescription>
-                <xsl:call-template name="extent" />
-                <xsl:call-template name="physical_description_form" />
-                <MODS:digitalOrigin>reformatted digital</MODS:digitalOrigin>
-                <MODS:reformattingQuality>access</MODS:reformattingQuality>
-                <MODS:form authority="marcform">electronic</MODS:form>
-            </MODS:physicalDescription>
-            <MODS:typeOfResource>still image</MODS:typeOfResource>
-            <xsl:for-each select="//marc:datafield[@tag = '561']">
-                <MODS:note type="ownership">
-                    <xsl:for-each select="child::*">
-                        <xsl:call-template name="subfields"/>
-                    </xsl:for-each>
-                </MODS:note>
-            </xsl:for-each>
-            <MODS:accessCondition type="useAndReproduction">Columbia Libraries Staff Use Only</MODS:accessCondition>
-            <xsl:for-each select="//marc:datafield[@tag = '799'][@ind1='4'][@ind2='3']/marc:subfield[@code='a']">
-                <MODS:relatedItem displayLabel="Collection" type="host">
-                    <MODS:titleInfo>
-                        <MODS:title>
-                            <xsl:choose>
-                                <xsl:when test="ends-with(.,'.')">
-                                    <xsl:value-of select="substring(.,0,string-length(.))" />
-                                </xsl:when>
-                                <xsl:otherwise>
-                                    <xsl:value-of select="."/>
-                                </xsl:otherwise>
-                            </xsl:choose>
-                        </MODS:title>
-                    </MODS:titleInfo>
-                </MODS:relatedItem>
-            </xsl:for-each>
-            <xsl:for-each select="//marc:datafield[@tag = '650']">
-                <MODS:subject>
-                    <xsl:if test="@ind2='0'">
-                        <xsl:attribute name="authority">lcsh</xsl:attribute>
-                    </xsl:if>
-                    <xsl:if test="./marc:subfield[@code='2']">
-                        <xsl:attribute name="authority"><xsl:value-of select="./marc:subfield[@code='2']" /></xsl:attribute>
-                    </xsl:if>
-                    <MODS:topic>
-                        <xsl:for-each select="./marc:subfield[not(number(@code))]">
-                            <xsl:if test="position() >  1">
-                                <xsl:text>--</xsl:text>
-                            </xsl:if>
-                            <xsl:choose>
-                                <xsl:when test="ends-with(.,'.')">
-                                    <xsl:value-of select="substring(.,0,string-length(.))" />
-                                </xsl:when>
-                                <xsl:otherwise>
-                                    <xsl:value-of select="." />
-                                </xsl:otherwise>
-                            </xsl:choose>
-                        </xsl:for-each>
-                    </MODS:topic>
-                </MODS:subject>
-            </xsl:for-each>
-            <xsl:if test="$collection_id = 'ggva'">
-                <MODS:subject authority="lcsh">
-                    <MODS:topic>Buildings</MODS:topic>
-                </MODS:subject>
-                <MODS:subject authority="lcsh">
-                    <MODS:topic>Architecture<xsl:value-of select="$arch_geo_ref" /></MODS:topic>
-                </MODS:subject>
-            </xsl:if>
-            <MODS:relatedItem displayLabel="Project" type="host">
-                <MODS:titleInfo>
-                    <MODS:title>
-                        <xsl:value-of select="$project" />
-                    </MODS:title>
-                    <MODS:location>
-                        <url><xsl:value-of select="$project_url" /></url>
-                    </MODS:location>
-                </MODS:titleInfo>
-            </MODS:relatedItem>
-            <MODS:location>
-                <MODS:physicalLocation authority="marcorg">NNC-A</MODS:physicalLocation>
-                <MODS:physicalLocation>Avery Architectural &amp; Fine Arts Library, Columbia University</MODS:physicalLocation>
-                    <MODS:url access="object in context" usage="primary display">
-                        <xsl:choose>
-                            <xsl:when test="$collection_id = 'ggva'">
-                                <xsl:text>http://www.columbia.edu/cu/lweb/eresources/archives/avery/greene/images/images_</xsl:text><xsl:value-of select="$item_id" /><xsl:text>.html</xsl:text>
-                            </xsl:when>
-                            <xsl:otherwise>
-                                <xsl:text>http://www.columbia.edu/cu/libraries/inside/units/ldpd/avery/html/</xsl:text>
-                            </xsl:otherwise>
-                        </xsl:choose>
-                    </MODS:url>
-                
-                <MODS:holdingSimple>
-                    <MODS:copyInformation>
-                        <MODS:subLocation>Drawings &amp; Archives</MODS:subLocation>
-                    </MODS:copyInformation>
-                </MODS:holdingSimple>
-            </MODS:location>
-            <MODS:recordInfo>
-                <MODS:recordContentSource>NNC</MODS:recordContentSource>
-                <MODS:recordOrigin>Cataloging by project AVIADOR staff, edited to conform to MODS, version 3.5.</MODS:recordOrigin>
-            </MODS:recordInfo>
-        </MODS:mods>
-    </xsl:template>
-    
-    <!-- asset: record for individual image -->
-    <xsl:template name="asset">
-        <xsl:param name="part_id"/>
-
-        <MODS:mods xmlns:MODS="http://www.loc.gov/mods/v3"
-            xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
-            xmlns:xlink="http://www.w3.org/1999/xlink"
-            xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd"
-            version="3.5">
-
-            <MODS:identifier type="local">
-                <xsl:choose>
-                    <xsl:when test="ends-with($part_id,'.')">
-                        <xsl:value-of select="substring($part_id,0,string-length($part_id))"/>
-                    </xsl:when>
-                    <xsl:otherwise>
-                        <xsl:value-of select="$part_id"/>
-                    </xsl:otherwise>
-                </xsl:choose>
-            </MODS:identifier>
-            <MODS:titleInfo>
-                <MODS:title>
-                    <xsl:for-each select="//marc:datafield[@tag = '240']/marc:subfield">
-                        <xsl:call-template name="subfields">
-                            <xsl:with-param name="strip">
-                                <xsl:text>yes</xsl:text>
-                            </xsl:with-param>
-                        </xsl:call-template>
-                    </xsl:for-each>
-                </MODS:title>
-            </MODS:titleInfo>
-            <MODS:titleInfo type="alternative">
-                <MODS:title>
-                    <!-- 789 0_ $t $n -->
-                    <xsl:for-each
-                        select="//marc:datafield[@tag = '789'][@ind1 = '0'][child::marc:subfield[@code = 't']][child::marc:subfield[@code = 'i']  = $part_id]">
-                        <xsl:if test="position() > 1">
-                          <xsl:text>,&#160;</xsl:text>
-                        </xsl:if>
-                        <xsl:for-each select="child::marc:subfield[@code = 't']">
-                            <xsl:value-of select="translate(., '][', '')"/>
-                        </xsl:for-each>
-                        <xsl:for-each select="marc:subfield[@code = 'n']">
-                            <xsl:text>&#160;</xsl:text>
-                            <xsl:value-of select="."/>
-                        </xsl:for-each>
-                    </xsl:for-each>
-                </MODS:title>
-            </MODS:titleInfo>
-            <MODS:originInfo>
-                <xsl:call-template name="publicationDate" />
-
-                <!--008 07-10-->
-                <xsl:choose>
-                    <xsl:when test="substring(//marc:controlfield[@tag = '008'], 7, 1) = 'n'">
-                        <xsl:call-template name="defaultDateRange">
-                            <xsl:with-param name="collection_id" select="$collection_id" />
-                        </xsl:call-template>
-                    </xsl:when>
-                    <xsl:when
-                        test="contains(substring(//marc:controlfield[@tag = '008'], 12, 4), '1') ">
-                        <MODS:dateCreated encoding="w3cdtf" keyDate="yes" point="start">
-                            <xsl:value-of
-                                select="substring(//marc:controlfield[@tag = '008'], 8, 4) "/>
-                        </MODS:dateCreated>
-                        <MODS:dateCreated encoding="w3cdtf" point="end">
-                            <xsl:value-of
-                                select="substring(//marc:controlfield[@tag = '008'], 12, 4) "/>
-                        </MODS:dateCreated>
-                    </xsl:when>
-                    <xsl:otherwise>
-                        <MODS:dateCreated encoding="w3cdtf" keyDate="yes">
-                            <xsl:value-of
-                                select="substring(//marc:controlfield[@tag = '008'], 8, 4) "/>
-                        </MODS:dateCreated>
-                    </xsl:otherwise>
-                </xsl:choose>
-            </MODS:originInfo>
-            <xsl:if test="substring(//marc:controlfield[@tag = '008'], 7, 1) = 'n'">
-                <xsl:call-template name="defaultDateNote">
-                    <xsl:with-param name="collection_id" select="$collection_id" />
-                </xsl:call-template>
-            </xsl:if>
-            <MODS:physicalDescription>
-                <MODS:extent>1 sheet</MODS:extent>
-                <xsl:call-template name="physical_description_form" />
-                <MODS:digitalOrigin>reformatted digital</MODS:digitalOrigin>
-                <MODS:reformattingQuality>access</MODS:reformattingQuality>
-                <MODS:form authority="marcform">electronic</MODS:form>
-            </MODS:physicalDescription>
-            <MODS:typeOfResource>still image</MODS:typeOfResource>
-            <xsl:for-each
-                select="//marc:datafield[@tag = '789'][@ind1 = '0'][child::marc:subfield[@code = 'i'] = $part_id]/marc:subfield[@code = 'o']">
-                <MODS:note>
-                    <!--789 0_ $o -->
-                    <xsl:value-of select="."/>
-                </MODS:note>
-            </xsl:for-each>
-            <xsl:for-each
-                select="//marc:datafield[@tag = '789'][@ind1 = '0'][child::marc:subfield[@code = 'i']  = $part_id]/marc:subfield[@code = 'p']">
-                <MODS:note type="physical details">
-                    <!--789 0_ $p -->
-                    <xsl:value-of select="."/>
-                </MODS:note>
-            </xsl:for-each>
-            <xsl:if test="$is_photograph = false()">
-                <MODS:note>
-                    <xsl:text>Digital image created from an analog slide.</xsl:text>
-                </MODS:note>
-            </xsl:if>
-            <MODS:accessCondition type="useAndReproduction">No known restrictions.</MODS:accessCondition>
-            <MODS:location>
-                <MODS:physicalLocation authority="marcorg">NNC-A</MODS:physicalLocation>
-                <MODS:physicalLocation>Avery Architectural &amp; Fine Arts Library, Columbia University</MODS:physicalLocation>
-                <xsl:for-each
-                    select="//marc:datafield[@tag = '789'][@ind1 = '0'][child::marc:subfield[@code = 'i'] = $part_id]">
-                    <MODS:shelfLocator>
-                        <xsl:value-of select="child::marc:subfield[@code = 'i']"/>
-                    </MODS:shelfLocator>
-                </xsl:for-each>
-                <MODS:holdingSimple>
-                    <MODS:copyInformation>
-                        <MODS:subLocation>Drawings &amp; Archives</MODS:subLocation>
-                    </MODS:copyInformation>
-                </MODS:holdingSimple>
-            </MODS:location>
-            <MODS:recordInfo>
-                <MODS:recordContentSource>NNC</MODS:recordContentSource>
-                <MODS:recordOrigin>Cataloging by project AVIADOR staff, edited to conform to MODS, version 3.5.</MODS:recordOrigin>
-            </MODS:recordInfo>
-        </MODS:mods>
     </xsl:template>
 </xsl:stylesheet>

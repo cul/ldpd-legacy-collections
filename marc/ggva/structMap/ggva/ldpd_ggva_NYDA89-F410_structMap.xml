@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mets:structMap xmlns:mets="http://www.loc.gov/METS/" LABEL="ldpd.ggva.NYDA89-F410">
+   <mets:div ORDER="1"
+             CONTENTIDS="NYDA.1960.001.01186"
+             LABEL="Plan, end elevation, front elevation, 1 1/2&#34; scale detail of cornice : Sheet no. 1."/>
+   <mets:div ORDER="2"
+             CONTENTIDS="NYDA.1960.001.01187"
+             LABEL="Plan, end elevation, front elevation, 1 1/2&#34; scale detail of cornice : Sheet no. 1."/>
+   <mets:div ORDER="3"
+             CONTENTIDS="NYDA.1960.001.01188"
+             LABEL="Proposed refrigerating and ice making plant in plans /"/>
+</mets:structMap>

@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<MODS:mods xmlns:MODS="http://www.loc.gov/mods/v3"
+           xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+           xmlns:xlink="http://www.w3.org/1999/xlink"
+           xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd"
+           version="3.5">
+   <MODS:identifier type="local">NYDA.1960.001.01273</MODS:identifier>
+   <MODS:titleInfo>
+      <MODS:title>David B. Gamble house (Pasadena, Calif.)</MODS:title>
+   </MODS:titleInfo>
+   <MODS:titleInfo type="alternative">
+      <MODS:title>Details -- 1 1/2" scale detail of cellar windows, typical wall sections with exterior and interior elevations of window, section thru verge board taken at "A-A", typical girder post footing ; screened porch and south gable end details -- section thru south wall looking west, section thru east wall looking north ; east gabel end and bedr'm no. 3 beam details -- east wall looking south, section thru north wall looking west ; section thru north gable end (complete detail to be given later) ; section thru west end of main hall  (looking north) : Sheet no. 9,</MODS:title>
+   </MODS:titleInfo>
+   <MODS:originInfo>
+      <MODS:dateCreated>1908-1909.</MODS:dateCreated>
+      <MODS:dateCreated encoding="w3cdtf" keyDate="yes" point="start">1908</MODS:dateCreated>
+      <MODS:dateCreated encoding="w3cdtf" point="end">1909</MODS:dateCreated>
+   </MODS:originInfo>
+   <MODS:physicalDescription>
+      <MODS:extent>1 sheet</MODS:extent>
+      <MODS:form authority="gmgpc">architectural drawings</MODS:form>
+      <MODS:digitalOrigin>reformatted digital</MODS:digitalOrigin>
+      <MODS:reformattingQuality>access</MODS:reformattingQuality>
+      <MODS:form authority="marcform">electronic</MODS:form>
+   </MODS:physicalDescription>
+   <MODS:typeOfResource>still image</MODS:typeOfResource>
+   <MODS:note>Digital image created from an analog slide.</MODS:note>
+   <MODS:accessCondition type="useAndReproduction">No known restrictions.</MODS:accessCondition>
+   <MODS:location>
+      <MODS:physicalLocation authority="marcorg">NNC-A</MODS:physicalLocation>
+      <MODS:physicalLocation>Avery Architectural &amp; Fine Arts Library, Columbia University</MODS:physicalLocation>
+      <MODS:shelfLocator>NYDA.1960.001.01273.</MODS:shelfLocator>
+      <MODS:holdingSimple>
+         <MODS:copyInformation>
+            <MODS:subLocation>Drawings &amp; Archives</MODS:subLocation>
+         </MODS:copyInformation>
+      </MODS:holdingSimple>
+   </MODS:location>
+   <MODS:recordInfo>
+      <MODS:recordContentSource>NNC</MODS:recordContentSource>
+      <MODS:recordOrigin>Cataloging by project AVIADOR staff, edited to conform to MODS, version 3.5.</MODS:recordOrigin>
+   </MODS:recordInfo>
+</MODS:mods>

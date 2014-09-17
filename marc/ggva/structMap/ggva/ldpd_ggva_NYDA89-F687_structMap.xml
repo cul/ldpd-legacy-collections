@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mets:structMap xmlns:mets="http://www.loc.gov/METS/" LABEL="ldpd.ggva.NYDA89-F687">
+   <mets:div ORDER="1"
+             CONTENTIDS="NYDA.1960.001.02767"
+             LABEL="First floor plan : Sheet no. 1."/>
+   <mets:div ORDER="2"
+             CONTENTIDS="NYDA.1960.001.02768"
+             LABEL="Second floor plan : Sheet no. 2."/>
+   <mets:div ORDER="3"
+             CONTENTIDS="NYDA.1960.001.02769"
+             LABEL="Front elevation : Sheet no. 3."/>
+   <mets:div ORDER="4"
+             CONTENTIDS="NYDA.1960.001.02770"
+             LABEL="Sketch of elevation"/>
+</mets:structMap>

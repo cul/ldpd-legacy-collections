@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mets:structMap xmlns:mets="http://www.loc.gov/METS/" LABEL="ldpd.ggva.NYDA89-F708">
+   <mets:div ORDER="1"
+             CONTENTIDS="NYDA.1960.001.04195"
+             LABEL="First floor plan."/>
+   <mets:div ORDER="2"
+             CONTENTIDS="NYDA.1960.001.04196"
+             LABEL="Third &amp; second floor plan."/>
+</mets:structMap>

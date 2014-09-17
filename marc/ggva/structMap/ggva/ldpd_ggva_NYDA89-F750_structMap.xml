@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mets:structMap xmlns:mets="http://www.loc.gov/METS/" LABEL="ldpd.ggva.NYDA89-F750">
+   <mets:div ORDER="1"
+             CONTENTIDS="NYDA.1960.001.03419"
+             LABEL="Plan and elevation of addition to entrance :nSheet no. 1."/>
+   <mets:div ORDER="2"
+             CONTENTIDS="NYDA.1960.001.03420"
+             LABEL="Plan and elevation of addition to entrance : Sheet no. 1,"/>
+   <mets:div ORDER="3"
+             CONTENTIDS="NYDA.1960.001.03421"
+             LABEL="Sleeping porch addition -- east elevation, south elevation, plan, section &amp; interior elev. :nSheet no. 2."/>
+   <mets:div ORDER="4"
+             CONTENTIDS="NYDA.1960.001.03422"
+             LABEL="Sleeping porch addition -- east elevation, south elevation, plan, section &amp; interior elev. :nSheet no. 2."/>
+   <mets:div ORDER="5"
+             CONTENTIDS="NYDA.1960.001.03423"
+             LABEL="Sleeping porch addition -- east elevation, south elevation, plan : Sheet no. 2."/>
+   <mets:div ORDER="6"
+             CONTENTIDS="NYDA.1960.001.03424"
+             LABEL="3/4 inch scale details of sleeping porch addition -- section, plan : Drawing no. 3."/>
+   <mets:div ORDER="7" CONTENTIDS="NYDA.1960.001.03425" LABEL="Plan of steps"/>
+   <mets:div ORDER="8"
+             CONTENTIDS="NYDA.1960.001.03426"
+             LABEL="Exterior elevation of sleeping porch area"/>
+</mets:structMap>

@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mets:structMap xmlns:mets="http://www.loc.gov/METS/" LABEL="ldpd.ggva.NYDA89-F763">
+   <mets:div ORDER="1"
+             CONTENTIDS="NYDA.1960.001.03529"
+             LABEL="Floor plan : Sheet no. 2,"/>
+   <mets:div ORDER="2"
+             CONTENTIDS="NYDA.1960.001.03530"
+             LABEL="Sketch of proposed buildings -- plan,"/>
+   <mets:div ORDER="3"
+             CONTENTIDS="NYDA.1960.001.03531"
+             LABEL="Foundation plan of one house ; typical wall section ; detail of wall section for bay in south side of living rm. ; typical girder post footing ; 1 1/2&#34; scale detail of pier &#34;A&#34; footing ; wall detail showing grade."/>
+   <mets:div ORDER="4"
+             CONTENTIDS="NYDA.1960.001.03532"
+             LABEL="Sketch of proposed buildings -- southeast elevation, section thru living rm. looking northeast, section thru living rm. looking northwest, section thru covered terrace looking northwest, section thru dining rm. looking northwest, section thru covered terrace looking southeast,"/>
+   <mets:div ORDER="5"
+             CONTENTIDS="NYDA.1960.001.03533"
+             LABEL="North elevation of living room."/>
+   <mets:div ORDER="6"
+             CONTENTIDS="NYDA.1960.001.03534"
+             LABEL="So. elevation of living rm."/>
+   <mets:div ORDER="7"
+             CONTENTIDS="NYDA.1960.001.03535"
+             LABEL="West elevation of living rm."/>
+   <mets:div ORDER="8"
+             CONTENTIDS="NYDA.1960.001.03536"
+             LABEL="Sectional elevation looking N.W. toward dining rm."/>
+   <mets:div ORDER="9"
+             CONTENTIDS="NYDA.1960.001.03537"
+             LABEL="N.E. elevation of dining room and kitchen."/>
+   <mets:div ORDER="10"
+             CONTENTIDS="NYDA.1960.001.03538"
+             LABEL="Southwest elevation of dining rm."/>
+   <mets:div ORDER="11"
+             CONTENTIDS="NYDA.1960.001.03539"
+             LABEL="N.W. elevation of kitchen."/>
+   <mets:div ORDER="12"
+             CONTENTIDS="NYDA.1960.001.03540"
+             LABEL="Living room interior details -- south side, north side, east side."/>
+   <mets:div ORDER="13"
+             CONTENTIDS="NYDA.1960.001.03541"
+             LABEL="Interior elevations of dining room -- northwest, northeast, southeast, southwest."/>
+   <mets:div ORDER="14"
+             CONTENTIDS="NYDA.1960.001.03542"
+             LABEL="Sketch of site plan showing walk and driveway"/>
+</mets:structMap>

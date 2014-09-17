@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mets:structMap xmlns:mets="http://www.loc.gov/METS/" LABEL="ldpd.ggva.NYDA01-F95">
+   <mets:div ORDER="1"
+             CONTENTIDS="NYDA.1987.003.00001"
+             LABEL="View toward street, showing built-in furniture, decorative light fixtures, and tile-covered columns."/>
+   <mets:div ORDER="2"
+             CONTENTIDS="NYDA.1987.003.00338"
+             LABEL="View of offices and wrought-iron elevator screen."/>
+</mets:structMap>

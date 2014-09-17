@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mets:structMap xmlns:mets="http://www.loc.gov/METS/" LABEL="ldpd.ggva.NYDA01-F118">
+   <mets:div ORDER="1"
+             CONTENTIDS="NYDA.1987.003.00144"
+             LABEL="View of south (front) and west elevations."/>
+   <mets:div ORDER="2"
+             CONTENTIDS="NYDA.1987.003.00521"
+             LABEL="View of south (front) and west elevations."/>
+   <mets:div ORDER="3" CONTENTIDS="NYDA.1987.003.00145" LABEL="Garden view."/>
+   <mets:div ORDER="4" CONTENTIDS="NYDA.1987.003.00522" LABEL="Garden view."/>
+   <mets:div ORDER="5" CONTENTIDS="NYDA.1987.003.00146" LABEL="Garden pond."/>
+   <mets:div ORDER="6" CONTENTIDS="NYDA.1987.003.00147" LABEL="Torii gate."/>
+   <mets:div ORDER="7"
+             CONTENTIDS="NYDA.1987.003.00148"
+             LABEL="View from living room toward the inglenook and garden doors."/>
+   <mets:div ORDER="8"
+             CONTENTIDS="NYDA.1987.003.00149"
+             LABEL="Living room and raised dining room."/>
+   <mets:div ORDER="9"
+             CONTENTIDS="NYDA.1987.003.00524"
+             LABEL="Living room and raised dining room."/>
+</mets:structMap>

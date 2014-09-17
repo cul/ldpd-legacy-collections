@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mets:structMap xmlns:mets="http://www.loc.gov/METS/" LABEL="ldpd.ggva.NYDA89-F656">
+   <mets:div ORDER="1"
+             CONTENTIDS="NYDA.1960.001.01700"
+             LABEL="Foundation plan ; detail drawings of -- 4&#34; brick retaining wall, porch wall &amp; piers, brick piers, section ofmain wall at &#34;A-A&#34;, foundations for chimneys : 1."/>
+   <mets:div ORDER="2"
+             CONTENTIDS="NYDA.1960.001.01701"
+             LABEL="First floor plan : 2."/>
+   <mets:div ORDER="3"
+             CONTENTIDS="NYDA.1960.001.01702"
+             LABEL="Second floor plan ; elevation of door &amp; window in bathroom : 3."/>
+   <mets:div ORDER="4"
+             CONTENTIDS="NYDA.1960.001.01703"
+             LABEL="Front elevation (north), with section through wall : 4."/>
+   <mets:div ORDER="5"
+             CONTENTIDS="NYDA.1960.001.01704"
+             LABEL="West elevation : 5."/>
+   <mets:div ORDER="6"
+             CONTENTIDS="NYDA.1960.001.01705"
+             LABEL="Rear elevation (south) : 6."/>
+   <mets:div ORDER="7"
+             CONTENTIDS="NYDA.1960.001.01706"
+             LABEL="East elevation (south) : 7."/>
+   <mets:div ORDER="8"
+             CONTENTIDS="NYDA.1960.001.01707"
+             LABEL="1/4 inch scale details of interior finish -- north side of living room, east side of living room, mantel in bedroom : 8."/>
+   <mets:div ORDER="9"
+             CONTENTIDS="NYDA.1960.001.01708"
+             LABEL="1/2 inch scale details of front stairs -- section thro' lower run looking south ; elevation looking eats ; elevation looking south ; plan : No. 22."/>
+   <mets:div ORDER="10"
+             CONTENTIDS="NYDA.1960.001.01709"
+             LABEL="1/2 inch scale details of back stairs -- elevation looking south, plan, elevation looking west, second floor plan : No. 23."/>
+   <mets:div ORDER="11"
+             CONTENTIDS="NYDA.1960.001.01710"
+             LABEL="1/2 insch scale details of pantry and case in dressing room -- elevation of south side, elevation of west side, elevation of north side, plan of pantry, case in dressing room : No. 25."/>
+   <mets:div ORDER="12"
+             CONTENTIDS="NYDA.1960.001.01711"
+             LABEL="1/2 inch scale details -- interior and exterior of front door, section thro' front porch, section thro' outside wall of house, main cornice."/>
+   <mets:div ORDER="13"
+             CONTENTIDS="NYDA.1960.001.01712"
+             LABEL="Barn -- floor plan, 1/2 in. scale detail of mangers, elevation of box stalls from passage, elevation of batten doors in 2 sections, section at &#34;A-A&#34;."/>
+   <mets:div ORDER="14"
+             CONTENTIDS="NYDA.1960.001.01713"
+             LABEL="Barn -- front elevation with section through wall."/>
+</mets:structMap>

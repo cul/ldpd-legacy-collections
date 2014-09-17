@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mets:structMap xmlns:mets="http://www.loc.gov/METS/" LABEL="ldpd.ggva.NYDA89-F402">
+   <mets:div ORDER="1"
+             CONTENTIDS="NYDA.1960.001.01248"
+             LABEL="Plan of addition ; elevations of bedroom -- west side, north side ; south elevation of addition ; detail drawings of front door in elevation and full size section : Sheet no. 1."/>
+   <mets:div ORDER="2"
+             CONTENTIDS="NYDA.1960.001.01249R"
+             LABEL="Plan of addition ; elevations of bedroom -- west side, north side ; south elevation of addition ; detail drawings of front door in elevation and full size section ; rought unidentified sketches : Sheet no. 1."/>
+   <mets:div ORDER="3"
+             CONTENTIDS="NYDA.1960.001.01249V"
+             LABEL="Detail sketches."/>
+   <mets:div ORDER="4"
+             CONTENTIDS="NYDA.1960.001.01250"
+             LABEL="Plan of addition ; elevations of bedroom -- west side, north side ; south elevation of addition ; detail drawings of front door in elevation and full size section : Sheet no. 1."/>
+   <mets:div ORDER="5"
+             CONTENTIDS="NYDA.1960.001.01251"
+             LABEL="North elevation and west elevation of addition : Sheet no. 2."/>
+   <mets:div ORDER="6"
+             CONTENTIDS="NYDA.1960.001.01252"
+             LABEL="North elevation and west elevation of addition : Sheet no. 2."/>
+   <mets:div ORDER="7"
+             CONTENTIDS="NYDA.1960.001.01253"
+             LABEL="North elevation and west elevation of addition : Sheet no. 2."/>
+   <mets:div ORDER="8"
+             CONTENTIDS="NYDA.1960.001.01254"
+             LABEL="Fullsize details -- electric light fixtures ; Sheet no. 3."/>
+   <mets:div ORDER="9"
+             CONTENTIDS="NYDA.1960.001.01255"
+             LABEL="Glass sizes for lantern -- bottom, sides ; Sheet no. 16,"/>
+   <mets:div ORDER="10"
+             CONTENTIDS="NYDA.1960.001.01256R"
+             LABEL="Unidentified detail sketches."/>
+   <mets:div ORDER="11"
+             CONTENTIDS="NYDA.1960.001.01256V"
+             LABEL="Unidentified detail sketch."/>
+</mets:structMap>

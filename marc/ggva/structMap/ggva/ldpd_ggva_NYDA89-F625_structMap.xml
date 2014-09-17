@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mets:structMap xmlns:mets="http://www.loc.gov/METS/" LABEL="ldpd.ggva.NYDA89-F625">
+   <mets:div ORDER="1"
+             CONTENTIDS="NYDA.1960.001.02806"
+             LABEL="First floor plan : B1."/>
+   <mets:div ORDER="2"
+             CONTENTIDS="NYDA.1960.001.02807"
+             LABEL="First floor plan."/>
+   <mets:div ORDER="3" CONTENTIDS="NYDA.1960.001.02808" LABEL="First floor plan"/>
+   <mets:div ORDER="4"
+             CONTENTIDS="NYDA.1960.001.02809"
+             LABEL="Sketch of first floor plan"/>
+   <mets:div ORDER="5"
+             CONTENTIDS="NYDA.1960.001.02810"
+             LABEL="Sketches of floor plan, perspective view of building, unidentified detail"/>
+   <mets:div ORDER="6"
+             CONTENTIDS="NYDA.1960.001.02811"
+             LABEL="Second floor plan : B2."/>
+   <mets:div ORDER="7"
+             CONTENTIDS="NYDA.1960.001.02812"
+             LABEL="Second floor plan."/>
+   <mets:div ORDER="8" CONTENTIDS="NYDA.1960.001.02813" LABEL="2d floor plan"/>
+   <mets:div ORDER="9"
+             CONTENTIDS="NYDA.1960.001.02814"
+             LABEL="First floor plan : A1."/>
+   <mets:div ORDER="10" CONTENTIDS="NYDA.1960.001.02815" LABEL="Floor plan"/>
+   <mets:div ORDER="11"
+             CONTENTIDS="NYDA.1960.001.02816"
+             LABEL="Partial floor plan"/>
+   <mets:div ORDER="12"
+             CONTENTIDS="NYDA.1960.001.02817"
+             LABEL="Sketch of plan and unidentified details"/>
+   <mets:div ORDER="13"
+             CONTENTIDS="NYDA.1960.001.02818"
+             LABEL="Plan and sketch of stairway, perspective sketch of roof"/>
+   <mets:div ORDER="14" CONTENTIDS="NYDA.1960.001.02819" LABEL="Floor plan"/>
+   <mets:div ORDER="15"
+             CONTENTIDS="NYDA.1960.001.02820"
+             LABEL="First floor plan, unidentified drawing"/>
+   <mets:div ORDER="16"
+             CONTENTIDS="NYDA.1960.001.02821"
+             LABEL="First floor plan."/>
+   <mets:div ORDER="17"
+             CONTENTIDS="NYDA.1960.001.02822"
+             LABEL="Sketch of partial floor plan"/>
+   <mets:div ORDER="18"
+             CONTENTIDS="NYDA.1960.001.02823"
+             LABEL="1st floor plan, revised,"/>
+   <mets:div ORDER="19"
+             CONTENTIDS="NYDA.1960.001.02824"
+             LABEL="Sketches -- perspective view of building, side elevation, plan"/>
+   <mets:div ORDER="20"
+             CONTENTIDS="NYDA.1960.001.02825"
+             LABEL="Sketch of plan, unidentified detail"/>
+   <mets:div ORDER="21"
+             CONTENTIDS="NYDA.1960.001.02826"
+             LABEL="Front (south) elevation : B3."/>
+   <mets:div ORDER="22"
+             CONTENTIDS="NYDA.1960.001.02827"
+             LABEL="Front (south) elevation."/>
+   <mets:div ORDER="23"
+             CONTENTIDS="NYDA.1960.001.02828"
+             LABEL="East elevation , unidentified detail"/>
+   <mets:div ORDER="24"
+             CONTENTIDS="NYDA.1960.001.02829"
+             LABEL="West elevation, perspective sketch of roof"/>
+   <mets:div ORDER="25" CONTENTIDS="NYDA.1960.001.02830" LABEL="Side elevation"/>
+</mets:structMap>

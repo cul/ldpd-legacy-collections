@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mets:structMap xmlns:mets="http://www.loc.gov/METS/" LABEL="ldpd.ggva.NYDA89-F460">
+   <mets:div ORDER="1"
+             CONTENTIDS="NYDA.1960.001.00259"
+             LABEL="Plan of dwelling at ground floor level, showing court."/>
+   <mets:div ORDER="2"
+             CONTENTIDS="NYDA.1960.001.00260"
+             LABEL="1 1/2 inch scale details -- sections through walls showing framing for doors and windows, plan of door jamb; front elevation, section A-B showing living rm. and pergola, front and side elevations of dining room fire place, front and side elevations of living rm. chimney."/>
+   <mets:div ORDER="3"
+             CONTENTIDS="NYDA.1960.001.00261"
+             LABEL="1 1/2 inch scale details -- sections through walls showing framing for doors and windows, plan of door jamb; front elevation, section A-B showing living rm. and pergola, front and side elevations of dining room fire place, front and side elevations of living rm. chimney : No. 2."/>
+</mets:structMap>

@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mets:structMap xmlns:mets="http://www.loc.gov/METS/" LABEL="ldpd.ggva.NYDA89-F652">
+   <mets:div ORDER="1" CONTENTIDS="NYDA.1960.001.00094" LABEL="Front elevation."/>
+   <mets:div ORDER="2"
+             CONTENTIDS="NYDA.1960.001.00095"
+             LABEL="Rough preliminary sketch of front elevation /"/>
+   <mets:div ORDER="3" CONTENTIDS="NYDA.1960.001.00096" LABEL="Side elevation."/>
+   <mets:div ORDER="4"
+             CONTENTIDS="NYDA.1960.001.00097"
+             LABEL="First floor plan."/>
+   <mets:div ORDER="5"
+             CONTENTIDS="NYDA.1960.001.00098"
+             LABEL="Rough preliminary sketch of 1st floor plan /"/>
+   <mets:div ORDER="6"
+             CONTENTIDS="NYDA.1960.001.00099"
+             LABEL="Second floor plan."/>
+   <mets:div ORDER="7"
+             CONTENTIDS="NYDA.1960.001.00100"
+             LABEL="Rough preliminary sketch of 2nd floor plan /"/>
+   <mets:div ORDER="8" CONTENTIDS="NYDA.1960.001.00101" LABEL="Attic plan."/>
+   <mets:div ORDER="9"
+             CONTENTIDS="NYDA.1960.001.00102"
+             LABEL="Rough preliminary sketch of attic floor plan /"/>
+   <mets:div ORDER="10"
+             CONTENTIDS="NYDA.1960.001.00103"
+             LABEL="Detail drawings of mantel in dining room and mantel in living room."/>
+   <mets:div ORDER="11"
+             CONTENTIDS="NYDA.1960.001.00104"
+             LABEL="Front elevation."/>
+   <mets:div ORDER="12" CONTENTIDS="NYDA.1960.001.00105" LABEL="Front elevation"/>
+   <mets:div ORDER="13" CONTENTIDS="NYDA.1960.001.00106" LABEL="Front elevation"/>
+   <mets:div ORDER="14" CONTENTIDS="NYDA.1960.001.00107" LABEL="Side elevation."/>
+   <mets:div ORDER="15" CONTENTIDS="NYDA.1960.001.00108" LABEL="Side elevation"/>
+   <mets:div ORDER="16"
+             CONTENTIDS="NYDA.1960.001.00109"
+             LABEL="First floor plan."/>
+   <mets:div ORDER="17"
+             CONTENTIDS="NYDA.1960.001.00110"
+             LABEL="First floor plan"/>
+   <mets:div ORDER="18"
+             CONTENTIDS="NYDA.1960.001.00111"
+             LABEL="Second floor plan."/>
+   <mets:div ORDER="19"
+             CONTENTIDS="NYDA.1960.001.00112"
+             LABEL="Second floor plan"/>
+   <mets:div ORDER="20"
+             CONTENTIDS="NYDA.1960.001.00113"
+             LABEL="Sketch of second floor plan ; three rough sketches -- front elevation, elevation of stairway, unidentified subject"/>
+   <mets:div ORDER="21"
+             CONTENTIDS="NYDA.1960.001.00114"
+             LABEL="Elevations of mantel in dining r'm and mantel in living r'm."/>
+</mets:structMap>

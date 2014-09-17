@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mets:structMap xmlns:mets="http://www.loc.gov/METS/" LABEL="ldpd.ggva.NYDA89-F693">
+   <mets:div ORDER="1"
+             CONTENTIDS="NYDA.1960.001.04646"
+             LABEL="South elevation ; west elevation with section through wall ; floor plan : Sheet no. 1."/>
+   <mets:div ORDER="2"
+             CONTENTIDS="NYDA.1960.001.04647"
+             LABEL="South elevation ; west elevation with section through wall ; floor plan : Sheet no. 1."/>
+   <mets:div ORDER="3"
+             CONTENTIDS="NYDA.1960.001.04648"
+             LABEL="Garage details -- details of gable vents ; details of shake ridge for house and garage -- section, finish of center of roof, elevation ; F.S.D. of cut on ridge pole ; garage door frame d't'ls : Sheet no. 2."/>
+   <mets:div ORDER="4"
+             CONTENTIDS="NYDA.1960.001.04649"
+             LABEL="F.S.D. of gutter for garage : Sheet no. 3."/>
+</mets:structMap>

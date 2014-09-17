@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mets:structMap xmlns:mets="http://www.loc.gov/METS/" LABEL="ldpd.ggva.NYDA89-F641">
+   <mets:div ORDER="1"
+             CONTENTIDS="NYDA.1960.001.02962"
+             LABEL="Foundation plan with sections : 1,"/>
+   <mets:div ORDER="2"
+             CONTENTIDS="NYDA.1960.001.02963"
+             LABEL="First floor plan : 2,"/>
+   <mets:div ORDER="3"
+             CONTENTIDS="NYDA.1960.001.02964"
+             LABEL="Second floor plan : 3,"/>
+   <mets:div ORDER="4"
+             CONTENTIDS="NYDA.1960.001.02965"
+             LABEL="Front elevation with section through wall : 4,"/>
+   <mets:div ORDER="5"
+             CONTENTIDS="NYDA.1960.001.02966"
+             LABEL="Side elevation : 5,"/>
+   <mets:div ORDER="6"
+             CONTENTIDS="NYDA.1960.001.02967"
+             LABEL="Rear elevation : 6,"/>
+   <mets:div ORDER="7"
+             CONTENTIDS="NYDA.1960.001.02968"
+             LABEL="Side elevation : 7,"/>
+   <mets:div ORDER="8"
+             CONTENTIDS="NYDA.1960.001.02969"
+             LABEL="Plan of first floor : 1,"/>
+   <mets:div ORDER="9"
+             CONTENTIDS="NYDA.1960.001.02970"
+             LABEL="Plan of second floor : 2,"/>
+   <mets:div ORDER="10"
+             CONTENTIDS="NYDA.1960.001.02971"
+             LABEL="Front elevation with section through wall : 3,"/>
+   <mets:div ORDER="11"
+             CONTENTIDS="NYDA.1960.001.02972"
+             LABEL="Side elevation : 4,"/>
+   <mets:div ORDER="12"
+             CONTENTIDS="NYDA.1960.001.02973"
+             LABEL="Rear elevation : 5,"/>
+   <mets:div ORDER="13"
+             CONTENTIDS="NYDA.1960.001.02974"
+             LABEL="Details -- section through wall, detail of stairs, detail of porch : 6,"/>
+</mets:structMap>

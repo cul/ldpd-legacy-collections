@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mets:structMap xmlns:mets="http://www.loc.gov/METS/" LABEL="ldpd.ggva.NYDA89-F453">
+   <mets:div ORDER="1"
+             CONTENTIDS="NYDA.1960.001.00446"
+             LABEL="Sketch of proposed layout of west end of property : Sheet no.1,"/>
+   <mets:div ORDER="2"
+             CONTENTIDS="NYDA.1960.001.00447"
+             LABEL="Sketch of proposed layout of west end of property : Sh.1,"/>
+   <mets:div ORDER="3"
+             CONTENTIDS="NYDA.1960.001.00448"
+             LABEL="Alternate layout out! of property : Sheet no. 2."/>
+   <mets:div ORDER="4"
+             CONTENTIDS="NYDA.1960.001.00449"
+             LABEL="Alternate layout out! of property : Sheet no. 2."/>
+   <mets:div ORDER="5"
+             CONTENTIDS="NYDA.1960.001.00450"
+             LABEL="Alternate layout out! of property : Sheet no. 2."/>
+   <mets:div ORDER="6" CONTENTIDS="NYDA.1960.001.04502R" LABEL=" Sheet no. 2."/>
+   <mets:div ORDER="7"
+             CONTENTIDS="NYDA.1960.001.04502V"
+             LABEL="Rough sketch of site plan."/>
+</mets:structMap>

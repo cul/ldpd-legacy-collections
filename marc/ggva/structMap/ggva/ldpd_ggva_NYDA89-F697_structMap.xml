@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mets:structMap xmlns:mets="http://www.loc.gov/METS/" LABEL="ldpd.ggva.NYDA89-F697">
+   <mets:div ORDER="1"
+             CONTENTIDS="NYDA.1960.001.04301"
+             LABEL="Site plan showing first floor plan"/>
+   <mets:div ORDER="2"
+             CONTENTIDS="NYDA.1960.001.04302"
+             LABEL="Foundation plan : Sheet no. 1."/>
+   <mets:div ORDER="3"
+             CONTENTIDS="NYDA.1960.001.04303"
+             LABEL="First floor plan : Sheet no. 2."/>
+   <mets:div ORDER="4"
+             CONTENTIDS="NYDA.1960.001.04304"
+             LABEL="West elevation ; east elevation : Sheet no. 3."/>
+   <mets:div ORDER="5"
+             CONTENTIDS="NYDA.1960.001.04305"
+             LABEL="South elevation ; north elevation : Sheet no. 4."/>
+   <mets:div ORDER="6"
+             CONTENTIDS="NYDA.1960.001.04306"
+             LABEL="Typical section through wall with exterior and interior elevations of window frames, detail of ridge, detail of vents in gable ends, detail of splice in ceiling ; details of front door -- elevation, F.S. section ; dining room details (finish rw'd, flat grain) -- west end, north end ; living room details (finish rw'd, flat grain} -- west end with plan, north end with section through fireplace : Sheet no. 5."/>
+   <mets:div ORDER="7"
+             CONTENTIDS="NYDA.1960.001.04307"
+             LABEL="Inch scale and F.S. sash schedule : Sheet no. 11,"/>
+   <mets:div ORDER="8"
+             CONTENTIDS="NYDA.1960.001.04308"
+             LABEL="Inch scale and F.S. details of doors : Sheet no. 14,"/>
+   <mets:div ORDER="9"
+             CONTENTIDS="NYDA.1960.001.04309"
+             LABEL="Inch scale details of furniture -- front and end of sideboard for dining room (made of O.P.) ; front and side showing section of shelf of cupb'ds with shelf between for dining r'm (made of O.P.) ; case and seat for hall (made of O.P.) : Sheet no. 18,"/>
+   <mets:div ORDER="10"
+             CONTENTIDS="NYDA.1960.001.04310"
+             LABEL="Additions -- foundation plan : Sheet no. 1."/>
+   <mets:div ORDER="11"
+             CONTENTIDS="NYDA.1960.001.04311"
+             LABEL="Additions -- first floor plan : Sheet no.2."/>
+   <mets:div ORDER="12"
+             CONTENTIDS="NYDA.1960.001.04312"
+             LABEL="Additions -- west elevation, east elevation : Sheet no. 3."/>
+   <mets:div ORDER="13"
+             CONTENTIDS="NYDA.1960.001.04313"
+             LABEL="Additions -- south elevation ; north elevation : Sheet no. 4."/>
+</mets:structMap>
