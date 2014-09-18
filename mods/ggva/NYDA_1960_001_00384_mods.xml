@@ -4,9 +4,11 @@
            xmlns:xlink="http://www.w3.org/1999/xlink"
            xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd"
            version="3.5">
+   <!--ELEMENT  MODS:identifier  trailing punctuation removed-->
    <MODS:identifier type="local">NYDA.1960.001.00384</MODS:identifier>
    <MODS:titleInfo>
-      <MODS:title>Elevations of living room -- west side, north side, east side, south side ; Elevations of halls -- west side, south side, east side ... showing stairs, east side ... showing finish on wall, north side ;elevation and plan of second floor rail looking south, 1 1/2" detail of 2nd floor stair rail : Sheet no. 8,</MODS:title>
+      <!--ELEMENT  MODS:title  SPACE-NORMALIZED-->
+      <MODS:title>Elevations of living room -- west side, north side, east side, south side; Elevations of halls -- west side, south side, east side ... showing stairs, east side ... showing finish on wall, north side;elevation and plan of second floor rail looking south, 1 1/2" detail of 2nd floor stair rail : Sheet no. 8,</MODS:title>
    </MODS:titleInfo>
    <MODS:originInfo>
       <MODS:dateCreated>1906, [19]07, [19]09, 1947.</MODS:dateCreated>
@@ -26,7 +28,8 @@
    <MODS:location>
       <MODS:physicalLocation authority="marcorg">NNC-A</MODS:physicalLocation>
       <MODS:physicalLocation>Avery Architectural &amp; Fine Arts Library, Columbia University</MODS:physicalLocation>
-      <MODS:shelfLocator>NYDA.1960.001.00384.</MODS:shelfLocator>
+      <!--ELEMENT  MODS:shelfLocator  trailing punctuation removed-->
+      <MODS:shelfLocator>NYDA.1960.001.00384</MODS:shelfLocator>
       <MODS:holdingSimple>
          <MODS:copyInformation>
             <MODS:subLocation>Drawings &amp; Archives</MODS:subLocation>

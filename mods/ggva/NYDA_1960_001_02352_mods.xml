@@ -4,9 +4,11 @@
            xmlns:xlink="http://www.w3.org/1999/xlink"
            xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd"
            version="3.5">
+   <!--ELEMENT  MODS:identifier  trailing punctuation removed-->
    <MODS:identifier type="local">NYDA.1960.001.02352</MODS:identifier>
    <MODS:titleInfo>
-      <MODS:title>Details -- detail of roof sweep, south wall of dressing rm., south wall of sleeping porch (8 1/2" portion), south wall of sleeping porch (12 1/2" portion), east wall of sleeping porch (8 1/2" portion), west wall of living rm., living rm. south beam looking east, east wall of living room, east center gable end (no. and so. doors), hall to living rm. door head, west wall of bathroom no. 1, north wall and south wall of bathrm. no. 1, east gable end (south), gable and details : Sheet no. 10,</MODS:title>
+      <!--ELEMENT  MODS:title  SPACE-NORMALIZED-->
+      <MODS:title>Details -- detail of roof sweep, south wall of dressing rm, south wall of sleeping porch (8 1/2" portion), south wall of sleeping porch (12 1/2" portion), east wall of sleeping porch (8 1/2" portion), west wall of living rm, living rm. south beam looking east, east wall of living room, east center gable end (no. and so. doors), hall to living rm. door head, west wall of bathroom no. 1, north wall and south wall of bathrm. no. 1, east gable end (south), gable and details : Sheet no. 10,</MODS:title>
    </MODS:titleInfo>
    <MODS:originInfo>
       <MODS:dateCreated>1909, 1910</MODS:dateCreated>
@@ -26,7 +28,8 @@
    <MODS:location>
       <MODS:physicalLocation authority="marcorg">NNC-A</MODS:physicalLocation>
       <MODS:physicalLocation>Avery Architectural &amp; Fine Arts Library, Columbia University</MODS:physicalLocation>
-      <MODS:shelfLocator>NYDA.1960.001.02352.</MODS:shelfLocator>
+      <!--ELEMENT  MODS:shelfLocator  trailing punctuation removed-->
+      <MODS:shelfLocator>NYDA.1960.001.02352</MODS:shelfLocator>
       <MODS:holdingSimple>
          <MODS:copyInformation>
             <MODS:subLocation>Drawings &amp; Archives</MODS:subLocation>

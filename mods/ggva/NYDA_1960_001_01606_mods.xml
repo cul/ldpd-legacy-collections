@@ -4,9 +4,11 @@
            xmlns:xlink="http://www.w3.org/1999/xlink"
            xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd"
            version="3.5">
+   <!--ELEMENT  MODS:identifier  trailing punctuation removed-->
    <MODS:identifier type="local">NYDA.1960.001.01606</MODS:identifier>
    <MODS:titleInfo>
-      <MODS:title>Three quater inch scale details -- section through west terrace looking south ; soffit of cornice : soffit of cornice at corner ; plan of balustrade ; soffit of beams between columns ; section looking west through bathroom, south terrace, and den ; section looking west through bathroom, south terrace, and den ; section looking west through sleeping porch, screened porch, and furnace room : Sheet no. 13.</MODS:title>
+      <!--ELEMENT  MODS:title  SPACE-NORMALIZED-->
+      <MODS:title>Three quater inch scale details -- section through west terrace looking south; soffit of cornice : soffit of cornice at corner; plan of balustrade; soffit of beams between columns; section looking west through bathroom, south terrace, and den; section looking west through bathroom, south terrace, and den; section looking west through sleeping porch, screened porch, and furnace room : Sheet no. 13.</MODS:title>
    </MODS:titleInfo>
    <MODS:originInfo>
       <MODS:dateCreated>[1914], 1916</MODS:dateCreated>
@@ -26,7 +28,8 @@
    <MODS:location>
       <MODS:physicalLocation authority="marcorg">NNC-A</MODS:physicalLocation>
       <MODS:physicalLocation>Avery Architectural &amp; Fine Arts Library, Columbia University</MODS:physicalLocation>
-      <MODS:shelfLocator>NYDA.1960.001.01606.</MODS:shelfLocator>
+      <!--ELEMENT  MODS:shelfLocator  trailing punctuation removed-->
+      <MODS:shelfLocator>NYDA.1960.001.01606</MODS:shelfLocator>
       <MODS:holdingSimple>
          <MODS:copyInformation>
             <MODS:subLocation>Drawings &amp; Archives</MODS:subLocation>

@@ -4,8 +4,10 @@
            xmlns:xlink="http://www.w3.org/1999/xlink"
            xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd"
            version="3.5">
+   <!--ELEMENT  MODS:identifier  trailing punctuation removed-->
    <MODS:identifier type="local">NYDA.1960.001.00324</MODS:identifier>
    <MODS:titleInfo>
+      <!--ELEMENT  MODS:title  SPACE-NORMALIZED-->
       <MODS:title>Typical wall section, section thro' verge, end view of gutter, detail of window between bathroom no. 3 and linen room detail drawings of linen cases in bathroom, sections of cove in bathroom no. 3 (also cove in alcove off bedroom no. 3 omitting tile and having 3 3/4" head casing), one inch scale detail of triple mirror in dressing room and bathroom no. 3 : Sheet no. 11.</MODS:title>
    </MODS:titleInfo>
    <MODS:originInfo>
@@ -25,7 +27,8 @@
    <MODS:location>
       <MODS:physicalLocation authority="marcorg">NNC-A</MODS:physicalLocation>
       <MODS:physicalLocation>Avery Architectural &amp; Fine Arts Library, Columbia University</MODS:physicalLocation>
-      <MODS:shelfLocator>NYDA.1960.001.00324.</MODS:shelfLocator>
+      <!--ELEMENT  MODS:shelfLocator  trailing punctuation removed-->
+      <MODS:shelfLocator>NYDA.1960.001.00324</MODS:shelfLocator>
       <MODS:holdingSimple>
          <MODS:copyInformation>
             <MODS:subLocation>Drawings &amp; Archives</MODS:subLocation>

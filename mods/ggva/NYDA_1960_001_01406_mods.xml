@@ -4,9 +4,11 @@
            xmlns:xlink="http://www.w3.org/1999/xlink"
            xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd"
            version="3.5">
+   <!--ELEMENT  MODS:identifier  trailing punctuation removed-->
    <MODS:identifier type="local">NYDA.1960.001.01406</MODS:identifier>
    <MODS:titleInfo>
-      <MODS:title>Living room -- 1 1/2 inch scale detail of mantel (bookcase oneast is of same detail), 1 1/2 inch scale details of ceiling beams (see plan for arrangement), east elevation, south end, west elevation, north end (note-beams drawn incorrectly on these 4 elevations, see revised plan) ; 1/4 &amp; 1 1/2 inch scale details of dining room -- east side, south side, west side, sideboard in section and plan and front elevation, wainscot, ceiling beams : 3.</MODS:title>
+      <!--ELEMENT  MODS:title  SPACE-NORMALIZED-->
+      <MODS:title>Living room -- 1 1/2 inch scale detail of mantel (bookcase oneast is of same detail), 1 1/2 inch scale details of ceiling beams (see plan for arrangement), east elevation, south end, west elevation, north end (note-beams drawn incorrectly on these 4 elevations, see revised plan); 1/4 &amp; 1 1/2 inch scale details of dining room -- east side, south side, west side, sideboard in section and plan and front elevation, wainscot, ceiling beams : 3.</MODS:title>
    </MODS:titleInfo>
    <MODS:originInfo>
       <MODS:dateCreated>[undated]</MODS:dateCreated>
@@ -26,7 +28,8 @@
    <MODS:location>
       <MODS:physicalLocation authority="marcorg">NNC-A</MODS:physicalLocation>
       <MODS:physicalLocation>Avery Architectural &amp; Fine Arts Library, Columbia University</MODS:physicalLocation>
-      <MODS:shelfLocator>NYDA.1960.001.01406.</MODS:shelfLocator>
+      <!--ELEMENT  MODS:shelfLocator  trailing punctuation removed-->
+      <MODS:shelfLocator>NYDA.1960.001.01406</MODS:shelfLocator>
       <MODS:holdingSimple>
          <MODS:copyInformation>
             <MODS:subLocation>Drawings &amp; Archives</MODS:subLocation>

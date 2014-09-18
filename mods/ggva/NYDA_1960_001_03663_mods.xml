@@ -4,9 +4,11 @@
            xmlns:xlink="http://www.w3.org/1999/xlink"
            xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd"
            version="3.5">
+   <!--ELEMENT  MODS:identifier  trailing punctuation removed-->
    <MODS:identifier type="local">NYDA.1960.001.03663</MODS:identifier>
    <MODS:titleInfo>
-      <MODS:title>Interior elevations and sections -- north, east, south and west elevations of kitchen ; south and east elevations of linen room ; north, west, south and east elevations of pantry ; north, east, south and west elevations of cold room ; front and side elevations of mantel in drawing room ; elev., section and plan of vent for typical closet ; elevations of mantels in living room &amp; bedroom no. 2 ; north elevation of dining room ; south elevation of living room ; south and west elevations of upper and lower halls with elevation and ection of lower part of stairs : Sheet no. 9,</MODS:title>
+      <!--ELEMENT  MODS:title  SPACE-NORMALIZED-->
+      <MODS:title>Interior elevations and sections -- north, east, south and west elevations of kitchen; south and east elevations of linen room; north, west, south and east elevations of pantry; north, east, south and west elevations of cold room; front and side elevations of mantel in drawing room; elev, section and plan of vent for typical closet; elevations of mantels in living room &amp; bedroom no. 2; north elevation of dining room; south elevation of living room; south and west elevations of upper and lower halls with elevation and ection of lower part of stairs : Sheet no. 9,</MODS:title>
    </MODS:titleInfo>
    <MODS:originInfo>
       <MODS:dateCreated>1909.</MODS:dateCreated>
@@ -25,7 +27,8 @@
    <MODS:location>
       <MODS:physicalLocation authority="marcorg">NNC-A</MODS:physicalLocation>
       <MODS:physicalLocation>Avery Architectural &amp; Fine Arts Library, Columbia University</MODS:physicalLocation>
-      <MODS:shelfLocator>NYDA.1960.001.03663.</MODS:shelfLocator>
+      <!--ELEMENT  MODS:shelfLocator  trailing punctuation removed-->
+      <MODS:shelfLocator>NYDA.1960.001.03663</MODS:shelfLocator>
       <MODS:holdingSimple>
          <MODS:copyInformation>
             <MODS:subLocation>Drawings &amp; Archives</MODS:subLocation>

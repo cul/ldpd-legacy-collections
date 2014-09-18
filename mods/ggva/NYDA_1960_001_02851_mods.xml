@@ -4,8 +4,10 @@
            xmlns:xlink="http://www.w3.org/1999/xlink"
            xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd"
            version="3.5">
+   <!--ELEMENT  MODS:identifier  trailing punctuation removed-->
    <MODS:identifier type="local">NYDA.1960.001.02851</MODS:identifier>
    <MODS:titleInfo>
+      <!--ELEMENT  MODS:title  SPACE-NORMALIZED-->
       <MODS:title>Ice house -- plan, foundation plan, west elevation with section through wall, north elevation, 1/4 inch detail showing manner of trussing rafters, details of insulation, detail of ice house door,</MODS:title>
    </MODS:titleInfo>
    <MODS:originInfo>
@@ -26,7 +28,8 @@
    <MODS:location>
       <MODS:physicalLocation authority="marcorg">NNC-A</MODS:physicalLocation>
       <MODS:physicalLocation>Avery Architectural &amp; Fine Arts Library, Columbia University</MODS:physicalLocation>
-      <MODS:shelfLocator>NYDA.1960.001.02851.</MODS:shelfLocator>
+      <!--ELEMENT  MODS:shelfLocator  trailing punctuation removed-->
+      <MODS:shelfLocator>NYDA.1960.001.02851</MODS:shelfLocator>
       <MODS:holdingSimple>
          <MODS:copyInformation>
             <MODS:subLocation>Drawings &amp; Archives</MODS:subLocation>

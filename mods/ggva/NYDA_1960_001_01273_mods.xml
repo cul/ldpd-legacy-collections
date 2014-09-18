@@ -4,9 +4,11 @@
            xmlns:xlink="http://www.w3.org/1999/xlink"
            xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd"
            version="3.5">
+   <!--ELEMENT  MODS:identifier  trailing punctuation removed-->
    <MODS:identifier type="local">NYDA.1960.001.01273</MODS:identifier>
    <MODS:titleInfo>
-      <MODS:title>Details -- 1 1/2" scale detail of cellar windows, typical wall sections with exterior and interior elevations of window, section thru verge board taken at "A-A", typical girder post footing ; screened porch and south gable end details -- section thru south wall looking west, section thru east wall looking north ; east gabel end and bedr'm no. 3 beam details -- east wall looking south, section thru north wall looking west ; section thru north gable end (complete detail to be given later) ; section thru west end of main hall  (looking north) : Sheet no. 9,</MODS:title>
+      <!--ELEMENT  MODS:title  SPACE-NORMALIZED-->
+      <MODS:title>Details -- 1 1/2" scale detail of cellar windows, typical wall sections with exterior and interior elevations of window, section thru verge board taken at "A-A", typical girder post footing; screened porch and south gable end details -- section thru south wall looking west, section thru east wall looking north; east gabel end and bedr'm no. 3 beam details -- east wall looking south, section thru north wall looking west; section thru north gable end (complete detail to be given later); section thru west end of main hall (looking north) : Sheet no. 9,</MODS:title>
    </MODS:titleInfo>
    <MODS:originInfo>
       <MODS:dateCreated>1908-1909.</MODS:dateCreated>
@@ -26,7 +28,8 @@
    <MODS:location>
       <MODS:physicalLocation authority="marcorg">NNC-A</MODS:physicalLocation>
       <MODS:physicalLocation>Avery Architectural &amp; Fine Arts Library, Columbia University</MODS:physicalLocation>
-      <MODS:shelfLocator>NYDA.1960.001.01273.</MODS:shelfLocator>
+      <!--ELEMENT  MODS:shelfLocator  trailing punctuation removed-->
+      <MODS:shelfLocator>NYDA.1960.001.01273</MODS:shelfLocator>
       <MODS:holdingSimple>
          <MODS:copyInformation>
             <MODS:subLocation>Drawings &amp; Archives</MODS:subLocation>

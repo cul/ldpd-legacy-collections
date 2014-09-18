@@ -4,9 +4,11 @@
            xmlns:xlink="http://www.w3.org/1999/xlink"
            xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd"
            version="3.5">
+   <!--ELEMENT  MODS:identifier  trailing punctuation removed-->
    <MODS:identifier type="local">NYDA.1960.001.02316</MODS:identifier>
    <MODS:titleInfo>
-      <MODS:title>Interior elevations -- north, east, south and west sides of living room ; north and west sides of dining room ; west side of kitchen, north side of kitchen and screened porch, west side of screened porch ; north, west and south sides of bedroom no. 2 ; north, east and south sides of bedroom no. 1 ; details of doors and sash : Sheet no. 4.</MODS:title>
+      <!--ELEMENT  MODS:title  SPACE-NORMALIZED-->
+      <MODS:title>Interior elevations -- north, east, south and west sides of living room; north and west sides of dining room; west side of kitchen, north side of kitchen and screened porch, west side of screened porch; north, west and south sides of bedroom no. 2; north, east and south sides of bedroom no. 1; details of doors and sash : Sheet no. 4.</MODS:title>
    </MODS:titleInfo>
    <MODS:originInfo>
       <MODS:dateCreated>[1913]</MODS:dateCreated>
@@ -25,7 +27,8 @@
    <MODS:location>
       <MODS:physicalLocation authority="marcorg">NNC-A</MODS:physicalLocation>
       <MODS:physicalLocation>Avery Architectural &amp; Fine Arts Library, Columbia University</MODS:physicalLocation>
-      <MODS:shelfLocator>NYDA.1960.001.02316.</MODS:shelfLocator>
+      <!--ELEMENT  MODS:shelfLocator  trailing punctuation removed-->
+      <MODS:shelfLocator>NYDA.1960.001.02316</MODS:shelfLocator>
       <MODS:holdingSimple>
          <MODS:copyInformation>
             <MODS:subLocation>Drawings &amp; Archives</MODS:subLocation>

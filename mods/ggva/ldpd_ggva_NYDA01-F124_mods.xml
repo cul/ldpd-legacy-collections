@@ -4,7 +4,9 @@
            xmlns:xlink="http://www.w3.org/1999/xlink"
            xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd"
            version="3.5">
+   <!--ELEMENT  MODS:identifier  trailing punctuation removed-->
    <MODS:identifier type="local">ldpd.ggva.NYDA01-F124</MODS:identifier>
+   <!--ELEMENT  MODS:identifier  trailing punctuation removed-->
    <MODS:identifier type="CLIO">CLIO_3464646</MODS:identifier>
    <MODS:name type="personal">
       <MODS:namePart>Hulbert, Leroy</MODS:namePart>
@@ -13,9 +15,11 @@
       <MODS:namePart>Greene &amp; Greene</MODS:namePart>
    </MODS:name>
    <MODS:titleInfo>
+      <!--ELEMENT  MODS:title  SPACE-NORMALIZED-->
       <MODS:title>David B. Gamble house (Pasadena, Calif.)</MODS:title>
    </MODS:titleInfo>
    <MODS:titleInfo type="alternative">
+      <!--ELEMENT  MODS:title  SPACE-NORMALIZED-->
       <MODS:title>David B. Gamble house, Pasadena, Calif.</MODS:title>
    </MODS:titleInfo>
    <MODS:originInfo>
@@ -32,6 +36,12 @@
    <MODS:typeOfResource>still image</MODS:typeOfResource>
    <MODS:note type="ownership">Gift made posssible by Harwell Hamilton Harris.  Accession number 1987.003</MODS:note>
    <MODS:accessCondition type="useAndReproduction">Columbia Libraries Staff Use Only</MODS:accessCondition>
+   <MODS:relatedItem displayLabel="Collection" type="host">
+      <MODS:titleInfo>
+         <!--ELEMENT  MODS:title  SPACE-NORMALIZED-->
+         <MODS:title>Greene &amp; Greene architectural drawings, papers and photographs</MODS:title>
+      </MODS:titleInfo>
+   </MODS:relatedItem>
    <MODS:subject authority="aat">
       <MODS:topic>Houses</MODS:topic>
    </MODS:subject>
@@ -43,6 +53,7 @@
    </MODS:subject>
    <MODS:relatedItem displayLabel="Project" type="host">
       <MODS:titleInfo>
+         <!--ELEMENT  MODS:title  SPACE-NORMALIZED-->
          <MODS:title>Greene &amp; Greene Architectural Records and Papers Collection</MODS:title>
       </MODS:titleInfo>
       <MODS:location>

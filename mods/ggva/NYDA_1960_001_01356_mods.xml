@@ -4,9 +4,11 @@
            xmlns:xlink="http://www.w3.org/1999/xlink"
            xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd"
            version="3.5">
+   <!--ELEMENT  MODS:identifier  trailing punctuation removed-->
    <MODS:identifier type="local">NYDA.1960.001.01356</MODS:identifier>
    <MODS:titleInfo>
-      <MODS:title>First floor plan ; section B-S thru billiar rm stairs looking north, section L-E looking east, hall and elevationof stairs looking south, elevation of hall looking east, west elevation of billiard room stairs, hall and elevation of stairs looking ewest elevation of rear stairs on line R-S, south elevation and west elevation ofbreakfast room : Sheet no. 2.</MODS:title>
+      <!--ELEMENT  MODS:title  SPACE-NORMALIZED-->
+      <MODS:title>First floor plan; section B-S thru billiar rm stairs looking north, section L-E looking east, hall and elevationof stairs looking south, elevation of hall looking east, west elevation of billiard room stairs, hall and elevation of stairs looking ewest elevation of rear stairs on line R-S, south elevation and west elevation ofbreakfast room : Sheet no. 2.</MODS:title>
    </MODS:titleInfo>
    <MODS:originInfo>
       <MODS:dateCreated>[1911]</MODS:dateCreated>
@@ -27,7 +29,8 @@
    <MODS:location>
       <MODS:physicalLocation authority="marcorg">NNC-A</MODS:physicalLocation>
       <MODS:physicalLocation>Avery Architectural &amp; Fine Arts Library, Columbia University</MODS:physicalLocation>
-      <MODS:shelfLocator>NYDA.1960.001.01356.</MODS:shelfLocator>
+      <!--ELEMENT  MODS:shelfLocator  trailing punctuation removed-->
+      <MODS:shelfLocator>NYDA.1960.001.01356</MODS:shelfLocator>
       <MODS:holdingSimple>
          <MODS:copyInformation>
             <MODS:subLocation>Drawings &amp; Archives</MODS:subLocation>

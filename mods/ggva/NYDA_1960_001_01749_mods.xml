@@ -4,9 +4,11 @@
            xmlns:xlink="http://www.w3.org/1999/xlink"
            xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd"
            version="3.5">
+   <!--ELEMENT  MODS:identifier  trailing punctuation removed-->
    <MODS:identifier type="local">NYDA.1960.001.01749</MODS:identifier>
    <MODS:titleInfo>
-      <MODS:title>3" &amp; 1/2" scale &amp; full size details -- fence on south of annex in elevation and section ; section through sun room ; F.S. details new finish in annex &amp; bungalow -- P.M. in bungalow, side casings. base of moulding ; 1 1/2" detail of cornice ; elevation of openings between bedrooms &amp; sun rooms (some omit side 1ts., see plans for other arrangements) ; section through closet no. 2, section through closet no. 1, elevation of closet showing style old finish ; section thro' closet diirs ; casement window sill ; F.S. sash door section : 9.</MODS:title>
+      <!--ELEMENT  MODS:title  SPACE-NORMALIZED-->
+      <MODS:title>3" &amp; 1/2" scale &amp; full size details -- fence on south of annex in elevation and section; section through sun room; F.S. details new finish in annex &amp; bungalow -- P.M. in bungalow, side casings. base of moulding; 1 1/2" detail of cornice; elevation of openings between bedrooms &amp; sun rooms (some omit side 1ts, see plans for other arrangements); section through closet no. 2, section through closet no. 1, elevation of closet showing style old finish; section thro' closet diirs; casement window sill; F.S. sash door section : 9.</MODS:title>
    </MODS:titleInfo>
    <MODS:originInfo>
       <MODS:dateCreated>1912</MODS:dateCreated>
@@ -26,7 +28,8 @@
    <MODS:location>
       <MODS:physicalLocation authority="marcorg">NNC-A</MODS:physicalLocation>
       <MODS:physicalLocation>Avery Architectural &amp; Fine Arts Library, Columbia University</MODS:physicalLocation>
-      <MODS:shelfLocator>NYDA.1960.001.01749.</MODS:shelfLocator>
+      <!--ELEMENT  MODS:shelfLocator  trailing punctuation removed-->
+      <MODS:shelfLocator>NYDA.1960.001.01749</MODS:shelfLocator>
       <MODS:holdingSimple>
          <MODS:copyInformation>
             <MODS:subLocation>Drawings &amp; Archives</MODS:subLocation>

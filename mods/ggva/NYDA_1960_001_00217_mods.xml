@@ -4,8 +4,10 @@
            xmlns:xlink="http://www.w3.org/1999/xlink"
            xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd"
            version="3.5">
+   <!--ELEMENT  MODS:identifier  trailing punctuation removed-->
    <MODS:identifier type="local">NYDA.1960.001.00217</MODS:identifier>
    <MODS:titleInfo>
+      <!--ELEMENT  MODS:title  SPACE-NORMALIZED-->
       <MODS:title>3/4" scale details of capitals &amp; beams for columns &amp; pilasters -- ceiling plan of side pilasters, ceiling plan of columns, side elevation of side pilasters, elevation of columns, ceiling plan of front pilasters, ceiling plan of corner pilasters, side elev. of front pilasters, front elev. of all pilasters, side elevation of corner pilasters : Sheet no. 31 /</MODS:title>
    </MODS:titleInfo>
    <MODS:originInfo>
@@ -25,7 +27,8 @@
    <MODS:location>
       <MODS:physicalLocation authority="marcorg">NNC-A</MODS:physicalLocation>
       <MODS:physicalLocation>Avery Architectural &amp; Fine Arts Library, Columbia University</MODS:physicalLocation>
-      <MODS:shelfLocator>NYDA.1960.001.00217.</MODS:shelfLocator>
+      <!--ELEMENT  MODS:shelfLocator  trailing punctuation removed-->
+      <MODS:shelfLocator>NYDA.1960.001.00217</MODS:shelfLocator>
       <MODS:holdingSimple>
          <MODS:copyInformation>
             <MODS:subLocation>Drawings &amp; Archives</MODS:subLocation>

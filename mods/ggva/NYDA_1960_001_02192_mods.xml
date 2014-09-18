@@ -4,9 +4,11 @@
            xmlns:xlink="http://www.w3.org/1999/xlink"
            xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd"
            version="3.5">
+   <!--ELEMENT  MODS:identifier  trailing punctuation removed-->
    <MODS:identifier type="local">NYDA.1960.001.02192</MODS:identifier>
    <MODS:titleInfo>
-      <MODS:title>Detail drawings -- typical floor plan of elevator showing alteration in skylight, roof plan of elevator shaft showing steel work, steel diagram at floors ; plan of hatchway doors, door A, door B, hatchway frame, section, hinges, angles, connections ; miscellaneous iron work -- straps, beams, columns, Van Dorn hangers, angles, lock bar, manhole, channels ; plan &amp; section of sidewalk lights, plan at top of cast iron frame for sidewalk lights : No. 11.</MODS:title>
+      <!--ELEMENT  MODS:title  SPACE-NORMALIZED-->
+      <MODS:title>Detail drawings -- typical floor plan of elevator showing alteration in skylight, roof plan of elevator shaft showing steel work, steel diagram at floors; plan of hatchway doors, door A, door B, hatchway frame, section, hinges, angles, connections; miscellaneous iron work -- straps, beams, columns, Van Dorn hangers, angles, lock bar, manhole, channels; plan &amp; section of sidewalk lights, plan at top of cast iron frame for sidewalk lights : No. 11.</MODS:title>
    </MODS:titleInfo>
    <MODS:originInfo>
       <MODS:dateCreated>[1903]</MODS:dateCreated>
@@ -26,7 +28,8 @@
    <MODS:location>
       <MODS:physicalLocation authority="marcorg">NNC-A</MODS:physicalLocation>
       <MODS:physicalLocation>Avery Architectural &amp; Fine Arts Library, Columbia University</MODS:physicalLocation>
-      <MODS:shelfLocator>NYDA.1960.001.02192.</MODS:shelfLocator>
+      <!--ELEMENT  MODS:shelfLocator  trailing punctuation removed-->
+      <MODS:shelfLocator>NYDA.1960.001.02192</MODS:shelfLocator>
       <MODS:holdingSimple>
          <MODS:copyInformation>
             <MODS:subLocation>Drawings &amp; Archives</MODS:subLocation>

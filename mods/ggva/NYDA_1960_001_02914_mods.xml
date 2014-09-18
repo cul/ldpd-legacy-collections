@@ -4,9 +4,11 @@
            xmlns:xlink="http://www.w3.org/1999/xlink"
            xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd"
            version="3.5">
+   <!--ELEMENT  MODS:identifier  trailing punctuation removed-->
    <MODS:identifier type="local">NYDA.1960.001.02914</MODS:identifier>
    <MODS:titleInfo>
-      <MODS:title>Case details as revised -- detail drawings of north table and benches ; plan of drivers room and Mr. Merrihew's room ; detail of small brackets for counter ; plan and section of money drawer ; part sectional elevation B-B ; front and side elevations of counter and bookcase, north wall : Sheet no. 4.</MODS:title>
+      <!--ELEMENT  MODS:title  SPACE-NORMALIZED-->
+      <MODS:title>Case details as revised -- detail drawings of north table and benches; plan of drivers room and Mr. Merrihew's room; detail of small brackets for counter; plan and section of money drawer; part sectional elevation B-B; front and side elevations of counter and bookcase, north wall : Sheet no. 4.</MODS:title>
    </MODS:titleInfo>
    <MODS:originInfo>
       <MODS:dateCreated>[1915]-[19]23</MODS:dateCreated>
@@ -26,7 +28,8 @@
    <MODS:location>
       <MODS:physicalLocation authority="marcorg">NNC-A</MODS:physicalLocation>
       <MODS:physicalLocation>Avery Architectural &amp; Fine Arts Library, Columbia University</MODS:physicalLocation>
-      <MODS:shelfLocator>NYDA.1960.001.02914.</MODS:shelfLocator>
+      <!--ELEMENT  MODS:shelfLocator  trailing punctuation removed-->
+      <MODS:shelfLocator>NYDA.1960.001.02914</MODS:shelfLocator>
       <MODS:holdingSimple>
          <MODS:copyInformation>
             <MODS:subLocation>Drawings &amp; Archives</MODS:subLocation>

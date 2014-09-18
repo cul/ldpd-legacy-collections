@@ -4,9 +4,11 @@
            xmlns:xlink="http://www.w3.org/1999/xlink"
            xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd"
            version="3.5">
+   <!--ELEMENT  MODS:identifier  trailing punctuation removed-->
    <MODS:identifier type="local">NYDA.1960.001.01650</MODS:identifier>
    <MODS:titleInfo>
-      <MODS:title>Second floor hall in elevations -- south, west, north, east ; 3" scale details at A-A and B-B on west elevation of second floor hall ; first floor hall in elevations -- south, west, north, east ; F.S. detail of wood panel doors on first floor ; F.S.D. of plaster cornice in 1st Fl. hall and bedrooms ; F.S.D. of 2nd Fl. trim ; F.S.D. of base (for 1st Fl. hall and entire 2nd floor except bathrooms) ; F.S. details of glass panel doors, doors in kitchen, and second floor doors : Sheet no. 13.</MODS:title>
+      <!--ELEMENT  MODS:title  SPACE-NORMALIZED-->
+      <MODS:title>Second floor hall in elevations -- south, west, north, east; 3" scale details at A-A and B-B on west elevation of second floor hall; first floor hall in elevations -- south, west, north, east; F.S. detail of wood panel doors on first floor; F.S.D. of plaster cornice in 1st Fl. hall and bedrooms; F.S.D. of 2nd Fl. trim; F.S.D. of base (for 1st Fl. hall and entire 2nd floor except bathrooms); F.S. details of glass panel doors, doors in kitchen, and second floor doors : Sheet no. 13.</MODS:title>
    </MODS:titleInfo>
    <MODS:originInfo>
       <MODS:dateCreated>[1915]</MODS:dateCreated>
@@ -25,7 +27,8 @@
    <MODS:location>
       <MODS:physicalLocation authority="marcorg">NNC-A</MODS:physicalLocation>
       <MODS:physicalLocation>Avery Architectural &amp; Fine Arts Library, Columbia University</MODS:physicalLocation>
-      <MODS:shelfLocator>NYDA.1960.001.01650.</MODS:shelfLocator>
+      <!--ELEMENT  MODS:shelfLocator  trailing punctuation removed-->
+      <MODS:shelfLocator>NYDA.1960.001.01650</MODS:shelfLocator>
       <MODS:holdingSimple>
          <MODS:copyInformation>
             <MODS:subLocation>Drawings &amp; Archives</MODS:subLocation>

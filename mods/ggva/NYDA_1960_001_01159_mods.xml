@@ -4,9 +4,11 @@
            xmlns:xlink="http://www.w3.org/1999/xlink"
            xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd"
            version="3.5">
+   <!--ELEMENT  MODS:identifier  trailing punctuation removed-->
    <MODS:identifier type="local">NYDA.1960.001.01159</MODS:identifier>
    <MODS:titleInfo>
-      <MODS:title>1/2 inch scale details of pantries -- plan of butler's pantry, elevation of west side, elevation of north side, elevation of east side ; plan of kitchen pantry, part elevation of west side showing finish around alcove, elevation of north side, elevation of east side, elevation of south side : 35.</MODS:title>
+      <!--ELEMENT  MODS:title  SPACE-NORMALIZED-->
+      <MODS:title>1/2 inch scale details of pantries -- plan of butler's pantry, elevation of west side, elevation of north side, elevation of east side; plan of kitchen pantry, part elevation of west side showing finish around alcove, elevation of north side, elevation of east side, elevation of south side : 35.</MODS:title>
    </MODS:titleInfo>
    <MODS:originInfo>
       <MODS:dateCreated>1898.</MODS:dateCreated>
@@ -25,7 +27,8 @@
    <MODS:location>
       <MODS:physicalLocation authority="marcorg">NNC-A</MODS:physicalLocation>
       <MODS:physicalLocation>Avery Architectural &amp; Fine Arts Library, Columbia University</MODS:physicalLocation>
-      <MODS:shelfLocator>NYDA.1960.001.01159.</MODS:shelfLocator>
+      <!--ELEMENT  MODS:shelfLocator  trailing punctuation removed-->
+      <MODS:shelfLocator>NYDA.1960.001.01159</MODS:shelfLocator>
       <MODS:holdingSimple>
          <MODS:copyInformation>
             <MODS:subLocation>Drawings &amp; Archives</MODS:subLocation>

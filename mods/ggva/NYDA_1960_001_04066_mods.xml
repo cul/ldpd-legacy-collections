@@ -4,9 +4,11 @@
            xmlns:xlink="http://www.w3.org/1999/xlink"
            xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd"
            version="3.5">
+   <!--ELEMENT  MODS:identifier  trailing punctuation removed-->
    <MODS:identifier type="local">NYDA.1960.001.04066</MODS:identifier>
    <MODS:titleInfo>
-      <MODS:title>Details of case in bedroom 1 -- section thru meeting styles, vertical section thru head, horizontal section thru mullion with cross section, section thru door rails ; elevation of handle, F.S. details of drawers corner and center guides ; diagram showing location of shelf, elevation of drawer separater ; vertical sections thru base -- for drawers, without drawers ; elevation of handles : Sheet no. 12.</MODS:title>
+      <!--ELEMENT  MODS:title  SPACE-NORMALIZED-->
+      <MODS:title>Details of case in bedroom 1 -- section thru meeting styles, vertical section thru head, horizontal section thru mullion with cross section, section thru door rails; elevation of handle, F.S. details of drawers corner and center guides; diagram showing location of shelf, elevation of drawer separater; vertical sections thru base -- for drawers, without drawers; elevation of handles : Sheet no. 12.</MODS:title>
    </MODS:titleInfo>
    <MODS:originInfo>
       <MODS:dateCreated>[19]26-[19]27.</MODS:dateCreated>
@@ -27,7 +29,8 @@
    <MODS:location>
       <MODS:physicalLocation authority="marcorg">NNC-A</MODS:physicalLocation>
       <MODS:physicalLocation>Avery Architectural &amp; Fine Arts Library, Columbia University</MODS:physicalLocation>
-      <MODS:shelfLocator>NYDA.1960.001.04066.</MODS:shelfLocator>
+      <!--ELEMENT  MODS:shelfLocator  trailing punctuation removed-->
+      <MODS:shelfLocator>NYDA.1960.001.04066</MODS:shelfLocator>
       <MODS:holdingSimple>
          <MODS:copyInformation>
             <MODS:subLocation>Drawings &amp; Archives</MODS:subLocation>

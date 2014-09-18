@@ -4,9 +4,11 @@
            xmlns:xlink="http://www.w3.org/1999/xlink"
            xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd"
            version="3.5">
+   <!--ELEMENT  MODS:identifier  trailing punctuation removed-->
    <MODS:identifier type="local">NYDA.1960.001.01472</MODS:identifier>
    <MODS:titleInfo>
-      <MODS:title>3/4" scale and F.S. details of doors and side lights -- 3/4" scale detail of side 1'ts (revised design) ; F.S. section thru stiles and rails of side 1'ts ; F.S. section thru stiles and rails of rabbetted doors (make rabbet to fit lock) ; detail of rabbetted doors : Sheet no. 3.</MODS:title>
+      <!--ELEMENT  MODS:title  SPACE-NORMALIZED-->
+      <MODS:title>3/4" scale and F.S. details of doors and side lights -- 3/4" scale detail of side 1'ts (revised design); F.S. section thru stiles and rails of side 1'ts; F.S. section thru stiles and rails of rabbetted doors (make rabbet to fit lock); detail of rabbetted doors : Sheet no. 3.</MODS:title>
    </MODS:titleInfo>
    <MODS:originInfo>
       <MODS:dateCreated>[1912]</MODS:dateCreated>
@@ -25,7 +27,8 @@
    <MODS:location>
       <MODS:physicalLocation authority="marcorg">NNC-A</MODS:physicalLocation>
       <MODS:physicalLocation>Avery Architectural &amp; Fine Arts Library, Columbia University</MODS:physicalLocation>
-      <MODS:shelfLocator>NYDA.1960.001.01472.</MODS:shelfLocator>
+      <!--ELEMENT  MODS:shelfLocator  trailing punctuation removed-->
+      <MODS:shelfLocator>NYDA.1960.001.01472</MODS:shelfLocator>
       <MODS:holdingSimple>
          <MODS:copyInformation>
             <MODS:subLocation>Drawings &amp; Archives</MODS:subLocation>

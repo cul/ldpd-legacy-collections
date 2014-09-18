@@ -4,9 +4,11 @@
            xmlns:xlink="http://www.w3.org/1999/xlink"
            xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd"
            version="3.5">
+   <!--ELEMENT  MODS:identifier  trailing punctuation removed-->
    <MODS:identifier type="local">NYDA.1960.001.04632</MODS:identifier>
    <MODS:titleInfo>
-      <MODS:title>Details of pool, steps, and walls -- front view, half plan, sect'n and side view of front steps ; plan of pool and retaining wall ; elevation of wall, etc. with sect'n thru steps and section thru pool ; detail of wall on north property line with typical section ; details of incinerator : Sheet no. 33.</MODS:title>
+      <!--ELEMENT  MODS:title  SPACE-NORMALIZED-->
+      <MODS:title>Details of pool, steps, and walls -- front view, half plan, sect'n and side view of front steps; plan of pool and retaining wall; elevation of wall, etc. with sect'n thru steps and section thru pool; detail of wall on north property line with typical section; details of incinerator : Sheet no. 33.</MODS:title>
    </MODS:titleInfo>
    <MODS:originInfo>
       <MODS:dateCreated>[1915-19]16.</MODS:dateCreated>
@@ -26,7 +28,8 @@
    <MODS:location>
       <MODS:physicalLocation authority="marcorg">NNC-A</MODS:physicalLocation>
       <MODS:physicalLocation>Avery Architectural &amp; Fine Arts Library, Columbia University</MODS:physicalLocation>
-      <MODS:shelfLocator>NYDA.1960.001.04632.</MODS:shelfLocator>
+      <!--ELEMENT  MODS:shelfLocator  trailing punctuation removed-->
+      <MODS:shelfLocator>NYDA.1960.001.04632</MODS:shelfLocator>
       <MODS:holdingSimple>
          <MODS:copyInformation>
             <MODS:subLocation>Drawings &amp; Archives</MODS:subLocation>

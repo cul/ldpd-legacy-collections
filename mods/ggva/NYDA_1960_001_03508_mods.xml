@@ -4,9 +4,11 @@
            xmlns:xlink="http://www.w3.org/1999/xlink"
            xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd"
            version="3.5">
+   <!--ELEMENT  MODS:identifier  trailing punctuation removed-->
    <MODS:identifier type="local">NYDA.1960.001.03508</MODS:identifier>
    <MODS:titleInfo>
-      <MODS:title>Foundation plan ; main floor plan ; detail of chimney footing for living rm. fireplace (dining rm. chimney footing same detail) ; detail drawings of piers and footings ; interior elevations -- north side in liv. rm., west side of liv. rm. and hall, north side of dining rm., east side of pantry and dining room, south side of bedrm. 1 : Sheet no. 1.</MODS:title>
+      <!--ELEMENT  MODS:title  SPACE-NORMALIZED-->
+      <MODS:title>Foundation plan; main floor plan; detail of chimney footing for living rm. fireplace (dining rm. chimney footing same detail); detail drawings of piers and footings; interior elevations -- north side in liv. rm, west side of liv. rm. and hall, north side of dining rm, east side of pantry and dining room, south side of bedrm. 1 : Sheet no. 1.</MODS:title>
    </MODS:titleInfo>
    <MODS:originInfo>
       <MODS:dateCreated>[1905]</MODS:dateCreated>
@@ -25,7 +27,8 @@
    <MODS:location>
       <MODS:physicalLocation authority="marcorg">NNC-A</MODS:physicalLocation>
       <MODS:physicalLocation>Avery Architectural &amp; Fine Arts Library, Columbia University</MODS:physicalLocation>
-      <MODS:shelfLocator>NYDA.1960.001.03508.</MODS:shelfLocator>
+      <!--ELEMENT  MODS:shelfLocator  trailing punctuation removed-->
+      <MODS:shelfLocator>NYDA.1960.001.03508</MODS:shelfLocator>
       <MODS:holdingSimple>
          <MODS:copyInformation>
             <MODS:subLocation>Drawings &amp; Archives</MODS:subLocation>

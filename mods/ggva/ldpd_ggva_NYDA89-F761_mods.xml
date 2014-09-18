@@ -4,16 +4,20 @@
            xmlns:xlink="http://www.w3.org/1999/xlink"
            xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd"
            version="3.5">
+   <!--ELEMENT  MODS:identifier  trailing punctuation removed-->
    <MODS:identifier type="local">ldpd.ggva.NYDA89-F761</MODS:identifier>
+   <!--ELEMENT  MODS:identifier  trailing punctuation removed-->
    <MODS:identifier type="CLIO">CLIO_3462518</MODS:identifier>
    <MODS:name type="personal">
-      <MODS:namePart>Greene, Henry Mather,</MODS:namePart>
+      <MODS:namePart>Greene, Henry Mather</MODS:namePart>
       <MODS:namePart type="date">1870-1954</MODS:namePart>
    </MODS:name>
    <MODS:titleInfo>
+      <!--ELEMENT  MODS:title  SPACE-NORMALIZED-->
       <MODS:title>Cordelia A. Culbertson house (Pasadena, Calif.).Alterations and furniture</MODS:title>
    </MODS:titleInfo>
    <MODS:titleInfo type="alternative">
+      <!--ELEMENT  MODS:title  SPACE-NORMALIZED-->
       <MODS:title>Chairs, kitchen sink, lantern, chaise longue, and front hall, residence for Mrs. F.F. Prentiss, Pasadena, California.</MODS:title>
    </MODS:titleInfo>
    <MODS:originInfo>
@@ -33,7 +37,8 @@
    <MODS:accessCondition type="useAndReproduction">Columbia Libraries Staff Use Only</MODS:accessCondition>
    <MODS:relatedItem displayLabel="Collection" type="host">
       <MODS:titleInfo>
-         <MODS:title>The Greene &amp; Greene collection of architectural drawings and photographs</MODS:title>
+         <!--ELEMENT  MODS:title  SPACE-NORMALIZED-->
+         <MODS:title>Greene &amp; Greene architectural drawings, papers and photographs</MODS:title>
       </MODS:titleInfo>
    </MODS:relatedItem>
    <MODS:subject authority="aat">
@@ -65,6 +70,7 @@
    </MODS:subject>
    <MODS:relatedItem displayLabel="Project" type="host">
       <MODS:titleInfo>
+         <!--ELEMENT  MODS:title  SPACE-NORMALIZED-->
          <MODS:title>Greene &amp; Greene Architectural Records and Papers Collection</MODS:title>
       </MODS:titleInfo>
       <MODS:location>

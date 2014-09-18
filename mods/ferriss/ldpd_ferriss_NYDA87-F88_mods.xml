@@ -4,16 +4,20 @@
            xmlns:xlink="http://www.w3.org/1999/xlink"
            xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd"
            version="3.5">
+   <!--ELEMENT  MODS:identifier  trailing punctuation removed-->
    <MODS:identifier type="local">ldpd.ferriss.NYDA87-F88</MODS:identifier>
+   <!--ELEMENT  MODS:identifier  trailing punctuation removed-->
    <MODS:identifier type="CLIO">CLIO_3460535</MODS:identifier>
    <MODS:name type="personal">
-      <MODS:namePart>Ferriss, Hugh,</MODS:namePart>
+      <MODS:namePart>Ferriss, Hugh</MODS:namePart>
       <MODS:namePart type="date">1889-1962</MODS:namePart>
    </MODS:name>
-   <MODS:titleInfo type="uniform">
+   <MODS:titleInfo>
+      <!--ELEMENT  MODS:title  SPACE-NORMALIZED-->
       <MODS:title>Ford Aircraft engine plant (Dearborn, Mich.)</MODS:title>
    </MODS:titleInfo>
-   <MODS:titleInfo>
+   <MODS:titleInfo type="alternative">
+      <!--ELEMENT  MODS:title  SPACE-NORMALIZED-->
       <MODS:title>Study for Ford Aircraft engine plant</MODS:title>
    </MODS:titleInfo>
    <MODS:originInfo>
@@ -31,7 +35,8 @@
    <MODS:accessCondition type="useAndReproduction">Columbia Libraries Staff Use Only</MODS:accessCondition>
    <MODS:relatedItem displayLabel="Collection" type="host">
       <MODS:titleInfo>
-         <MODS:title>The Hugh Ferriss collection</MODS:title>
+         <!--ELEMENT  MODS:title  SPACE-NORMALIZED-->
+         <MODS:title>Hugh Ferriss architectural drawings and papers</MODS:title>
       </MODS:titleInfo>
    </MODS:relatedItem>
    <MODS:subject authority="aat">
@@ -42,11 +47,12 @@
    </MODS:subject>
    <MODS:relatedItem displayLabel="Project" type="host">
       <MODS:titleInfo>
+         <!--ELEMENT  MODS:title  SPACE-NORMALIZED-->
          <MODS:title>Hugh Ferriss Architectural Drawings</MODS:title>
-         <MODS:location>
-            <url>http://library.columbia.edu/indiv/avery/da/collections/ferriss.html</url>
-         </MODS:location>
       </MODS:titleInfo>
+      <MODS:location>
+         <MODS:url>http://library.columbia.edu/indiv/avery/da/collections/ferriss.html</MODS:url>
+      </MODS:location>
    </MODS:relatedItem>
    <MODS:location>
       <MODS:physicalLocation authority="marcorg">NNC-A</MODS:physicalLocation>

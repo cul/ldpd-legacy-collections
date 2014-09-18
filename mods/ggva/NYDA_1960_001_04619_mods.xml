@@ -4,9 +4,11 @@
            xmlns:xlink="http://www.w3.org/1999/xlink"
            xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd"
            version="3.5">
+   <!--ELEMENT  MODS:identifier  trailing punctuation removed-->
    <MODS:identifier type="local">NYDA.1960.001.04619</MODS:identifier>
    <MODS:titleInfo>
-      <MODS:title>Kitchen and pantry details -- north side of pantry, west side of pantry, south side of pantry ; details of cases above counter shelf -- swinging doors, sliding doors ; sect'n thru cupb'ds below counter shelf, sect'n thru dr'w'rs, plan of corner ; west side of kitchen, south side of kitchen ; north side bathrm. #2, west side bathrm #2 ; details of dressers in closet off bath #2 and in bedroom #1 closet ; sect'n thru bin, plan, F.S.D. of hook and eye ; medicine case details : Sheet no. 29.</MODS:title>
+      <!--ELEMENT  MODS:title  SPACE-NORMALIZED-->
+      <MODS:title>Kitchen and pantry details -- north side of pantry, west side of pantry, south side of pantry; details of cases above counter shelf -- swinging doors, sliding doors; sect'n thru cupb'ds below counter shelf, sect'n thru dr'w'rs, plan of corner; west side of kitchen, south side of kitchen; north side bathrm. #2, west side bathrm #2; details of dressers in closet off bath #2 and in bedroom #1 closet; sect'n thru bin, plan, F.S.D. of hook and eye; medicine case details : Sheet no. 29.</MODS:title>
    </MODS:titleInfo>
    <MODS:originInfo>
       <MODS:dateCreated>[1915-19]16.</MODS:dateCreated>
@@ -27,7 +29,8 @@
    <MODS:location>
       <MODS:physicalLocation authority="marcorg">NNC-A</MODS:physicalLocation>
       <MODS:physicalLocation>Avery Architectural &amp; Fine Arts Library, Columbia University</MODS:physicalLocation>
-      <MODS:shelfLocator>NYDA.1960.001.04619.</MODS:shelfLocator>
+      <!--ELEMENT  MODS:shelfLocator  trailing punctuation removed-->
+      <MODS:shelfLocator>NYDA.1960.001.04619</MODS:shelfLocator>
       <MODS:holdingSimple>
          <MODS:copyInformation>
             <MODS:subLocation>Drawings &amp; Archives</MODS:subLocation>

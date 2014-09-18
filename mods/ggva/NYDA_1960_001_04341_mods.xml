@@ -4,9 +4,11 @@
            xmlns:xlink="http://www.w3.org/1999/xlink"
            xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd"
            version="3.5">
+   <!--ELEMENT  MODS:identifier  trailing punctuation removed-->
    <MODS:identifier type="local">NYDA.1960.001.04341</MODS:identifier>
    <MODS:titleInfo>
-      <MODS:title>Construction details -- section thru north wall of kitchen showing double hung windows in kitchen and section thru gable vents ; section thru main wall showing casement sash in cellar, casement sash on first floor, and casement sash on second floor ; exterior elev. of sash, interior elev. of sash ; details of shingle ridge in elevations and section ; detail of gutter ; sleeping p'ch detail ; half elev. and sect'n thru gable (see east elevation) ; detail of sash in dining r'm and butler's pantry ; screened openings and sect'n thru screen door and transom ; double hung windows in basement ; section thru main wall (taken at second fl. line : Sheet no. 9.</MODS:title>
+      <!--ELEMENT  MODS:title  SPACE-NORMALIZED-->
+      <MODS:title>Construction details -- section thru north wall of kitchen showing double hung windows in kitchen and section thru gable vents; section thru main wall showing casement sash in cellar, casement sash on first floor, and casement sash on second floor; exterior elev. of sash, interior elev. of sash; details of shingle ridge in elevations and section; detail of gutter; sleeping p'ch detail; half elev. and sect'n thru gable (see east elevation); detail of sash in dining r'm and butler's pantry; screened openings and sect'n thru screen door and transom; double hung windows in basement; section thru main wall (taken at second fl. line : Sheet no. 9.</MODS:title>
    </MODS:titleInfo>
    <MODS:originInfo>
       <MODS:dateCreated>[1913]</MODS:dateCreated>
@@ -26,7 +28,8 @@
    <MODS:location>
       <MODS:physicalLocation authority="marcorg">NNC-A</MODS:physicalLocation>
       <MODS:physicalLocation>Avery Architectural &amp; Fine Arts Library, Columbia University</MODS:physicalLocation>
-      <MODS:shelfLocator>NYDA.1960.001.04341.</MODS:shelfLocator>
+      <!--ELEMENT  MODS:shelfLocator  trailing punctuation removed-->
+      <MODS:shelfLocator>NYDA.1960.001.04341</MODS:shelfLocator>
       <MODS:holdingSimple>
          <MODS:copyInformation>
             <MODS:subLocation>Drawings &amp; Archives</MODS:subLocation>

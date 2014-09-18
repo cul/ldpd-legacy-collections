@@ -4,9 +4,11 @@
            xmlns:xlink="http://www.w3.org/1999/xlink"
            xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd"
            version="3.5">
+   <!--ELEMENT  MODS:identifier  trailing punctuation removed-->
    <MODS:identifier type="local">NYDA.1960.001.00389</MODS:identifier>
    <MODS:titleInfo>
-      <MODS:title>Interior details -- 1 1/2 inch scale detail of medicine case in bathr'm no. 1 in elevation, section and plan ; 1 1/2 inch scale details of medicine cases for bathr'ms on 2, 3 and 4 in. elevation, section and plan ; kitchen elevation - east, north, west ; pantry elevations - east, south, west, north, plan of top drawer shoing compartments : Sheet no. 54.</MODS:title>
+      <!--ELEMENT  MODS:title  SPACE-NORMALIZED-->
+      <MODS:title>Interior details -- 1 1/2 inch scale detail of medicine case in bathr'm no. 1 in elevation, section and plan; 1 1/2 inch scale details of medicine cases for bathr'ms on 2, 3 and 4 in. elevation, section and plan; kitchen elevation - east, north, west; pantry elevations - east, south, west, north, plan of top drawer shoing compartments : Sheet no. 54.</MODS:title>
    </MODS:titleInfo>
    <MODS:originInfo>
       <MODS:dateCreated>1906, [19]07, [19]09, 1947.</MODS:dateCreated>
@@ -26,7 +28,8 @@
    <MODS:location>
       <MODS:physicalLocation authority="marcorg">NNC-A</MODS:physicalLocation>
       <MODS:physicalLocation>Avery Architectural &amp; Fine Arts Library, Columbia University</MODS:physicalLocation>
-      <MODS:shelfLocator>NYDA.1960.001.00389.</MODS:shelfLocator>
+      <!--ELEMENT  MODS:shelfLocator  trailing punctuation removed-->
+      <MODS:shelfLocator>NYDA.1960.001.00389</MODS:shelfLocator>
       <MODS:holdingSimple>
          <MODS:copyInformation>
             <MODS:subLocation>Drawings &amp; Archives</MODS:subLocation>
