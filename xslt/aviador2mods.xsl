@@ -16,7 +16,7 @@
         </xd:desc>
     </xd:doc>
     <xsl:param name="resultPath">
-        <xsl:text>../../mods/</xsl:text>
+        <xsl:text>mods/</xsl:text>
     </xsl:param>
     <xsl:param name="collection_id">
         <xsl:choose>
@@ -105,7 +105,7 @@
                 </xsl:result-document>
                 <xsl:if test="count(//marc:datafield[@tag = '789']) > 1">
                     <xsl:result-document
-                        href="../../structMap/{$collection_id}/ldpd_{$collection_id}_{translate($item_id, '.', '_')}_structMap.xml">
+                        href="structMap/{$collection_id}/ldpd_{$collection_id}_{translate($item_id, '.', '_')}_structMap.xml">
                         <xsl:call-template name="structMap">
                             <xsl:with-param name="item_id" select="$item_id"/>
                         </xsl:call-template>
@@ -236,22 +236,20 @@
                 </MODS:note>
             </xsl:for-each>
             <MODS:accessCondition type="useAndReproduction">Columbia Libraries Staff Use Only</MODS:accessCondition>
-            <xsl:for-each select="//marc:datafield[@tag = '799'][@ind1='4'][@ind2='3']/marc:subfield[@code='a']">
-                <MODS:relatedItem displayLabel="Collection" type="host">
-                    <MODS:titleInfo>
-                        <MODS:title>
-                            <xsl:choose>
-                                <xsl:when test="ends-with(.,'.')">
-                                    <xsl:value-of select="substring(.,0,string-length(.))" />
-                                </xsl:when>
-                                <xsl:otherwise>
-                                    <xsl:value-of select="."/>
-                                </xsl:otherwise>
-                            </xsl:choose>
-                        </MODS:title>
-                    </MODS:titleInfo>
-                </MODS:relatedItem>
-            </xsl:for-each>
+            <MODS:relatedItem displayLabel="Collection" type="host">
+                <MODS:titleInfo>
+                    <MODS:title>
+                        <xsl:choose>
+                            <xsl:when test="$collection_id = 'ggva'">
+                                <xsl:text>Greene &amp; Greene architectural drawings, papers and photographs</xsl:text>
+                            </xsl:when>
+                            <xsl:otherwise>
+                                <xsl:text>Hugh Ferriss architectural drawings and papers</xsl:text>
+                            </xsl:otherwise>
+                        </xsl:choose>
+                    </MODS:title>
+                </MODS:titleInfo>
+            </MODS:relatedItem>
             <xsl:for-each select="//marc:datafield[@tag = '650']">
                 <MODS:subject>
                     <xsl:if test="@ind2='0'">
